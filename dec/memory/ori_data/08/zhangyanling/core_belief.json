@@ -1,0 +1,202 @@
+{
+    "node_24": {
+        "page_content": "我担心自己身体机能下降无法照顾好家人。",
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_23": {
+        "page_content": "我有时会感到孤独，因为子女不在身边。",
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_22": {
+        "page_content": "我在人际关系中是被需要的。",
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_21": {
+        "page_content": "我是坚韧的，能够应对生活的困难。",
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_20": {
+        "page_content": "我是有价值的，能为家庭做出贡献。",
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_19": {
+        "page_content": "我担心自己身体机能下降无法照顾好家人。",
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_18": {
+        "page_content": "我有时会感到孤独，因为子女不在身边。",
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_17": {
+        "page_content": "我在人际关系中是被需要的。",
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_16": {
+        "page_content": "我是坚韧的，能够应对生活的困难。",
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_15": {
+        "page_content": "我是有价值的，能为家庭做出贡献。",
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_14": {
+        "page_content": "我担心自己能力不足无法满足家庭和工作需求。",
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_13": {
+        "page_content": "有时会在人际关系中感到不被理解。",
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_12": {
+        "page_content": "我在人际关系中是被需要的。",
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_11": {
+        "page_content": "我是坚韧的，能够应对生活的困难。",
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_10": {
+        "page_content": "我是有价值的，能为家庭做出贡献。",
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_9": {
+        "page_content": "我担心自己劳动能力下降无法为集体做出贡献。",
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": "我有时会感到孤独，因为在竞争的集体环境中难以交到真心朋友。",
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": "我在人际关系中是被需要的。",
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": "我是坚韧的，能够应对劳动中的困难。",
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": "我是有价值的，能为集体做出贡献。",
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_4": {
+        "page_content": "我担心自己无法找到足够食物养活家人。",
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": "有时会因为物资匮乏感到孤独无助。",
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": "我在人际关系中是被需要的。",
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": "我是坚韧的，能够应对生活的困难。",
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": "我是有价值的，能为家人做出贡献。",
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

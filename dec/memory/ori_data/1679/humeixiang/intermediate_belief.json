@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我现在什么事情都做不好，没有存在的意义。",
+                "others": "别人都比我有能力，我是多余的。",
+                "world": "我在这个世界上是个负担。"
+            },
+            "rules": "我应该减少自己的活动，不引起别人的注意。",
+            "positive_assumption": "如果我不引起注意，就不会被别人讨厌。",
+            "negative_assumption": "如果我引起注意，会被别人嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我年纪大了，身体不好，对家人和社会都没有用了。",
+                "others": "家人和社会都不需要我这样的老人。",
+                "world": "这个世界是属于年轻人的，我已经跟不上时代了。"
+            },
+            "rules": "我应该尽量不给家人和社会添麻烦。",
+            "positive_assumption": "如果我不添麻烦，家人和社会就不会讨厌我。",
+            "negative_assumption": "如果我添麻烦，家人和社会会嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我的坚强让我能够承受生活的压力。",
+                "others": "他人可能会依赖别人，但我可以靠自己。",
+                "world": "靠自己的坚强可以在世界上立足。"
+            },
+            "rules": "我应该依靠自己解决问题，不依赖别人。",
+            "positive_assumption": "如果我依靠自己解决问题，会变得更坚强。",
+            "negative_assumption": "如果我依赖别人，会让自己变得软弱。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了那么多困难都挺过来了，我很坚强。",
+                "others": "别人可能会遇到困难就放弃，但我不会。",
+                "world": "世界上的困难都难不倒我。"
+            },
+            "rules": "遇到困难时，我应该勇敢面对，不轻易放弃。",
+            "positive_assumption": "如果我勇敢面对困难，就能克服它们。",
+            "negative_assumption": "如果我放弃，就会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我在社交中总是被孤立，无法融入群体。",
+                "others": "他人不愿意和我交流，我和他们有隔阂。",
+                "world": "社交场合对我来说是痛苦的。"
+            },
+            "rules": "我应该避免参加社交活动，减少被孤立的感觉。",
+            "positive_assumption": "如果我不参加社交活动，就不会感受到被孤立的痛苦。",
+            "negative_assumption": "如果我参加社交活动，一定会被孤立。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是一个人，没有人真正陪伴我。",
+                "others": "别人都有自己的生活，不会来陪伴我。",
+                "world": "这个世界很冷漠，我只能独自面对一切。"
+            },
+            "rules": "我不应该期待别人的陪伴，要习惯一个人。",
+            "positive_assumption": "如果我习惯一个人，就不会因为没人陪伴而难过。",
+            "negative_assumption": "如果我期待别人陪伴，只会让自己更失望。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我曾经经历过很多困难，这些经历让我变得有价值。",
+                "others": "他人应该尊重我的经历和价值。",
+                "world": "经历过风雨的人在世界上有独特的价值。"
+            },
+            "rules": "我应该向他人分享我的经历，让他们了解我的价值。",
+            "positive_assumption": "如果我分享经历，他人会更尊重我。",
+            "negative_assumption": "如果我不分享经历，他人就不会发现我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我有自己的价值和意义，我的爱好和经历都是宝贵的财富。",
+                "others": "虽然家人可能没发现，但其他人会认可我的价值。",
+                "world": "世界上总有欣赏我的人。"
+            },
+            "rules": "我应该坚持自己的爱好，展示自己的价值。",
+            "positive_assumption": "如果我坚持爱好，就可能遇到欣赏我的人。",
+            "negative_assumption": "如果我放弃爱好，就会失去展现自己价值的机会。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭中的地位很低，没有发言权。",
+                "others": "家人不会认真对待我说的话。",
+                "world": "家庭不是一个温暖的避风港。"
+            },
+            "rules": "我应该保持沉默，不参与家庭讨论。",
+            "positive_assumption": "如果我保持沉默，就不会引起家人的反感。",
+            "negative_assumption": "如果我参与家庭讨论，会被家人嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是被家人忽略，我的感受和需求对他们来说不重要。",
+                "others": "家人只关心自己，不会真正在意我的想法。",
+                "world": "在家庭这个小世界里，我没有存在感。"
+            },
+            "rules": "我不应该向家人表达我的需求，以免被拒绝。",
+            "positive_assumption": "如果我不向家人表达需求，就不会感受到被拒绝的痛苦。",
+            "negative_assumption": "如果我向家人表达需求，一定会被他们忽视。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我在很多事情上都力不从心，没有存在的价值。",
+                "others": "别人都比我有能力，我是多余的。",
+                "world": "我在这个世界上是个累赘。"
+            },
+            "rules": "我应该减少自己的活动，不引起别人的注意。",
+            "positive_assumption": "如果我不引起注意，就不会被别人讨厌。",
+            "negative_assumption": "如果我引起注意，会被别人嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我现在身体不好，不能像以前一样工作，对家庭和社会没什么用了。",
+                "others": "家人和社会可能觉得我是个负担。",
+                "world": "这个世界更需要有能力的年轻人。"
+            },
+            "rules": "我应该尽量少给家人和社会添麻烦。",
+            "positive_assumption": "如果我不添麻烦，家人和社会就不会嫌弃我。",
+            "negative_assumption": "如果我添麻烦，家人和社会会讨厌我。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我的坚强让我能够承受生活的压力，照顾好家庭。",
+                "others": "他人可能会依赖别人，但我可以靠自己撑起一片天。",
+                "world": "靠自己的坚强可以在生活中立足。"
+            },
+            "rules": "我应该独自承担生活的责任，不依赖别人。",
+            "positive_assumption": "如果我独自承担，会变得更坚强。",
+            "negative_assumption": "如果我依赖别人，会让自己变得软弱。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了流产、丧夫等挫折都挺过来了，我很坚强。",
+                "others": "别人可能遇到这些就垮了，但我不会。",
+                "world": "世界上的挫折难不倒我。"
+            },
+            "rules": "遇到困难时，我要咬牙坚持，不轻易放弃。",
+            "positive_assumption": "如果我坚持，就能度过难关。",
+            "negative_assumption": "如果我放弃，就会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我在社交场合中很难融入，总是被边缘化。",
+                "others": "他人不愿意和我深入交流，我和他们有距离。",
+                "world": "社交对我来说是一种负担。"
+            },
+            "rules": "我应该减少参加社交活动，避免被孤立。",
+            "positive_assumption": "如果我不参加，就不会感受到被孤立的痛苦。",
+            "negative_assumption": "如果我参加，一定会被孤立。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是独自面对生活中的难题，没人能真正帮我。",
+                "others": "别人都有自己的生活，不会来帮我分担。",
+                "world": "这个世界很现实，我只能靠自己。"
+            },
+            "rules": "我不要期待别人的帮助，要学会自己解决问题。",
+            "positive_assumption": "如果我自己解决问题，就不会因为没人帮忙而失望。",
+            "negative_assumption": "如果我期待别人帮助，只会让自己更伤心。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我在工作和生活中克服了很多困难，这证明我有价值。",
+                "others": "同事和朋友应该尊重我的能力和价值。",
+                "world": "有能力克服困难的人在社会上有价值。"
+            },
+            "rules": "我应该在社交中展示自己的能力，让别人了解我的价值。",
+            "positive_assumption": "如果我展示能力，别人会更尊重我。",
+            "negative_assumption": "如果我不展示，别人就不会发现我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我操持家庭、照顾丈夫和孩子，这些都是我的价值体现。",
+                "others": "虽然家人没说，但邻居和朋友能看到我的付出。",
+                "world": "认真生活的人都有自己的价值。"
+            },
+            "rules": "我应该继续做好家庭中的事情，展现自己的价值。",
+            "positive_assumption": "如果我继续做好这些，会得到更多人的认可。",
+            "negative_assumption": "如果我不做了，就会被认为没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭决策中没有影响力，我的意见不重要。",
+                "others": "家人做决定时不会考虑我的想法。",
+                "world": "家庭中我的地位无足轻重。"
+            },
+            "rules": "我不要参与家庭重大决策，避免被否定。",
+            "positive_assumption": "如果我不参与，就不会被家人拒绝。",
+            "negative_assumption": "如果我参与，一定会被家人否定。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我为家庭付出很多，但家人还是看不到我的需求。",
+                "others": "家人只关注自己的事情，不会在意我的感受。",
+                "world": "在家庭里，我很难得到应有的关心。"
+            },
+            "rules": "我不要在家人面前抱怨自己的辛苦，以免被厌烦。",
+            "positive_assumption": "如果我不抱怨，家人就不会觉得我麻烦。",
+            "negative_assumption": "如果我抱怨，家人会更加忽视我。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我因为流产身体虚弱，工作效率下降，我对工作没有贡献了。",
+                "others": "工友们可能会因为我的工作效率低而对我有意见。",
+                "world": "在工作中，不能高效完成任务的人是没有用的。"
+            },
+            "rules": "我应该尽量不耽误工作进度，不给工友们添麻烦。",
+            "positive_assumption": "如果我不耽误进度，工友们就不会讨厌我。",
+            "negative_assumption": "如果我耽误进度，会被工友们嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我连续流产三次，没能给家庭带来健康的孩子，我很没用。",
+                "others": "家人可能因为我流产而对我失望。",
+                "world": "在家庭中，不能生育健康孩子的女人是没有价值的。"
+            },
+            "rules": "我应该更加努力地调理身体，争取早日再生孩子。",
+            "positive_assumption": "如果我努力调理身体，可能会生出健康的孩子，得到家人的认可。",
+            "negative_assumption": "如果我不努力，会一直被家人嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我在纺织厂工作时，遇到困难也能自己解决，我有独立解决问题的能力。",
+                "others": "工友们遇到问题可能会依赖别人，但我可以靠自己。",
+                "world": "靠自己的能力可以在工作中立足。"
+            },
+            "rules": "我应该自己尝试解决工作中的问题，不轻易寻求帮助。",
+            "positive_assumption": "如果我自己解决问题，会提高自己的能力。",
+            "negative_assumption": "如果我依赖别人，会变得越来越无能。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了三次流产的打击，还能坚强地挺过来，我很坚强。",
+                "others": "别人可能遇到这样的事就会崩溃，但我没有。",
+                "world": "生活中的困难并不能打倒我。"
+            },
+            "rules": "我应该积极面对流产后的身体恢复，不消极对待。",
+            "positive_assumption": "如果我积极恢复，身体会更快好起来。",
+            "negative_assumption": "如果我消极对待，身体会越来越差。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我因为流产身体虚弱，无法像以前一样和工友们一起玩耍，我被孤立了。",
+                "others": "工友们有自己的生活，不会一直陪着我。",
+                "world": "在生病或遇到困难时，人很容易变得孤独。"
+            },
+            "rules": "我应该习惯一个人，不依赖别人的陪伴。",
+            "positive_assumption": "如果我习惯一个人，就不会因为没人陪伴而难过。",
+            "negative_assumption": "如果我依赖别人陪伴，别人离开时我会更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我连续流产三次，内心的痛苦无人诉说，我是孤独的。",
+                "others": "家人和工友都无法真正理解我流产的痛苦。",
+                "world": "在面对生育问题时，女人只能独自承受痛苦。"
+            },
+            "rules": "我应该把痛苦藏在心里，不向别人倾诉。",
+            "positive_assumption": "如果我不倾诉，就不会被别人同情或嘲笑。",
+            "negative_assumption": "如果我倾诉，别人也无法理解我，还可能会厌烦我。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我成功诞下长子，为家庭延续了香火，我对家庭是有贡献的。",
+                "others": "家人因为孩子的出生对我态度变好，说明我的价值得到了体现。",
+                "world": "在家庭中，生育孩子是女人重要的价值体现。"
+            },
+            "rules": "我应该好好照顾孩子，让他健康成长。",
+            "positive_assumption": "如果我照顾好孩子，家人会更重视我。",
+            "negative_assumption": "如果我照顾不好孩子，会被家人指责。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我在纺织厂工作，能熟练完成任务，我的工作能力是有价值的。",
+                "others": "工友们认可我的工作表现，说明我的价值得到了一定的体现。",
+                "world": "在工作中，有能力的人会被看到和尊重。"
+            },
+            "rules": "我应该努力工作，提高自己的业务水平。",
+            "positive_assumption": "如果我努力工作，会得到更多的认可和奖励。",
+            "negative_assumption": "如果我工作懈怠，会失去自己的价值。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭中的意见和想法总是被家人否定，我没有被重视。",
+                "others": "家人认为我见识短浅，不会认真考虑我的建议。",
+                "world": "在家庭决策中，我的声音是微不足道的。"
+            },
+            "rules": "我应该听从家人的安排，不发表自己的意见。",
+            "positive_assumption": "如果我听从安排，家人会觉得我懂事。",
+            "negative_assumption": "如果我发表意见，会被家人批评。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我连续流产三次，家人只关心孩子，我的痛苦和感受被他们忽视了。",
+                "others": "家人觉得生孩子是我的责任，不会在意我为此承受的压力。",
+                "world": "在家庭里，女人的生育价值高于一切，我的其他需求不重要。"
+            },
+            "rules": "我不应该向家人抱怨流产的痛苦，以免他们厌烦。",
+            "positive_assumption": "如果我不抱怨，家人就不会觉得我麻烦。",
+            "negative_assumption": "如果我抱怨，家人会更忽视我。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我现在学东西很慢，什么都做不好，没什么存在的意义。",
+                "others": "别人都比我学得快，我是多余的。",
+                "world": "我在这个学习的环境里是个负担。"
+            },
+            "rules": "我要少在大家面前表现，不引起别人注意。",
+            "positive_assumption": "如果我不引起注意，就不会被别人讨厌。",
+            "negative_assumption": "如果我引起注意，会被别人嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我只是个童养媳，没什么文化，对家庭没什么用。",
+                "others": "家人觉得我没什么价值，不需要我做什么。",
+                "world": "这个世界更需要有本事的人，我很没用。"
+            },
+            "rules": "我尽量不给家人添麻烦。",
+            "positive_assumption": "如果我不添麻烦，家人就不会讨厌我。",
+            "negative_assumption": "如果我添麻烦，家人会嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我的坚强让我能够承受学习的压力。",
+                "others": "他人可能会依赖别人教，但我可以自己努力。",
+                "world": "靠自己的坚强可以在学习的道路上前进。"
+            },
+            "rules": "我要靠自己解决学习问题，不依赖别人。",
+            "positive_assumption": "如果我靠自己解决问题，会变得更有能力。",
+            "negative_assumption": "如果我依赖别人，会让自己变得软弱。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我克服了学习写字的困难，说明我很坚强。",
+                "others": "别人可能学不会就放弃了，但我不会。",
+                "world": "学习上的困难都难不倒我。"
+            },
+            "rules": "遇到学习困难时，我要勇敢面对，不轻易放弃。",
+            "positive_assumption": "如果我勇敢面对困难，就能学会更多知识。",
+            "negative_assumption": "如果我放弃，就会一直是个没文化的人。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我在扫盲班很难融入大家，总是被孤立。",
+                "others": "同学们不愿意和我交流，我和他们有距离。",
+                "world": "扫盲班的集体生活对我来说是痛苦的。"
+            },
+            "rules": "我应该少参加集体活动，减少被孤立的感觉。",
+            "positive_assumption": "如果我不参加集体活动，就不会感受到被孤立的难受。",
+            "negative_assumption": "如果我参加集体活动，一定会被孤立。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是一个人，没有真正的朋友陪我。",
+                "others": "别人都有自己的圈子，不会和我一起玩。",
+                "world": "这个世界很孤单，我只能自己面对一切。"
+            },
+            "rules": "我不要期待有人陪我，要习惯一个人。",
+            "positive_assumption": "如果我习惯一个人，就不会因为没人陪而伤心。",
+            "negative_assumption": "如果我期待有人陪，只会让自己更失望。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我克服困难学会写字，这段经历让我有价值。",
+                "others": "他人应该尊重我学习的成果。",
+                "world": "努力学习的人在知识的世界里有自己的价值。"
+            },
+            "rules": "我要把自己学会写字的事分享给同学，让他们知道我的价值。",
+            "positive_assumption": "如果我分享这件事，同学会更尊重我。",
+            "negative_assumption": "如果我不分享，同学就不会发现我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我学会写自己名字，这说明我是有能力、有价值的。",
+                "others": "虽然家人没看到我的价值，但扫盲班的同学可能会认可我。",
+                "world": "在学习这件事上，我也能有自己的闪光点。"
+            },
+            "rules": "我要在扫盲班努力学习，展现自己的价值。",
+            "positive_assumption": "如果我努力学习，就可能得到同学和老师的认可。",
+            "negative_assumption": "如果我不努力学习，就会被别人看不起。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭中没有说话的份，说了也没人听。",
+                "others": "家人不会认真听我讲话。",
+                "world": "家庭不是能让我表达自己的地方。"
+            },
+            "rules": "我应该在家庭里少说话。",
+            "positive_assumption": "如果我少说话，就不会让家人觉得我烦。",
+            "negative_assumption": "如果我多说话，会被家人嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭里的想法和感受总是被家人无视，我不重要。",
+                "others": "家人只关注自己的事情，不会在意我的需求。",
+                "world": "在家庭这个圈子里，我没有自己的位置。"
+            },
+            "rules": "我不要向家人说自己的想法，免得被冷落。",
+            "positive_assumption": "要是我不跟家人说想法，就不会体会到被忽视的难受。",
+            "negative_assumption": "要是我跟家人说想法，肯定会被他们忽略。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我什么都做不好，在这个家里没有存在的意义。",
+                "others": "养父母和别人都比我有能力，我是多余的。",
+                "world": "我在这个世界上是个负担。"
+            },
+            "rules": "我应该安静地待着，不引起别人的注意。",
+            "positive_assumption": "如果我不引起注意，就不会被别人讨厌。",
+            "negative_assumption": "如果我引起注意，会被别人嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我只是个童养媳，对养父母来说没有用。",
+                "others": "养父母觉得我是个累赘，不需要我。",
+                "world": "这个世界不需要我这样的童养媳。"
+            },
+            "rules": "我应该多干活，尽量不给养父母添麻烦。",
+            "positive_assumption": "如果我多干活，养父母就不会讨厌我。",
+            "negative_assumption": "如果我添麻烦，养父母会更嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我的坚强让我在艰难的环境中生存下来。",
+                "others": "别人可能会依赖家人，但我可以靠自己。",
+                "world": "靠自己的坚强可以在这个艰难的世界活下去。"
+            },
+            "rules": "我应该依靠自己解决生活中的困难，不依赖别人。",
+            "positive_assumption": "如果我依靠自己解决困难，会变得更坚强。",
+            "negative_assumption": "如果我依赖别人，会让自己变得软弱。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我能忍受养父母的打骂和饥荒的痛苦，我很坚强。",
+                "others": "别的孩子可能受不了这些，但我可以。",
+                "world": "世界上的苦难都难不倒我。"
+            },
+            "rules": "遇到打骂和饥饿时，我应该坚强面对，不哭泣。",
+            "positive_assumption": "如果我坚强面对，就能挺过去。",
+            "negative_assumption": "如果我哭泣，会被养父母打得更狠。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我在村里和玩伴也不能完全融入，还是会被孤立。",
+                "others": "玩伴们有自己的圈子，我很难进去。",
+                "world": "社交对我来说很难，我总是被排除在外。"
+            },
+            "rules": "我应该减少和玩伴的交往，避免被孤立的感觉。",
+            "positive_assumption": "如果我不怎么和玩伴交往，就不会感受到被孤立的痛苦。",
+            "negative_assumption": "如果我和玩伴交往，一定会被孤立。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是一个人面对养父母的打骂，没人帮我。",
+                "others": "别人都有温暖的家，不会来关心我。",
+                "world": "这个世界很残酷，我只能独自承受痛苦。"
+            },
+            "rules": "我不应该期待别人的帮助，要自己扛过去。",
+            "positive_assumption": "如果我自己扛过去，就不会因为没人帮而更伤心。",
+            "negative_assumption": "如果我期待别人帮助，只会让自己更失望。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我能在饥荒时找到吃的，这说明我有生存的价值。",
+                "others": "其他人可能做不到像我这样，我有独特的能力。",
+                "world": "在艰难的世界里，我的能力能让我活下去。"
+            },
+            "rules": "我应该依靠自己的能力去寻找食物，证明自己的价值。",
+            "positive_assumption": "如果我依靠自己找食物，就能活下去并证明自己。",
+            "negative_assumption": "如果我不依靠自己，就会饿死，没人会救我。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我会放鸭、会和玩伴交流，这些都是我的本事，我有自己的价值。",
+                "others": "虽然养父母不重视我，但玩伴们认可我的一些能力。",
+                "world": "世界上总会有人看到我的价值。"
+            },
+            "rules": "我应该在玩伴面前展示我的本事，让他们知道我的价值。",
+            "positive_assumption": "如果我展示本事，玩伴会更喜欢我。",
+            "negative_assumption": "如果我不展示本事，玩伴就不会发现我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭中没有地位，说什么都是错的。",
+                "others": "养父母不会听我说话，我说了也是白说。",
+                "world": "家庭对我来说是冷漠的地方。"
+            },
+            "rules": "我应该保持沉默，不引起养父母的注意。",
+            "positive_assumption": "如果我保持沉默，就不会被养父母讨厌。",
+            "negative_assumption": "如果我引起养父母的注意，会被他们嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我在这个家里是多余的，我的想法和感受没人在意。",
+                "others": "养父母只关心自己，不会管我的死活。",
+                "world": "在这个家庭世界里，我没有立足之地。"
+            },
+            "rules": "我不应该向养父母表达我的需求，以免招来打骂。",
+            "positive_assumption": "如果我不向养父母表达需求，就不会被打骂。",
+            "negative_assumption": "如果我向养父母表达需求，一定会被他们打骂。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我对后辈的成长有重要影响。",
+                "others": "后辈应该尊重我的教导。",
+                "world": "长辈的经验对晚辈很重要。"
+            },
+            "rules": "我要关心后辈的成长，给予他们正确的引导。",
+            "positive_assumption": "如果我引导得当，后辈会有更好的发展。",
+            "negative_assumption": "如果我不引导，后辈可能会走弯路。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须把耕作口诀传给长孙。",
+                "others": "长孙应该认真学习。",
+                "world": "家族的知识和文化需要传承。"
+            },
+            "rules": "我要定期教导长孙学习耕作口诀。",
+            "positive_assumption": "如果我认真教导，长孙能学会并传承下去。",
+            "negative_assumption": "如果我不教导，家族的口诀就会失传。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任传承传统价值观。",
+                "others": "我可以影响身边的人重视传统。",
+                "world": "传承传统能让社会更有凝聚力。"
+            },
+            "rules": "我要给孙辈讲生产队时期的故事和传统耕作知识。",
+            "positive_assumption": "如果我传承传统，能让后辈了解家族历史。",
+            "negative_assumption": "如果我不传承，传统就会消失。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我坚持传统生活方式是对的。",
+                "others": "年轻一代应该尊重传统。",
+                "world": "传统是文化的根基，不能丢弃。"
+            },
+            "rules": "我要继续用秸秆编粮仓，不用化肥农药。",
+            "positive_assumption": "如果我坚持传统，能保留文化特色。",
+            "negative_assumption": "如果我放弃传统，就会失去自己的根。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该主动和外界保持联系。",
+                "others": "别人可能愿意和我交流。",
+                "world": "通过交流可以缓解孤独。"
+            },
+            "rules": "我要多和子女、邻居聊天。",
+            "positive_assumption": "如果我主动交流，能增加彼此的了解和感情。",
+            "negative_assumption": "如果我不主动，会越来越孤单。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我现在社交圈子小，有些孤单。",
+                "others": "子女和邻居可能没有太多时间陪我。",
+                "world": "老年人容易被社会忽视。"
+            },
+            "rules": "我不能过于依赖别人的陪伴。",
+            "positive_assumption": "如果我学会独立，就不会那么孤单。",
+            "negative_assumption": "如果我依赖别人，会让别人觉得我麻烦。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的毅力完成自己想做的事。",
+                "others": "我的坚韧可以激励身边的人。",
+                "world": "坚韧的人更容易实现目标。"
+            },
+            "rules": "我要坚持完成培育紫茄子和传承耕作口诀的目标。",
+            "positive_assumption": "如果我坚持下去，一定能实现目标。",
+            "negative_assumption": "如果我放弃，就永远无法成功。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过那么多困难都过来了，现在这点小问题不算什么。",
+                "others": "别人遇到困难也应该像我一样坚强。",
+                "world": "生活就是充满挑战，只有坚韧才能度过。"
+            },
+            "rules": "我不能在困难面前低头，要勇敢面对。",
+            "positive_assumption": "如果我勇敢面对困难，我会变得更强大。",
+            "negative_assumption": "如果我逃避困难，我会变得软弱。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力在家庭和村里发挥作用。",
+                "others": "家人和村民会需要我的建议。",
+                "world": "有贡献的人在社区中会有地位。"
+            },
+            "rules": "当家人和村民遇到问题时，我应该主动提供帮助。",
+            "positive_assumption": "如果我主动帮忙，会增进彼此的感情。",
+            "negative_assumption": "如果我不帮忙，他们会觉得我冷漠。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我一生的付出是有意义的，我的经验和智慧是宝贵的。",
+                "others": "家人和村民应该尊重我的贡献。",
+                "world": "为家庭和集体付出的人会被铭记。"
+            },
+            "rules": "我应该继续用自己的经验帮助家人和村民。",
+            "positive_assumption": "如果我继续帮助他人，我的价值会得到更多认可。",
+            "negative_assumption": "如果我不再帮助他人，我会被遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我对子女的成长有重要影响，我要引导他们走正确的路。",
+                "others": "子女应该尊重我的教导。",
+                "world": "长辈的经验对晚辈很重要。"
+            },
+            "rules": "我要关心子女的成长，给予他们正确的引导。",
+            "positive_assumption": "如果我引导得当，子女会有更好的发展。",
+            "negative_assumption": "如果我不引导，子女可能会走弯路。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须把耕作口诀传给子女，这是家族的财富。",
+                "others": "子女应该认真学习耕作口诀。",
+                "world": "家族的知识和文化需要传承。"
+            },
+            "rules": "我要定期教导子女学习耕作口诀。",
+            "positive_assumption": "如果我认真教导，子女能学会并传承下去。",
+            "negative_assumption": "如果我不教导，家族的口诀就会失传。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我用秸秆编囤粮仓，这是我们的传统技艺，我有责任传承。",
+                "others": "我可以教子女和村民这项技艺。",
+                "world": "传承传统技艺能让文化延续。"
+            },
+            "rules": "我要找机会教子女和村民编囤粮仓。",
+            "positive_assumption": "如果我传承技艺，能让更多人了解我们的传统。",
+            "negative_assumption": "如果我不传承，这项技艺可能会消失。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我坚持传统耕作方式，不用化肥农药是对的。",
+                "others": "年轻一代应该尊重我的选择，学习传统耕作。",
+                "world": "传统耕作是我们的根基，不能丢弃。"
+            },
+            "rules": "我要继续用传统方式耕种土地。",
+            "positive_assumption": "如果我坚持传统，能保留土地的肥力和农作物的品质。",
+            "negative_assumption": "如果我放弃传统，土地会受到破坏，传统耕作会失传。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该偶尔和村民交流，缓解孤独感。",
+                "others": "村民可能愿意和我聊聊天。",
+                "world": "适当的社交可以缓解孤独。"
+            },
+            "rules": "我要找时间和村民交流。",
+            "positive_assumption": "如果我主动交流，能增进和村民的感情，减少孤独。",
+            "negative_assumption": "如果我不主动，会越来越孤独。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我把大部分时间都花在子女身上，和村民的交流变少了，有些孤单。",
+                "others": "村民可能觉得我只关心自己的家庭，不太愿意和我交流。",
+                "world": "专注家庭的人容易和外界脱节。"
+            },
+            "rules": "我不能因为孤独而忽视子女的教育。",
+            "positive_assumption": "如果我专注子女教育，他们会有好的发展，孤独是暂时的。",
+            "negative_assumption": "如果我因为孤独而分心，子女的学业会受到影响。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我右手受伤、卖血供学都挺过来了，现在这点困难不算什么。",
+                "others": "我的坚韧可以给子女树立榜样。",
+                "world": "坚韧的人更容易成功。"
+            },
+            "rules": "我要鼓励子女在面对困难时坚强。",
+            "positive_assumption": "如果我鼓励子女坚强，他们会变得更有毅力。",
+            "negative_assumption": "如果我不鼓励，子女可能会在困难面前退缩。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "连续十年徒步送孩子上学，再苦再累我都能坚持，我很坚韧。",
+                "others": "别人遇到困难也应该像我一样坚持。",
+                "world": "生活就是充满困难，只有坚韧才能克服。"
+            },
+            "rules": "我不能因为困难而放弃送孩子上学的责任。",
+            "positive_assumption": "如果我坚持下去，孩子会有好的前途，我也会更坚强。",
+            "negative_assumption": "如果我放弃，孩子的未来会受到影响，我会变得软弱。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我义务检修农具，为集体做出了贡献，我是有能力的。",
+                "others": "村民应该认可我的付出，在我需要时给予帮助。",
+                "world": "为集体付出的人会在集体中有一定的地位。"
+            },
+            "rules": "我应该继续义务检修农具，维护集体的正常生产。",
+            "positive_assumption": "如果我继续帮助集体，会得到更多人的尊重和认可。",
+            "negative_assumption": "如果我不再帮忙，会被村民认为是自私的人。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我每天徒步送孩子上学、卖血供学，这些付出是有价值的。",
+                "others": "子女应该理解我的付出，努力学习。",
+                "world": "为家庭付出的人会得到家人的尊重。"
+            },
+            "rules": "我应该坚持每天送孩子上学，为他们的学业提供支持。",
+            "positive_assumption": "如果我坚持付出，子女会有好的未来，我的价值会得到体现。",
+            "negative_assumption": "如果我停止付出，子女可能无法完成学业，我会成为家庭的罪人。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我对集体和家庭的发展有重要作用。",
+                "others": "我的行为会影响家人和队员。",
+                "world": "有责任感的人能推动集体和家庭进步。"
+            },
+            "rules": "我要以身作则，为家人和队员树立榜样。",
+            "positive_assumption": "如果我树立好榜样，能激励大家一起努力。",
+            "negative_assumption": "如果我没做好，会让大家失望。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须为集体和家庭负责。",
+                "others": "家人和生产队员会支持我的工作。",
+                "world": "每个人都对集体和家庭有责任。"
+            },
+            "rules": "我要努力工作，为集体和家庭创造更好的条件。",
+            "positive_assumption": "如果我努力工作，能让集体和家庭发展得更好。",
+            "negative_assumption": "如果我不负责，会让集体和家庭受损。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任维护传统的价值观。",
+                "others": "我们应该影响身边的人重视传统。",
+                "world": "传统价值观能让社会更和谐。"
+            },
+            "rules": "我要在生活中践行传统价值观。",
+            "positive_assumption": "如果我践行得好，能带动身边人。",
+            "negative_assumption": "如果我不践行，传统价值观会被忽视。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我坚持传统的生活方式是正确的。",
+                "others": "老一辈的传统值得我们学习。",
+                "world": "传统是我们生活的根基。"
+            },
+            "rules": "我要传承用秸秆编囤粮仓等传统技艺。",
+            "positive_assumption": "如果我传承好传统技艺，能保留家乡特色。",
+            "negative_assumption": "如果我不传承，传统技艺会失传。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我要平衡好社交中的情感和责任。",
+                "others": "大家都有自己的责任和情感需求。",
+                "world": "合理的社交关系有利于集体发展。"
+            },
+            "rules": "我在社交中既要尽到责任，也要照顾他人感受。",
+            "positive_assumption": "如果我平衡得好，能营造良好的集体氛围。",
+            "negative_assumption": "如果我处理不好，会引发矛盾。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我在社交中有自己的角色。",
+                "others": "生产队员们各有特点，我可以和他们合作。",
+                "world": "社交能促进集体的团结。"
+            },
+            "rules": "我应该积极参与集体活动，和队员们交流。",
+            "positive_assumption": "如果我积极交流，能增进和队员的感情。",
+            "negative_assumption": "如果我不参与，会被大家疏远。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的毅力面对工作中的挑战。",
+                "others": "我的坚韧可以带动身边的人。",
+                "world": "坚韧的人更容易取得成功。"
+            },
+            "rules": "我要勇敢地解决工作中的问题。",
+            "positive_assumption": "如果我勇敢解决问题，能提升自己的能力。",
+            "negative_assumption": "如果我逃避问题，会一直无法进步。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我能承受工作中的困难和伤痛。",
+                "others": "大家在困难面前都应该坚强。",
+                "world": "只有坚韧才能克服困难。"
+            },
+            "rules": "我不能因为困难和伤痛而放弃工作。",
+            "positive_assumption": "如果我坚持工作，会变得更坚强。",
+            "negative_assumption": "如果我放弃，会被认为是软弱的。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我的工作对集体很重要。",
+                "others": "集体需要我这样负责任的人。",
+                "world": "集体的发展离不开每个人的努力。"
+            },
+            "rules": "我要尽力保护集体的财产和资料。",
+            "positive_assumption": "如果我保护好集体财产和资料，能保障集体正常运转。",
+            "negative_assumption": "如果我没保护好，会影响集体的利益。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力在集体中发挥重要作用。",
+                "others": "生产队员会认可我的付出。",
+                "world": "为集体付出的人会得到尊重。"
+            },
+            "rules": "我应该积极完成生产队的各项任务。",
+            "positive_assumption": "如果我积极完成任务，会得到大家的赞扬。",
+            "negative_assumption": "如果我不认真完成任务，会被大家批评。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我对后辈的成长有潜在的影响。",
+                "others": "未来的后辈应该尊重传统知识。",
+                "world": "长辈的经验对晚辈很重要。"
+            },
+            "rules": "我要珍惜学习传统知识的机会，为后辈树立榜样。",
+            "positive_assumption": "如果我树立好榜样，后辈会更愿意学习传统。",
+            "negative_assumption": "如果我不重视，后辈可能更不重视传统。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我要把学到的耕作知识传给未来的后辈。",
+                "others": "后辈应该学习这些传统知识。",
+                "world": "家族的知识和文化需要传承下去。"
+            },
+            "rules": "我要认真学习耕作知识，为传承做准备。",
+            "positive_assumption": "如果我认真学习，以后能更好地传给后辈。",
+            "negative_assumption": "如果我不学习，家族的耕作知识可能会中断。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任传承村里的传统价值观。",
+                "others": "我可以影响身边的人重视传统。",
+                "world": "传承传统能让我们的村落更有凝聚力。"
+            },
+            "rules": "我要向身边的人宣传传统的好处。",
+            "positive_assumption": "如果我宣传传统，能让更多人了解和传承。",
+            "negative_assumption": "如果我不宣传，传统会慢慢被大家遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我生活在传统的窑洞村落，坚持传统生活方式是对的。",
+                "others": "长辈们的传统做法值得我学习。",
+                "world": "传统是我们生活的根基，不能丢弃。"
+            },
+            "rules": "我要学习用秸秆编囤粮仓等传统技能。",
+            "positive_assumption": "如果我学会传统技能，能保留文化特色。",
+            "negative_assumption": "如果我不学习，传统技能可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该主动和生产队的人交流。",
+                "others": "他们可能愿意和我成为朋友。",
+                "world": "通过交流可以缓解孤独。"
+            },
+            "rules": "我要多和生产队的人聊天。",
+            "positive_assumption": "如果我主动交流，能交到新朋友。",
+            "negative_assumption": "如果我不主动，会越来越孤单。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我辍学后和同学联系少了，有些孤单。",
+                "others": "同学们可能会渐渐忘记我。",
+                "world": "生活的变化会让人失去一些朋友。"
+            },
+            "rules": "我不能过于依赖以前同学的陪伴。",
+            "positive_assumption": "如果我学会独立，能更好地适应现在的生活。",
+            "negative_assumption": "如果我依赖同学，会让自己更失落。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的毅力完成生产队的工作和家庭的事务。",
+                "others": "我的坚韧可以给身边的人带来榜样。",
+                "world": "坚韧的人更容易在集体中立足。"
+            },
+            "rules": "我要坚持完成每天的农活和记分工作。",
+            "positive_assumption": "如果我坚持下去，能得到大家的认可。",
+            "negative_assumption": "如果我放弃，会被大家看不起。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我十四岁辍学就能承担生活压力，没什么困难能打倒我。",
+                "others": "别人遇到困难也应该像我一样坚强面对。",
+                "world": "生活充满困难，只有坚韧才能生存。"
+            },
+            "rules": "我不能在困难面前退缩，要勇敢克服。",
+            "positive_assumption": "如果我勇敢面对困难，会变得更有能力。",
+            "negative_assumption": "如果我逃避困难，会变得懦弱无能。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力在家庭和生产队中发挥作用。",
+                "others": "大家会需要我做一些力所能及的事。",
+                "world": "有贡献的人在集体中不可或缺。"
+            },
+            "rules": "当家人和生产队有需求时，我要主动帮忙。",
+            "positive_assumption": "如果我主动帮忙，能增进和大家的感情。",
+            "negative_assumption": "如果我不帮忙，会被大家疏远。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我辍学务农能为家庭分担经济压力，是有价值的。",
+                "others": "家人和生产队的人会认可我的付出。",
+                "world": "为家庭和集体做事的人会得到尊重。"
+            },
+            "rules": "我要认真做好生产队记分员的工作，多干农活。",
+            "positive_assumption": "如果我努力工作，会得到家人和集体的表扬。",
+            "negative_assumption": "如果我工作不认真，会被认为是没用的人。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我对妹妹的成长有重要影响。",
+                "others": "妹妹应该尊重我的决定。",
+                "world": "长辈的照顾对晚辈很重要。"
+            },
+            "rules": "我要给妹妹树立好榜样，教导她们正确的价值观。",
+            "positive_assumption": "如果我引导得当，妹妹会有好的品德。",
+            "negative_assumption": "如果我不引导，妹妹可能会学坏。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须照顾好妹妹，这是我的责任。",
+                "others": "妹妹应该听我的话。",
+                "world": "哥哥有责任保护妹妹。"
+            },
+            "rules": "我要时刻关注妹妹的需求，满足她们。",
+            "positive_assumption": "如果我照顾好妹妹，她们会健康快乐。",
+            "negative_assumption": "如果我没照顾好妹妹，我就是失职。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任传承传统价值观，如团结互助。",
+                "others": "我可以影响妹妹和邻居重视传统。",
+                "world": "传承传统能让大家更团结。"
+            },
+            "rules": "我要和家人、邻居互相帮助，共度饥荒。",
+            "positive_assumption": "如果我们互相帮助，就能更好地度过饥荒。",
+            "negative_assumption": "如果我们不团结，会更难生存。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我们传统的生活方式，如用秸秆编囤粮仓，是很好的。",
+                "others": "家人应该一起坚持这种传统。",
+                "world": "传统的生活方式能帮助我们度过困难时期。"
+            },
+            "rules": "我要学习用秸秆编囤粮仓，传承这种技能。",
+            "positive_assumption": "如果我学会编囤粮仓，能更好地储存粮食。",
+            "negative_assumption": "如果我不学习，这种传统可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该主动和邻居交流，寻求帮助。",
+                "others": "邻居可能愿意分享一些食物。",
+                "world": "通过交流可以缓解饥荒带来的压力。"
+            },
+            "rules": "我要多和邻居聊天，增进感情。",
+            "positive_assumption": "如果我主动交流，可能会得到邻居的帮助。",
+            "negative_assumption": "如果我不主动，会更孤单，也得不到帮助。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我有时会觉得自己很孤单，没人能理解我。",
+                "others": "邻居可能不会关心我的困境。",
+                "world": "在饥荒时期，大家都自顾不暇。"
+            },
+            "rules": "我不能依赖别人的帮助，要靠自己。",
+            "positive_assumption": "如果我靠自己，就能变得更独立。",
+            "negative_assumption": "如果我依赖别人，别人可能会拒绝我。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的毅力克服饥荒带来的困难。",
+                "others": "我的坚韧可以给妹妹带来希望。",
+                "world": "坚韧的人更容易生存下去。"
+            },
+            "rules": "我要勇敢面对饥荒，不害怕困难。",
+            "positive_assumption": "如果我勇敢面对，就能变得更强大。",
+            "negative_assumption": "如果我害怕，就会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "挖野菜虽然辛苦，但我能坚持下来。",
+                "others": "其他孩子遇到困难也应该坚持。",
+                "world": "只有坚持才能度过饥荒。"
+            },
+            "rules": "不管多累，我都不能放弃挖野菜。",
+            "positive_assumption": "如果我坚持挖野菜，就能度过难关。",
+            "negative_assumption": "如果我放弃，妹妹和我都会饿死。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力照顾好妹妹，是个有用的人。",
+                "others": "家人会认可我的能力。",
+                "world": "有能力照顾家人的人会被尊重。"
+            },
+            "rules": "我要保护好妹妹，不让她们受到伤害。",
+            "positive_assumption": "如果我保护好妹妹，家人会更信任我。",
+            "negative_assumption": "如果我没保护好妹妹，家人会失望。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我挖野菜养活妹妹，我的付出是有意义的。",
+                "others": "妹妹会感激我的付出。",
+                "world": "为家人付出会得到家人的爱。"
+            },
+            "rules": "我要努力挖更多的野菜，让妹妹吃饱。",
+            "positive_assumption": "如果我挖到更多野菜，妹妹就能健康成长。",
+            "negative_assumption": "如果我挖不到足够的野菜，妹妹会挨饿。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我是农耕文化的守护者和传承者，这是我的使命。",
+                "others": "社会应该重视和支持农耕文化的传承。",
+                "world": "农耕文化是我们民族的瑰宝，应该得到保护。"
+            },
+            "rules": "我应该积极宣传和推广农耕文化。",
+            "positive_assumption": "如果我积极宣传农耕文化，能让更多人了解和重视它。",
+            "negative_assumption": "如果我不宣传农耕文化，它可能会被人们遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任将祖传的农事歌诀和农耕技艺传承下去。",
+                "others": "孙辈和年轻人应该学习这些传统知识。",
+                "world": "传承农耕文化对社会很重要。"
+            },
+            "rules": "我应该主动教孙辈和年轻人农耕技艺和农事歌诀。",
+            "positive_assumption": "如果我传承了农耕文化，能让传统延续下去。",
+            "negative_assumption": "如果我不传承农耕文化，这些宝贵的知识可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我只在传授技艺时和他人交流，这样能保持合适的关系。",
+                "others": "他人在我传授技艺时才会真正尊重我。",
+                "world": "在特定的情境下与人交流更可靠。"
+            },
+            "rules": "我应该只在传授技艺时和他人深入交流。",
+            "positive_assumption": "如果我只在传授技艺时交流，能获得他人的尊重和良好的关系。",
+            "negative_assumption": "如果我随意和他人交流，可能会破坏关系。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我在人际交往中保持距离能让自己更安全。",
+                "others": "和他人太亲近可能会带来伤害。",
+                "world": "人际交往中存在一定的风险。"
+            },
+            "rules": "我应该和成人保持适当的距离。",
+            "positive_assumption": "如果我和成人保持距离，我能避免不必要的麻烦。",
+            "negative_assumption": "如果我和成人走得太近，可能会受到伤害。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我在土地上劳作是最幸福的事情，这是我的使命。",
+                "others": "他人可能不明白我对土地的热爱。",
+                "world": "土地孕育了生命，我们应该尊重和爱护它。"
+            },
+            "rules": "我应该每天坚持在土地上劳作。",
+            "positive_assumption": "如果我坚持在土地上劳作，我能收获快乐和希望。",
+            "negative_assumption": "如果我停止在土地上劳作，我的生活将失去意义。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我与土地融为一体，土地给予我生命的意义。",
+                "others": "不理解土地重要性的人无法体会我的感受。",
+                "world": "土地是万物的根源，是最宝贵的财富。"
+            },
+            "rules": "我应该守护好土地，不离开这片土地。",
+            "positive_assumption": "如果我守护好土地，我能保持内心的平静和满足。",
+            "negative_assumption": "如果我离开土地，我会失去自己的根。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决生活中的问题，不需要依赖别人。",
+                "others": "别人不一定能真正帮到我。",
+                "world": "在这个世界上，很多事情需要自己去解决。"
+            },
+            "rules": "我应该依靠自己的力量解决问题。",
+            "positive_assumption": "如果我自己解决问题，我会更有自信。",
+            "negative_assumption": "如果我依赖别人解决问题，我会显得很无能。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过饥荒、砍病树等困难，我有足够的韧性面对生活。",
+                "others": "他人在面对困难时可能没有我这么坚强。",
+                "world": "生活中会有各种困难，但我能克服。"
+            },
+            "rules": "当遇到困难时，我应该坚强面对，不轻易放弃。",
+            "positive_assumption": "如果我坚强面对困难，我会变得更强大。",
+            "negative_assumption": "如果我在困难面前退缩，我就是软弱的。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我的经验和知识对他人有帮助，我是重要的。",
+                "others": "他人会尊重我的经验和知识。",
+                "world": "知识和经验的分享可以让世界变得更美好。"
+            },
+            "rules": "我应该主动分享自己的经验和知识。",
+            "positive_assumption": "如果我分享经验和知识，能帮助到更多人，也会得到他人的尊重。",
+            "negative_assumption": "如果我不分享经验和知识，我的价值就无法体现。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我通过种植蔬菜、指导农事等活动为家庭和村庄做出了贡献，我是有价值的。",
+                "others": "家人和邻居认可我的付出和价值。",
+                "world": "在这个世界上，每个人都可以通过自己的方式为社会做出贡献。"
+            },
+            "rules": "我应该继续发挥自己的能力，为家庭和社会做更多的事。",
+            "positive_assumption": "如果我持续为家庭和社会做贡献，我会更有价值和成就感。",
+            "negative_assumption": "如果我不再为家庭和社会做贡献，我会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我是种反季蔬菜农耕文化的守护者和传承者，这是我的使命。",
+                "others": "社会应该重视和支持农耕文化的传承。",
+                "world": "农耕文化是我们民族的瑰宝，应该得到保护。"
+            },
+            "rules": "我应该积极宣传和推广种反季蔬菜的农耕文化。",
+            "positive_assumption": "如果我积极宣传农耕文化，能让更多人了解和重视它。",
+            "negative_assumption": "如果我不宣传农耕文化，它可能会被人们遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任将种反季蔬菜的技艺和相关农耕知识传承下去。",
+                "others": "周围的年轻人应该学习这些传统种植知识。",
+                "world": "传承农耕文化对社会很重要。"
+            },
+            "rules": "我应该主动教周围年轻人种反季蔬菜的技艺和知识。",
+            "positive_assumption": "如果我传承了农耕技艺和知识，能让传统种植方法延续下去。",
+            "negative_assumption": "如果我不传承这些知识，这些宝贵的种植经验可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我只在谈反季蔬菜收购价格时和收购商交流，这样能保持合适的关系。",
+                "others": "收购商在谈价格时才会真正重视我的蔬菜。",
+                "world": "在特定的商业情境下与人交流更可靠。"
+            },
+            "rules": "我应该只在谈收购价格时和收购商深入交流。",
+            "positive_assumption": "如果我只在谈价格时交流，能获得合理的收购价格和良好的交易关系。",
+            "negative_assumption": "如果我随意和收购商交流，可能会破坏交易关系，影响蔬菜销售。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我在和收购商交往中保持距离能让自己更安全。",
+                "others": "和收购商太亲近可能会带来损失，之前就有两个外地客商骗过我。",
+                "world": "商业交往中存在一定的风险。"
+            },
+            "rules": "我应该和收购商保持适当的距离。",
+            "positive_assumption": "如果我和收购商保持距离，我能避免不必要的损失。",
+            "negative_assumption": "如果我和收购商走得太近，可能会受到欺骗。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我在土地上种反季蔬菜是最幸福的事情，这是我的使命。",
+                "others": "他人可能不明白我对土地和种反季蔬菜的热爱。",
+                "world": "土地孕育了生命，我们应该尊重和爱护它，通过种植来回报它。"
+            },
+            "rules": "我应该每天坚持在土地上劳作，种好反季蔬菜。",
+            "positive_assumption": "如果我坚持在土地上劳作，种好反季蔬菜，我能收获快乐和希望。",
+            "negative_assumption": "如果我停止在土地上劳作，不种反季蔬菜，我的生活将失去方向。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我与这片土地融为一体，土地给予我种反季蔬菜的机会和生活的意义。",
+                "others": "不理解土地重要性的人无法体会我对种反季蔬菜的热情。",
+                "world": "土地是万物的根源，是最宝贵的财富。"
+            },
+            "rules": "我应该守护好这片土地，用心种好反季蔬菜。",
+            "positive_assumption": "如果我守护好土地，种好反季蔬菜，我能保持内心的平静和满足。",
+            "negative_assumption": "如果我离开土地，我会失去种反季蔬菜的机会，生活将失去意义。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决种反季蔬菜过程中的问题，不需要依赖别人。",
+                "others": "别人不一定能真正帮到我种好反季蔬菜。",
+                "world": "在这个世界上，很多事情需要自己去解决。"
+            },
+            "rules": "我应该依靠自己的力量解决种反季蔬菜的问题。",
+            "positive_assumption": "如果我自己解决问题，我会更有自信，蔬菜产量也会更高。",
+            "negative_assumption": "如果我依赖别人解决问题，我会显得很无能，也种不好蔬菜。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过饥荒，现在种反季蔬菜遇到困难也能克服，我有足够的韧性面对生活。",
+                "others": "别人在面对种反季蔬菜的困难时可能没有我这么坚强。",
+                "world": "生活中会有各种困难，但我能克服。"
+            },
+            "rules": "当种反季蔬菜遇到困难时，我应该坚强面对，不轻易放弃。",
+            "positive_assumption": "如果我坚强面对困难，我会变得更强大，蔬菜也能种得更好。",
+            "negative_assumption": "如果我在困难面前退缩，我就是软弱的，儿子的学业也会受影响。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我在种植反季蔬菜上的经验和技术对周围人有帮助，我是重要的。",
+                "others": "周围人会尊重我在种植方面的经验和知识。",
+                "world": "知识和经验的分享可以让大家都受益。"
+            },
+            "rules": "我应该主动分享自己种反季蔬菜的经验和知识。",
+            "positive_assumption": "如果我分享经验和知识，能帮助到更多人，也会得到他人的尊重。",
+            "negative_assumption": "如果我不分享经验和知识，我的价值就无法充分体现。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我通过种反季蔬菜供儿子读大学，为家庭做出了巨大贡献，我是有价值的。",
+                "others": "家人认可我为家庭的付出和价值。",
+                "world": "在这个世界上，男人就应该为家庭努力奋斗，做出贡献。"
+            },
+            "rules": "我应该继续努力种好反季蔬菜，为家庭提供更好的经济支持。",
+            "positive_assumption": "如果我持续种好反季蔬菜供儿子读书，我会更有价值和成就感。",
+            "negative_assumption": "如果我种不好反季蔬菜，无法供儿子读书，我会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我是农耕技艺的传承者，这是我的使命。",
+                "others": "村里应该重视农耕技艺的传承。",
+                "world": "农耕技艺是农村的瑰宝，应该得到保护。"
+            },
+            "rules": "我应该在村里宣传农耕技艺的重要性。",
+            "positive_assumption": "如果我宣传农耕技艺，能让更多人重视它。",
+            "negative_assumption": "如果我不宣传农耕技艺，它可能会被人们遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任把自己的农耕技艺教给村里的年轻人。",
+                "others": "村里的年轻人应该学习这些传统农耕技艺。",
+                "world": "传承农耕技艺对农村发展很重要。"
+            },
+            "rules": "我应该主动教村里年轻人农耕技艺。",
+            "positive_assumption": "如果我传承了农耕技艺，能让传统延续下去。",
+            "negative_assumption": "如果我不传承农耕技艺，这些宝贵的知识可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我只在农田劳作交流时和他人说话，这样能保持合适的关系。",
+                "others": "他人在农田劳作交流时才会真正尊重我。",
+                "world": "在特定的劳作情境下与人交流更可靠。"
+            },
+            "rules": "我应该只在农田劳作交流时和他人深入交流。",
+            "positive_assumption": "如果我只在劳作交流时交流，能获得他人的尊重和良好的关系。",
+            "negative_assumption": "如果我随意和他人交流，可能会破坏关系。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我在人际交往中保持距离能避免不必要的麻烦。",
+                "others": "和他人太亲近可能会有利益冲突。",
+                "world": "人际交往中存在一定的风险。"
+            },
+            "rules": "我应该和村里其他人保持适当的距离。",
+            "positive_assumption": "如果我和他人保持距离，能避免很多麻烦。",
+            "negative_assumption": "如果我和他人走得太近，可能会受到伤害。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我在土地上劳作能感受到生命的意义，这是我的使命。",
+                "others": "不理解土地重要性的人无法体会我的感受。",
+                "world": "土地孕育了生命，我们应该守护它。"
+            },
+            "rules": "我应该每天坚持在土地上劳作。",
+            "positive_assumption": "如果我坚持在土地上劳作，能收获希望和满足。",
+            "negative_assumption": "如果我停止在土地上劳作，我的生活将失去意义。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我从小在这片土地上长大，土地就是我的依靠。",
+                "others": "那些离开土地去打工的人可能会失去根。",
+                "world": "土地是农村人的根本，不能离开。"
+            },
+            "rules": "我应该坚守这片土地，不随波逐流去打工。",
+            "positive_assumption": "如果我坚守土地，能保持内心的安稳。",
+            "negative_assumption": "如果我离开土地去打工，我会失去自己的根。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力应对农田里的各种灾害，不需要依赖别人。",
+                "others": "别人不一定能真正帮我解决农田灾害问题。",
+                "world": "在农田劳作中，很多问题要靠自己解决。"
+            },
+            "rules": "我应该依靠自己的力量解决农田灾害问题。",
+            "positive_assumption": "如果我自己解决问题，我会更有自信。",
+            "negative_assumption": "如果我依赖别人解决问题，我会显得很无能。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过饥荒，这点农田劳作的辛苦不算什么，我能承受。",
+                "others": "有些年轻人可能吃不了农田劳作的苦。",
+                "world": "生活总会有困难，但只要坚持就能过去。"
+            },
+            "rules": "面对农田劳作的困难，我应该坚持下去。",
+            "positive_assumption": "如果我坚持下去，我会变得更坚韧。",
+            "negative_assumption": "如果我放弃，我就是软弱的。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我掌握的农耕知识能帮助邻居解决农田问题，我是有价值的。",
+                "others": "邻居会因为我解决问题而尊重我。",
+                "world": "在农村互帮互助，分享知识能让大家都受益。"
+            },
+            "rules": "当邻居有农田问题时，我应该主动帮忙。",
+            "positive_assumption": "如果我帮助邻居解决问题，会得到邻居的认可和感谢，我更有价值。",
+            "negative_assumption": "如果我不帮助邻居，我会被认为是自私的，没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我通过辛勤耕种农田，为家庭提供粮食，我是有价值的。",
+                "others": "家人认可我在农田劳作的付出。",
+                "world": "在农村，靠土地生产粮食就是对家庭和社会的贡献。"
+            },
+            "rules": "我应该把农田种好，多产粮食。",
+            "positive_assumption": "如果我把农田种好，能为家庭提供更多粮食，我会更有价值。",
+            "negative_assumption": "如果我种不好农田，我就是家庭的负担，没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我是农耕文化的学习者和传承者，这是我的使命。",
+                "others": "集体应该重视和支持农耕文化的传承。",
+                "world": "农耕文化是我们民族的瑰宝，应该得到保护。"
+            },
+            "rules": "我应该在集体中宣传农耕文化的重要性。",
+            "positive_assumption": "如果我宣传农耕文化，能让更多人了解和重视它。",
+            "negative_assumption": "如果我不宣传农耕文化，它可能会被人们遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任学习和传承农耕技艺和文化。",
+                "others": "长辈们的农耕经验应该被传承下去。",
+                "world": "传承农耕文化对集体和社会很重要。"
+            },
+            "rules": "我应该主动向长辈学习农耕技艺和文化知识。",
+            "positive_assumption": "如果我学习和传承农耕文化，能让传统延续下去。",
+            "negative_assumption": "如果我不学习和传承农耕文化，这些宝贵的知识可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我只在工作时和队员交流，这样能保持合适的关系。",
+                "others": "队员在工作中才会真正尊重我的决定。",
+                "world": "在工作情境下与人交流更可靠。"
+            },
+            "rules": "我应该只在工作时和队员深入交流。",
+            "positive_assumption": "如果我只在工作时交流，能获得队员的尊重和良好的工作关系。",
+            "negative_assumption": "如果我随意和队员交流，可能会破坏工作关系。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我在人际交往中保持距离能让自己更安全。",
+                "others": "和队员太亲近可能会影响我公正记录工分。",
+                "world": "人际交往中存在一定的风险。"
+            },
+            "rules": "我应该和队员保持适当的距离。",
+            "positive_assumption": "如果我和队员保持距离，我能避免不必要的麻烦。",
+            "negative_assumption": "如果我和队员走得太近，可能会影响工作的公正。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我在土地上劳作是最快乐的事情，这是我的使命。",
+                "others": "他人可能不明白我对土地的热爱。",
+                "world": "土地孕育了生命，我们应该尊重和爱护它。"
+            },
+            "rules": "我应该每天坚持在土地上劳作。",
+            "positive_assumption": "如果我坚持在土地上劳作，我能收获快乐和满足。",
+            "negative_assumption": "如果我停止在土地上劳作，我的生活将失去意义。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我生长在这片土地上，土地给予我生活的保障，我与土地融为一体。",
+                "others": "不理解土地重要性的人无法体会我的感受。",
+                "world": "土地是万物的根源，是最宝贵的财富。"
+            },
+            "rules": "我应该珍惜和爱护这片土地。",
+            "positive_assumption": "如果我爱护土地，土地会回馈给我丰收和希望。",
+            "negative_assumption": "如果我不爱护土地，我会失去生活的依靠。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决工作和生活中的问题，不需要依赖别人。",
+                "others": "别人不一定能真正帮到我。",
+                "world": "在这个世界上，很多事情需要自己去解决。"
+            },
+            "rules": "我应该依靠自己的力量解决问题。",
+            "positive_assumption": "如果我自己解决问题，我会更有自信。",
+            "negative_assumption": "如果我依赖别人解决问题，我会显得很无能。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过饥荒，有足够的韧性面对生活中的困难。",
+                "others": "其他队员可能在困难面前没有我这么坚强。",
+                "world": "生活中会有各种困难，但我能克服。"
+            },
+            "rules": "当遇到困难时，我应该坚强面对，不轻易放弃。",
+            "positive_assumption": "如果我坚强面对困难，我会变得更强大。",
+            "negative_assumption": "如果我在困难面前退缩，我就是软弱的。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我的认真负责能保证集体工分记录的公正，我对集体很重要。",
+                "others": "大家会依赖我准确的工分记录。",
+                "world": "公正的记录对集体的公平和发展至关重要。"
+            },
+            "rules": "我必须坚持公正地记录工分，不偏袒任何人。",
+            "positive_assumption": "如果我公正记录工分，能维护集体的公平，我会更有成就感。",
+            "negative_assumption": "如果我不公正记录，会破坏集体的公平，我就失职了。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我作为生产队最年轻的记分员，准确记录工分能为集体做出贡献，我是有价值的。",
+                "others": "队员们会认可我的工作和价值。",
+                "world": "在集体中，每个人都可以通过自己的工作为集体发展出力。"
+            },
+            "rules": "我应该认真负责地做好记分员的工作。",
+            "positive_assumption": "如果我认真做好记分工作，会得到队员们的尊重和集体的认可。",
+            "negative_assumption": "如果我工作出错，会被队员们指责，变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我是弟弟妹妹的依靠，我要保护好他们。",
+                "others": "家人希望我能照顾好弟弟妹妹。",
+                "world": "保护家人是我的使命。"
+            },
+            "rules": "我应该在危险时保护弟弟妹妹。",
+            "positive_assumption": "如果我保护好弟弟妹妹，我会得到家人的认可。",
+            "negative_assumption": "如果我不能保护好弟弟妹妹，我会让家人失望。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任照顾好弟弟妹妹，让他们活下去。",
+                "others": "弟弟妹妹需要我的照顾。",
+                "world": "在家庭中，年长的孩子有责任照顾年幼的孩子。"
+            },
+            "rules": "我应该时刻关注弟弟妹妹的需求。",
+            "positive_assumption": "如果我照顾好弟弟妹妹，他们能健康成长，我就是一个好哥哥。",
+            "negative_assumption": "如果我没有照顾好弟弟妹妹，我就是一个失职的哥哥。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我只在必要时和邻居交流，这样能减少麻烦。",
+                "others": "邻居在食物问题上可能不会真心帮助我。",
+                "world": "在特定的情境下与人交流更可靠。"
+            },
+            "rules": "我应该只在必要时和邻居交流。",
+            "positive_assumption": "如果我只在必要时交流，能避免不必要的麻烦。",
+            "negative_assumption": "如果我随意和邻居交流，可能会引发冲突。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我在和邻居交往中保持距离能让自己更安全。",
+                "others": "邻居可能会和我争抢野菜。",
+                "world": "在饥荒年代，人际交往中存在竞争。"
+            },
+            "rules": "我应该和邻居保持适当的距离。",
+            "positive_assumption": "如果我和邻居保持距离，我能避免和他们争抢食物。",
+            "negative_assumption": "如果我和邻居走得太近，可能会因为食物问题产生矛盾。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "在土地上劳作是我生活的一部分，这让我有安全感。",
+                "others": "他人可能不理解我对土地的依赖。",
+                "world": "土地孕育了生命，我们应该珍惜土地。"
+            },
+            "rules": "我应该每天去土地上找野菜。",
+            "positive_assumption": "如果我坚持在土地上找野菜，我能收获希望，家人也能活下去。",
+            "negative_assumption": "如果我停止在土地上劳作，我的家人会失去生存的希望。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "土地是我获取食物的来源，我与土地紧密相连。",
+                "others": "不懂得在土地上找食物的人无法生存。",
+                "world": "土地是我们生存的根本。"
+            },
+            "rules": "我应该熟悉土地，知道哪里能找到野菜。",
+            "positive_assumption": "如果我熟悉土地，我能找到更多的食物，保证家人的生存。",
+            "negative_assumption": "如果我不了解土地，我就找不到食物，家人会挨饿。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力在土地上找到野菜，不需要依赖别人。",
+                "others": "别人不一定能像我一样找到足够的野菜。",
+                "world": "在饥荒中，很多事情需要自己去解决。"
+            },
+            "rules": "我应该依靠自己的力量在土地上找食物。",
+            "positive_assumption": "如果我自己解决食物问题，我会更有自信。",
+            "negative_assumption": "如果我依赖别人找食物，我会显得很无能。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我能在饥荒中坚持挖野菜，我有足够的韧性面对生活。",
+                "others": "其他孩子可能没有我这么坚强。",
+                "world": "生活中会有困难，但我能克服。"
+            },
+            "rules": "当遇到饥荒等困难时，我应该坚强面对，不放弃挖野菜。",
+            "positive_assumption": "如果我坚强面对困难，我会变得更强大。",
+            "negative_assumption": "如果我在困难面前退缩，我就是软弱的。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我的劳动对家庭很重要，我是不可或缺的。",
+                "others": "家人会因为我的付出而尊重我。",
+                "world": "为家庭付出劳动是值得被认可的。"
+            },
+            "rules": "我应该主动承担更多照顾家庭的责任。",
+            "positive_assumption": "如果我承担更多责任，家人会更依赖我，我会更有价值。",
+            "negative_assumption": "如果我不主动承担责任，我就会被家人忽视。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我通过挖野菜养活弟弟妹妹，对家庭有很大的贡献，我是有价值的。",
+                "others": "弟弟妹妹依赖我，认可我的付出。",
+                "world": "在困难时期，每个人都要为家庭出一份力。"
+            },
+            "rules": "我应该继续努力挖野菜，保证弟弟妹妹有吃的。",
+            "positive_assumption": "如果我持续为家庭提供食物，我会更有价值。",
+            "negative_assumption": "如果我挖不到足够的野菜，我就不能照顾好弟弟妹妹，我就是没用的。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

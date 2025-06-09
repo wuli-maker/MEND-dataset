@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我和别人有隔阂，很难融入他们的圈子。",
+                "others": "别人很难理解我的想法和感受。",
+                "world": "人与人之间的距离越来越远。"
+            },
+            "rules": "我应该减少和别人的交流，避免尴尬。",
+            "positive_assumption": "如果我减少交流，就不会有尴尬的情况发生。",
+            "negative_assumption": "如果我增加交流，会发现和别人的差距更大，会更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是一个人，没有人真正陪伴我。",
+                "others": "别人都有自己的生活，不会在意我的孤独。",
+                "world": "这个世界很热闹，但我却融不进去。"
+            },
+            "rules": "我应该习惯孤独，不要期待别人的陪伴。",
+            "positive_assumption": "如果我习惯孤独，就不会对别人的陪伴有期待，就不会失望。",
+            "negative_assumption": "如果我期待别人的陪伴，一定会失望，会更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我对传统农耕文化有深入的了解，能够守护它。",
+                "others": "社会会认可传统农耕文化的价值。",
+                "world": "传统与现代可以相互融合。"
+            },
+            "rules": "我应该在生活中践行传统农耕文化，并向他人宣传。",
+            "positive_assumption": "如果我践行和宣传，能让更多人了解和重视传统农耕文化。",
+            "negative_assumption": "如果我不这样做，传统农耕文化会逐渐被遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任和能力守护祖传的二十四节气耕作口诀。",
+                "others": "后人会重视和学习这些传统知识。",
+                "world": "传统农耕文化应该得到传承和发扬。"
+            },
+            "rules": "我应该认真整理和传授二十四节气耕作口诀。",
+            "positive_assumption": "如果我认真传授，就能让传统知识得以延续。",
+            "negative_assumption": "如果我不认真，传统知识可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是给别人添麻烦，别人不会喜欢我。",
+                "others": "别人对我的关心只是出于礼貌，并非真心。",
+                "world": "人与人之间的感情很虚假。"
+            },
+            "rules": "我应该尽量不给别人添麻烦，独自承受困难。",
+            "positive_assumption": "如果我不给别人添麻烦，别人就不会讨厌我。",
+            "negative_assumption": "如果我给别人添麻烦，别人就会远离我。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有什么优点，不值得别人爱我。",
+                "others": "别人不会真正关心我，只是表面应付。",
+                "world": "这个世界很冷漠，没有真正的爱。"
+            },
+            "rules": "我不应该主动寻求别人的关心和爱。",
+            "positive_assumption": "如果我不主动寻求爱，就不会被拒绝，不会受伤。",
+            "negative_assumption": "如果我主动寻求爱，一定会被拒绝，会让自己更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我一生积累了很多宝贵的东西，是有价值的。",
+                "others": "子女会珍惜我所拥有的经验和传统。",
+                "world": "传统的东西在现代社会依然有意义。"
+            },
+            "rules": "我应该把自己的经验和传统传承给下一代。",
+            "positive_assumption": "如果我把经验和传统传承下去，就能延续自己的价值。",
+            "negative_assumption": "如果我不传承，这些宝贵的东西就会消失，我的价值也无法体现。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我有自己的经验和智慧，能为家庭和社会做出贡献。",
+                "others": "家人和邻居会认可我的价值。",
+                "world": "世界需要像我这样有经验的人。"
+            },
+            "rules": "我应该积极分享自己的经验，帮助他人。",
+            "positive_assumption": "如果我积极分享经验，就能体现自己的价值，得到他人的尊重。",
+            "negative_assumption": "如果我不分享经验，就无法体现自己的价值，会被人忽视。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我在很多方面都不如别人，能力太差。",
+                "others": "别人遇到问题都能轻松解决，而我却不行。",
+                "world": "这个世界竞争激烈，我没有竞争力。"
+            },
+            "rules": "我应该少参与集体活动，避免和别人比较。",
+            "positive_assumption": "如果我少参与集体活动，就不用和别人比较，不会让自己更自卑。",
+            "negative_assumption": "如果我参与集体活动，和别人比较，会让我更清楚自己的无能。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是把事情搞砸，没有能力做好任何事。",
+                "others": "别人都比我有能力，会看不起我。",
+                "world": "这个世界只认可有能力的人，我很难立足。"
+            },
+            "rules": "我应该避免尝试新事物，以免暴露自己的无能。",
+            "positive_assumption": "如果我不尝试新事物，就不会犯错，别人就不会发现我的无能。",
+            "negative_assumption": "如果我尝试新事物，一定会失败，会让别人更看不起我。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我和村里人的交流越来越少，很难融入他们的圈子。",
+                "others": "别人很难理解我卖祖田后的心情和想法。",
+                "world": "人与人之间的距离因为经济和生活的变化而越来越远。"
+            },
+            "rules": "我应该减少和村里人的交流，避免尴尬。",
+            "positive_assumption": "如果我减少交流，就不会有尴尬的情况发生。",
+            "negative_assumption": "如果我增加交流，会发现和别人的差距更大，会更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我卖了祖田后，和村里人的关系好像疏远了，我总是一个人。",
+                "others": "别人都有自己的生活，不会在意我的孤独。",
+                "world": "在村里，经济状况的变化会让人变得孤独。"
+            },
+            "rules": "我应该习惯一个人劳作，不要期待别人的陪伴。",
+            "positive_assumption": "如果我习惯一个人，就不会对别人的陪伴有期待，就不会失望。",
+            "negative_assumption": "如果我期待别人的陪伴，一定会失望，会更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我对传统农耕文化有深入的了解，能够在生活中践行并传承它。",
+                "others": "村里的年轻人会尊重和学习我所传承的传统。",
+                "world": "传统农耕文化与现代生活并不冲突，应该得到传承。"
+            },
+            "rules": "我应该在村里举办一些传统农耕文化的活动，让更多人了解。",
+            "positive_assumption": "如果我举办活动，能让更多人了解和重视传统农耕文化，我的守护就有意义。",
+            "negative_assumption": "如果我不举办活动，传统农耕文化可能会逐渐被年轻人遗忘，我就没有守护好它。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任守护祖传的二十四节气耕作口诀，这是我们家族的传统。",
+                "others": "子女会对这些传统知识感兴趣，愿意学习。",
+                "world": "传统的农耕文化应该在我们家族传承下去。"
+            },
+            "rules": "我应该把二十四节气耕作口诀记录下来，传给子女。",
+            "positive_assumption": "如果我记录并传承下去，家族的传统就能延续。",
+            "negative_assumption": "如果我不记录，这些口诀可能会失传，我就没有尽到守护传统的责任。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我欠了债，给债主带来了麻烦，他们不会真正喜欢我。",
+                "others": "债主对我的态度只是为了让我还钱，并非真心。",
+                "world": "人与人之间在经济利益面前，感情很淡薄。"
+            },
+            "rules": "我应该尽快还清债务，不给债主添麻烦。",
+            "positive_assumption": "如果我还清债务，债主就不会再对我有意见，我也不会那么招人烦。",
+            "negative_assumption": "如果我还不清债务，债主会更讨厌我，我会更不被人喜欢。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我卖了祖田，给家庭带来了不好的影响，不值得家人真正的爱。",
+                "others": "家人虽然表面上不说，但内心可能对我有意见。",
+                "world": "家庭关系也很现实，没能力的人很难得到真正的爱。"
+            },
+            "rules": "我应该默默为家庭付出，不主动寻求家人的关心。",
+            "positive_assumption": "如果我默默付出，家人可能会慢慢理解我，不会讨厌我。",
+            "negative_assumption": "如果我主动寻求关心，可能会被家人拒绝，会更伤心。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我一生都在这片土地上劳作，积累的经验和传统是有价值的。",
+                "others": "村里的人会尊重我这些传统的农耕知识。",
+                "world": "传统的农耕文化在农村依然有重要的意义。"
+            },
+            "rules": "我应该在村里分享我的农耕经验，帮助其他村民。",
+            "positive_assumption": "如果我分享经验，能帮助到别人，也能让大家认可我的价值。",
+            "negative_assumption": "如果我不分享，这些经验可能就浪费了，我的价值也不能得到充分体现。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然卖了祖田，但我有丰富的农耕经验，能把地种好，对家庭还是有价值的。",
+                "others": "家人会认可我种地的能力和为家庭的付出。",
+                "world": "在农村，会种地也是一种有价值的技能。"
+            },
+            "rules": "我应该把种地的经验传授给子女，让他们也能有一技之长。",
+            "positive_assumption": "如果我把经验传授给子女，他们能更好地生活，我的价值也能得到体现。",
+            "negative_assumption": "如果我不传授，子女可能会错过这些宝贵的经验，我的价值也无法延续。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我连子女的学费都凑不够，在赚钱方面太无能了。",
+                "others": "村里那些能轻松供孩子读书的人会觉得我没本事。",
+                "world": "社会竞争激烈，没能力赚钱就无法给家人好的生活。"
+            },
+            "rules": "我应该更加努力种地，多赚点钱来弥补自己的无能。",
+            "positive_assumption": "如果我努力种地多赚钱，就能改善家庭经济状况，证明自己还有点用。",
+            "negative_assumption": "如果我不努力，家庭经济会更差，会让自己更无能。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "为了凑学费贱卖祖田，说明我没能力给子女提供好的条件。",
+                "others": "别人会因为我卖了祖田而看不起我。",
+                "world": "这个世界很现实，没钱没能力就会被人轻视。"
+            },
+            "rules": "我应该少和村里其他人谈论经济和家庭的事情。",
+            "positive_assumption": "如果我少谈论这些事，别人就不会知道我的困境，不会看不起我。",
+            "negative_assumption": "如果我谈论这些事，别人会更清楚我的无能，会更加看不起我。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我和邻居也很少交流，很难融入他们的圈子。",
+                "others": "邻居们很难理解我的想法和感受。",
+                "world": "邻里之间的关系越来越疏远。"
+            },
+            "rules": "我应该减少和邻居的交流，避免尴尬。",
+            "positive_assumption": "如果我减少交流，就不会有尴尬的情况发生。",
+            "negative_assumption": "如果我增加交流，会发现和邻居的差距更大，会更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我工作失误后，和同事有了隔阂，总是一个人。",
+                "others": "同事们都有自己的圈子，不会在意我的孤独。",
+                "world": "职场上很热闹，但我却融不进去。"
+            },
+            "rules": "我应该习惯一个人工作，不要期待同事的陪伴。",
+            "positive_assumption": "如果我习惯一个人工作，就不会对同事的陪伴有期待，就不会失望。",
+            "negative_assumption": "如果我期待同事的陪伴，一定会失望，会更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我会种地，能把传统的耕作方法运用好，守护传统农耕文化。",
+                "others": "后辈会对我掌握的传统耕作方法感兴趣。",
+                "world": "传统农耕文化在现代社会依然有其独特的价值。"
+            },
+            "rules": "我应该把传统的耕作方法教给后辈。",
+            "positive_assumption": "如果我教给后辈，就能让传统农耕文化传承下去。",
+            "negative_assumption": "如果我不教，传统的耕作方法可能会被遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我生长在农村，了解传统的农耕知识，有责任守护它。",
+                "others": "村里的长辈会认可我对传统农耕知识的守护。",
+                "world": "传统农耕文化是农村的根基，应该得到传承。"
+            },
+            "rules": "我应该向村里的长辈学习更多的农耕知识，传承下去。",
+            "positive_assumption": "如果我学习并传承农耕知识，就能让传统得以延续。",
+            "negative_assumption": "如果我不学习和传承，传统农耕知识可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我工作失误，会给同事带来麻烦，不值得他们喜欢。",
+                "others": "同事们对我的友好只是表面的，并非真心接纳我。",
+                "world": "职场上的人际关系很虚假，我很难有真正的朋友。"
+            },
+            "rules": "我应该和同事保持距离，少给他们添麻烦。",
+            "positive_assumption": "如果我和同事保持距离，他们就不会讨厌我。",
+            "negative_assumption": "如果我和同事走得太近，可能会因为我的失误让他们远离我。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我连自己的身体都照顾不好，不值得妻子爱我。",
+                "others": "妻子对我的关心可能只是出于责任，并非真心爱我。",
+                "world": "夫妻之间的感情很现实，我这样的人很难得到真爱。"
+            },
+            "rules": "我不应该过度依赖妻子的关心。",
+            "positive_assumption": "如果我不依赖妻子的关心，就不会被她嫌弃。",
+            "negative_assumption": "如果我依赖妻子的关心，她可能会厌烦我。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我会种地，能为家庭提供粮食，是有价值的。",
+                "others": "邻里会觉得我是个勤劳的人，认可我的价值。",
+                "world": "农村需要像我这样会种地的人。"
+            },
+            "rules": "我应该努力把地种好，让家人和邻里看到我的价值。",
+            "positive_assumption": "如果我把地种好，就能得到家人和邻里的赞扬。",
+            "negative_assumption": "如果我种不好地，就会被家人和邻里看不起。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我会打算盘，能为家庭的经济出份力，是有价值的。",
+                "others": "妻子和家人会认可我的这份价值。",
+                "world": "家庭需要像我这样会打算盘的人来管理财务。"
+            },
+            "rules": "我应该好好运用打算盘的技能，为家庭多做贡献。",
+            "positive_assumption": "如果我好好运用技能，就能体现自己的价值，得到家人的认可。",
+            "negative_assumption": "如果我不运用技能，就无法体现自己的价值，会被家人忽视。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我在工作上也容易失误，能力实在太差。",
+                "others": "同事们都比我有能力，我比不上他们。",
+                "world": "职场竞争激烈，我没有竞争力。"
+            },
+            "rules": "我应该在工作中少发表意见，避免暴露自己的不足。",
+            "positive_assumption": "如果我少发表意见，就不会让别人发现我的不足。",
+            "negative_assumption": "如果我发表意见，可能会说错话，让别人更觉得我无能。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我连请接生婆这么简单的事都能摔断肋骨，真是没用。",
+                "others": "别人遇到这种情况肯定不会像我这么笨。",
+                "world": "这个世界只给有能力的人机会，我很难有出息。"
+            },
+            "rules": "我应该少承担重要的事情，以免犯错。",
+            "positive_assumption": "如果我少承担重要事情，就不会犯错，别人就不会觉得我无能。",
+            "negative_assumption": "如果我承担重要事情，一定会搞砸，会让别人更看不起我。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我和同事、队长之间有距离，很难融入他们的圈子。",
+                "others": "他们很难理解我的想法和感受。",
+                "world": "人与人之间的关系很复杂，我很难找到真正的朋友。"
+            },
+            "rules": "我应该减少和同事、队长的交流，避免尴尬。",
+            "positive_assumption": "如果我减少交流，就不会有尴尬的情况发生。",
+            "negative_assumption": "如果我增加交流，会发现和他们的差距更大，会更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "因为工作失误，我和同事、队长有了隔阂，总是一个人。",
+                "others": "他们都有自己的圈子，不会在意我的孤独。",
+                "world": "在公社里，我很难融入大家的生活。"
+            },
+            "rules": "我应该习惯一个人做事，不要期待别人的陪伴。",
+            "positive_assumption": "如果我习惯一个人，就不会对别人的陪伴有期待，就不会失望。",
+            "negative_assumption": "如果我期待别人的陪伴，一定会失望，会更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力把传统农耕文化中的精华部分保留下来。",
+                "others": "长辈们会认可我守护传统的行为。",
+                "world": "传统与现代并不冲突，传统农耕文化在现代社会也有它的价值。"
+            },
+            "rules": "我应该在日常生活中践行传统农耕文化。",
+            "positive_assumption": "如果我践行传统农耕文化，就能让更多人看到它的价值。",
+            "negative_assumption": "如果我不践行，传统农耕文化就会逐渐被遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我生长在农村，对传统农耕知识有一定了解，有责任守护它。",
+                "others": "其他年轻人可能会对传统农耕知识感兴趣，愿意学习。",
+                "world": "传统农耕文化是我们的根基，应该传承下去。"
+            },
+            "rules": "我应该向其他年轻人传授传统农耕知识。",
+            "positive_assumption": "如果我传授知识，就能让传统农耕文化延续下去。",
+            "negative_assumption": "如果我不传授，传统农耕知识可能会在我们这一代失传。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是给公社带来麻烦，同事和队长不会喜欢我。",
+                "others": "他们对我的态度不好，就是因为不喜欢我。",
+                "world": "人与人之间的感情很现实，我这样的人很难被接纳。"
+            },
+            "rules": "我应该尽量远离同事和队长，减少接触。",
+            "positive_assumption": "如果我远离他们，他们就不会更讨厌我。",
+            "negative_assumption": "如果我和他们接触，他们会更反感我，会让我更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我犯了这么大的错，不值得同事和队长的关心和爱护。",
+                "others": "他们对我的安慰只是表面的，不会真正关心我。",
+                "world": "在公社里，只有表现好的人才会被爱，我这样的人很难得到爱。"
+            },
+            "rules": "我不应该主动和同事、队长交流感情。",
+            "positive_assumption": "如果我不主动交流感情，就不会被拒绝，不会伤心。",
+            "negative_assumption": "如果我主动交流感情，一定会被他们冷漠对待，会更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我有一定的知识和技能，能为公社的发展出一份力。",
+                "others": "大家会因为我的贡献而尊重我。",
+                "world": "只要努力，每个人都能在公社里体现自己的价值。"
+            },
+            "rules": "我应该主动参与公社的集体活动，展示自己的能力。",
+            "positive_assumption": "如果我主动参与集体活动，就能有机会展示自己的能力，体现价值。",
+            "negative_assumption": "如果我不参与集体活动，就无法展示自己，价值也无法体现。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然弄丢了工分簿，但在其他方面还是有优点的，能为公社做贡献。",
+                "others": "同事和队长可能会看到我的其他优点，认可我的价值。",
+                "world": "公社需要各种有不同能力的人，我也能发挥自己的作用。"
+            },
+            "rules": "我应该在自己擅长的方面积极表现。",
+            "positive_assumption": "如果我在擅长的方面积极表现，就能让别人看到我的价值，得到认可。",
+            "negative_assumption": "如果我不积极表现，别人就看不到我的价值，会忽视我。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我在工作上总是出错，能力远远不如其他同事。",
+                "others": "同事们都能把工作做好，而我却总是搞砸。",
+                "world": "这个工作环境竞争很激烈，我没有优势。"
+            },
+            "rules": "我应该避免在同事面前展示自己的工作成果。",
+            "positive_assumption": "如果我不展示工作成果，就不会暴露自己的无能，同事也不会嘲笑我。",
+            "negative_assumption": "如果我展示工作成果，同事会发现我的不足，会更加轻视我。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我连工分簿都能弄丢，做其他事肯定也不行。",
+                "others": "同事和队长都觉得我能力差，会一直看不起我。",
+                "world": "在公社里，只有能力强的人才能立足，我很难有发展。"
+            },
+            "rules": "我应该少承担重要工作，以免再次犯错。",
+            "positive_assumption": "如果我少承担重要工作，就不会再出错，别人对我的看法可能会好一些。",
+            "negative_assumption": "如果我承担重要工作，一定会再次失败，别人会更看不起我。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我和其他孩子有隔阂，很难融入他们的圈子。",
+                "others": "别人很难理解我的想法和感受。",
+                "world": "人与人之间的距离越来越远。"
+            },
+            "rules": "我应该减少和其他孩子的交流，避免尴尬。",
+            "positive_assumption": "如果我减少交流，就不会有尴尬的情况发生。",
+            "negative_assumption": "如果我增加交流，会发现和别人的差距更大，会更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是一个人找食物，没有人真正陪伴我。",
+                "others": "别人都有自己的事情，不会在意我的孤独。",
+                "world": "这个饥荒的世界很残酷，我融不进去。"
+            },
+            "rules": "我应该习惯孤独，不要期待别人的陪伴。",
+            "positive_assumption": "如果我习惯孤独，就不会对别人的陪伴有期待，就不会失望。",
+            "negative_assumption": "如果我期待别人的陪伴，一定会失望，会更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我对传统农耕知识有一定了解，能够守护它。",
+                "others": "村里的人会认可传统农耕知识的价值。",
+                "world": "传统农耕知识在生活中很有用。"
+            },
+            "rules": "我应该在生活中践行传统农耕知识，并告诉别人。",
+            "positive_assumption": "如果我践行和宣传，能让更多人了解和重视传统农耕知识。",
+            "negative_assumption": "如果我不这样做，传统农耕知识会逐渐被遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任记住长辈教的耕作口诀，守护传统。",
+                "others": "后人会重视这些传统知识。",
+                "world": "传统农耕文化应该得到传承。"
+            },
+            "rules": "我应该认真记住耕作口诀，并传给其他孩子。",
+            "positive_assumption": "如果我认真传授，就能让传统知识得以延续。",
+            "negative_assumption": "如果我不认真，传统知识可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是吃不饱，给家人添麻烦，别人不会喜欢我。",
+                "others": "别人对我的关心只是出于怜悯，并非真心。",
+                "world": "人与人之间的感情很虚假。"
+            },
+            "rules": "我应该尽量少吃家里的食物，独自忍受饥饿。",
+            "positive_assumption": "如果我少吃食物，别人就不会讨厌我。",
+            "negative_assumption": "如果我多吃食物，别人就会远离我。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力保护父母，不值得他们爱我。",
+                "others": "别人不会真正关心我，只是偶尔给点吃的。",
+                "world": "这个饥荒的世界很冷漠，没有真正的爱。"
+            },
+            "rules": "我不应该主动寻求别人的关心和食物。",
+            "positive_assumption": "如果我不主动寻求，就不会被拒绝，不会受伤。",
+            "negative_assumption": "如果我主动寻求，一定会被拒绝，会让自己更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我记住了一些耕作的小知识，是有价值的。",
+                "others": "长辈会觉得我聪明，认可我的价值。",
+                "world": "传统的耕作知识在生活中很重要。"
+            },
+            "rules": "我应该多向长辈学习耕作知识，传承下去。",
+            "positive_assumption": "如果我多学习并传承，就能延续自己的价值。",
+            "negative_assumption": "如果我不学习传承，这些知识可能会被遗忘，我的价值也无法体现。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我能学会编草鞋，能为家里出一份力，是有价值的。",
+                "others": "家人会认可我编草鞋的价值。",
+                "world": "这个艰难的世界需要每个人贡献自己的力量。"
+            },
+            "rules": "我应该努力编更多的草鞋，帮助家人。",
+            "positive_assumption": "如果我编更多草鞋，就能体现自己的价值，得到家人的夸奖。",
+            "negative_assumption": "如果我不努力编草鞋，就无法体现自己的价值，会被家人忽视。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我在找食物方面不如别人，能力太差。",
+                "others": "别人能找到更好的食物，而我只能找到树皮。",
+                "world": "这个饥荒的世界，我没有竞争力。"
+            },
+            "rules": "我应该少和其他孩子一起找食物，避免比较。",
+            "positive_assumption": "如果我少和他们一起，就不用比较，不会让自己更自卑。",
+            "negative_assumption": "如果我和他们一起，比较后会让我更清楚自己的无能。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我没办法找到足够的食物，保护不了家人，很没用。",
+                "others": "别的孩子能帮家里干活，我却总是做不好。",
+                "world": "这个世界太艰难，我没有能力生存下去。"
+            },
+            "rules": "我应该少参与危险的找食物行动，以免犯错。",
+            "positive_assumption": "如果我不参与危险行动，就不会犯错，不会让家人失望。",
+            "negative_assumption": "如果我参与危险行动，一定会失败，会让家人更看不起我。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

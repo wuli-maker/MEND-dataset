@@ -1,0 +1,202 @@
+{
+    "node_24": {
+        "page_content": "我是不可信任他人的，曾经的经历让我失望。",
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_23": {
+        "page_content": "我是被家族需要的，我要传承精神给后代。",
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_22": {
+        "page_content": "我是无能的，因为我的认知功能在衰退。",
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_21": {
+        "page_content": "我是孤独的，身边的人很难真正理解我。",
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_20": {
+        "page_content": "我是有价值的，因为我有丰富的人生经历。",
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_19": {
+        "page_content": "我是不可信任他人的，曾经的经历让我失望。",
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_18": {
+        "page_content": "我是被家族需要的，我要传承纪律精神给后代。",
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_17": {
+        "page_content": "我是无能的，因为我的经历让我遭受了挫折。",
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_16": {
+        "page_content": "我是孤独的，身边的人很难真正理解我。",
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_15": {
+        "page_content": "我是有价值的，因为我有丰富的人生经历。",
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_14": {
+        "page_content": "我是可以信任战友的，战争让我们紧密相连",
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_13": {
+        "page_content": "我是被集体需要的，要为集体贡献力量",
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_12": {
+        "page_content": "我是有能力的，能胜任后勤运输兵的工作",
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_11": {
+        "page_content": "我是孤独的，战友虽在身边但内心仍有距离",
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_10": {
+        "page_content": "我是有价值的，因为我在抗美援朝战争中贡献力量并立功",
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_9": {
+        "page_content": "我要谨慎交友，有些人可能不可靠。",
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": "我是被集体需要的，要为集体贡献力量。",
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": "我是有能力的，能完成任务。",
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": "我可能是孤独的，大家不一定能理解我。",
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": "我是有价值的，因为我能承担责任。",
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_4": {
+        "page_content": "我是不可信任他人的，因为有人会嘲笑我。",
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": "我是被家族需要的，我要保护弟弟妹妹。",
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": "我是无能的，因为我没办法让大家吃得更好。",
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": "我是孤独的，因为我要独自承担照顾弟弟妹妹的责任。",
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": "我是有价值的，因为我能在饥荒中养活弟弟妹妹。",
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

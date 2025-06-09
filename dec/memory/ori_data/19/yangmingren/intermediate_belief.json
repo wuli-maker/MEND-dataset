@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该维护家族的和谐与团结。",
+                "others": "家人应该配合我维护家族。",
+                "world": "家族的稳定是生活的基础。"
+            },
+            "rules": "我要调解家人之间的矛盾。",
+            "positive_assumption": "如果我调解矛盾，家族会更和睦。",
+            "negative_assumption": "如果我不调解矛盾，家族会分崩离析。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家族中是有威望的长辈。",
+                "others": "家人应该听从我的建议。",
+                "world": "长辈的经验值得晚辈尊重。"
+            },
+            "rules": "我要为家人提供合理的建议。",
+            "positive_assumption": "如果我提供建议，家人会过得更好。",
+            "negative_assumption": "如果我不提供建议，家人会走弯路。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法摆脱过去的阴影。",
+                "others": "他人的安慰对我没有用。",
+                "world": "过去的遗憾是无法弥补的。"
+            },
+            "rules": "我只能在回忆中痛苦。",
+            "positive_assumption": "如果我沉浸在回忆中，能让我更珍惜现在。",
+            "negative_assumption": "如果我试图忘记过去，会让我更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我被过去的错误和遗憾所困扰。",
+                "others": "他人不会理解我过去的痛苦。",
+                "world": "过去的事情无法改变，会一直影响我的现在。"
+            },
+            "rules": "我不能忘记过去的教训。",
+            "positive_assumption": "如果我牢记过去，能避免再次犯错。",
+            "negative_assumption": "如果我忘记过去，会重蹈覆辙。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我能从困难中汲取力量。",
+                "others": "他人也能在困难中成长。",
+                "world": "困难是成长的机遇。"
+            },
+            "rules": "我要主动迎接困难。",
+            "positive_assumption": "如果我迎接困难，会变得更强大。",
+            "negative_assumption": "如果我逃避困难，会变得软弱。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的毅力克服困难。",
+                "others": "他人遇到困难也应该像我一样坚强。",
+                "world": "生活中的困难是可以被战胜的。"
+            },
+            "rules": "无论遇到什么困难，我都要坚持下去。",
+            "positive_assumption": "如果我坚持下去，困难总会过去。",
+            "negative_assumption": "如果我放弃，就会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我的情感无处寄托。",
+                "others": "家人无法给予我真正的情感支持。",
+                "world": "人与人之间的情感是疏远的。"
+            },
+            "rules": "我只能把情感埋在心里。",
+            "positive_assumption": "如果我把情感埋在心里，就不会受伤。",
+            "negative_assumption": "如果我表露情感，会被家人嘲笑。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是一个人默默承受生活的一切。",
+                "others": "家人只关心自己的事情，不会在意我的感受。",
+                "world": "在家庭中，我是一个边缘人。"
+            },
+            "rules": "我不要轻易向家人表达自己的需求。",
+            "positive_assumption": "如果我不表达需求，就不会被拒绝。",
+            "negative_assumption": "如果我表达需求，会让家人厌烦。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力传承家族的生活方式。",
+                "others": "家人应该支持我传承技艺。",
+                "world": "传统技艺在现代社会仍有意义。"
+            },
+            "rules": "我要努力将技艺传授给下一代。",
+            "positive_assumption": "如果我传授技艺，家族文化能得以延续。",
+            "negative_assumption": "如果我不传授技艺，家族文化会逐渐消失。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我掌握的生活技能是宝贵的财富，能让家庭生活更好。",
+                "others": "家人应该重视我的经验和技艺。",
+                "world": "在家庭中，每个人的贡献都应该被认可。"
+            },
+            "rules": "我要不断展示我的技能，让家人看到我的价值。",
+            "positive_assumption": "如果我展示技能，家人会更尊重我。",
+            "negative_assumption": "如果我不展示技能，家人会忽视我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该维护家族在负债时的团结。",
+                "others": "家人应该配合我一起面对债务。",
+                "world": "家族的团结是度过困难的基础。"
+            },
+            "rules": "我要调解家人因债务产生的矛盾。",
+            "positive_assumption": "如果我调解矛盾，家族会更团结。",
+            "negative_assumption": "如果我不调解矛盾，家族会因债务分裂。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家族中是有担当的长辈。",
+                "others": "家人应该支持我度过负债难关。",
+                "world": "长辈的责任就是带领家庭走出困境。"
+            },
+            "rules": "我要为家庭制定还债计划。",
+            "positive_assumption": "如果我制定计划，家庭会有序还债。",
+            "negative_assumption": "如果我不制定计划，家庭会陷入混乱。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法摆脱负债的阴影。",
+                "others": "他人的安慰对我没有用。",
+                "world": "过去的负债是无法快速弥补的。"
+            },
+            "rules": "我只能努力工作来偿还债务。",
+            "positive_assumption": "如果我努力工作，债务会慢慢减少。",
+            "negative_assumption": "如果我不努力，债务会永远还不清。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我被承包荒山种植板栗的决定所困扰。",
+                "others": "他人不会理解我当时的冲动。",
+                "world": "过去的错误决定会一直影响现在的生活。"
+            },
+            "rules": "我不能忘记这次投资失败的教训。",
+            "positive_assumption": "如果我牢记教训，以后不会再犯类似错误。",
+            "negative_assumption": "如果我忘记教训，会再次陷入困境。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我能从种植板栗的困难中汲取力量。",
+                "others": "债权人也应该看到我的努力。",
+                "world": "困难是提升自己能力的机会。"
+            },
+            "rules": "我要主动解决种植中的问题。",
+            "positive_assumption": "如果我解决问题，种植能力会更强。",
+            "negative_assumption": "如果我逃避问题，债务会越积越多。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的毅力还清家庭债务。",
+                "others": "债权人应该给我时间来还债。",
+                "world": "负债的困难是可以被克服的。"
+            },
+            "rules": "无论债务压力多大，我都要坚持种植板栗。",
+            "positive_assumption": "如果我坚持下去，债务总会还清。",
+            "negative_assumption": "如果我放弃，家庭就会陷入绝境。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我的辛苦和付出没人真正在意。",
+                "others": "债权人只关心债务，家人也不关心我的感受。",
+                "world": "在负债的世界里，我是孤立无援的。"
+            },
+            "rules": "我只能把压力藏在心里。",
+            "positive_assumption": "如果我把压力藏起来，就不会被人看不起。",
+            "negative_assumption": "如果我表露压力，会被债权人催得更紧。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我独自承担着家庭负债的压力。",
+                "others": "家人不理解我种植板栗的压力。",
+                "world": "在负债的困境中，我只能靠自己。"
+            },
+            "rules": "我不要向家人抱怨种植的困难。",
+            "positive_assumption": "如果我不抱怨，家人就不会更担心。",
+            "negative_assumption": "如果我抱怨，家人会觉得我没能力。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我掌握的农业技艺是家庭的希望。",
+                "others": "家人应该支持我在农业上的尝试。",
+                "world": "农业技能在农村能创造价值。"
+            },
+            "rules": "我要不断改进种植方法。",
+            "positive_assumption": "如果我改进种植方法，家庭经济会更好。",
+            "negative_assumption": "如果我不改进方法，家庭经济无法改善。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我种植板栗的经验能让家庭摆脱负债。",
+                "others": "家人应该相信我的种植能力。",
+                "world": "在农村，靠自己的技能和经验能改善家庭经济。"
+            },
+            "rules": "我要专注于板栗种植，提高产量。",
+            "positive_assumption": "如果我提高板栗产量，家庭就能还清债务。",
+            "negative_assumption": "如果我种不好板栗，家庭会一直负债。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该维护家族对传统技艺的传承。",
+                "others": "家人应该配合我传承祖传犁头技艺。",
+                "world": "家族的传统技艺传承是家族稳定的基础。"
+            },
+            "rules": "我要教导家人祖传犁头的技艺。",
+            "positive_assumption": "如果我教导，家族传统能得以延续。",
+            "negative_assumption": "如果我不教导，家族传统会逐渐消失。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家族中因为保留祖传犁头有一定的地位。",
+                "others": "家人应该尊重我保留犁头的决定。",
+                "world": "在家族中，对传统的坚持应该被尊重。"
+            },
+            "rules": "我要坚持保留祖传犁头，维护在家族中的地位。",
+            "positive_assumption": "如果我坚持，家人会更尊重我。",
+            "negative_assumption": "如果我不坚持，会失去在家族中的地位。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法摆脱大炼钢铁时期保留犁头的压力阴影。",
+                "others": "他人的安慰对我保留犁头没有用。",
+                "world": "过去的压力在特殊时期是无法轻易消除的。"
+            },
+            "rules": "我只能默默承受保留犁头的压力。",
+            "positive_assumption": "如果我承受压力，能保留祖传犁头。",
+            "negative_assumption": "如果我不承受，会失去祖传犁头。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我被大炼钢铁时期可能失去祖传犁头的担忧所困扰。",
+                "others": "他人不会理解我对祖传犁头的重视。",
+                "world": "过去的传统在特殊时期面临挑战，难以保留。"
+            },
+            "rules": "我不能忘记保留祖传犁头的重要性。",
+            "positive_assumption": "如果我牢记，能避免失去祖传的东西。",
+            "negative_assumption": "如果我忘记，会失去祖传犁头。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我能从保留犁头的困难中汲取力量。",
+                "others": "他人也能在类似困难中成长。",
+                "world": "困难是成长的机遇。"
+            },
+            "rules": "我要主动迎接保留犁头的困难。",
+            "positive_assumption": "如果我迎接困难，会变得更强大。",
+            "negative_assumption": "如果我逃避困难，会变得软弱。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的毅力面对大炼钢铁时期保留犁头的困难。",
+                "others": "他人遇到类似困难也应该像我一样坚持。",
+                "world": "生活中的困难是可以被战胜的。"
+            },
+            "rules": "无论遇到什么困难，我都要坚持保留祖传犁头。",
+            "positive_assumption": "如果我坚持下去，困难总会过去。",
+            "negative_assumption": "如果我放弃，就会失去祖传的东西。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我的情感在这个动荡时期无处诉说。",
+                "others": "家人无法给予我真正的情感支持。",
+                "world": "人与人之间的情感在特殊时期是疏远的。"
+            },
+            "rules": "我只能把情感埋在心里。",
+            "positive_assumption": "如果我把情感埋在心里，就不会受伤。",
+            "negative_assumption": "如果我表露情感，会被家人不理解。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是独自面对大炼钢铁时期保留犁头的压力。",
+                "others": "家人不会理解我保留犁头的坚持。",
+                "world": "在这个特殊时期，我只能靠自己。"
+            },
+            "rules": "我不要向家人倾诉保留犁头的压力。",
+            "positive_assumption": "如果我不倾诉，就不会被家人反对。",
+            "negative_assumption": "如果我倾诉，会让家人担心和不理解。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我掌握的农耕经验能让土地有更好的收成。",
+                "others": "家人应该听从我在农耕方面的建议。",
+                "world": "农耕经验在农村是非常重要的财富。"
+            },
+            "rules": "我要积极分享我的农耕经验给家人。",
+            "positive_assumption": "如果我分享经验，家庭的收成会增加。",
+            "negative_assumption": "如果我不分享，家庭收成可能减少。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我祖传的犁头技艺是宝贵的，能让家庭在农耕中更有优势。",
+                "others": "家人应该重视我对祖传犁头的保留和技艺。",
+                "world": "在农村，传统技艺能保障家庭的生存。"
+            },
+            "rules": "我要好好保留祖传犁头，传承相关技艺。",
+            "positive_assumption": "如果我保留和传承技艺，家庭生活会更好。",
+            "negative_assumption": "如果我不保留和传承，家庭农耕会受影响。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该维护骡马队工作的和谐与效率。",
+                "others": "同事应该配合我维护工作秩序。",
+                "world": "工作的稳定是完成任务的基础。"
+            },
+            "rules": "我要调解同事之间的工作矛盾。",
+            "positive_assumption": "如果我调解矛盾，工作会更顺利。",
+            "negative_assumption": "如果我不调解矛盾，工作会受影响。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我在骡马队工作中是有能力的人。",
+                "others": "同事应该听从我的建议。",
+                "world": "有能力的人的经验值得他人尊重。"
+            },
+            "rules": "我要为同事提供合理的骡马工作建议。",
+            "positive_assumption": "如果我提供建议，同事的工作会更顺利。",
+            "negative_assumption": "如果我不提供建议，同事会走弯路。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法摆脱过去饥荒的阴影。",
+                "others": "他人的安慰对我没有用。",
+                "world": "过去饥荒的影响是无法弥补的。"
+            },
+            "rules": "我只能在对饥荒的担忧中努力工作。",
+            "positive_assumption": "如果我努力工作，能让自己更有安全感。",
+            "negative_assumption": "如果我不努力工作，会更担心未来。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我被过去饥荒的经历所困扰，担心未来还会挨饿。",
+                "others": "他人不会理解我对饥荒的恐惧。",
+                "world": "过去的饥荒经历无法改变，会一直影响我的现在和未来。"
+            },
+            "rules": "我不能忘记过去饥荒的教训，要节省粮食。",
+            "positive_assumption": "如果我牢记饥荒教训，能避免再次挨饿。",
+            "negative_assumption": "如果我忘记饥荒教训，会再次陷入困境。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我能从工作困难中汲取力量。",
+                "others": "同事也能在工作困难中成长。",
+                "world": "工作困难是成长的机遇。"
+            },
+            "rules": "我要主动迎接工作困难。",
+            "positive_assumption": "如果我迎接困难，会变得更强大。",
+            "negative_assumption": "如果我逃避困难，会变得软弱。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的毅力克服工作中的困难。",
+                "others": "同事遇到困难也应该像我一样坚强。",
+                "world": "工作中的困难是可以被战胜的。"
+            },
+            "rules": "无论遇到什么工作困难，我都要坚持下去。",
+            "positive_assumption": "如果我坚持下去，困难总会过去。",
+            "negative_assumption": "如果我放弃，就会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我的情感无处倾诉。",
+                "others": "同事无法给予我真正的情感支持。",
+                "world": "人与人之间的情感是疏远的。"
+            },
+            "rules": "我只能把情感埋在心里。",
+            "positive_assumption": "如果我把情感埋在心里，就不会受伤。",
+            "negative_assumption": "如果我表露情感，会被同事嘲笑。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是独自面对工作中的一切。",
+                "others": "同事只关心自己的工作，不会在意我的感受。",
+                "world": "在工作中，我是一个孤独的个体。"
+            },
+            "rules": "我不要轻易向同事表达自己的想法。",
+            "positive_assumption": "如果我不表达想法，就不会被拒绝。",
+            "negative_assumption": "如果我表达想法，会让同事厌烦。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力胜任骡马把式这份工作。",
+                "others": "同事应该认可我的工作能力。",
+                "world": "在工作中，有能力的人会得到更多机会。"
+            },
+            "rules": "我要出色完成每一次骡马运输任务。",
+            "positive_assumption": "如果我完成好任务，会获得更多工作机会。",
+            "negative_assumption": "如果我任务完成不好，会失去工作机会。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我掌握的骡马把式技能是宝贵的，能让我在工作中脱颖而出。",
+                "others": "雇主应该重视我的能力和贡献。",
+                "world": "在工作中，每个人的能力都应该被认可。"
+            },
+            "rules": "我要不断提升我的骡马把式技能，让雇主看到我的价值。",
+            "positive_assumption": "如果我提升技能，雇主会更赏识我。",
+            "negative_assumption": "如果我不提升技能，雇主会忽视我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我应该维护家庭的稳定。",
+                "others": "弟妹应该配合我维护家庭。",
+                "world": "家庭的稳定是生存的基础。"
+            },
+            "rules": "我要调解弟妹之间的小矛盾。",
+            "positive_assumption": "如果我调解矛盾，家庭会更和睦。",
+            "negative_assumption": "如果我不调解，家庭会不和谐。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭中是有地位的，能保护弟妹。",
+                "others": "弟妹应该听从我的安排。",
+                "world": "在家庭中，有能力的人应该被尊重。"
+            },
+            "rules": "我要为弟妹做出正确的决策。",
+            "positive_assumption": "如果我做出正确决策，弟妹会更安全。",
+            "negative_assumption": "如果我决策失误，会让弟妹陷入危险。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法摆脱三弟夭折的阴影。",
+                "others": "他人的安慰对我没有用。",
+                "world": "三弟的死是无法弥补的。"
+            },
+            "rules": "我只能在回忆中痛苦。",
+            "positive_assumption": "如果我沉浸在回忆中，能让我更珍惜其他弟妹。",
+            "negative_assumption": "如果我试图忘记，会让我更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我被三弟夭折的事情所困扰。",
+                "others": "别人不会理解我失去弟弟的痛苦。",
+                "world": "三弟的死无法改变，会一直影响我。"
+            },
+            "rules": "我不能忘记三弟夭折的教训。",
+            "positive_assumption": "如果我牢记教训，能更好地照顾其他弟妹。",
+            "negative_assumption": "如果我忘记，可能会让其他弟妹也遭遇危险。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我能从饥荒中汲取生存的力量。",
+                "others": "他人也能在饥荒中成长。",
+                "world": "饥荒是成长的机遇。"
+            },
+            "rules": "我要主动寻找应对饥荒的方法。",
+            "positive_assumption": "如果我主动应对，会变得更强大。",
+            "negative_assumption": "如果我逃避，会变得更脆弱。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的毅力度过饥荒。",
+                "others": "其他人也应该像我一样坚强。",
+                "world": "饥荒是可以被战胜的。"
+            },
+            "rules": "无论多饿多累，我都要坚持找食物。",
+            "positive_assumption": "如果我坚持下去，饥荒总会过去。",
+            "negative_assumption": "如果我放弃，就会被饥荒打倒。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是一个人承受着家庭的重担。",
+                "others": "没有人能理解我内心的痛苦。",
+                "world": "在这个艰难的世界里，我只能靠自己。"
+            },
+            "rules": "我不要向别人倾诉自己的烦恼。",
+            "positive_assumption": "如果我不倾诉，就不会被嘲笑。",
+            "negative_assumption": "如果我倾诉，别人也不会在意。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我只能独自面对饥荒的压力。",
+                "others": "别人无法真正帮我承担家庭责任。",
+                "world": "在饥荒中，每个人都自顾不暇。"
+            },
+            "rules": "我不要指望别人来帮我照顾弟妹。",
+            "positive_assumption": "如果我不依赖别人，就不会失望。",
+            "negative_assumption": "如果我依赖别人，可能会让家人陷入危险。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我是家庭的支柱，能保障家人基本生存。",
+                "others": "家人需要我来维持生活。",
+                "world": "在艰难时期，每个人的付出都关乎家庭存亡。"
+            },
+            "rules": "我不能放弃寻找食物的任何机会。",
+            "positive_assumption": "如果我不放弃，家人就有希望。",
+            "negative_assumption": "如果我放弃，家庭就会破碎。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力找到食物养活弟妹。",
+                "others": "弟妹的生存依赖于我的努力。",
+                "world": "在饥荒中，我对家庭的付出很重要。"
+            },
+            "rules": "我要每天去挖观音土等食物。",
+            "positive_assumption": "如果我努力找食物，弟妹就能活下去。",
+            "negative_assumption": "如果我不努力，弟妹就会饿死。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

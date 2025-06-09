@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我只能自己面对生活中的困难。",
+                "others": "别人不会帮助我解决问题。",
+                "world": "生活很艰难，只能靠自己。"
+            },
+            "rules": "我要学会独立，不依赖别人。",
+            "positive_assumption": "如果我独立，能让自己更坚强。",
+            "negative_assumption": "如果我依赖别人，会变得软弱。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "没有人真正关心我的感受。",
+                "others": "别人都有自己的生活，不会在意我。",
+                "world": "这个世界很冷漠。"
+            },
+            "rules": "我不要对别人抱有太高的期望。",
+            "positive_assumption": "如果我不期望，就不会失望。",
+            "negative_assumption": "如果我期望，会被伤害。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以把自己的经验传授给下一代。",
+                "others": "年轻人会愿意学习我的经验。",
+                "world": "传承技艺是有意义的。"
+            },
+            "rules": "我应该主动和年轻人交流，分享我的经验。",
+            "positive_assumption": "如果我分享，能让传统技艺得到传承。",
+            "negative_assumption": "如果我不分享，传统技艺可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以在自己擅长的领域继续发挥作用。",
+                "others": "家人和朋友会支持我做有意义的事。",
+                "world": "这个世界还有我能做的事情。"
+            },
+            "rules": "我应该继续做自己喜欢的木工活。",
+            "positive_assumption": "如果我继续做，能让自己的生活更充实。",
+            "negative_assumption": "如果我放弃，生活会变得没有意义。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我在新的环境中会不知所措。",
+                "others": "别人不会帮助我适应新环境。",
+                "world": "新的环境对我来说是一种挑战。"
+            },
+            "rules": "我应该待在熟悉的环境里。",
+            "positive_assumption": "如果我待在熟悉的环境，会感到安全。",
+            "negative_assumption": "如果我进入新环境，会感到焦虑和无助。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法理解现在的新事物。",
+                "others": "年轻人和我有很大的代沟。",
+                "world": "时代变化太快，我无法适应。"
+            },
+            "rules": "我不要尝试接触新事物，以免出丑。",
+            "positive_assumption": "如果我不接触，就不会暴露自己的无知。",
+            "negative_assumption": "如果我接触，会被嘲笑跟不上时代。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我有值得骄傲的过去。",
+                "others": "别人会尊重我的过去经历。",
+                "world": "过去的经历是我宝贵的财富。"
+            },
+            "rules": "我可以和别人分享我的过去故事。",
+            "positive_assumption": "如果我分享，能得到别人的尊重和理解。",
+            "negative_assumption": "如果我不分享，别人会忽视我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我曾经的成就证明我是有能力的。",
+                "others": "曾经有人认可我的价值。",
+                "world": "我在过去的时光里留下了自己的印记。"
+            },
+            "rules": "我应该回忆过去的成就，从中获得力量。",
+            "positive_assumption": "如果我回忆过去，能让自己更有自信。",
+            "negative_assumption": "如果我忘记过去，会失去对自己的信心。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我做的事情都没有价值。",
+                "others": "别人不会认可我的付出。",
+                "world": "努力是没有意义的。"
+            },
+            "rules": "我不要主动去做事情，以免被拒绝。",
+            "positive_assumption": "如果我不主动，就不会被否定。",
+            "negative_assumption": "如果我主动，会被认为是自不量力。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我现在的技能和经验已经没有用了。",
+                "others": "别人不再需要我了。",
+                "world": "这个世界已经没有我的位置了。"
+            },
+            "rules": "我应该放弃自己的手艺，不再尝试展示自己的能力。",
+            "positive_assumption": "如果我放弃，就不会再感受到被人忽视的痛苦。",
+            "negative_assumption": "如果我继续坚持，只会让自己更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我只能自己面对传统木工技艺没落带来的困境。",
+                "others": "别人不会帮助我解决传统木工技艺发展的问题。",
+                "world": "生活很艰难，只能靠自己。"
+            },
+            "rules": "我要学会独立，不依赖别人解决传统木工的困境。",
+            "positive_assumption": "如果我独立，能让自己更坚强。",
+            "negative_assumption": "如果我依赖别人，会变得软弱。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我在火车站帮农民工修行李车，他们只是过客，没人真正关心我的内心感受。",
+                "others": "别人都有自己的生活，不会在意我的孤独。",
+                "world": "这个世界很冷漠，我只能独自面对孤独。"
+            },
+            "rules": "我不要对别人抱有太高的情感期望。",
+            "positive_assumption": "如果我不期望，就不会失望。",
+            "negative_assumption": "如果我期望，会被伤害。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以把自己的木工经验传授给对这方面感兴趣的年轻人。",
+                "others": "年轻人可能会愿意学习我的木工经验。",
+                "world": "传承传统木工技艺是有意义的事情。"
+            },
+            "rules": "我应该主动和年轻人交流，分享我的木工经验。",
+            "positive_assumption": "如果我分享，能让传统木工技艺得到传承。",
+            "negative_assumption": "如果我不分享，传统技艺可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以在火车站帮农民工修行李车，为他们提供帮助。",
+                "others": "农民工需要我的帮助，他们会感激我。",
+                "world": "在这个社会上，我还有能做的有意义的小事。"
+            },
+            "rules": "我应该继续在火车站帮农民工修行李车。",
+            "positive_assumption": "如果我继续做，能让自己的生活更有意义。",
+            "negative_assumption": "如果我放弃，生活会变得更空虚。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我在适应新的就业环境时会感到迷茫。",
+                "others": "别人不会耐心帮助我适应新的就业环境。",
+                "world": "新的就业环境对我来说是很大的挑战。"
+            },
+            "rules": "我应该待在熟悉的木工领域，不要轻易进入新的就业环境。",
+            "positive_assumption": "如果我待在熟悉的领域，会感到安心。",
+            "negative_assumption": "如果我进入新环境，会感到焦虑和无助。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我对现代工业生产的家具制作技术一窍不通。",
+                "others": "年轻人更愿意学习和从事现代工业相关的工作，和我有很大差距。",
+                "world": "时代的发展让传统木工和现代工业的差距越来越大。"
+            },
+            "rules": "我不要轻易尝试学习现代工业的家具制作技术，以免学不会丢脸。",
+            "positive_assumption": "如果我不尝试，就不会暴露自己在这方面的无知。",
+            "negative_assumption": "如果我尝试，会被年轻人嘲笑跟不上时代。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我过去的木工成就证明我是有能力的手艺人。",
+                "others": "同行会尊重我过去的成就。",
+                "world": "过去的成就为我积累了一定的声誉。"
+            },
+            "rules": "我可以和同行分享我过去的木工经验。",
+            "positive_assumption": "如果我分享，能得到同行的认可和尊重。",
+            "negative_assumption": "如果我不分享，别人可能会忽视我的能力。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我曾经参与祠堂修缮，说明我有精湛的木工技艺。",
+                "others": "曾经大家认可我的木工手艺，簇拥着我参与重要的修缮工作。",
+                "world": "在过去，我的手艺能在重要的事情上发挥作用。"
+            },
+            "rules": "我应该回忆过去参与祠堂修缮的经历，激励自己。",
+            "positive_assumption": "如果我回忆过去，能让自己更有信心面对现在的困境。",
+            "negative_assumption": "如果我忘记过去，会彻底失去对自己的信心。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我在火车站帮农民工修行李车只是小事，没什么价值。",
+                "others": "农民工可能不会真正感激我，只是把我当成临时的修理工。",
+                "world": "做这些小善事对改变我的现状没有帮助。"
+            },
+            "rules": "我不要把太多精力放在帮别人修行李车上。",
+            "positive_assumption": "如果我不把精力放在这上面，能有更多时间考虑自己的生计。",
+            "negative_assumption": "如果我一直投入在这上面，会耽误自己的正事。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我的木工手艺在现代社会越来越没用处了。",
+                "others": "大家对传统木工活的需求越来越少，不再需要我这样的手艺人。",
+                "world": "时代发展太快，传统技艺的生存空间越来越小。"
+            },
+            "rules": "我不能只靠木工手艺谋生，要尝试其他工作。",
+            "positive_assumption": "如果我尝试其他工作，可能会找到新的价值。",
+            "negative_assumption": "如果我只守着木工手艺，生活会越来越艰难。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "在族里，虽然有人围绕在身边，但内心还是会感到孤独。",
+                "others": "大家都有自己的事情，不会真正关心我的内心感受。",
+                "world": "这个世界很冷漠，很难找到真正的理解和陪伴。"
+            },
+            "rules": "我不要对别人的关心抱有太高期望。",
+            "positive_assumption": "如果不期望，就不会失望。",
+            "negative_assumption": "如果期望，会被伤害。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "在修缮宗祠牌坊的过程中，我可能会独自面对很多困难。",
+                "others": "别人可能无法真正理解我所面临的压力。",
+                "world": "很多事情只能靠自己去解决。"
+            },
+            "rules": "我要学会自己承担工作中的压力和困难。",
+            "positive_assumption": "如果自己承担，能让自己变得更坚强。",
+            "negative_assumption": "如果依赖别人，会显得自己很软弱。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "主持修缮宗祠牌坊是一件有意义的事情，能让我找到自己的定位。",
+                "others": "参与这项工作能得到族里人的支持和配合。",
+                "world": "在宗族事务中发挥作用，就是我的存在意义。"
+            },
+            "rules": "我要全身心投入到宗祠牌坊的修缮工作中。",
+            "positive_assumption": "如果投入工作，能让自己更有成就感。",
+            "negative_assumption": "如果不投入，会觉得自己没有存在的意义。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我在木工技艺上的专长，能为宗族和社会做出贡献。",
+                "others": "族里的人会需要我的木工技能。",
+                "world": "这个世界需要像我这样有传统技艺的人。"
+            },
+            "rules": "我要继续提升自己的木工技能，为大家服务。",
+            "positive_assumption": "如果提升技能，能更好地体现自己的存在意义。",
+            "negative_assumption": "如果放弃技能提升，会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "在集体公社到包产到户的变革中，我可能无法快速适应新的生产模式。",
+                "others": "其他人可能会比我更容易适应新变化。",
+                "world": "新的生产模式对我来说是一种挑战。"
+            },
+            "rules": "我应该先观察别人怎么做，再慢慢尝试新的生产模式。",
+            "positive_assumption": "如果先观察，能减少犯错的几率。",
+            "negative_assumption": "如果贸然尝试，可能会失败。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "面对时代的变革，我可能无法理解新的政策和发展趋势。",
+                "others": "年轻一代能更快地适应新变化，而我会和他们有差距。",
+                "world": "时代发展太快，我很难跟上步伐。"
+            },
+            "rules": "我不要轻易尝试新的事物和理念，以免犯错。",
+            "positive_assumption": "如果不尝试，就不会暴露自己跟不上时代。",
+            "negative_assumption": "如果尝试，会被人嘲笑跟不上时代。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我在修缮过程中的创意和想法，是我有价值的体现。",
+                "others": "别人会欣赏我的独特见解。",
+                "world": "在传统事务中，创新和独特的思维是有意义的。"
+            },
+            "rules": "我应该在修缮工作中大胆提出自己的想法。",
+            "positive_assumption": "如果想法被采纳，能进一步证明我的价值。",
+            "negative_assumption": "如果想法被否定，会觉得自己的价值降低。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "成功主持修缮宗祠牌坊，说明我具备专业的木工技能和组织能力。",
+                "others": "族里的人会因为我的成果而认可我的价值。",
+                "world": "在传统技艺的领域里，做出成绩就能被肯定。"
+            },
+            "rules": "我要努力把宗祠牌坊修缮好，展示自己的能力。",
+            "positive_assumption": "如果修缮成功，我会得到大家的尊重和认可。",
+            "negative_assumption": "如果修缮失败，我的价值就无法体现。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "要是我在修缮过程中遇到解决不了的问题，就体现出我很没用。",
+                "others": "别人会觉得我没有资格承担这项工作。",
+                "world": "只有能顺利解决所有问题的人，才是有价值的。"
+            },
+            "rules": "我不能在别人面前暴露自己解决不了问题。",
+            "positive_assumption": "如果不暴露问题，别人就会认为我有能力。",
+            "negative_assumption": "如果暴露问题，会被人看不起。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "在主持修缮宗祠牌坊时，如果出现失误，就说明我能力不足。",
+                "others": "族里的长辈和其他人会因为我的失误而否定我。",
+                "world": "在这种重要的事务中，不允许有一点差错，否则就没有价值。"
+            },
+            "rules": "我必须把修缮宗祠牌坊的工作做到完美无缺。",
+            "positive_assumption": "如果我做到完美，就能证明自己是有能力的。",
+            "negative_assumption": "如果出现失误，我就是一个无用的人。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我只能自己解决木工学习中的问题。",
+                "others": "别人不会主动帮助我解决问题。",
+                "world": "在木工学习的道路上，只能靠自己。"
+            },
+            "rules": "我要学会独立思考，自己寻找解决问题的方法。",
+            "positive_assumption": "如果我独立解决问题，能让自己更强大。",
+            "negative_assumption": "如果我依赖别人，会变得更无助。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我在公社里和其他学徒不太熟，没人真正关心我。",
+                "others": "他们都有自己的圈子，不会在意我。",
+                "world": "在公社这个环境里，我很孤独。"
+            },
+            "rules": "我要专注于自己的木工学习，少参与他们的活动。",
+            "positive_assumption": "如果我专注学习，能提升自己，减少孤独感。",
+            "negative_assumption": "如果我参与活动，可能还是会被忽视，更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以把自己学到的木工小技巧分享给其他学徒。",
+                "others": "其他学徒会愿意学习我的技巧。",
+                "world": "在木工行业里，分享经验是有意义的。"
+            },
+            "rules": "我要主动和其他学徒交流，分享自己的经验。",
+            "positive_assumption": "如果我分享，能帮助其他学徒，也能提升自己的影响力。",
+            "negative_assumption": "如果我不分享，就浪费了自己的经验。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过学习木工技能，为公社做出贡献。",
+                "others": "师傅和公社的人会支持我学习和成长。",
+                "world": "这个世界需要有技艺的木匠，我有存在的意义。"
+            },
+            "rules": "我要认真学习木工知识，不断提高自己的能力。",
+            "positive_assumption": "如果我提高能力，能为公社做出更多贡献。",
+            "negative_assumption": "如果我不学习，就无法体现自己的意义。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我不太理解公社里关于木工生产的新政策，有些跟不上。",
+                "others": "其他木匠可能对新政策理解得更好。",
+                "world": "时代变化太快，我很难适应新政策。"
+            },
+            "rules": "我要多关注公社的政策宣传，努力理解新政策。",
+            "positive_assumption": "如果我努力理解，能跟上公社的发展要求。",
+            "negative_assumption": "如果我不关注，会被公社淘汰。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我对公社里新引进的一些木工工具不太会用，跟不上发展。",
+                "others": "师傅和师兄们对新工具可能更熟悉。",
+                "world": "木工行业发展很快，我很难跟上。"
+            },
+            "rules": "我要向师傅和师兄请教新工具的使用方法。",
+            "positive_assumption": "如果我请教，能更快掌握新工具，跟上发展。",
+            "negative_assumption": "如果我不请教，会和大家的差距越来越大。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我在某些简单的木工活上做得还不错，有自己的长处。",
+                "others": "师兄们可能会对我的长处表示赞赏。",
+                "world": "只要发挥长处，我能在木工行业有所作为。"
+            },
+            "rules": "我要多展示自己的长处，让师傅和师兄看到。",
+            "positive_assumption": "如果我展示长处，能得到更多的认可和指导。",
+            "negative_assumption": "如果我不展示，别人可能看不到我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我能成为公社最年轻的木匠学徒，说明我有一定天赋。",
+                "others": "师傅愿意收我为徒，是认可我的。",
+                "world": "在木工行业里，我有机会证明自己的价值。"
+            },
+            "rules": "我要抓住每一次学习和实践的机会，提升自己。",
+            "positive_assumption": "如果我努力提升，能做出好的木工活，证明自己的价值。",
+            "negative_assumption": "如果我错过机会，可能就无法证明自己了。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我做的木工活总是达不到师傅的要求，很没用。",
+                "others": "师傅对我的表现可能很失望。",
+                "world": "想要成为合格的木匠太难了，我可能做不到。"
+            },
+            "rules": "我要花更多时间练习木工技能，不能偷懒。",
+            "positive_assumption": "如果我努力练习，可能会提高技能，变得有用。",
+            "negative_assumption": "如果我偷懒，会一直这么没用。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我作为学徒，很多木工技能都还没掌握好，没什么用。",
+                "others": "师傅和其他师兄们可能觉得我帮不上什么忙。",
+                "world": "在木工这个行业里，我现在还没有立足之地。"
+            },
+            "rules": "我要多听师傅和师兄的话，少发表自己的意见。",
+            "positive_assumption": "如果我听话，可能会少犯错，不被嫌弃。",
+            "negative_assumption": "如果我发表意见，会被认为不懂装懂。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我只能自己去寻找野菜，面对饥饿。",
+                "others": "别人不会帮助我解决饥饿问题。",
+                "world": "生活很艰难，只能靠自己。"
+            },
+            "rules": "我要学会独立寻找食物。",
+            "positive_assumption": "如果我独立，能让自己更坚强。",
+            "negative_assumption": "如果我依赖别人，会变得软弱。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "没有人真正关心我饿不饿。",
+                "others": "别人都只关心自己的生存。",
+                "world": "这个世界很冷漠。"
+            },
+            "rules": "我不要对别人抱有太高的期望。",
+            "positive_assumption": "如果我不期望，就不会失望。",
+            "negative_assumption": "如果我期望，会被伤害。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以把辨识野菜的方法教给别人。",
+                "others": "别人会愿意学习我的方法。",
+                "world": "我的经验能帮助到更多人。"
+            },
+            "rules": "我应该主动和别人交流辨识野菜的经验。",
+            "positive_assumption": "如果我分享，能让更多人度过难关。",
+            "negative_assumption": "如果我不分享，别人可能会挨饿。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我能辨识野菜，对家庭有一定的作用。",
+                "others": "家人会因为我能辨识野菜而重视我。",
+                "world": "我在这个家庭和社会中是有存在意义的。"
+            },
+            "rules": "我要继续为家庭寻找食物。",
+            "positive_assumption": "如果我继续寻找食物，能让家人过得更好。",
+            "negative_assumption": "如果我放弃，家人可能会挨饿。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我对新出现的困难应对能力不足。",
+                "others": "别人可能有更好的办法应对困难。",
+                "world": "不断出现的困难让我很难适应。"
+            },
+            "rules": "我不要轻易尝试新的挑战。",
+            "positive_assumption": "如果我不尝试，就不会暴露自己的不足。",
+            "negative_assumption": "如果我尝试，会被证明自己跟不上。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我很难适应新的生活变化，比如自然灾害。",
+                "others": "别人可能比我更容易适应这种变化。",
+                "world": "这个世界变化太快，我很难跟上。"
+            },
+            "rules": "我要尽量待在熟悉的环境里。",
+            "positive_assumption": "如果我待在熟悉的环境，会感觉更安全。",
+            "negative_assumption": "如果我进入新环境，会不知所措。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我学会辨识野菜是值得骄傲的事。",
+                "others": "别人会因为我会辨识野菜而尊重我。",
+                "world": "我的技能在这个时期是有意义的。"
+            },
+            "rules": "我可以和别人分享我辨识野菜的经验。",
+            "positive_assumption": "如果我分享，能得到别人的认可。",
+            "negative_assumption": "如果我不分享，别人会忽视我的能力。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我能学会辨识野菜，说明我是有能力的。",
+                "others": "父亲和邻居会认可我学会辨识野菜这件事。",
+                "world": "我在这个艰难时期也能做出一点贡献。"
+            },
+            "rules": "我要继续学习更多生存技能。",
+            "positive_assumption": "如果我继续学习，能让自己更有价值。",
+            "negative_assumption": "如果我停止学习，会变得没有用。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是给别人添麻烦，没什么价值。",
+                "others": "别人可能觉得我是个负担。",
+                "world": "我在这个世界上没什么作用。"
+            },
+            "rules": "我要尽量少麻烦别人。",
+            "positive_assumption": "如果我不麻烦别人，别人就不会讨厌我。",
+            "negative_assumption": "如果我麻烦别人，会被嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我连野菜都可能认不全，没什么用。",
+                "others": "别人都比我厉害，能更好地应对困难。",
+                "world": "在这个艰难的世界，我很难有立足之地。"
+            },
+            "rules": "我不要尝试做太难的事，以免失败。",
+            "positive_assumption": "如果我不尝试，就不会经历失败的痛苦。",
+            "negative_assumption": "如果我尝试，会被证明自己更没用。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

@@ -1,0 +1,205 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": 50047402,
+            "name": "王桂芬",
+            "en_name": "wangguifen",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "economic_status": "",
+            "co_residence": "",
+            "birth_place": "",
+            "children_number": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": ""
+        },
+        "character": [
+            "坚韧",
+            "隐忍",
+            "情感细腻",
+            "过度自省",
+            "隐藏脆弱",
+            "害怕成为负担"
+        ],
+        "appearance": [
+            "银发整齐梳髻",
+            "深褐色老年斑",
+            "青筋凸起的手背",
+            "褪色棉布斜襟衫",
+            "轻微驼背但步伐稳当"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "打理小菜园",
+                "修补旧衣物",
+                "抄写佛经",
+                "收听戏曲广播"
+            ],
+            "activity": [
+                "清晨扫院子落叶",
+                "给流浪猫留剩饭",
+                "擦拭老式梳妆镜",
+                "翻看泛黄全家福"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "在农历生日接到三儿子的越洋电话",
+            "long_term_goals": "带着珍藏的银镯子平静离世，骨灰撒在丈夫耕作过的稻田"
+        },
+        "daily_life": {
+            "routine": "05:30起床烧柴煮粥/07:00喂鸡时数鸡蛋裂纹/10:00用算盘核对三十年账本/14:00在堂屋藤椅上假寐听蝉鸣/17:30就着腌萝卜喝半碗冷粥",
+            "weekends": "反复擦拭六个空碗摆在八仙桌上/用红毛线编织永远送不出去的婴儿鞋/把止痛药片按颜色分类排列窗台"
+        },
+        "past_experiences": {
+            "childhood": "九岁在饥荒中目睹妹妹被换粮",
+            "adolescence": "十六岁被抵债嫁给肺痨丈夫",
+            "youth": "连续流产四次后收养战争孤儿",
+            "middle_aged": "独自耕种养活三个大学生",
+            "recent_events": "百岁宴被子女集体遗忘后开始焚烧书信"
+        },
+        "environment": "生于苏北盐碱地村落，七十年代迁至皖南丘陵地带，现独居在长子承包的茶园边缘夯土房，屋内保留着1982年的搪瓷脸盆和印有'劳动模范'的掉漆暖水瓶",
+        "persona_summary": "王桂芬，87岁农村女性，经济一般，独居茶园边缘夯土房。她坚韧隐忍、情感细腻，害怕成为负担。ADL和MMSE测试正常，有重度抑郁风险。爱好打理菜园、抄写佛经等。短期想生日接到三儿子电话，长期希望带银镯离世撒骨灰。童年经历饥荒，一生坎坷，近期百岁宴被子女遗忘后开始烧信。 ",
+        "social_summary": "王桂芬的社会关系受时代创伤与生存压迫影响。童年与胞妹分离，有善良邻居；青春期有肺痨丈夫和恶婆婆；青年时养子夭折，有帮其结扎的助产士；中年有留学、定居及断绝往来的子女，还有债主；近期子女疏离失联，她与流浪猫相伴。百岁宴后社交断绝，仅与丈夫遗物、猫群及想象中子女单向联系，呈社交退行状态。 "
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "妹妹",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "九岁饥荒时被迫分离的胞妹，成为终生心理创伤的具象化符号"
+                    ]
+                },
+                {
+                    "relationship": "邻居",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        1,
+                        3
+                    ],
+                    "description": [
+                        "用荞麦皮帮其止血的裁缝婶子",
+                        "偷塞地瓜干的鳏夫猎户",
+                        "见证换粮惨剧的保长女儿"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "丈夫",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "咳血时会把痰盂藏进床底的肺痨丈夫，维持着病态的相敬如宾"
+                    ]
+                },
+                {
+                    "relationship": "婆婆",
+                    "count": 1,
+                    "familiarity": [
+                        1
+                    ],
+                    "description": [
+                        "用缝衣针扎其大腿检验生育能力的恶婆婆"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "养子",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "淮海战役遗孤，五岁时因脑膜炎夭折，成为永不触碰的禁忌"
+                    ]
+                },
+                {
+                    "relationship": "助产士",
+                    "count": 1,
+                    "familiarity": [
+                        5
+                    ],
+                    "description": [
+                        "第四次流产后为其秘密实施输卵管结扎的教会医院修女"
+                    ]
+                }
+            ],
+            "middle_aged": [
+                {
+                    "relationship": "子女",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        1
+                    ],
+                    "description": [
+                        "留学美国的长子",
+                        "定居深圳的次女",
+                        "断绝往来的三子"
+                    ]
+                },
+                {
+                    "relationship": "债主",
+                    "count": 2,
+                    "familiarity": [
+                        4,
+                        3
+                    ],
+                    "description": [
+                        "默许其偷捡棉铃的公社主任",
+                        "接受用头发抵利息的供销社会计"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "子女",
+                    "count": 3,
+                    "familiarity": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "description": [
+                        "十年未归的长子",
+                        "拉黑其号码的次女",
+                        "失联七年的三子"
+                    ]
+                },
+                {
+                    "relationship": "动物",
+                    "count": 5,
+                    "familiarity": [
+                        5,
+                        5,
+                        5,
+                        5,
+                        5
+                    ],
+                    "description": [
+                        "瘸腿橘猫",
+                        "独眼狸花",
+                        "断尾白猫",
+                        "怀孕的三花",
+                        "死去的幼崽标本"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "从被迫分离的血亲到工具化的婚姻，从短暂拥有的养子到最终疏离的亲子，王桂芬的社会关系始终笼罩在时代创伤与生存压迫之下。青年时期四次流产与养子夭折彻底摧毁其情感联结能力，中年为供养子女刻意维持功利性社交，晚年通过饲喂流浪猫重构拟态亲情。百岁宴事件成为社交断绝的临界点，当前仅与丈夫遗物、猫群及想象中子女保持单向度联系，呈现出创伤代际传递下的社交退行状态。"
+    }
+}

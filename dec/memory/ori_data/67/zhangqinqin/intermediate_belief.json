@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的毅力和韧性面对生活中的挑战。",
+                "others": "家人会被我的精神所鼓舞。",
+                "world": "生活中的挑战能让人变得更强大。"
+            },
+            "rules": "我要保持乐观的心态，面对身体机能下降的现实。",
+            "positive_assumption": "如果我保持乐观，能更好地应对身体变化，也能影响家人。",
+            "negative_assumption": "如果我消极悲观，会让家人也担心。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过那么多困难都过来了，这次身体受伤也能克服。",
+                "others": "家人应该相信我有克服困难的能力。",
+                "world": "困难只是暂时的，只要坚持就能度过。"
+            },
+            "rules": "我要积极进行康复训练，争取早日恢复。",
+            "positive_assumption": "如果我积极训练，身体会恢复得更快。",
+            "negative_assumption": "如果我不训练，身体恢复会更慢。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我受伤后行动受限，很多以前能做的事现在做不了。",
+                "others": "家人应该给予我更多的关心和照顾。",
+                "world": "身体受伤时需要他人的帮助。"
+            },
+            "rules": "当我身体不适时，要及时告诉家人。",
+            "positive_assumption": "如果我及时告知，家人能及时照顾我，我会更舒服。",
+            "negative_assumption": "如果我不告知，自己会更难受。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我的身体不如以前了，很多事情做起来更吃力。",
+                "others": "家人应该理解我身体的不便。",
+                "world": "随着年龄增长，身体机能下降是正常的。"
+            },
+            "rules": "我要根据自己的身体状况调整生活节奏。",
+            "positive_assumption": "如果我调整节奏，能更好地保护身体，减少不适。",
+            "negative_assumption": "如果我不调整，身体会更吃不消。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以把自己的生存智慧教授给晚辈，对他们的成长有帮助。",
+                "others": "晚辈需要我传授生活经验。",
+                "world": "代际传承是家庭延续的重要方式。"
+            },
+            "rules": "我要把自己会的技能和知识教给曾孙女等晚辈。",
+            "positive_assumption": "如果我传授经验，能让晚辈更好地成长，他们会更需要我。",
+            "negative_assumption": "如果我不传授，家庭的传统和智慧可能会丢失。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我能通过记账等方式为家庭管理财务，是家人的好帮手。",
+                "others": "家人需要我来帮忙管理家庭的收支。",
+                "world": "在家庭中，每个人都有自己的角色和作用。"
+            },
+            "rules": "我要认真核对儿孙给的菜钱账目，做好家庭财务管理。",
+            "positive_assumption": "如果我做好财务管理，能让家庭经济更有序，家人更需要我。",
+            "negative_assumption": "如果我不做好，家人可能会觉得我没用。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以在受伤后坚持不用轮椅，保持行动的独立性。",
+                "others": "家人应该支持我这种独立的选择。",
+                "world": "克服困难保持独立能赢得他人的尊重。"
+            },
+            "rules": "我要坚持不用轮椅，展现自己的独立。",
+            "positive_assumption": "如果我坚持不用轮椅，能证明自己的坚强和独立。",
+            "negative_assumption": "如果我用了轮椅，就好像承认自己失去了独立能力。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力自己完成很多事情，不需要过多依赖别人。",
+                "others": "家人应该相信我能照顾好自己。",
+                "world": "独立是一种值得尊重的品质。"
+            },
+            "rules": "我尽量自己完成日常事务，不轻易麻烦家人。",
+            "positive_assumption": "如果我保持独立，家人会更放心，我也更自由。",
+            "negative_assumption": "如果我依赖家人，会被认为是累赘。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我能通过自己的爱好为家庭带来乐趣和温暖。",
+                "others": "家人会喜欢我种的菜和编织的物品。",
+                "world": "生活中充满了创造价值的机会。"
+            },
+            "rules": "我要坚持自己的爱好，为家庭增添美好。",
+            "positive_assumption": "如果我坚持爱好，能让家庭氛围更融洽，我更有价值。",
+            "negative_assumption": "如果我放弃爱好，家庭会少了很多乐趣。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我一生积累的经验和智慧是有价值的。",
+                "others": "家人和晚辈会尊重我的意见和建议。",
+                "world": "在这个世界上，每个人都有自己独特的价值。"
+            },
+            "rules": "我应该把自己的经验和智慧分享给家人。",
+            "positive_assumption": "如果我分享经验，能让家人少走弯路，我会更有价值。",
+            "negative_assumption": "如果我不分享，我的价值就无法体现。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的毅力和韧性面对卖竹编过程中的挑战。",
+                "others": "家人会被我的精神所鼓舞。",
+                "world": "生活中的挑战能让人变得更强大。"
+            },
+            "rules": "我要保持乐观的心态，面对销售竹编的困难。",
+            "positive_assumption": "如果我保持乐观，能更好地应对挑战，也能影响家人。",
+            "negative_assumption": "如果我消极悲观，会让家人也担心。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过大跃进挖观音土的困难，现在卖竹编供儿子上学的困难也能克服。",
+                "others": "家人应该相信我有克服困难的能力。",
+                "world": "困难只是暂时的，只要坚持就能度过。"
+            },
+            "rules": "我要坚持卖竹编，不被困难打倒。",
+            "positive_assumption": "如果我坚持下去，能攒够儿子上学的钱。",
+            "negative_assumption": "如果我放弃，儿子上学的事就没希望了。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我长时间编竹编，身体会感到疲劳，很多以前轻松能做的事现在做起来吃力。",
+                "others": "家人应该给予我更多的关心和休息时间。",
+                "world": "身体疲劳时需要适当休息。"
+            },
+            "rules": "当我身体疲劳时，要及时休息。",
+            "positive_assumption": "如果我及时休息，身体能恢复，编竹编的效率会更高。",
+            "negative_assumption": "如果我不休息，身体会更吃不消，影响竹编质量。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "随着年龄增长，我编竹编的速度不如以前了。",
+                "others": "家人应该理解我身体的变化。",
+                "world": "人到中年，身体机能下降是正常的。"
+            },
+            "rules": "我要根据自己的身体状况调整编竹编的速度。",
+            "positive_assumption": "如果我调整速度，能更好地保护身体，编出更多竹编。",
+            "negative_assumption": "如果我不调整，身体会更累，竹编产量也会下降。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以把编织竹编的手艺传授给邻居，对他们有帮助。",
+                "others": "邻居需要我传授竹编手艺，增加收入。",
+                "world": "在邻里之间，互相帮助能让生活更好。"
+            },
+            "rules": "我要把竹编手艺教给有需要的邻居。",
+            "positive_assumption": "如果我传授手艺，能让邻居增加收入，他们会更需要我。",
+            "negative_assumption": "如果我不传授，邻居可能会错过增加收入的机会。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我能靠卖竹编供儿子上学，是家人的重要支柱。",
+                "others": "儿子需要我供他上学，才能有好的前途。",
+                "world": "在家庭中，每个人都要为家人的未来努力。"
+            },
+            "rules": "我要努力赚钱，满足儿子上学的费用需求。",
+            "positive_assumption": "如果我供儿子上学，能让儿子有好的未来，家人会更需要我。",
+            "negative_assumption": "如果我赚不到钱，儿子上不了学，家人可能会觉得我没用。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以独自拓展竹编的销售渠道，保持经济上的独立。",
+                "others": "家人应该支持我拓展销售渠道的想法。",
+                "world": "靠自己拓展事业能赢得他人的尊重。"
+            },
+            "rules": "我要主动去寻找新的顾客，扩大竹编的销售。",
+            "positive_assumption": "如果我成功拓展销售渠道，能证明自己的独立和能力。",
+            "negative_assumption": "如果我不去拓展，竹编卖不出去，就好像失去了独立能力。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力靠自己卖竹编维持生计，不需要依赖别人。",
+                "others": "家人应该相信我能把生活过好。",
+                "world": "独立谋生是值得尊重的。"
+            },
+            "rules": "我要自己处理卖竹编过程中的各种问题，不轻易麻烦家人。",
+            "positive_assumption": "如果我独立解决问题，家人会更放心，我也更自由。",
+            "negative_assumption": "如果我依赖家人，会被认为是没能力。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我靠卖竹编供儿子上学，这是很有价值的事。",
+                "others": "家人会为我供儿子上学的行为感到骄傲。",
+                "world": "为家庭付出努力是有价值的。"
+            },
+            "rules": "我要努力卖竹编，攒够儿子上学的钱。",
+            "positive_assumption": "如果我攒够钱供儿子上学，能让儿子有更好的未来，我更有价值。",
+            "negative_assumption": "如果我攒不够钱，儿子上不了学，我就没有尽到责任。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我编织竹编的手艺是有价值的。",
+                "others": "顾客会认可我编织的竹编。",
+                "world": "在这个世界上，有手艺就能创造价值。"
+            },
+            "rules": "我要不断提高竹编手艺，做出更好的竹编。",
+            "positive_assumption": "如果我做出更好的竹编，能卖更多钱，我会更有价值。",
+            "negative_assumption": "如果我手艺退步，竹编卖不出去，我的价值就无法体现。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的毅力和韧性面对生活中的挑战。",
+                "others": "家人会被我的精神所鼓舞。",
+                "world": "生活中的挑战能让人变得更强大。"
+            },
+            "rules": "我要保持乐观的心态，面对身体恢复的过程。",
+            "positive_assumption": "如果我保持乐观，能更好地恢复身体，也能影响家人。",
+            "negative_assumption": "如果我消极悲观，会让家人也担心。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了三次流产的困难都挺过来了，以后也能克服其他困难。",
+                "others": "家人应该相信我有克服困难的能力。",
+                "world": "困难只是暂时的，只要坚持就能度过。"
+            },
+            "rules": "我要积极调养身体，为以后的生活做好准备。",
+            "positive_assumption": "如果我积极调养，身体会恢复得更好，能应对更多困难。",
+            "negative_assumption": "如果我不调养，以后遇到困难会更难应对。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "流产后的身体损伤让我行动不如以前灵活，有些事情做不了。",
+                "others": "家人应该给予我适当的照顾。",
+                "world": "身体受伤时需要他人的关心。"
+            },
+            "rules": "当我身体不舒服时，要告诉家人。",
+            "positive_assumption": "如果我及时告知，家人能照顾我，我会恢复得更快。",
+            "negative_assumption": "如果我不告知，自己会更难受。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "连续流产三次让我的身体变得虚弱，很多事情做起来力不从心。",
+                "others": "家人应该理解我身体的不适。",
+                "world": "经历多次流产后身体变差是正常的。"
+            },
+            "rules": "我要根据自己的身体状况调整劳动强度。",
+            "positive_assumption": "如果我调整强度，能让身体慢慢恢复。",
+            "negative_assumption": "如果我不调整，身体会更糟糕。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我能操持家庭琐事，让家人生活更舒心，是家人的好帮手。",
+                "others": "家人需要我来管理家庭日常事务。",
+                "world": "在家庭中，每个人都有自己的分工和作用。"
+            },
+            "rules": "我要细心处理家庭琐事，让家人没有后顾之忧。",
+            "positive_assumption": "如果我把琐事处理好，家人会更依赖我。",
+            "negative_assumption": "如果我处理不好，家人可能会觉得我不称职。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我生下长子，能延续家族血脉，是家人需要的。",
+                "others": "家人需要我为家族生育后代。",
+                "world": "在家族中，生育后代是女性的重要责任。"
+            },
+            "rules": "我要好好养育孩子，为家族延续做贡献。",
+            "positive_assumption": "如果我把孩子养大，家人会更需要我。",
+            "negative_assumption": "如果我养不好孩子，家人可能会觉得我没尽到责任。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我能自己承担起家庭的部分劳动，不需要他人过多帮忙。",
+                "others": "家人应该相信我有能力做好。",
+                "world": "独立承担家庭劳动是一种责任。"
+            },
+            "rules": "我要主动完成家庭劳动，不依赖家人。",
+            "positive_assumption": "如果我独立完成劳动，家人会认可我的能力。",
+            "negative_assumption": "如果我依赖家人，会被认为是懒惰的。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以自己应对流产带来的痛苦，不需要过度依赖别人。",
+                "others": "家人应该相信我能坚强面对。",
+                "world": "独立面对困难是值得尊重的。"
+            },
+            "rules": "我要自己调节流产后的情绪，不轻易向家人诉苦。",
+            "positive_assumption": "如果我独立面对，家人会更放心，我也更坚强。",
+            "negative_assumption": "如果我依赖家人安慰，会被认为是脆弱的。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我能通过操持家务为家庭做出贡献，是有价值的。",
+                "others": "家人会感激我为家庭的付出。",
+                "world": "女性在家庭中操持家务是有价值的行为。"
+            },
+            "rules": "我要把家里收拾得井井有条，做好家务。",
+            "positive_assumption": "如果我把家务做好，家庭会更和谐，我更有价值。",
+            "negative_assumption": "如果我家务做不好，家人会觉得我没用。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我成功生下长子，证明了自己作为母亲的价值。",
+                "others": "家人会因为我生下孩子而认可我的价值。",
+                "world": "在家庭中，生育孩子是女性重要价值的体现。"
+            },
+            "rules": "我要好好照顾孩子，展现自己作为母亲的价值。",
+            "positive_assumption": "如果我照顾好孩子，家人会更认可我的价值。",
+            "negative_assumption": "如果我照顾不好孩子，我的价值就无法体现。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的毅力面对生活中的困难。",
+                "others": "家人会被我的精神所鼓舞。",
+                "world": "困难能让人变得更强大。"
+            },
+            "rules": "我要保持乐观的心态，面对当前的困境。",
+            "positive_assumption": "如果我保持乐观，能更好地应对困难，也能影响家人。",
+            "negative_assumption": "如果我消极悲观，会让家人也失去信心。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历着找食物的困难，一定能挺过去。",
+                "others": "家人应该相信我能克服困难。",
+                "world": "困难只是暂时的，坚持就能度过。"
+            },
+            "rules": "我要坚持寻找食物，不放弃。",
+            "positive_assumption": "如果我坚持下去，家人就能度过难关。",
+            "negative_assumption": "如果我放弃，家人可能会陷入危险。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我可能因为营养不良而身体虚弱。",
+                "others": "家人应该给予我一些关心和食物。",
+                "world": "身体虚弱时需要家人的照顾。"
+            },
+            "rules": "当我身体不舒服时，要告诉家人。",
+            "positive_assumption": "如果我告知家人，他们能照顾我，我会好得更快。",
+            "negative_assumption": "如果我不告知，自己会更难受。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "在艰苦的环境下，我的身体可能会吃不消。",
+                "others": "家人应该理解我身体的疲惫。",
+                "world": "在艰难时期，身体容易出现问题是正常的。"
+            },
+            "rules": "我要根据自己的身体状况调整劳动强度。",
+            "positive_assumption": "如果我调整强度，能保护好身体，继续为家人做事。",
+            "negative_assumption": "如果我不调整，身体垮了就没法帮家人了。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以照顾弟弟妹妹，对家庭很重要。",
+                "others": "弟弟妹妹需要我的照顾。",
+                "world": "照顾家人是家庭和谐的重要因素。"
+            },
+            "rules": "我要好好照顾弟弟妹妹。",
+            "positive_assumption": "如果我照顾好弟弟妹妹，家人会更依赖我。",
+            "negative_assumption": "如果我没照顾好，家人会对我失望。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我能为家人分担劳动，是家人的好帮手。",
+                "others": "家人需要我来帮忙做各种事情。",
+                "world": "在家庭中，每个人都要为家庭贡献力量。"
+            },
+            "rules": "我要主动为家人分担劳动。",
+            "positive_assumption": "如果我分担劳动，能让家庭更好地运转，家人更需要我。",
+            "negative_assumption": "如果我不帮忙，家人会觉得我没用。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我能在艰苦环境中自己解决遇到的问题，很独立。",
+                "others": "家人会觉得我有能力应对困难。",
+                "world": "在困难面前独立解决问题是很重要的。"
+            },
+            "rules": "遇到问题时，我要自己想办法解决。",
+            "positive_assumption": "如果我自己解决问题，能证明我的独立能力。",
+            "negative_assumption": "如果我向家人求助，会显得自己不独立。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以独立去挖观音土，不需要依赖别人。",
+                "others": "家人应该相信我能完成这个任务。",
+                "world": "独立完成任务是值得赞扬的。"
+            },
+            "rules": "我要独自去寻找观音土，不麻烦家人。",
+            "positive_assumption": "如果我独立完成找观音土的任务，家人会更认可我的独立。",
+            "negative_assumption": "如果我依赖家人一起去找，会被认为不够独立。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我能照顾弟弟，保护家人安全，是有价值的。",
+                "others": "家人会依赖我来保障安全。",
+                "world": "在家庭中，保护家人的人是有价值的。"
+            },
+            "rules": "我要时刻保护好弟弟和家人。",
+            "positive_assumption": "如果我保护好家人，他们会更信任我，我更有价值。",
+            "negative_assumption": "如果我没保护好家人，我就是没用的。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我能在困难时期找到食物养活家人，是有价值的。",
+                "others": "家人会因为我找到食物而认可我。",
+                "world": "在艰难的环境中，每个人的努力都有价值。"
+            },
+            "rules": "我要努力寻找食物，保障家人的生存。",
+            "positive_assumption": "如果我找到足够的食物，家人能生存下去，我就更有价值。",
+            "negative_assumption": "如果我找不到食物，家人可能会挨饿，我的价值就无法体现。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我放牛时遇到恶劣天气也能坚持。",
+                "others": "邻居会佩服我克服困难的精神。",
+                "world": "坚持就能度过困难。"
+            },
+            "rules": "遇到恶劣天气我也要把牛放好。",
+            "positive_assumption": "如果我坚持下来，能变得更坚强。",
+            "negative_assumption": "如果我退缩，就不能克服困难。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我在学编凉鞋时遇到困难也能学会。",
+                "others": "家人相信我有克服困难的能力。",
+                "world": "困难是可以被克服的。"
+            },
+            "rules": "我遇到编凉鞋的困难不能放弃。",
+            "positive_assumption": "如果我克服困难，以后遇到其他困难也不怕。",
+            "negative_assumption": "如果我放弃，就会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我身体越来越强壮，能走更远的路去放牛。",
+                "others": "家人会认可我身体的成长。",
+                "world": "身体好就能做更多的事情。"
+            },
+            "rules": "我要去更远的地方放牛，证明自己身体的成长。",
+            "positive_assumption": "如果我去了，能体现我身体变好了。",
+            "negative_assumption": "如果我不去，就好像身体没成长一样。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我的身体在长大，能做更多的事。",
+                "others": "家人会看到我能承担更多任务。",
+                "world": "随着身体成长，能有更多的能力。"
+            },
+            "rules": "我要多尝试做一些更难的事，锻炼自己。",
+            "positive_assumption": "如果我尝试成功，说明我的身体成长带来了能力提升。",
+            "negative_assumption": "如果我不尝试，就不能发挥身体成长的优势。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我放牛能让家里的牛健康，对家庭有贡献。",
+                "others": "家人需要我把牛放好。",
+                "world": "每个家庭成员都有自己对家庭的贡献。"
+            },
+            "rules": "我要把牛养得肥肥壮壮的。",
+            "positive_assumption": "如果牛养得好，家人会更依赖我。",
+            "negative_assumption": "如果牛没养好，家人会觉得我没帮上忙。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我编的凉鞋可以给家人穿，能帮到家人。",
+                "others": "家人需要我编的凉鞋。",
+                "world": "在家庭中，为家人做事是很重要的。"
+            },
+            "rules": "我要多编一些凉鞋给家人。",
+            "positive_assumption": "如果我编得多，家人会更需要我。",
+            "negative_assumption": "如果我不编，家人可能会觉得我没用。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我能自己去山上放牛、找蓑草，不需要别人带领。",
+                "others": "邻居会觉得我很勇敢独立。",
+                "world": "独立探索能让自己成长。"
+            },
+            "rules": "我要自己去山上，锻炼自己的独立性。",
+            "positive_assumption": "如果我自己去，能变得更独立，也能学到更多。",
+            "negative_assumption": "如果我不敢自己去，就还是不够独立。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以自己放牛、编凉鞋，不需要大人一直陪着。",
+                "others": "家人应该相信我能独立完成这些事。",
+                "world": "独立做事是值得称赞的。"
+            },
+            "rules": "我要自己完成放牛和编凉鞋的任务，不依赖家人。",
+            "positive_assumption": "如果我独立完成，家人会觉得我很厉害，我更独立。",
+            "negative_assumption": "如果我依赖家人，会被说不够独立。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我放牛时也能做好自己的事，是有价值的。",
+                "others": "家人会觉得我能帮忙做事很有用。",
+                "world": "做好自己的本职工作就是有价值的。"
+            },
+            "rules": "我要认真放牛，不贪玩。",
+            "positive_assumption": "如果我放牛放得好，家人会更重视我，我更有价值。",
+            "negative_assumption": "如果我放牛没放好，会被认为没价值。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我学会用蓑草编凉鞋是有价值的技能。",
+                "others": "家人和邻居会认可我编凉鞋的本事。",
+                "world": "掌握有用的技能能体现自己的价值。"
+            },
+            "rules": "我要努力学好编凉鞋的技能。",
+            "positive_assumption": "如果我编得好，会得到大家的夸奖，更有价值。",
+            "negative_assumption": "如果我学不好，就显得自己没价值。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

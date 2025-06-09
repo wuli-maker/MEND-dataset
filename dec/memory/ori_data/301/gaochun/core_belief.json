@@ -1,0 +1,178 @@
+{
+    "node_21": {
+        "page_content": "我有能力面对生活的困难，过去经历了很多艰难时刻。",
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_20": {
+        "page_content": "我是被子女忽视的，他们因医药费产生矛盾。",
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_19": {
+        "page_content": "我是有责任感的，要照顾好生病的老伴。",
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_18": {
+        "page_content": "我是孤独的，子女不在身边，缺少陪伴。",
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_17": {
+        "page_content": "我是一个有价值的人，一生为家庭付出很多。",
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_16": {
+        "page_content": "我有能力面对生活的困难，过去经历了很多艰难时刻。",
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_15": {
+        "page_content": "我是被子女忽视的，他们因医药费产生矛盾。",
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_14": {
+        "page_content": "我是有责任感的，要照顾好生病的老伴。",
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_13": {
+        "page_content": "我是孤独的，子女不在身边，缺少陪伴。",
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_12": {
+        "page_content": "我是一个有价值的人，一生为家庭付出很多。",
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_11": {
+        "page_content": "家人是我生活的依靠，我付出会得到家人的回报。",
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_10": {
+        "page_content": "我对家庭有责任感，要支持家人的发展。",
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_9": {
+        "page_content": "我有能力面对生活的困难，能承担起家庭的责任。",
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_8": {
+        "page_content": "我是一个有价值的人，为家庭付出会让我更有价值。",
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_7": {
+        "page_content": "我有能力面对生活的困难，尽管会遇到挫折。",
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": "我可能会被他人忽视，因为成分问题受到限制。",
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": "我是有责任感的，要照顾好弟妹和集体的事务。",
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_4": {
+        "page_content": "我可能会面临孤独，需要独自面对困难。",
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_3": {
+        "page_content": "我是一个有价值的人，能为集体和家庭贡献力量。",
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_2": {
+        "page_content": "我有能力面对生活的困难，能在饥荒中照顾家人。",
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": "我是有责任感的，要照顾好弟妹。",
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": "我是一个有价值的人，能为家人做很多事。",
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

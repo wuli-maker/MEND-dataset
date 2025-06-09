@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我和年轻人有代沟，很难融入他们的世界。",
+                "others": "年轻人不会主动和我交流。",
+                "world": "不同年龄段的人很难相互理解。"
+            },
+            "rules": "我应该保持距离，避免被拒绝。",
+            "positive_assumption": "如果我保持距离，我可以避免被伤害。",
+            "negative_assumption": "如果我主动交流，可能会被年轻人嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "子女不在身边，我感到很孤独。",
+                "others": "别人很难真正理解我的孤独。",
+                "world": "老年人很容易陷入孤独。"
+            },
+            "rules": "我应该多参加一些社交活动，缓解孤独。",
+            "positive_assumption": "如果我参加社交活动，我会感觉不那么孤独。",
+            "negative_assumption": "如果我不参加，我会一直孤独下去。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过教曾孙辈农耕知识来传承家族文化。",
+                "others": "曾孙辈会对农耕知识感兴趣。",
+                "world": "代际传承能让文化延续下去。"
+            },
+            "rules": "我应该多花时间和曾孙辈在一起，传授农耕知识。",
+            "positive_assumption": "如果我传授知识，曾孙辈会记住家族的农耕文化。",
+            "negative_assumption": "如果我不传授，家族文化的传承会受到影响。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力将祖传的二十四节气农谚整理成册。",
+                "others": "家人和村民会支持我完成这个任务。",
+                "world": "传承传统文化是有意义的。"
+            },
+            "rules": "我应该尽快开始整理农谚。",
+            "positive_assumption": "如果我整理好农谚，能让更多人了解农耕文化。",
+            "negative_assumption": "如果我不整理，这些农谚可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我在面对现代农业体系时显得格格不入。",
+                "others": "农业考察团的人不会重视我的意见。",
+                "world": "新的农业模式正在取代传统农业。"
+            },
+            "rules": "我应该少发表自己的意见，避免被嘲笑。",
+            "positive_assumption": "如果我少发表意见，我可以避免尴尬。",
+            "negative_assumption": "如果我发表意见，会被认为是老顽固。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我的农耕方法和观念已经跟不上时代的发展。",
+                "others": "年轻的农业从业者会觉得我的方法过时。",
+                "world": "时代在进步，旧的东西会被淘汰。"
+            },
+            "rules": "我应该尝试接受新的农业技术和观念。",
+            "positive_assumption": "如果我接受新的技术和观念，我能更好地适应时代。",
+            "negative_assumption": "如果我不接受，我会被时代抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任照顾好家人和邻居的孩子。",
+                "others": "家人和邻居会信任我照顾他们的孩子。",
+                "world": "照顾他人是一种美德。"
+            },
+            "rules": "我应该关心家人和邻居孩子的成长。",
+            "positive_assumption": "如果我关心他们的成长，他们会健康快乐地长大。",
+            "negative_assumption": "如果我不关心他们，我会感到愧疚。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任守护祖田和传承农耕文化。",
+                "others": "我的家人和后代会理解我的坚持。",
+                "world": "守护传统是每个人的责任。"
+            },
+            "rules": "我应该坚守祖田，不轻易放弃。",
+            "positive_assumption": "如果我坚守祖田，我能保证家族的根基和文化的传承。",
+            "negative_assumption": "如果我放弃祖田，我就是一个没有责任感的人。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我为家庭和村庄做出了很多贡献，这证明了我的价值。",
+                "others": "家人和邻居会感激我的付出。",
+                "world": "付出是有价值的，会得到回报。"
+            },
+            "rules": "我应该继续为家庭和村庄贡献自己的力量。",
+            "positive_assumption": "如果我继续为家庭和村庄付出，我会让他们的生活更好。",
+            "negative_assumption": "如果我停止付出，我会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我拥有丰富的农耕经验和木工手艺，这些都是我的价值所在。",
+                "others": "他人会认可我在农业和手工艺方面的能力。",
+                "world": "这个世界需要像我这样有经验的人。"
+            },
+            "rules": "我应该积极展示自己的技能和知识。",
+            "positive_assumption": "如果我展示自己的技能和知识，我会得到他人的尊重和认可。",
+            "negative_assumption": "如果我不展示自己的技能和知识，我会被他人忽视。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我和年轻人有一定的代沟，很难融入他们的圈子。",
+                "others": "年轻人可能不会主动和我交流。",
+                "world": "不同年龄段的人之间存在交流障碍。"
+            },
+            "rules": "我应该保持一定的距离，避免被年轻人拒绝。",
+            "positive_assumption": "如果我保持距离，可以避免被伤害。",
+            "negative_assumption": "如果我主动交流，可能会被年轻人嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "子女离乡工作，我在家会感到孤独。",
+                "others": "别人很难真正体会到我的孤独。",
+                "world": "子女不在身边的老人容易感到孤独。"
+            },
+            "rules": "我应该多和邻居交流，缓解孤独感。",
+            "positive_assumption": "如果我和邻居交流，会感觉不那么孤独。",
+            "negative_assumption": "如果我不和邻居交流，我会一直孤独下去。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过实际的农耕操作，让年轻人更好地理解家族农耕文化。",
+                "others": "年轻人会对实际的农耕操作感兴趣。",
+                "world": "实践是传承文化的有效方式。"
+            },
+            "rules": "我应该多带年轻人参与农耕活动。",
+            "positive_assumption": "如果我带他们参与，他们会更深入地了解农耕文化。",
+            "negative_assumption": "如果我不带他们，他们可能无法真正理解农耕文化。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力将家族的农耕经验和知识传承下去。",
+                "others": "家人和村民会支持我传承农耕文化的想法。",
+                "world": "传承家族农耕文化是有意义的事情。"
+            },
+            "rules": "我应该在日常生活中向子女和年轻人传授农耕知识。",
+            "positive_assumption": "如果我传授知识，能让更多人了解家族的农耕文化。",
+            "negative_assumption": "如果我不传授，家族农耕文化可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "在面对新的农业理念时，我可能会显得有些保守。",
+                "others": "农业专家可能不会重视我的意见。",
+                "world": "新的农业理念正在逐渐取代传统观念。"
+            },
+            "rules": "我应该谨慎发表自己的意见，避免被认为是老顽固。",
+            "positive_assumption": "如果我谨慎发表意见，可以避免不必要的争论。",
+            "negative_assumption": "如果我随意发表意见，会被别人嘲笑。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我的一些传统农耕方法可能跟不上农业现代化的步伐。",
+                "others": "年轻的农业从业者可能会觉得我的方法过时。",
+                "world": "农业在不断发展，旧的方法会被淘汰。"
+            },
+            "rules": "我应该尝试学习一些新的农业技术。",
+            "positive_assumption": "如果我学习新的技术，能提高农业生产效率。",
+            "negative_assumption": "如果我不学习，会被时代甩在后面。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任将自己的农耕技术传授给邻居的孩子。",
+                "others": "邻居会信任我教导他们的孩子。",
+                "world": "传承农耕技术是一种社会责任。"
+            },
+            "rules": "我应该主动教导邻居孩子农耕知识。",
+            "positive_assumption": "如果我教导他们，他们能掌握一门生存技能。",
+            "negative_assumption": "如果我不教导，我会觉得自己没有尽到责任。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任守护好祖田，这是家族的根基。",
+                "others": "子女会理解我坚守祖田的决定。",
+                "world": "守护祖田是对家族的一种责任。"
+            },
+            "rules": "我应该拒绝子女接我去城里的提议，坚守祖田。",
+            "positive_assumption": "如果我坚守祖田，能保证家族的土地不被荒废。",
+            "negative_assumption": "如果我放弃祖田，我就是一个不负责任的人。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我为家庭的稳定和发展做出了很多努力，这证明了我的价值。",
+                "others": "家人会因为我的付出而感到安心。",
+                "world": "为家庭付出是有价值的行为。"
+            },
+            "rules": "我应该继续努力为家庭创造更好的生活。",
+            "positive_assumption": "如果我继续努力，家庭会更加幸福美满。",
+            "negative_assumption": "如果我停止努力，家庭可能会陷入困境。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我熟练的农耕技能和丰富的经验是我的价值体现。",
+                "others": "村里的人会认可我在农业方面的能力。",
+                "world": "农业生产需要像我这样有经验的人。"
+            },
+            "rules": "我应该将自己的农耕经验分享给其他人。",
+            "positive_assumption": "如果我分享经验，会得到大家的尊重和感谢。",
+            "negative_assumption": "如果我不分享，我的价值就无法体现。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我和一些不理解农业创新的村民有代沟，很难融入他们的交流。",
+                "others": "这些村民不会主动和我探讨农业创新。",
+                "world": "不同观念的人很难相互理解。"
+            },
+            "rules": "我应该和志同道合的人交流，避免被误解。",
+            "positive_assumption": "如果我和志同道合的人交流，我可以避免被伤害。",
+            "negative_assumption": "如果我和他们交流，可能会被误解和排斥。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "在农业创新的过程中，我可能会遇到很多困难，感到孤独。",
+                "others": "别人很难真正理解我在创新中的压力。",
+                "world": "创新的道路上很容易感到孤独。"
+            },
+            "rules": "我应该多和农技员老周交流，缓解孤独。",
+            "positive_assumption": "如果我和老周交流，我会感觉不那么孤独。",
+            "negative_assumption": "如果我不交流，我会一直孤独下去。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过培育抗旱小麦品种来传承家族的农耕精神。",
+                "others": "家人和村民会支持我培育新品种。",
+                "world": "农业创新也是农耕文化传承的一部分。"
+            },
+            "rules": "我应该继续努力培育更多优良的小麦品种。",
+            "positive_assumption": "如果我培育出更多品种，能让家族的农耕文化更有影响力。",
+            "negative_assumption": "如果我不继续，家族的农耕文化传承会受到影响。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力将家族的农耕经验传授给年轻一代。",
+                "others": "年轻村民会愿意学习我的农耕经验。",
+                "world": "传承家族农耕文化是有意义的。"
+            },
+            "rules": "我应该主动向年轻村民传授农耕经验。",
+            "positive_assumption": "如果我传授经验，能让更多人了解家族的农耕文化。",
+            "negative_assumption": "如果我不传授，家族的农耕文化可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我在面对一些新的农业理念时可能理解不够快。",
+                "others": "年轻的村民会觉得我观念落后。",
+                "world": "新的农业理念正在逐渐普及。"
+            },
+            "rules": "我应该多参加农业培训，跟上时代步伐。",
+            "positive_assumption": "如果我参加培训，能更好地理解新的农业理念。",
+            "negative_assumption": "如果我不参加，会被时代抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我的一些传统农耕方法可能不如新的技术有效。",
+                "others": "农技员老周会觉得我的方法有改进的空间。",
+                "world": "时代在进步，旧的农耕方法会被新的取代。"
+            },
+            "rules": "我应该多向农技员学习新的农业技术。",
+            "positive_assumption": "如果我学习新的技术，能提高农业产量。",
+            "negative_assumption": "如果我不学习，我的农业产量会落后。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任守护祖田，传承农耕文化。",
+                "others": "家人会支持我的决定。",
+                "world": "守护传统是每个人的责任。"
+            },
+            "rules": "我应该坚守祖田，不随意转让。",
+            "positive_assumption": "如果我坚守祖田，能保证家族的根基和文化的传承。",
+            "negative_assumption": "如果我放弃祖田，我就是一个没有责任感的人。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任带领村民提高农业产量，改善生活。",
+                "others": "村民会理解我的坚持。",
+                "world": "带领大家发展农业是每个人的责任。"
+            },
+            "rules": "我应该坚持农业创新，不轻易放弃。",
+            "positive_assumption": "如果我坚持农业创新，能让村民过上更好的生活。",
+            "negative_assumption": "如果我放弃，我就是一个没有责任感的人。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我帮助五户贫困户成立试验田小组，这证明了我的价值。",
+                "others": "贫困户会感激我的帮助。",
+                "world": "帮助他人是有价值的，会得到回报。"
+            },
+            "rules": "我应该继续帮助更多有需要的村民。",
+            "positive_assumption": "如果我继续帮助村民，会让他们的生活更好。",
+            "negative_assumption": "如果我停止帮助，我会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力带领村民培育抗旱小麦品种，这体现了我的价值。",
+                "others": "村民会认可我在农业技术上的能力。",
+                "world": "这个世界需要像我这样有农业创新能力的人。"
+            },
+            "rules": "我应该积极投入到农业技术创新中。",
+            "positive_assumption": "如果我积极投入农业技术创新，会得到村民的尊重和认可。",
+            "negative_assumption": "如果我不积极投入，会被村民认为没有能力。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我专注于开发谷物估产方法，可能会让其他队员觉得我不合群。",
+                "others": "队员们可能会因为我专注工作而疏远我。",
+                "world": "专注工作的人往往会被他人忽视。"
+            },
+            "rules": "我应该在工作之余，多参与队员们的活动。",
+            "positive_assumption": "如果我参与活动，能改善和队员们的关系。",
+            "negative_assumption": "如果我不参与，会一直处于孤独的状态。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我和其他队员年龄有差距，很难真正融入他们。",
+                "others": "队员们可能不太理解我的想法和做法。",
+                "world": "不同年龄的人之间有隔阂，很难建立深厚的友谊。"
+            },
+            "rules": "我应该保持一定的距离，避免被孤立。",
+            "positive_assumption": "如果我保持距离，能避免被他人排斥。",
+            "negative_assumption": "如果我过于亲近，可能会被拒绝和嘲笑。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我开发的谷物估产方法也是家族农耕文化的一种创新和传承。",
+                "others": "队员们会认可我对家族农耕文化的创新。",
+                "world": "传承农耕文化需要不断创新。"
+            },
+            "rules": "我应该继续在农业技术上进行创新。",
+            "positive_assumption": "如果我继续创新，能让家族农耕文化更有活力。",
+            "negative_assumption": "如果我停止创新，家族农耕文化会逐渐失去竞争力。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我生长在农耕世家，有责任传承家族的农耕知识。",
+                "others": "长辈们会支持我学习和传承农耕文化。",
+                "world": "农耕文化是家族的宝贵财富，需要传承下去。"
+            },
+            "rules": "我应该多向长辈学习家族的农耕经验。",
+            "positive_assumption": "如果我学习经验，能更好地传承家族农耕文化。",
+            "negative_assumption": "如果我不学习，家族的农耕文化可能会在我这一代失传。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我作为年轻的记分员，可能在一些老队员眼里我的经验不足。",
+                "others": "老队员可能会觉得我的工作方式不够成熟。",
+                "world": "经验在农业生产中很重要，我可能会因为年轻而被看轻。"
+            },
+            "rules": "我应该虚心接受老队员的意见。",
+            "positive_assumption": "如果我接受意见，能让我更快成长。",
+            "negative_assumption": "如果我不接受，会被认为是固执和不成熟的。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然开发出了新的估产方法，但可能还有更先进的技术我不知道。",
+                "others": "其他有经验的队员可能会觉得我的方法不够完善。",
+                "world": "农业技术在不断发展，我的方法可能会过时。"
+            },
+            "rules": "我应该多向其他有经验的队员学习。",
+            "positive_assumption": "如果我学习他人经验，能让我的方法更完善。",
+            "negative_assumption": "如果我不学习，我的方法会很快被淘汰。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任将我的农业创新方法传授给其他队员。",
+                "others": "队员们会愿意学习我的方法。",
+                "world": "分享知识和技术是促进集体发展的责任。"
+            },
+            "rules": "我应该主动教队员们我的谷物估产方法。",
+            "positive_assumption": "如果我教给队员们方法，能提高整个生产队的生产效率。",
+            "negative_assumption": "如果我不教，就是没有尽到对集体的责任。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任准确记录生产队的生产情况。",
+                "others": "队长和队员会信任我完成记录工作。",
+                "world": "做好自己的本职工作是一种责任。"
+            },
+            "rules": "我应该保证记分的准确性和公正性。",
+            "positive_assumption": "如果我保证记录准确公正，能让生产队的生产管理更有序。",
+            "negative_assumption": "如果我记录出错，会影响生产队的生产安排。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我作为生产队最年轻的记分员，认真负责地完成工作，体现了我的价值。",
+                "others": "队长和队员会肯定我的工作态度。",
+                "world": "认真工作的人会得到认可。"
+            },
+            "rules": "我应该继续认真做好记分员的工作。",
+            "positive_assumption": "如果我继续认真工作，会为生产队做出更大贡献。",
+            "negative_assumption": "如果我工作不认真，会被认为是没有价值的人。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我开发出独特的谷物估产方法，这证明我在农业方面有价值。",
+                "others": "生产队员会认可我在农业技术上的能力。",
+                "world": "农业生产需要有创新能力的人。"
+            },
+            "rules": "我应该积极分享我的谷物估产方法。",
+            "positive_assumption": "如果我分享方法，会得到队员们的尊重和赞赏。",
+            "negative_assumption": "如果我不分享，我的能力就不会被大家知道。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我和一些孩子玩不到一起，感觉很孤独。",
+                "others": "他们可能不理解我照顾弟弟妹妹的责任。",
+                "world": "不同处境的孩子很难相互理解。"
+            },
+            "rules": "我应该专注于照顾弟弟妹妹，不勉强和他们一起玩。",
+            "positive_assumption": "如果我专注照顾弟弟妹妹，能尽到责任，也不会那么在意孤独。",
+            "negative_assumption": "如果我勉强和他们玩，可能会被拒绝，会更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "在饥荒时，大家都忙着找吃的，我会感到孤独。",
+                "others": "别人都在为自己的生存奔波，没时间关心我。",
+                "world": "在困难时期，人们很容易感到孤独。"
+            },
+            "rules": "我应该自己坚强地面对孤独。",
+            "positive_assumption": "如果我能坚强面对，就能更好地生存下去。",
+            "negative_assumption": "如果我不能面对，会更难过，生存也会更困难。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以把学到的野菜知识教给弟弟妹妹，传承生存智慧。",
+                "others": "弟弟妹妹会听我讲野菜知识。",
+                "world": "生存智慧的传承很重要。"
+            },
+            "rules": "我应该找机会教弟弟妹妹野菜知识。",
+            "positive_assumption": "如果我教给他们，家族的生存智慧就能传承下去。",
+            "negative_assumption": "如果我不教，这些知识可能就传不下去了。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我能记住家族的农耕经验，以后可以传承下去。",
+                "others": "长辈们会把农耕经验传授给我。",
+                "world": "家族的农耕文化需要后代传承。"
+            },
+            "rules": "我应该用心记住长辈们说的农耕知识。",
+            "positive_assumption": "如果我记住了，就能传承家族农耕文化。",
+            "negative_assumption": "如果我没记住，家族农耕文化可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我对现代的一些事物不了解，显得跟不上时代。",
+                "others": "村里可能有孩子知道一些我不懂的新东西。",
+                "world": "时代在变化，不学习新东西就会过时。"
+            },
+            "rules": "我应该多和其他孩子交流，了解新事物。",
+            "positive_assumption": "如果我了解新事物，就不会显得那么过时。",
+            "negative_assumption": "如果我不交流，就会一直跟不上时代，被人觉得过时。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我家传统的农耕方法在饥荒时可能不管用，显得过时。",
+                "others": "村里可能有人觉得我们家的农耕方法不好。",
+                "world": "在饥荒面前，旧的农耕方法可能会被淘汰。"
+            },
+            "rules": "我应该尝试学习新的找食物方法。",
+            "positive_assumption": "如果我学会新方法，就能更好地应对饥荒，跟上时代。",
+            "negative_assumption": "如果我不学习新方法，就会被饥荒淘汰，显得很过时。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任传承家族在农耕方面的生存智慧。",
+                "others": "长辈们希望我能记住农耕知识。",
+                "world": "传承家族知识是一种责任。"
+            },
+            "rules": "我应该认真听长辈讲农耕知识。",
+            "positive_assumption": "如果我记住农耕知识，就能传承家族文化，我是有责任感的。",
+            "negative_assumption": "如果我没记住，就无法传承家族文化，我就是没责任感的。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任照顾好弟弟妹妹，让他们活下去。",
+                "others": "弟弟妹妹信任我能保护他们。",
+                "world": "在家庭中，年长的孩子有责任照顾年幼的孩子。"
+            },
+            "rules": "我应该时刻关注弟弟妹妹的安全和温饱。",
+            "positive_assumption": "如果我照顾好弟弟妹妹，他们会健康成长，我就是有责任感的人。",
+            "negative_assumption": "如果我没照顾好他们，我就是一个没有责任感的人。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我能学会辨识毒蘑菇，避免弟弟妹妹误食，这是我的价值。",
+                "others": "村头老鳏夫教会我辨识毒蘑菇，他认可我的学习能力。",
+                "world": "掌握生存技能就能体现自己的价值。"
+            },
+            "rules": "我应该不断学习更多的生存技能。",
+            "positive_assumption": "如果我学会更多技能，就能更好地保护弟弟妹妹，我会更有价值。",
+            "negative_assumption": "如果我不学习新技能，可能无法应对更多危险，我就没那么有价值了。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我能挖到足够的野菜养活弟弟妹妹，这证明我是有价值的。",
+                "others": "弟弟妹妹会因为我挖到野菜而依赖我。",
+                "world": "在饥荒年代，能解决生存问题就是有价值的。"
+            },
+            "rules": "我应该每天努力挖到更多的野菜。",
+            "positive_assumption": "如果我挖到更多野菜，就能让弟弟妹妹吃饱，他们会更认可我。",
+            "negative_assumption": "如果我挖不到足够野菜，弟弟妹妹会挨饿，我就没有价值了。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

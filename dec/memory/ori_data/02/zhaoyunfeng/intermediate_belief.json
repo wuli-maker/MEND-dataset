@@ -1,0 +1,794 @@
+{
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以从过去的经历中汲取力量，应对现在的困难。",
+                "others": "他人也可以从自己的经历中获得勇气。",
+                "world": "过去的经历是一种财富，能帮助我们面对未来。"
+            },
+            "rules": "遇到困难时，我应该回忆过去的成功经验。",
+            "positive_assumption": "如果我回忆过去的经验，就能找到解决问题的方法。",
+            "negative_assumption": "如果我不回忆过去，可能会在困难面前不知所措。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过很多困难，有足够的毅力坚持下去。",
+                "others": "他人也可能在生活中遇到困难，需要坚持。",
+                "world": "生活就是充满挑战的，只要坚持就能度过。"
+            },
+            "rules": "无论遇到什么困难，我都不能放弃。",
+            "positive_assumption": "如果我坚持下去，困难总会过去。",
+            "negative_assumption": "如果我放弃，就会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力用自己的方式让家人感受到温暖。",
+                "others": "家人会因为我的这些举动而感到幸福。",
+                "world": "亲情可以通过一些细微的举动来维系。"
+            },
+            "rules": "我应该不断创新自己表达亲情的方式。",
+            "positive_assumption": "如果我创新方式，会让家人有更多的惊喜。",
+            "negative_assumption": "如果我不创新，家人可能会对我的方式感到厌倦。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过种菜、腌渍食物、分装鸡蛋等方式让家人感受到我的爱。",
+                "others": "家人会理解我这些方式背后的心意。",
+                "world": "即使和家人不在身边，也可以通过一些方式维系亲情。"
+            },
+            "rules": "我应该坚持用自己的方式表达对家人的爱。",
+            "positive_assumption": "如果我坚持这样做，家人会更亲近我。",
+            "negative_assumption": "如果我放弃这些方式，和家人的关系可能会疏远。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我对家人的爱是无私的，愿意为他们付出一切。",
+                "others": "家人也应该珍惜我对他们的爱。",
+                "world": "亲情是世界上最珍贵的东西。"
+            },
+            "rules": "我应该经常表达对家人的爱和关心。",
+            "positive_assumption": "如果我表达了对家人的爱，他们会更爱我。",
+            "negative_assumption": "如果我不表达爱，家人可能会感受不到我的心意。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我生命中最重要的就是我的家人。",
+                "others": "家人之间应该相互关爱和支持。",
+                "world": "有家人的陪伴，生活才会有意义。"
+            },
+            "rules": "我应该尽自己所能去维护和家人的关系。",
+            "positive_assumption": "如果我维护好和家人的关系，我会感到幸福。",
+            "negative_assumption": "如果我和家人关系不好，我的生活会变得很糟糕。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我在一些事情上已经力不从心，比如穿针引线。",
+                "others": "年轻人在这些方面比我做得好。",
+                "world": "时代在变化，很多新的东西我已经跟不上了。"
+            },
+            "rules": "遇到自己做不了的事情，我应该承认并寻求帮助。",
+            "positive_assumption": "如果我寻求帮助，事情可能会得到更好的解决。",
+            "negative_assumption": "如果我不寻求帮助，事情可能会变得更糟。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "随着年龄的增长，我的身体机能和能力在不断下降。",
+                "others": "他人可能比我更有活力和能力。",
+                "world": "这个世界对老年人不太友好，很多事情变得越来越难。"
+            },
+            "rules": "我应该接受自己能力下降的事实，不要勉强自己。",
+            "positive_assumption": "如果我接受现实，就不会给自己带来过多的压力。",
+            "negative_assumption": "如果我不接受现实，强行去做一些事情，可能会受伤。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我有丰富的生活经验，能够应对各种突发情况。",
+                "others": "他人在某些方面可能不如我有经验。",
+                "world": "世界上的很多事情我都可以凭借自己的经验去处理。"
+            },
+            "rules": "遇到事情时，我应该相信自己的判断和经验。",
+            "positive_assumption": "如果我相信自己的经验，我能更好地解决问题。",
+            "negative_assumption": "如果我不相信自己的经验，可能会把事情搞砸。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的能力处理生活中的各种事务。",
+                "others": "他人可能需要我的帮助，而不是我需要他们的帮助。",
+                "world": "在这个世界上，我可以依靠自己的力量生存。"
+            },
+            "rules": "我应该自己解决生活中的问题，不轻易向他人求助。",
+            "positive_assumption": "如果我自己解决问题，我会变得更加独立和强大。",
+            "negative_assumption": "如果我向他人求助，会显得我很无能。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以从过去的经历中汲取力量，应对现在的困难。",
+                "others": "他人也可以从自己的经历中获得勇气。",
+                "world": "过去的经历是一种财富，能帮助我们面对未来。"
+            },
+            "rules": "遇到困难时，我应该回忆过去克服困难的经验。",
+            "positive_assumption": "如果我回忆过去的经验，就能找到解决问题的方法。",
+            "negative_assumption": "如果我不回忆过去，可能会在困难面前不知所措。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过丈夫去世的打击，有足够的毅力坚持生活下去。",
+                "others": "他人也可能在生活中遇到困难，需要坚强面对。",
+                "world": "生活就是充满挑战的，只要坚持就能度过难关。"
+            },
+            "rules": "无论遇到什么困难，我都不能放弃生活的希望。",
+            "positive_assumption": "如果我坚持下去，生活总会慢慢好起来。",
+            "negative_assumption": "如果我放弃，就会被生活打倒，家人也会失去依靠。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力用自己的方式让家人过上好日子。",
+                "others": "家人会因为我的努力而感到幸福。",
+                "world": "亲情可以通过实际的行动来维系。"
+            },
+            "rules": "我应该不断寻找改善家庭生活的方法。",
+            "positive_assumption": "如果我找到更好的方法，家人的生活会更美好。",
+            "negative_assumption": "如果我不努力寻找方法，家庭生活可能会一直处于困境。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过辛勤劳作，为家人提供更好的生活条件来表达我的爱。",
+                "others": "家人会理解我辛勤劳作背后的心意。",
+                "world": "即使生活艰苦，也可以通过努力让家人感受到温暖。"
+            },
+            "rules": "我应该坚持用自己的劳动为家人创造更好的生活。",
+            "positive_assumption": "如果我坚持这样做，家人会更尊重和爱我。",
+            "negative_assumption": "如果我放弃努力，家人的生活可能会变得更艰难，我们的关系也会疏远。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我对家人的爱是无私的，愿意为他们付出一切。",
+                "others": "家人也应该珍惜我为他们所做的一切。",
+                "world": "亲情是世界上最宝贵的财富，值得我去守护。"
+            },
+            "rules": "我应该经常表达对家人的关心和爱。",
+            "positive_assumption": "如果我表达了对家人的爱，他们会更爱我，家庭会更温暖。",
+            "negative_assumption": "如果我不表达爱，家人可能会感受不到我的心意，家庭会变得冷漠。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我生命中最重要的就是我的家人，我要为他们遮风挡雨。",
+                "others": "家人之间应该相互关爱和扶持，共同度过困难。",
+                "world": "有家人的陪伴和支持，生活才会有希望。"
+            },
+            "rules": "我应该尽自己最大的努力去保护和照顾家人。",
+            "positive_assumption": "如果我照顾好家人，我们的家庭会更加和睦幸福。",
+            "negative_assumption": "如果我没有照顾好家人，家庭可能会陷入困境。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我有丰富的农业生产经验，能够应对农田里的各种问题。",
+                "others": "他人在农业生产方面可能不如我有经验。",
+                "world": "农田里的事情我都可以凭借自己的经验去处理。"
+            },
+            "rules": "遇到农田里的问题时，我应该相信自己的判断和经验。",
+            "positive_assumption": "如果我相信自己的经验，我能更好地解决农田问题。",
+            "negative_assumption": "如果我不相信自己的经验，可能会把农田的事情搞砸。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的体力和能力承担家庭的重担。",
+                "others": "他人可能在某些方面需要我的支持，而不是我依赖他们。",
+                "world": "在这个世界上，我可以凭借自己的双手创造生活。"
+            },
+            "rules": "我应该独自承担家庭的劳动和责任，不轻易依赖他人。",
+            "positive_assumption": "如果我独自完成家庭事务，我会变得更加坚强和可靠。",
+            "negative_assumption": "如果我依赖他人，会显得我很没用。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以从过去克服困难的经历中汲取力量，应对现在的困难。",
+                "others": "他人也可以从自己的经历中获得勇气。",
+                "world": "过去的经历是一种财富，能帮助我们面对未来。"
+            },
+            "rules": "遇到困难时，我应该回忆过去的成功经验。",
+            "positive_assumption": "如果我回忆过去的经验，就能找到解决问题的方法。",
+            "negative_assumption": "如果我不回忆过去，可能会在困难面前不知所措。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过早产和生活的困难，有足够的毅力坚持下去。",
+                "others": "他人也可能在生活中遇到困难，需要相互鼓励。",
+                "world": "生活就是充满挑战的，只要坚持就能度过。"
+            },
+            "rules": "无论遇到什么困难，我都不能放弃劳动。",
+            "positive_assumption": "如果我坚持劳动，生活总会慢慢好起来。",
+            "negative_assumption": "如果我放弃，家人和自己都会陷入困境。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以用自己的双手为家人制作一些生活用品。",
+                "others": "家人会喜欢我亲手做的东西。",
+                "world": "亲情可以通过这些小物件来传递。"
+            },
+            "rules": "我要利用闲暇时间为家人制作实用的物品。",
+            "positive_assumption": "如果我制作物品，家人会感受到我的爱。",
+            "negative_assumption": "如果我不做，家人可能感受不到我的心意。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过努力劳动，为家人提供更多的食物和物资。",
+                "others": "家人会理解我劳动的辛苦和对他们的爱。",
+                "world": "即使生活艰苦，也可以通过自己的方式表达对家人的爱。"
+            },
+            "rules": "我要在公社劳动中多争取工分，为家人换取更多生活资源。",
+            "positive_assumption": "如果我多挣工分，家人的生活能得到改善。",
+            "negative_assumption": "如果我工分少，家人会过得不好。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我对家人的爱是无条件的，愿意为他们付出一切。",
+                "others": "家人也应该珍惜这份爱，相互关爱。",
+                "world": "亲情是生活中最温暖的港湾。"
+            },
+            "rules": "我要经常关心家人的需求和感受。",
+            "positive_assumption": "如果我关心家人，家庭会更加和睦。",
+            "negative_assumption": "如果我忽视家人，家庭关系会变得冷漠。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我的家人是我生活的支柱，我要为他们努力。",
+                "others": "家人之间应该相互扶持，共同度过困难。",
+                "world": "有家人的陪伴，再艰难的生活也能坚持下去。"
+            },
+            "rules": "我应该努力为家人创造更好的生活条件。",
+            "positive_assumption": "如果我努力工作，家人会生活得更幸福。",
+            "negative_assumption": "如果我不努力，家人会受苦。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "产后身体的恢复需要时间，我在短期内无法恢复到以前的状态。",
+                "others": "他人可能不理解我恢复的缓慢。",
+                "world": "身体恢复的过程是艰难的，我需要慢慢适应。"
+            },
+            "rules": "我要耐心等待身体恢复，不能急于求成。",
+            "positive_assumption": "如果我耐心等待，身体会逐渐康复。",
+            "negative_assumption": "如果我急于求成，可能会留下病根。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "早产后我的身体变得虚弱，有些事情力不从心。",
+                "others": "他人在体力上可能比我更有优势。",
+                "world": "身体的虚弱会让我在劳动中面临更多困难。"
+            },
+            "rules": "我应该根据自己的身体状况调整劳动强度。",
+            "positive_assumption": "如果我合理调整强度，身体能更快恢复。",
+            "negative_assumption": "如果我过度劳累，身体会更差。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力应对生育带来的困难。",
+                "others": "接生婆能提供一定帮助，但最终还是要靠自己挺过去。",
+                "world": "生育是女人的一关，我可以坚强地度过。"
+            },
+            "rules": "在生育过程中，我要保持坚强和冷静。",
+            "positive_assumption": "如果我坚强冷静，就能顺利生下孩子。",
+            "negative_assumption": "如果我慌乱害怕，可能会影响生产。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的体力和精力完成公社劳动任务。",
+                "others": "他人可能在某些方面需要我的协助，而不是我依赖他们。",
+                "world": "在公社里，我可以凭借自己的努力获得认可。"
+            },
+            "rules": "我应该积极主动地承担公社劳动任务，不推诿。",
+            "positive_assumption": "如果我积极完成劳动任务，会得到大家的赞扬和尊重。",
+            "negative_assumption": "如果我逃避劳动，会被大家看不起。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以从过去克服困难的经历中汲取力量，应对现在的挑战。",
+                "others": "他人也可以从自己的经历中获得勇气。",
+                "world": "过去的经历是一种财富，能帮助我们面对未来。"
+            },
+            "rules": "遇到困难时，我应该回忆过去的成功经验。",
+            "positive_assumption": "如果我回忆过去的经验，就能找到解决问题的方法。",
+            "negative_assumption": "如果我不回忆过去，可能会在困难面前不知所措。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过饥荒等困难，有足够的毅力坚持下去。",
+                "others": "他人也可能在生活中遇到困难，需要坚持。",
+                "world": "生活就是充满挑战的，只要坚持就能度过。"
+            },
+            "rules": "无论遇到什么困难，我都不能放弃。",
+            "positive_assumption": "如果我坚持下去，困难总会过去。",
+            "negative_assumption": "如果我放弃，就会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力用自己的方式让家人感受到温暖，比如照顾他们的生活。",
+                "others": "家人会因为我的照顾而感到幸福。",
+                "world": "亲情可以通过日常生活中的点滴来维系。"
+            },
+            "rules": "我应该细心照顾家人的生活，让他们感受到我的爱。",
+            "positive_assumption": "如果我照顾好家人，他们会更依赖我，亲情会更深厚。",
+            "negative_assumption": "如果我照顾不好家人，他们可能会不开心，亲情会变淡。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过努力劳动，为家人提供更好的生活，让他们感受到我的爱。",
+                "others": "家人会理解我劳动背后的心意。",
+                "world": "即使生活艰苦，也可以通过自己的方式维系亲情。"
+            },
+            "rules": "我应该坚持努力劳动，为家庭创造更多的价值。",
+            "positive_assumption": "如果我坚持劳动，家人会更认可我，家庭会更和谐。",
+            "negative_assumption": "如果我不劳动，家人的生活可能会更困难，亲情也会受到影响。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我对家人的爱是无私的，愿意为他们付出一切。",
+                "others": "家人也应该珍惜我对他们的爱。",
+                "world": "亲情是世界上最珍贵的东西。"
+            },
+            "rules": "我应该经常关心家人的需求，尽力满足他们。",
+            "positive_assumption": "如果我关心家人，他们会更爱我。",
+            "negative_assumption": "如果我不关心家人，他们可能会疏远我。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我生命中最重要的就是家人的幸福。",
+                "others": "家人之间应该相互扶持和帮助。",
+                "world": "有家人的陪伴，生活才会有温暖。"
+            },
+            "rules": "我应该为家人的幸福做出努力，不惜牺牲自己。",
+            "positive_assumption": "如果我让家人幸福，我会感到满足。",
+            "negative_assumption": "如果我不能让家人幸福，我会很愧疚。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "面对生活的压力，我有时会感到力不从心。",
+                "others": "有些人可能比我更有能力应对生活。",
+                "world": "生活中有很多事情超出了我的控制。"
+            },
+            "rules": "我应该承认自己的不足，向有经验的人学习。",
+            "positive_assumption": "如果我学习他人的经验，我能更好地应对生活。",
+            "negative_assumption": "如果我不学习，我会一直处于困境中。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "在换亲这件事上，我感觉自己失去了选择幸福的能力。",
+                "others": "他人可能比我更有机会追求自己的爱情。",
+                "world": "这个世界对女性不太公平，很多事情不能自己做主。"
+            },
+            "rules": "我应该接受命运的安排，不要反抗。",
+            "positive_assumption": "如果我接受安排，家庭会更和睦，不会有更多麻烦。",
+            "negative_assumption": "如果我反抗，会给家人带来灾难，自己也会更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够适应困难的环境，解决生活中的难题。",
+                "others": "他人在面对困难时可能不如我坚强。",
+                "world": "世界上的困难是可以通过努力克服的。"
+            },
+            "rules": "遇到困难时，我应该自己想办法解决。",
+            "positive_assumption": "如果我自己解决问题，我会变得更加独立和自信。",
+            "negative_assumption": "如果我依赖他人，我会失去锻炼自己的机会。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的勇气和力量承担家庭的责任。",
+                "others": "家人可能需要我的支持和帮助。",
+                "world": "在这个艰难的世界里，我可以凭借自己的努力生存下去。"
+            },
+            "rules": "我应该为家庭做出牺牲，不轻易抱怨。",
+            "positive_assumption": "如果我为家庭付出，家人会更尊重我，我也会更有价值。",
+            "negative_assumption": "如果我不承担责任，家人会失望，我会被认为是没用的人。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以从寻找野菜的过程中汲取力量，应对饥荒。",
+                "others": "邻居们也可以从自己的方式中获得坚持的勇气。",
+                "world": "过去找野菜的经验是一种财富，能帮助我们度过饥荒。"
+            },
+            "rules": "遇到饥荒困难时，我应该回忆过去找到野菜的经验。",
+            "positive_assumption": "如果我回忆过去的经验，就能找到更多的野菜。",
+            "negative_assumption": "如果我不回忆过去，可能会在饥荒中不知所措。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过饥荒，有足够的毅力坚持下去。",
+                "others": "邻居们也在坚持，我不能比他们差。",
+                "world": "生活就是充满困难的，只要坚持就能度过饥荒。"
+            },
+            "rules": "无论饥荒多严重，我都不能放弃找食物。",
+            "positive_assumption": "如果我坚持下去，饥荒总会过去。",
+            "negative_assumption": "如果我放弃，家人可能会饿死。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我对弟妹的爱是无私的，愿意为他们付出一切。",
+                "others": "弟妹们应该听我的话，这样才能更好地活下去。",
+                "world": "亲情是在困难时期支撑我们的力量。"
+            },
+            "rules": "我应该时刻关心弟妹的需求。",
+            "positive_assumption": "如果我关心弟妹的需求，他们会感受到我的爱。",
+            "negative_assumption": "如果我不关心他们，他们可能会受到伤害。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我生命中最重要的就是我的弟妹。",
+                "others": "家人之间应该相互照顾和保护。",
+                "world": "有家人的陪伴，再艰难的日子也能熬过去。"
+            },
+            "rules": "我应该尽自己所能去照顾好弟妹。",
+            "positive_assumption": "如果我照顾好弟妹，他们会健康成长，我会很开心。",
+            "negative_assumption": "如果我没照顾好弟妹，我会很自责。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力应对饥荒带来的困难。",
+                "others": "邻居们可能也有困难，我不能总是指望他们。",
+                "world": "这个世界很艰难，但我可以靠自己克服。"
+            },
+            "rules": "遇到饥荒困难时，我应该自己努力解决。",
+            "positive_assumption": "如果我自己解决困难，会变得更加独立和坚强。",
+            "negative_assumption": "如果我依赖别人，会显得我很无能。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的能力照顾好弟妹，找到食物。",
+                "others": "弟妹们需要我的照顾和带领。",
+                "world": "在饥荒年代，我可以凭借自己的能力让家人活下去。"
+            },
+            "rules": "我应该自己想办法找到足够的野菜，不依赖别人。",
+            "positive_assumption": "如果我自己找到野菜，就能让弟妹们吃饱，我会更有成就感。",
+            "negative_assumption": "如果我依赖别人找食物，可能会让弟妹们饿肚子，我就是个没用的姐姐。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

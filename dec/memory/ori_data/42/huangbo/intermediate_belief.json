@@ -1,0 +1,1082 @@
+{
+    "node_59": {
+        "page_content": {
+            "attitude": {
+                "self": "我对家族的延续和发展很重要，家人离不开我。",
+                "others": "家人会因为我的存在而更有安全感。",
+                "world": "家族的传承需要长辈的引导。"
+            },
+            "rules": "我要把家族的传统和价值观传承给下一代。",
+            "positive_assumption": "如果我传承传统，家族会更团结。",
+            "negative_assumption": "如果我不传承，家族的传统可能会丢失。"
+        },
+        "metadata": {
+            "node_id": "node_59",
+            "belief_id": "intermediate_belief_12",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_58": {
+        "page_content": {
+            "attitude": {
+                "self": "我有丰富的经验和智慧，家人需要我。",
+                "others": "家人在很多事情上会听取我的意见。",
+                "world": "家庭中长辈的经验是宝贵的财富。"
+            },
+            "rules": "我要主动参与家庭事务，为家人出谋划策。",
+            "positive_assumption": "如果我参与家庭事务，能让家庭更好。",
+            "negative_assumption": "如果我不参与，家人可能会走弯路。"
+        },
+        "metadata": {
+            "node_id": "node_58",
+            "belief_id": "intermediate_belief_11",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_57": {
+        "page_content": {
+            "attitude": {
+                "self": "我只能自己承受孤独，没人能陪伴我。",
+                "others": "别人都有自己的生活，不会关心我的孤独。",
+                "world": "孤独是人生的常态。"
+            },
+            "rules": "我要习惯孤独，自己解决问题。",
+            "positive_assumption": "如果我习惯孤独，就不会那么痛苦。",
+            "negative_assumption": "如果我依赖别人，会更失望。"
+        },
+        "metadata": {
+            "node_id": "node_57",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_56": {
+        "page_content": {
+            "attitude": {
+                "self": "我内心的想法和感受没人能懂，我很孤独。",
+                "others": "家人和朋友都不能真正理解我。",
+                "world": "人与人之间很难真正走进彼此的内心。"
+            },
+            "rules": "我不要轻易向别人敞开心扉，以免被误解。",
+            "positive_assumption": "如果我不敞开心扉，就不会受到伤害。",
+            "negative_assumption": "如果我敞开心扉，会被别人嘲笑或不理解。"
+        },
+        "metadata": {
+            "node_id": "node_56",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_55": {
+        "page_content": {
+            "attitude": {
+                "self": "我的坚强是我最大的财富，能让我度过难关。",
+                "others": "我的坚强可以给家人带来力量。",
+                "world": "坚强的人在这个世界上才能生存。"
+            },
+            "rules": "我要把坚强的一面展现给家人和周围的人。",
+            "positive_assumption": "如果我展现坚强，能鼓舞家人和他人。",
+            "negative_assumption": "如果我表现软弱，会让家人和他人失望。"
+        },
+        "metadata": {
+            "node_id": "node_55",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_54": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了这么多困难都没倒下，我很坚强。",
+                "others": "别人遇到我的这些困难可能早就放弃了。",
+                "world": "生活就是充满挑战，我有能力应对。"
+            },
+            "rules": "无论遇到什么困难，我都要坚强面对。",
+            "positive_assumption": "如果我坚强面对，就能克服困难。",
+            "negative_assumption": "如果我不坚强，就会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_54",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_53": {
+        "page_content": {
+            "attitude": {
+                "self": "我在新时代里没有立足之地，我是多余的。",
+                "others": "社会不需要我这样跟不上时代的人。",
+                "world": "这个世界只属于年轻人。"
+            },
+            "rules": "我不要尝试去融入新时代，以免受到伤害。",
+            "positive_assumption": "如果我不尝试融入，就不会被拒绝。",
+            "negative_assumption": "如果我尝试融入，会被无情地排斥。"
+        },
+        "metadata": {
+            "node_id": "node_53",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_52": {
+        "page_content": {
+            "attitude": {
+                "self": "我对新事物一窍不通，我跟不上时代的步伐。",
+                "others": "年轻人能轻松适应新时代，而我被落在后面了。",
+                "world": "时代变化太快，我已经无法适应了。"
+            },
+            "rules": "我应该远离那些新的社交方式和科技产品。",
+            "positive_assumption": "如果我远离新事物，就不会暴露自己的无知。",
+            "negative_assumption": "如果我接触新事物，会让我更自卑。"
+        },
+        "metadata": {
+            "node_id": "node_52",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_51": {
+        "page_content": {
+            "attitude": {
+                "self": "我曾经取得的成就证明了我的能力和价值。",
+                "others": "别人会因为我的成就而尊重我。",
+                "world": "成功是对努力的回报，我的努力是值得的。"
+            },
+            "rules": "我要保持自信，相信自己的价值。",
+            "positive_assumption": "如果我保持自信，能更好地面对生活。",
+            "negative_assumption": "如果我不自信，就会否定自己的价值。"
+        },
+        "metadata": {
+            "node_id": "node_51",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_50": {
+        "page_content": {
+            "attitude": {
+                "self": "我一生为家族和事业付出了很多，我的努力是有价值的。",
+                "others": "家人应该尊重我的付出和经验。",
+                "world": "每个人的努力都应该被认可。"
+            },
+            "rules": "我应该把自己的经验分享给家人，帮助他们更好地发展。",
+            "positive_assumption": "如果我分享经验，能让家族更好，我的价值就得到了体现。",
+            "negative_assumption": "如果我不分享，我的经验就浪费了，我的价值也无法体现。"
+        },
+        "metadata": {
+            "node_id": "node_50",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家族产业上的失败，让我失去了存在的意义。",
+                "others": "家人会因为我的失败而失望。",
+                "world": "商业世界很残酷，失败了就很难翻身。"
+            },
+            "rules": "我要拼命弥补在家族产业上的过错。",
+            "positive_assumption": "如果我能弥补过错，家人会重新认可我。",
+            "negative_assumption": "如果我不弥补，家人会永远对我失望。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我连家族企业都守不住，我很没用。",
+                "others": "别人会看不起我这个守不住家业的人。",
+                "world": "这个世界只认可成功的人，我这样的失败者没有地位。"
+            },
+            "rules": "我应该努力挽回家族企业的局面，不然就会被人嘲笑。",
+            "positive_assumption": "如果我能让家族企业重回正轨，我就不是失败者了。",
+            "negative_assumption": "如果我不能改变现状，我就是彻头彻尾的失败者。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我对家族企业的延续和发展很重要，家人离不开我。",
+                "others": "家人会因为我的存在而更有安全感。",
+                "world": "家族企业的传承需要长辈的引导。"
+            },
+            "rules": "我要把家族企业的传统和价值观传承给下一代。",
+            "positive_assumption": "如果我传承传统，家族企业会更团结。",
+            "negative_assumption": "如果我不传承，家族企业的传统可能会丢失。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_12",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我有丰富的商业经验和智慧，家人需要我。",
+                "others": "家人在企业决策上会听取我的意见。",
+                "world": "家庭企业中长辈的经验是宝贵的财富。"
+            },
+            "rules": "我要主动参与企业事务，为家人出谋划策。",
+            "positive_assumption": "如果我参与企业事务，能让企业更好。",
+            "negative_assumption": "如果我不参与，企业可能会走弯路。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_11",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我只能自己承受孤独和痛苦，没人能陪伴我。",
+                "others": "别人都有自己的生活，不会关心我的感受。",
+                "world": "孤独是人生的常态。"
+            },
+            "rules": "我要习惯孤独，自己解决问题。",
+            "positive_assumption": "如果我习惯孤独，就不会那么痛苦。",
+            "negative_assumption": "如果我依赖别人，会更失望。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我内心的痛苦和压力没人能懂，我很孤独。",
+                "others": "家人和朋友都不能真正理解我所承受的一切。",
+                "world": "人与人之间很难真正走进彼此的内心。"
+            },
+            "rules": "我不要轻易向别人敞开心扉，以免被误解。",
+            "positive_assumption": "如果我不敞开心扉，就不会受到伤害。",
+            "negative_assumption": "如果我敞开心扉，会被别人嘲笑或不理解。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我的坚强是我度过难关的法宝，能让我重新站起来。",
+                "others": "我的坚强可以给员工和家人带来信心。",
+                "world": "坚强的人在这个世界上才能生存。"
+            },
+            "rules": "我要把坚强的一面展现给员工和家人。",
+            "positive_assumption": "如果我展现坚强，能鼓舞员工和家人。",
+            "negative_assumption": "如果我表现软弱，会让员工和家人失望。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了企业转型的困难和丧子之痛都没倒下，我很坚强。",
+                "others": "别人遇到我这样的情况可能早就放弃了。",
+                "world": "生活就是充满挑战，我有能力应对。"
+            },
+            "rules": "无论遇到什么困难，我都要坚强面对。",
+            "positive_assumption": "如果我坚强面对，就能克服困难。",
+            "negative_assumption": "如果我不坚强，就会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我在跨国商业领域没有优势，我是被淘汰的那一批人。",
+                "others": "行业里的新人不会认可我的能力。",
+                "world": "这个商业世界只属于年轻人。"
+            },
+            "rules": "我不要轻易涉足新的商业领域，以免失败。",
+            "positive_assumption": "如果我不涉足，就不会暴露自己的不足。",
+            "negative_assumption": "如果我涉足，会被新人打败。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我对跨国企业的运营模式不太熟悉，我跟不上时代的发展。",
+                "others": "年轻的企业家能轻松适应新的商业模式，而我被落在后面了。",
+                "world": "时代变化太快，我已经无法适应新的商业环境了。"
+            },
+            "rules": "我应该学习新的知识和技能，跟上时代的步伐。",
+            "positive_assumption": "如果我能学习新的知识和技能，就能融入新时代。",
+            "negative_assumption": "如果我不学习，会被时代彻底抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我在商场上摸爬滚打多年，积累的经验就是我的财富。",
+                "others": "合作伙伴会因为我的经验而信任我。",
+                "world": "经验是成功的基石，我的经验能让企业再次成功。"
+            },
+            "rules": "我要相信自己的经验，做出正确的决策。",
+            "positive_assumption": "如果我依据经验做出正确决策，企业会越来越好。",
+            "negative_assumption": "如果我不相信自己的经验，企业会陷入更深的困境。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我曾经把家族企业发展壮大，我的努力和能力是有价值的。",
+                "others": "员工应该尊重我的决策和经验。",
+                "world": "每一次的努力都不会白费，我的付出会有回报。"
+            },
+            "rules": "我应该用自己的经验带领企业走出困境。",
+            "positive_assumption": "如果我能带领企业走出困境，我的价值就得到了证明。",
+            "negative_assumption": "如果我不能，我的经验就一文不值。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我在企业转型和家庭变故上的双重失败，让我失去了作为男人的尊严。",
+                "others": "家人会因为我的失败而对我失望透顶。",
+                "world": "这个世界只看结果，我这样的失败者没有未来。"
+            },
+            "rules": "我要拼尽全力弥补在企业和家庭上的过错。",
+            "positive_assumption": "如果我能弥补过错，家人会重新接纳我。",
+            "negative_assumption": "如果我不弥补，家人会永远离开我。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "企业转型失败，长子离世，我连家庭和事业都兼顾不好，我很失败。",
+                "others": "商业对手会趁机打压我，嘲笑我的失败。",
+                "world": "商场如战场，失败了就会被淘汰。"
+            },
+            "rules": "我必须尽快让企业重回正轨，挽回失败的局面。",
+            "positive_assumption": "如果我能让企业重新崛起，我就不是失败者了。",
+            "negative_assumption": "如果我不能改变现状，我会被彻底击垮。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我对家族产业的发展很重要，家人离不开我。",
+                "others": "家人会因为我的存在而更有安全感。",
+                "world": "家族产业的传承需要创业者的引导。"
+            },
+            "rules": "我要把创业的经验和家族的价值观传承给下一代。",
+            "positive_assumption": "如果我传承经验和价值观，家族产业会更团结。",
+            "negative_assumption": "如果我不传承，家族产业的发展可能会受阻。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_12",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "youth"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我有创业的经验和智慧，家人需要我。",
+                "others": "家人在创业和应对困难时会听取我的意见。",
+                "world": "家庭中创业者的经验是宝贵的财富。"
+            },
+            "rules": "我要主动参与家庭事务和家族产业的讨论，为家人出谋划策。",
+            "positive_assumption": "如果我参与家庭事务，能让家族产业更好。",
+            "negative_assumption": "如果我不参与，家人可能会走弯路。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_11",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "youth"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我只能自己承受创业失败和受伤的孤独，没人能陪伴我。",
+                "others": "别人都有自己的生活，不会关心我的孤独。",
+                "world": "孤独是创业和经历挫折时的常态。"
+            },
+            "rules": "我要习惯孤独，自己解决问题。",
+            "positive_assumption": "如果我习惯孤独，就不会那么痛苦。",
+            "negative_assumption": "如果我依赖别人，会更失望。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我内心的创业想法和受伤的痛苦没人能懂，我很孤独。",
+                "others": "家人和朋友都不能真正理解我。",
+                "world": "人与人之间很难真正走进彼此的内心。"
+            },
+            "rules": "我不要轻易向别人敞开心扉，以免被误解。",
+            "positive_assumption": "如果我不敞开心扉，就不会受到伤害。",
+            "negative_assumption": "如果我敞开心扉，会被别人嘲笑或不理解。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我的坚强是我最大的财富，能让我度过创业和批斗的难关。",
+                "others": "我的坚强可以给家人和朋友带来力量。",
+                "world": "坚强的人在这个世界上才能生存。"
+            },
+            "rules": "我要把坚强的一面展现给家人和朋友。",
+            "positive_assumption": "如果我展现坚强，能鼓舞家人和朋友。",
+            "negative_assumption": "如果我表现软弱，会让家人和朋友失望。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了创业失败和批斗受伤都没倒下，我很坚强。",
+                "others": "别人遇到我的这些困难可能早就放弃了。",
+                "world": "生活就是充满挑战，我有能力应对。"
+            },
+            "rules": "无论遇到什么困难，我都要坚强面对。",
+            "positive_assumption": "如果我坚强面对，就能克服困难。",
+            "negative_assumption": "如果我不坚强，就会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我在当下的社会环境里没有立足之地，我是多余的。",
+                "others": "社会不需要我这样跟不上时代变革的人。",
+                "world": "这个世界只属于积极参与变革的人。"
+            },
+            "rules": "我不要尝试去融入当下的社会变革，以免受到伤害。",
+            "positive_assumption": "如果我不尝试融入，就不会被排斥。",
+            "negative_assumption": "如果我尝试融入，会被无情地打击。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我对当下的政治运动和社会变革一窍不通，我跟不上时代的步伐。",
+                "others": "那些积极参与运动的人能轻松适应新时代，而我被落在后面了。",
+                "world": "时代变化太快，我已经无法适应了。"
+            },
+            "rules": "我应该远离那些政治运动和激进的社会活动。",
+            "positive_assumption": "如果我远离这些活动，就不会暴露自己的无知。",
+            "negative_assumption": "如果我参与这些活动，会让我更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我曾经成功创立工厂，证明了我的能力和价值。",
+                "others": "别人会因为我的创业成就而尊重我。",
+                "world": "成功是对创业努力的回报，我的努力是值得的。"
+            },
+            "rules": "我要保持自信，相信自己的创业能力和价值。",
+            "positive_assumption": "如果我保持自信，能更好地面对未来的创业挑战。",
+            "negative_assumption": "如果我不自信，就会否定自己的创业价值。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我白手起家创立工厂，我的努力是有价值的。",
+                "others": "家人应该尊重我的创业努力和经验。",
+                "world": "每个人的创业努力都应该被认可。"
+            },
+            "rules": "我应该把自己的创业经验分享给家人和朋友，帮助他们更好地发展。",
+            "positive_assumption": "如果我分享经验，能让更多人受益，我的价值就得到了体现。",
+            "negative_assumption": "如果我不分享，我的经验就浪费了，我的价值也无法体现。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我在创业和应对批斗上的失败，让我失去了作为家族继承人的资格。",
+                "others": "家人会因为我的失败而对我失望。",
+                "world": "商业和社会环境很残酷，失败了就很难翻身。"
+            },
+            "rules": "我要拼命弥补在创业和应对批斗上的过错。",
+            "positive_assumption": "如果我能弥补过错，家人会重新认可我。",
+            "negative_assumption": "如果我不弥补，家人会永远对我失望。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我创业失败还被批斗，导致身体受伤，我很没用。",
+                "others": "别人会看不起我这个创业失败又被批斗的人。",
+                "world": "这个世界只认可成功的企业家，我这样的失败者没有地位。"
+            },
+            "rules": "我应该重新振作，把工厂办得更好，不然就会一直被人看不起。",
+            "positive_assumption": "如果我能让工厂重新盈利，我就不是失败者了。",
+            "negative_assumption": "如果我不能重新成功，我就是彻头彻尾的失败者。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我对家庭的经济状况改善很重要，家人离不开我。",
+                "others": "家人会因为我的存在而更有安全感。",
+                "world": "家庭的发展需要每个成员的努力。"
+            },
+            "rules": "我要努力在当铺赚钱，让家人过上更好的生活。",
+            "positive_assumption": "如果我能让家人生活变好，家庭会更团结。",
+            "negative_assumption": "如果我不努力，家庭可能会陷入困境。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_12",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我有在当铺学到的经验，家人需要我。",
+                "others": "家人在经济和生活上会听取我的意见。",
+                "world": "家庭中年轻人的经验也能帮助家庭发展。"
+            },
+            "rules": "我要主动和家人分享我在当铺的经验，为家庭出谋划策。",
+            "positive_assumption": "如果我分享经验，能让家庭经济状况变好。",
+            "negative_assumption": "如果我不分享，家人可能会走弯路。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_11",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我只能自己承受孤独，没人能陪伴我。",
+                "others": "别人都有自己的生活，不会关心我的孤独。",
+                "world": "孤独是人生的常态。"
+            },
+            "rules": "我要习惯孤独，自己解决问题。",
+            "positive_assumption": "如果我习惯孤独，就不会那么痛苦。",
+            "negative_assumption": "如果我依赖别人，会更失望。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我内心变卖祖宅的痛苦没人能懂，我很孤独。",
+                "others": "家人和师傅都不能真正理解我。",
+                "world": "人与人之间很难真正走进彼此的内心。"
+            },
+            "rules": "我不要轻易向别人敞开心扉，以免被误解。",
+            "positive_assumption": "如果我不敞开心扉，就不会受到伤害。",
+            "negative_assumption": "如果我敞开心扉，会被别人嘲笑或不理解。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我的坚强是我最大的财富，能让我在当铺立足。",
+                "others": "我的坚强可以给师傅和其他学徒带来榜样。",
+                "world": "坚强的人在这个世界上才能生存。"
+            },
+            "rules": "我要把坚强的一面展现给大家，鼓舞大家。",
+            "positive_assumption": "如果我展现坚强，能得到大家的认可。",
+            "negative_assumption": "如果我表现软弱，会让大家失望。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了变卖祖宅的痛苦都没倒下，我很坚强。",
+                "others": "别人遇到我这样的事可能早就放弃了。",
+                "world": "生活就是充满挑战，我有能力应对。"
+            },
+            "rules": "无论在当铺遇到什么困难，我都要坚强面对。",
+            "positive_assumption": "如果我坚强面对，就能克服困难。",
+            "negative_assumption": "如果我不坚强，就会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我在新的社会环境里没有立足之地，我是多余的。",
+                "others": "社会不需要我这样跟不上时代的人。",
+                "world": "这个世界只属于能适应变化的人。"
+            },
+            "rules": "我要努力改变自己，适应新的社会环境，以免被淘汰。",
+            "positive_assumption": "如果我能适应新环境，就能在社会上有一席之地。",
+            "negative_assumption": "如果我不改变，会被社会无情地淘汰。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我对新的商业规则和社会变化不太懂，我跟不上时代的步伐。",
+                "others": "其他同龄人能轻松适应新变化，而我被落在后面了。",
+                "world": "时代变化太快，我很难适应。"
+            },
+            "rules": "我应该多向师傅和其他人学习，跟上时代的节奏。",
+            "positive_assumption": "如果我能跟上时代节奏，就不会被社会抛弃。",
+            "negative_assumption": "如果我不学习，会被社会彻底抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我在当铺展现出的商业天赋证明了我的能力和价值。",
+                "others": "师傅和其他人会因为我的天赋而尊重我。",
+                "world": "有能力的人在这个世界上会有立足之地。"
+            },
+            "rules": "我要努力发挥自己的商业天赋，做出一番事业。",
+            "positive_assumption": "如果我能做出一番事业，就能证明我的价值。",
+            "negative_assumption": "如果我不努力，就会浪费自己的天赋，也无法证明自己的价值。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我为了弟妹求学变卖祖宅，我的付出是有价值的。",
+                "others": "家人应该理解我的苦衷和付出。",
+                "world": "为了家人牺牲自己是值得被认可的。"
+            },
+            "rules": "我应该在当铺好好学本事，将来让家人过上好日子。",
+            "positive_assumption": "如果我能让家人过上好日子，我的价值就得到了体现。",
+            "negative_assumption": "如果我学不好本事，我的付出就白费了，我的价值也无法体现。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我在守护祖产上的失败，让我失去了作为家族继承人的资格。",
+                "others": "家人会因为我的失败而失望。",
+                "world": "家族传承很重要，失败了就很难再被认可。"
+            },
+            "rules": "我要拼命在当铺做出成绩，弥补在祖产上的过错。",
+            "positive_assumption": "如果我能在当铺出人头地，家人会重新认可我。",
+            "negative_assumption": "如果我不努力，家人会永远对我失望。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我连祖宅都保不住，我很没用。",
+                "others": "别人会看不起我这个保不住祖宅的人。",
+                "world": "这个世界很现实，保不住祖产的人没地位。"
+            },
+            "rules": "我应该努力赚钱，把祖宅再买回来，不然就会被人一直嘲笑。",
+            "positive_assumption": "如果我能把祖宅买回来，我就不是失败者了。",
+            "negative_assumption": "如果我不能把祖宅买回来，我就是彻头彻尾的失败者。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我对家族产业的未来很重要，父亲离不开我。",
+                "others": "父亲会因为我的存在而更有信心。",
+                "world": "家族的发展需要晚辈的参与。"
+            },
+            "rules": "我要把自己的想法告诉父亲，传承家族产业的理念。",
+            "positive_assumption": "如果我传承理念，家族产业会更有希望。",
+            "negative_assumption": "如果我不传承，家族产业的理念可能会丢失。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_12",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "childhood"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我有学习到的知识和智慧，父亲需要我。",
+                "others": "父亲在家族产业的事情上会听取我的意见。",
+                "world": "家庭中晚辈的想法也可能是宝贵的财富。"
+            },
+            "rules": "我要主动和父亲交流家族产业的事情，为他出谋划策。",
+            "positive_assumption": "如果我参与交流，能让家族产业更好。",
+            "negative_assumption": "如果我不参与，家族产业可能会走弯路。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_11",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "childhood"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我只能自己承受孤独，没人能陪伴我。",
+                "others": "别人都有自己的生活，不会关心我的孤独。",
+                "world": "孤独是人生的常态。"
+            },
+            "rules": "我要习惯孤独，自己解决问题。",
+            "positive_assumption": "如果我习惯孤独，就不会那么痛苦。",
+            "negative_assumption": "如果我依赖别人，会更失望。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我内心的痛苦没人能懂，我很孤独。",
+                "others": "同窗和父亲都不能真正理解我。",
+                "world": "人与人之间很难真正走进彼此的内心。"
+            },
+            "rules": "我不要轻易向别人敞开心扉，以免被误解。",
+            "positive_assumption": "如果我不敞开心扉，就不会受到伤害。",
+            "negative_assumption": "如果我敞开心扉，会被别人嘲笑或不理解。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我的坚强是我最大的财富，能让我度过难关。",
+                "others": "我的坚强可以给同窗带来力量。",
+                "world": "坚强的人在这个世界上才能生存。"
+            },
+            "rules": "我要把坚强的一面展现给同窗和周围的人。",
+            "positive_assumption": "如果我展现坚强，能鼓舞同窗和他人。",
+            "negative_assumption": "如果我表现软弱，会让同窗和他人失望。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了家族产业焚毁都没倒下，我很坚强。",
+                "others": "同窗遇到这样的事可能早就崩溃了。",
+                "world": "生活就是充满挑战，我有能力应对。"
+            },
+            "rules": "无论遇到什么困难，我都要坚强面对。",
+            "positive_assumption": "如果我坚强面对，就能克服困难。",
+            "negative_assumption": "如果我不坚强，就会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "在战乱的世界里我没有立足之地，我是多余的。",
+                "others": "社会不需要我这样胆小的人。",
+                "world": "这个世界只属于勇敢的人。"
+            },
+            "rules": "我不要尝试去参与战乱中的事情，以免受到伤害。",
+            "positive_assumption": "如果我不参与，就不会被伤害。",
+            "negative_assumption": "如果我参与，会被无情地伤害。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "战乱让我害怕，我无法适应这个动荡的时代。",
+                "others": "同窗们能适应战乱，而我被落在后面了。",
+                "world": "时代变化太快，我已经无法适应了。"
+            },
+            "rules": "我应该远离战乱的危险，保护好自己。",
+            "positive_assumption": "如果我远离危险，就不会受到伤害。",
+            "negative_assumption": "如果我不远离，会让自己陷入危险。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我认真临摹山水画，这证明了我的能力和价值。",
+                "others": "同窗会因为我的才艺而尊重我。",
+                "world": "有才华的人会被人欣赏，我的努力是值得的。"
+            },
+            "rules": "我要保持自信，相信自己的价值。",
+            "positive_assumption": "如果我保持自信，能更好地面对生活。",
+            "negative_assumption": "如果我不自信，就会否定自己的价值。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我在私塾努力学习，我的付出是有价值的。",
+                "others": "父亲应该看到我的努力。",
+                "world": "每个人的努力都应该被认可。"
+            },
+            "rules": "我应该更加努力学习，将来为家族产业做贡献。",
+            "positive_assumption": "如果我努力学习，能让家族产业有希望，我的价值就得到了体现。",
+            "negative_assumption": "如果我不努力，我的价值就无法体现。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "家族产业的焚毁让我失去了未来，我没有价值。",
+                "others": "父亲会因为我的无能而失望。",
+                "world": "商业世界很无情，失败了就很难翻身。"
+            },
+            "rules": "我要拼命学习商业知识，弥补在守护家族产业上的过错。",
+            "positive_assumption": "如果我能学好知识，父亲会重新认可我。",
+            "negative_assumption": "如果我不学习，父亲会永远对我失望。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我没能保护好家族的绸缎庄，我很没用。",
+                "others": "同窗们会看不起我这个守不住家业的人。",
+                "world": "这个世界很残酷，家族产业没了就很难再起来。"
+            },
+            "rules": "我应该努力重建家族产业，不然就会被人嘲笑。",
+            "positive_assumption": "如果我能重建家族产业，我就不是失败者了。",
+            "negative_assumption": "如果我不能重建，我就是彻头彻尾的失败者。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

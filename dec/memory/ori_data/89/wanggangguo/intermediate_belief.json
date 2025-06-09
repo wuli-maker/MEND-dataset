@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我是一个有罪的人，过去的错误会一直跟着我。",
+                "others": "别人会因为我的过去而看不起我。",
+                "world": "我在这个世界上永远无法摆脱过去的阴影。"
+            },
+            "rules": "我不能忘记过去的错误，要时刻提醒自己。",
+            "positive_assumption": "如果我时刻提醒自己，就不会再犯同样的错误。",
+            "negative_assumption": "如果我忘记过去的错误，可能会重蹈覆辙。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我过去犯下的错误太严重了，无法得到原谅。",
+                "others": "别人不会忘记我曾经的过错，会一直对我有看法。",
+                "world": "这个世界不会原谅我的过去。"
+            },
+            "rules": "我应该一直为过去的错误自责，以此来惩罚自己。",
+            "positive_assumption": "如果我一直自责，也许能减轻一些内心的愧疚。",
+            "negative_assumption": "如果我不再自责，就是对过去错误的不重视。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了这么多，有足够的经验和智慧应对生活。",
+                "others": "别人的意见可以参考，但最终决策还是要靠自己。",
+                "world": "世界是充满挑战的，但我有能力克服。"
+            },
+            "rules": "我要相信自己的判断，坚持自己解决问题的方式。",
+            "positive_assumption": "如果我坚持自己的方式，我能更好地应对生活。",
+            "negative_assumption": "如果我轻易听从别人的建议，可能会把事情搞砸。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的能力应对生活中的困难，不需要过多依赖他人。",
+                "others": "他人的帮助只是暂时的，我最终还是要靠自己。",
+                "world": "这个世界需要我自己去面对，我有能力适应。"
+            },
+            "rules": "遇到问题时，我应该首先尝试自己解决。",
+            "positive_assumption": "如果我自己解决问题，我的能力会得到提升。",
+            "negative_assumption": "如果我依赖他人解决问题，我的能力会退化。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然老了，但我过去的贡献不能被抹去，我依然有价值。",
+                "others": "家人应该尊重我曾经的付出。",
+                "world": "每个为家庭付出过的人都应该被尊重。"
+            },
+            "rules": "我要在家庭中保持自己的尊严，展现自己的价值。",
+            "positive_assumption": "如果我展现自己的价值，家人会更加尊重我。",
+            "negative_assumption": "如果我放弃展现价值，家人会更不把我当回事。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我曾经为家庭努力打拼，我的付出是有价值的。",
+                "others": "家人应该理解我的辛苦和付出。",
+                "world": "在家庭的发展中，我起到了重要的作用。"
+            },
+            "rules": "我应该为自己曾经的付出感到骄傲，相信家人会认可我的价值。",
+            "positive_assumption": "如果我认可自己的价值，家人也会逐渐看到我的重要性。",
+            "negative_assumption": "如果我否定自己的价值，家人会更忽视我。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我是家庭中的累赘，家人照顾我只是无奈之举。",
+                "others": "家人对我的照顾只是表面的，内心并不在乎我。",
+                "world": "家庭温暖不属于我，我只能独自面对生活。"
+            },
+            "rules": "我不要给家人添麻烦，自己的事情尽量自己解决。",
+            "positive_assumption": "如果我不给家人添麻烦，家人会轻松一些。",
+            "negative_assumption": "如果我给家人添麻烦，家人会更讨厌我。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有什么值得家人关心的地方，我对他们来说不重要。",
+                "others": "家人只是出于责任照顾我，并非真心爱我。",
+                "world": "在家庭这个小世界里，我是被忽视的。"
+            },
+            "rules": "我不应该过多期望家人的关爱，要学会自己忍受孤独。",
+            "positive_assumption": "如果我不期望家人的关爱，就不会失望。",
+            "negative_assumption": "如果我渴望家人的关爱，只会让自己更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我身上好像带着一种诅咒，会影响身边的人。",
+                "others": "别人和我在一起久了，肯定会倒霉。",
+                "world": "世界容不下我这样会带来厄运的人。"
+            },
+            "rules": "我不能和家人过于亲密，减少接触就是对他们的保护。",
+            "positive_assumption": "减少和家人接触，能让家人平安。",
+            "negative_assumption": "和家人走得太近，家人会遭遇不测。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我是身边人不幸的根源，我总是会给他们带来不好的事情。",
+                "others": "他人靠近我会遭遇不幸，我应该远离他们。",
+                "world": "在这个世界上，我是一个特殊的、会带来厄运的存在。"
+            },
+            "rules": "我应该与他人保持距离，避免给他们带来厄运。",
+            "positive_assumption": "如果我与他人保持距离，他们就不会遭遇不幸。",
+            "negative_assumption": "如果我与他人亲近，他们就会遇到不好的事情。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我是一个有罪的人，送女儿的错误会一直跟着我。",
+                "others": "别人会因为我送女儿的事而看不起我。",
+                "world": "我在这个世界上永远无法摆脱送女儿的阴影。"
+            },
+            "rules": "我不能忘记送女儿的错误，要时刻提醒自己。",
+            "positive_assumption": "如果我时刻提醒自己，就不会再犯同样的错误。",
+            "negative_assumption": "如果我忘记送女儿的错误，可能会重蹈覆辙。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我送女儿这件事是严重的错误，无法得到原谅。",
+                "others": "别人不会忘记我送女儿的事，会一直对我有看法。",
+                "world": "这个世界不会原谅我送女儿的过去。"
+            },
+            "rules": "我应该一直为送女儿的事自责，以此来惩罚自己。",
+            "positive_assumption": "如果我一直自责，也许能减轻一些内心的愧疚。",
+            "negative_assumption": "如果我不再自责，就是对送女儿错误的不重视。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了这么多，有足够的经验和智慧应对生活。",
+                "others": "别人的意见可以参考，但最终决策还是要靠自己。",
+                "world": "世界是充满挑战的，但我有能力克服。"
+            },
+            "rules": "我要相信自己的判断，坚持自己解决问题的方式。",
+            "positive_assumption": "如果我坚持自己的方式，我能更好地应对生活。",
+            "negative_assumption": "如果我轻易听从别人的建议，可能会把事情搞砸。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的能力应对家庭的困难，不需要过多依赖他人。",
+                "others": "他人的帮助只是暂时的，我最终还是要靠自己。",
+                "world": "这个世界需要我自己去面对，我有能力适应。"
+            },
+            "rules": "遇到家庭问题时，我应该首先尝试自己解决。",
+            "positive_assumption": "如果我自己解决问题，我的能力会得到提升。",
+            "negative_assumption": "如果我依赖他人解决问题，我的能力会退化。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然送了女儿，但过去为家庭的贡献不能被抹去，我依然有价值。",
+                "others": "家人应该尊重我曾经的付出。",
+                "world": "每个为家庭付出过的人都应该被尊重。"
+            },
+            "rules": "我要在家庭中展现自己的价值，维护自己的尊严。",
+            "positive_assumption": "如果我展现自己的价值，家人会更加尊重我。",
+            "negative_assumption": "如果我放弃展现价值，家人会更不把我当回事。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我为家庭努力劳作，送女儿也是为了家庭，我的付出有价值。",
+                "others": "家人应该理解我为家庭的付出。",
+                "world": "在家庭发展中，我起到了重要作用。"
+            },
+            "rules": "我应该为自己的付出感到骄傲，相信家人会认可我的价值。",
+            "positive_assumption": "如果我认可自己的价值，家人也会看到我的重要性。",
+            "negative_assumption": "如果我否定自己的价值，家人会更忽视我。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我是家庭的负担，送女儿的事让家人蒙羞。",
+                "others": "家人照顾我只是无奈，内心并不在乎我。",
+                "world": "家庭温暖不属于我，我只能独自面对生活。"
+            },
+            "rules": "我不要给家人添麻烦，自己的困难自己解决。",
+            "positive_assumption": "如果我不给家人添麻烦，家人会轻松些。",
+            "negative_assumption": "如果我给家人添麻烦，家人会更讨厌我。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有什么能让家人真正关爱我的地方，送女儿让我更没资格。",
+                "others": "家人对我只是尽责任，并非真心爱我。",
+                "world": "在家庭里，我是个被忽视的存在。"
+            },
+            "rules": "我不要过多期待家人的关爱，自己默默承担一切。",
+            "positive_assumption": "如果我不期待家人关爱，就不会失望。",
+            "negative_assumption": "如果我渴望家人关爱，只会让自己更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我身上好像有一种厄运的气息，会影响家人。",
+                "others": "家人和我在一起，肯定会倒霉。",
+                "world": "世界不会接纳我这样带来厄运的人。"
+            },
+            "rules": "我不能和家人太亲近，保持距离就是对他们的保护。",
+            "positive_assumption": "和家人保持距离，家人能平安一些。",
+            "negative_assumption": "和家人亲近，家人会遭遇更大的不幸。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我就是家庭不幸的源头，送女儿这件事就是我的错。",
+                "others": "身边的人靠近我都会受到牵连，像队长自杀就是例子。",
+                "world": "在这个世界上，我这样的人就是会带来厄运。"
+            },
+            "rules": "我要减少和他人的交往，避免给他们带来不幸。",
+            "positive_assumption": "如果我减少和他人交往，他们就不会遭遇不幸。",
+            "negative_assumption": "如果我和他人交往密切，他们会遇到更多麻烦。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我是一个有罪的人，队长的死会一直跟着我。",
+                "others": "别人会因为队长的死而看不起我。",
+                "world": "我在这个世界上永远无法摆脱队长之死的阴影。"
+            },
+            "rules": "我不能忘记队长的死，要时刻提醒自己。",
+            "positive_assumption": "如果我时刻提醒自己，就不会再犯同样的错误。",
+            "negative_assumption": "如果我忘记过去的错误，可能会重蹈覆辙。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我导致队长自杀，这个错误太严重了，无法得到原谅。",
+                "others": "公社的人不会忘记我曾经的过错，会一直对我有看法。",
+                "world": "这个世界不会原谅我的过去。"
+            },
+            "rules": "我应该一直为队长的死自责，以此来惩罚自己。",
+            "positive_assumption": "如果我一直自责，也许能减轻一些内心的愧疚。",
+            "negative_assumption": "如果我不再自责，就是对过去错误的不重视。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了童年被遗弃，有足够的坚韧应对生活。",
+                "others": "别人的意见可以参考，但最终决策还是要靠自己。",
+                "world": "世界是充满挑战的，但我有能力克服。"
+            },
+            "rules": "我要相信自己的判断，坚持自己解决问题的方式。",
+            "positive_assumption": "如果我坚持自己的方式，我能更好地应对生活。",
+            "negative_assumption": "如果我轻易听从别人的建议，可能会把事情搞砸。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的能力完成公社交给我的任务，不需要别人过多帮忙。",
+                "others": "别人的帮助只是暂时的，我最终还是要靠自己。",
+                "world": "这个世界需要我自己去闯荡，我有能力适应。"
+            },
+            "rules": "遇到工作上的问题，我应该首先尝试自己解决。",
+            "positive_assumption": "如果我自己解决问题，我的能力会得到提升。",
+            "negative_assumption": "如果我依赖他人解决问题，我的能力会退化。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然有残缺耳垂，但我通过劳动为家庭和公社做贡献，我是有价值的。",
+                "others": "妻子应该理解我的辛苦和付出。",
+                "world": "每个努力付出的人都应该被尊重。"
+            },
+            "rules": "我要在家庭和公社中展现自己的能力和价值。",
+            "positive_assumption": "如果我展现价值，妻子和公社的人会更尊重我。",
+            "negative_assumption": "如果我不展现价值，他们会更不把我当回事。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我为公社赶制棺木，我的劳动是有价值的。",
+                "others": "公社的人应该认可我的付出。",
+                "world": "在公社的建设中，我起到了一定的作用。"
+            },
+            "rules": "我要继续努力工作，让大家看到我的价值。",
+            "positive_assumption": "如果我努力工作，大家会认可我的价值。",
+            "negative_assumption": "如果我不努力工作，大家会更忽视我。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我是家庭的负担，家人只是无奈才照顾我。",
+                "others": "家人内心其实并不在乎我。",
+                "world": "家庭的温暖不属于我。"
+            },
+            "rules": "我尽量不给家人添麻烦，自己的事情自己做。",
+            "positive_assumption": "如果我不给家人添麻烦，家人会轻松些。",
+            "negative_assumption": "如果我给家人添麻烦，家人会更讨厌我。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭里没有什么地位，家人不会真正关心我。",
+                "others": "家人对我的照顾只是表面的，并非真心。",
+                "world": "在家庭这个圈子里，我是被冷落的。"
+            },
+            "rules": "我不要对家人的关爱抱有太大期望，自己过好自己的。",
+            "positive_assumption": "如果我不期望家人关爱，就不会失望。",
+            "negative_assumption": "如果我渴望家人关爱，只会让自己更伤心。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我身上的厄运气息会影响到身边亲近的人。",
+                "others": "我的妻子和我在一起，可能会受到我的牵连。",
+                "world": "世界对我这样的人充满了恶意。"
+            },
+            "rules": "我不能太依赖妻子，要自己承担生活中的困难。",
+            "positive_assumption": "如果我自己承担困难，妻子就不会遭遇不幸。",
+            "negative_assumption": "如果我依赖妻子，她会遇到麻烦。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我好像是个不祥之人，和我接触的人都会倒霉。",
+                "others": "别人和我在一起工作或生活，肯定会遭遇不幸。",
+                "world": "这个世界不欢迎我这样会带来厄运的人。"
+            },
+            "rules": "我要和公社里的人保持距离，不参与过多的集体活动。",
+            "positive_assumption": "如果我和公社的人保持距离，他们就不会遇到不好的事情。",
+            "negative_assumption": "如果我和他们走得太近，他们会倒霉。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我是一个有罪的人，过去的错误会一直跟着我。",
+                "others": "别人会因为我的过去而看不起我。",
+                "world": "我在这个世界上永远无法摆脱过去的阴影。"
+            },
+            "rules": "我不能忘记过去的错误，要时刻提醒自己。",
+            "positive_assumption": "如果我时刻提醒自己，就不会再犯同样的错误。",
+            "negative_assumption": "如果我忘记过去的错误，可能会重蹈覆辙。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我偷藏种子导致队长自杀，这个错误太严重了，无法得到原谅。",
+                "others": "别人不会忘记我曾经的过错，会一直对我有看法。",
+                "world": "这个世界不会原谅我的过去。"
+            },
+            "rules": "我应该一直为过去的错误自责，以此来惩罚自己。",
+            "positive_assumption": "如果我一直自责，也许能减轻一些内心的愧疚。",
+            "negative_assumption": "如果我不再自责，就是对过去错误的不重视。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了这么多，有足够的经验和智慧应对生活。",
+                "others": "别人的意见可以参考，但最终决策还是要靠自己。",
+                "world": "世界是充满挑战的，但我有能力克服。"
+            },
+            "rules": "我要相信自己的判断，坚持自己解决问题的方式。",
+            "positive_assumption": "如果我坚持自己的方式，我能更好地应对生活。",
+            "negative_assumption": "如果我轻易听从别人的建议，可能会把事情搞砸。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的能力应对生活中的困难，不需要依赖别人。",
+                "others": "别人的帮助只是暂时的，我最终还是要靠自己。",
+                "world": "这个世界需要我自己去面对，我有能力适应。"
+            },
+            "rules": "遇到问题时，我应该首先尝试自己解决。",
+            "positive_assumption": "如果我自己解决问题，我的能力会得到提升。",
+            "negative_assumption": "如果我依赖他人解决问题，我的能力会退化。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然年龄小，但我也有能力为家庭做出贡献，我是有价值的。",
+                "others": "家人应该尊重我的付出。",
+                "world": "每个为家庭付出过的人都应该被尊重。"
+            },
+            "rules": "我要在家庭中展现自己的价值，让家人看到我的能力。",
+            "positive_assumption": "如果我展现自己的价值，家人会更加尊重我。",
+            "negative_assumption": "如果我放弃展现价值，家人会更不把我当回事。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然犯了错，但我也努力为家庭做过一些事，我的付出是有价值的。",
+                "others": "家人应该看到我的努力和付出。",
+                "world": "在家庭的发展中，我也起到了一定的作用。"
+            },
+            "rules": "我应该为自己的付出感到骄傲，相信家人会认可我的价值。",
+            "positive_assumption": "如果我认可自己的价值，家人也会逐渐看到我的重要性。",
+            "negative_assumption": "如果我否定自己的价值，家人会更忽视我。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我是家庭的负担，家人照顾我只是无奈之举。",
+                "others": "家人对我的照顾只是表面的，内心并不在乎我。",
+                "world": "家庭温暖不属于我，我只能独自面对生活。"
+            },
+            "rules": "我不要给家人添麻烦，自己的事情自己解决。",
+            "positive_assumption": "如果我不给家人添麻烦，家人会轻松一些。",
+            "negative_assumption": "如果我给家人添麻烦，家人会更讨厌我。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我被家人遗弃过，我没有什么值得家人关心的地方。",
+                "others": "家人不会真心爱我，他们只是觉得有责任照顾我。",
+                "world": "在家庭这个小世界里，我是多余的。"
+            },
+            "rules": "我不应该期望家人的关爱，要学会自己一个人生活。",
+            "positive_assumption": "如果我不期望家人的关爱，就不会失望。",
+            "negative_assumption": "如果我渴望家人的关爱，只会让自己更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我身上好像带着一种诅咒，只要我在，身边的人就不会有好日子过。",
+                "others": "我的伙伴和我在一起，说不定哪天就会出事。",
+                "world": "世界对我这样的人很残酷，我只能孤独地生活。"
+            },
+            "rules": "我不能和同龄伙伴一起玩耍，减少接触就是对他们的保护。",
+            "positive_assumption": "减少和伙伴接触，能让他们平安。",
+            "negative_assumption": "和伙伴走得太近，他们会遭遇不测。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我偷藏种子导致队长自杀，我就是个扫把星，会害了身边的人。",
+                "others": "别人和我在一起，肯定会倒霉，我会给他们带来灾难。",
+                "world": "这个世界容不下我这样会带来厄运的人。"
+            },
+            "rules": "我要离其他人远一点，不能和他们走太近。",
+            "positive_assumption": "如果我和别人保持距离，他们就不会遭遇不幸。",
+            "negative_assumption": "如果我和别人亲近，他们就会遇到不好的事情。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我是个有罪的孩子，过去的事会一直跟着我。",
+                "others": "别人会因为我的过去而讨厌我。",
+                "world": "我在这个世界上永远摆脱不了过去的阴影。"
+            },
+            "rules": "我不能忘记过去的事，要时刻提醒自己。",
+            "positive_assumption": "如果我时刻提醒自己，就不会再犯类似的错。",
+            "negative_assumption": "如果我忘记过去，可能会再被遗弃。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我被亲生父母遗弃，这是我的错，无法被原谅。",
+                "others": "别人会因为我被遗弃而看不起我。",
+                "world": "这个世界不会原谅我的过去。"
+            },
+            "rules": "我要一直为被遗弃的事自责，惩罚自己。",
+            "positive_assumption": "如果我一直自责，也许能减轻一些愧疚。",
+            "negative_assumption": "如果我不再自责，就是对过去的不重视。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了被遗弃，有足够的勇气面对生活。",
+                "others": "别人的意见可以听，但自己的决定更重要。",
+                "world": "世界有挑战，但我能克服。"
+            },
+            "rules": "我要相信自己的判断，坚持自己解决问题的方法。",
+            "positive_assumption": "如果我坚持自己的方法，能更好地应对生活。",
+            "negative_assumption": "如果我轻易听别人的，可能会把事情弄糟。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力自己照顾好自己，不需要别人太多帮助。",
+                "others": "别人的帮助是有限的，我最终还是要靠自己。",
+                "world": "这个世界需要我自己去面对，我能行。"
+            },
+            "rules": "遇到困难时，我要先自己想办法解决。",
+            "positive_assumption": "如果我自己解决困难，我的能力会变强。",
+            "negative_assumption": "如果我依赖别人解决困难，我会越来越没能力。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然年纪小，但我能帮上家里的忙，我有价值。",
+                "others": "家人应该认可我为家庭做的贡献。",
+                "world": "每个为家庭付出的人都应该被肯定。"
+            },
+            "rules": "我要多帮家人做事，证明自己的价值。",
+            "positive_assumption": "如果我多帮家人做事，家人会更喜欢我。",
+            "negative_assumption": "如果我不帮家人做事，家人会觉得我没价值。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我帮养父做木工活，我的付出是有价值的。",
+                "others": "养父应该能看到我的努力和付出。",
+                "world": "在这个家里，我也能起到一定的作用。"
+            },
+            "rules": "我要努力做好木工活，让养父认可我的价值。",
+            "positive_assumption": "如果我把木工活做好，养父会更重视我。",
+            "negative_assumption": "如果我做不好木工活，养父会更不把我当回事。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我是家庭的负担，家人照顾我很无奈。",
+                "others": "家人对我的照顾只是表面的，心里并不在乎我。",
+                "world": "家庭温暖不属于我，我只能自己孤单生活。"
+            },
+            "rules": "我不能给家人添麻烦，自己的事情自己做。",
+            "positive_assumption": "如果我不给家人添麻烦，家人会轻松一些。",
+            "negative_assumption": "如果我给家人添麻烦，家人会更讨厌我。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有优点，不值得家人疼爱。",
+                "others": "家人只是因为责任才养着我，并不真心喜欢我。",
+                "world": "在家庭里，我是个多余的人。"
+            },
+            "rules": "我不要期待家人的关爱，自己乖乖听话就行。",
+            "positive_assumption": "如果我不期待家人关爱，就不会伤心。",
+            "negative_assumption": "如果我渴望家人关爱，只会让自己更难过。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我身上好像有晦气，会影响周围的人。",
+                "others": "大家都因为我会带来厄运而讨厌我。",
+                "world": "世界对我这样的孩子很不友好。"
+            },
+            "rules": "我不能参加集体活动，避免给大家带来厄运。",
+            "positive_assumption": "不参加集体活动，就不会连累大家。",
+            "negative_assumption": "参加集体活动，会让大家都倒霉。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我是个不祥之人，会给身边人带来霉运。",
+                "others": "别人和我在一起就会倒霉，他们都不想和我接触。",
+                "world": "这个世界容不下我这样会带来厄运的孩子。"
+            },
+            "rules": "我要离其他人远远的，不能让他们靠近我。",
+            "positive_assumption": "如果我远离他人，他们就不会遭遇不幸。",
+            "negative_assumption": "如果我和他人在一起，他们肯定会遇到不好的事情。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

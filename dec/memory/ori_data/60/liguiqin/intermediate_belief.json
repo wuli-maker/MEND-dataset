@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我的教学经验和生活智慧是独特的。",
+                "others": "学生和邻居会从中受益。",
+                "world": "每个人的经验都有其价值。"
+            },
+            "rules": "我要在合适的场合展示我的经验和知识。",
+            "positive_assumption": "如果我展示经验，能得到他人的尊重和认可。",
+            "negative_assumption": "如果我不展示，别人可能不知道我的能力。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我多年积累的经验和知识是我的财富。",
+                "others": "年轻人会愿意学习我的经验和知识。",
+                "world": "经验和知识的传承能推动社会进步。"
+            },
+            "rules": "我要把经验和知识分享给年轻人。",
+            "positive_assumption": "如果我分享经验，能帮助年轻人少走弯路。",
+            "negative_assumption": "如果我不分享，这些经验可能会被浪费。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要更加关注自己的身体健康。",
+                "others": "家人会提醒我注意身体。",
+                "world": "健康是晚年生活的基础。"
+            },
+            "rules": "我要定期进行体检和保养身体。",
+            "positive_assumption": "如果我关注健康，能有更好的生活质量。",
+            "negative_assumption": "如果我忽视健康，可能会生病。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我不能像年轻时那样做高强度的劳动了。",
+                "others": "家人和朋友会理解我的身体状况。",
+                "world": "人都会经历衰老，这是自然规律。"
+            },
+            "rules": "我应该根据自己的身体状况调整生活节奏。",
+            "positive_assumption": "如果我调整节奏，能更好地保护身体。",
+            "negative_assumption": "如果我不调整，身体会更容易出问题。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "社区因为有我而变得更美好。",
+                "others": "社区成员需要我参与社区事务。",
+                "world": "社区的和谐发展需要每个人的参与。"
+            },
+            "rules": "我要积极参与社区活动和事务。",
+            "positive_assumption": "如果我参与社区事务，能促进社区的发展。",
+            "negative_assumption": "如果我不参与，社区会少一份活力。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家人和朋友的生活中是重要的存在。",
+                "others": "家人和朋友需要我的关心和支持。",
+                "world": "人与人之间的相互需要让生活更温暖。"
+            },
+            "rules": "我要时刻关心家人和朋友的需求。",
+            "positive_assumption": "如果我关心他们，能让他们更幸福。",
+            "negative_assumption": "如果我不关心他们，他们会感到孤单。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我传授技艺给别人是对社会的一种贡献。",
+                "others": "别人从我的技艺中能获得益处。",
+                "world": "知识和技艺的传承能让世界更美好。"
+            },
+            "rules": "我要把自己的技艺毫无保留地传授给他人。",
+            "positive_assumption": "如果我传授技艺，能培养更多有能力的人。",
+            "negative_assumption": "如果我不传授技艺，这些技艺可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的能力和经验去帮助别人。",
+                "others": "他人遇到困难时会向我求助。",
+                "world": "帮助他人是一种美德，我应该践行。"
+            },
+            "rules": "当他人需要帮助时，我应该主动伸出援手。",
+            "positive_assumption": "如果我帮助他人，会得到他人的感激和尊重。",
+            "negative_assumption": "如果我不帮助他人，我会感到愧疚。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭和社区中扮演着重要角色。",
+                "others": "家人和社区成员依赖我的存在。",
+                "world": "我在自己的小世界里是不可或缺的。"
+            },
+            "rules": "我要在家庭和社区中积极发挥作用。",
+            "positive_assumption": "如果我积极参与，能让家庭和社区更和谐。",
+            "negative_assumption": "如果我不参与，家庭和社区会受到影响。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我所做的事情都是有意义的。",
+                "others": "他人会认可我的付出。",
+                "world": "这个世界需要像我这样有价值的人。"
+            },
+            "rules": "我应该继续做对他人和社会有意义的事情。",
+            "positive_assumption": "如果我持续做有意义的事，我的价值会得到更多体现。",
+            "negative_assumption": "如果我停止做事，我就会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我的生活智慧能给邻居和家人带来帮助。",
+                "others": "邻居和家人会从我的智慧中受益。",
+                "world": "每个人的智慧都能让生活更美好。"
+            },
+            "rules": "我要在合适的时候分享我的生活智慧。",
+            "positive_assumption": "如果我分享智慧，能让大家的生活更轻松。",
+            "negative_assumption": "如果我不分享，大家可能会多走弯路。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我多年的教学经验是宝贵的财富。",
+                "others": "年轻教师会愿意学习我的经验。",
+                "world": "经验的传承能提升教育质量。"
+            },
+            "rules": "我要把教学经验分享给年轻教师。",
+            "positive_assumption": "如果我分享经验，能帮助年轻教师成长。",
+            "negative_assumption": "如果我不分享，这些经验就浪费了。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要关注自己的身体健康，才能更好地照顾家人和工作。",
+                "others": "家人会提醒我注意身体。",
+                "world": "健康是中年生活的基础。"
+            },
+            "rules": "我要定期进行体检。",
+            "positive_assumption": "如果我定期体检，能早发现身体问题。",
+            "negative_assumption": "如果我忽视体检，可能会错过治疗时机。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我不能像年轻时那样高强度工作了。",
+                "others": "家人和同事会理解我的身体状况。",
+                "world": "人到中年身体机能会下降是正常的。"
+            },
+            "rules": "我要合理安排工作和休息时间。",
+            "positive_assumption": "如果我合理安排时间，能保持身体健康。",
+            "negative_assumption": "如果我不注意休息，身体会出问题。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我在教学工作中是不可或缺的。",
+                "others": "学生和学校需要我的教学。",
+                "world": "教育事业需要敬业的教师。"
+            },
+            "rules": "我要认真对待每一堂课。",
+            "positive_assumption": "如果我认真教学，能提高学生的成绩。",
+            "negative_assumption": "如果我不认真教学，会耽误学生的学习。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭和社区中是重要的支撑。",
+                "others": "家人和邻居依赖我的存在。",
+                "world": "家庭和社区的稳定需要每个人发挥作用。"
+            },
+            "rules": "我要承担起家庭和社区中的责任。",
+            "positive_assumption": "如果我承担责任，能让家庭和社区更稳定。",
+            "negative_assumption": "如果我不承担责任，家庭和社区会受到影响。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以在生活和学习上给子女和学生提供指导。",
+                "others": "子女和学生需要我的指导。",
+                "world": "长辈对晚辈的指导能促进他们的成长。"
+            },
+            "rules": "我要经常关心子女和学生的生活与学习。",
+            "positive_assumption": "如果我关心他们，他们会成长得更好。",
+            "negative_assumption": "如果我不关心他们，他们可能会走弯路。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我有丰富的教学经验和生活阅历，能帮助他人解决问题。",
+                "others": "邻居和学生遇到问题会向我求助。",
+                "world": "帮助他人能让社区和学校更和谐。"
+            },
+            "rules": "当他人遇到问题时，我要主动提供帮助。",
+            "positive_assumption": "如果我帮助他人，会得到他人的尊重和感激。",
+            "negative_assumption": "如果我不帮助他人，我会觉得自己很冷漠。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我发明田间数学教学法是有意义的创新。",
+                "others": "同事和学生都会认可我的教学方法。",
+                "world": "教育领域需要这样有创意的教学方法。"
+            },
+            "rules": "我要推广我的田间数学教学法。",
+            "positive_assumption": "如果我推广教学法，能帮助更多学生学好数学。",
+            "negative_assumption": "如果我不推广，这个教学法就无法发挥更大价值。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我独自供子女读书和教学的付出是有价值的。",
+                "others": "子女和学生能从我的努力中受益。",
+                "world": "社会需要像我这样努力付出的人。"
+            },
+            "rules": "我要继续努力供子女读书并教好学生。",
+            "positive_assumption": "如果我持续努力，我的价值会得到子女和学生的认可。",
+            "negative_assumption": "如果我停止努力，我就无法体现自己的价值。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我学习的新知识能运用到教学中，提升教学质量。",
+                "others": "学生能从我的新知识中获得更丰富的教育。",
+                "world": "知识的更新能让教育更有活力。"
+            },
+            "rules": "我要持续学习新知识。",
+            "positive_assumption": "如果我学习新知识，教学会更出色，学生也会更受益。",
+            "negative_assumption": "如果我不学习新知识，教学会变得陈旧，无法满足学生需求。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我在教学中积累的经验会越来越有价值。",
+                "others": "学生和未来的老师会从我的经验中受益。",
+                "world": "经验的积累和传承能推动教育发展。"
+            },
+            "rules": "我要不断总结教学经验。",
+            "positive_assumption": "如果我总结经验，能更好地教学，也能分享给他人。",
+            "negative_assumption": "如果我不总结经验，可能会重复错误，经验也无法传承。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以不断尝试新的教学方法和理念。",
+                "others": "学生和同事会接受我的新尝试。",
+                "world": "教育需要不断创新和进步。"
+            },
+            "rules": "我要勇于尝试新的教学方式。",
+            "positive_assumption": "如果我尝试新方法，可能会提高教学效果，获得更多认可。",
+            "negative_assumption": "如果我不尝试，教学可能会停滞不前，我会落后于时代。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的精力去应对教学工作和生活挑战。",
+                "others": "家人和同事会理解我忙碌的工作状态。",
+                "world": "年轻就是要拼搏奋斗。"
+            },
+            "rules": "我要全身心投入教学和生活。",
+            "positive_assumption": "如果我全身心投入，会取得更好的成果，实现自己的目标。",
+            "negative_assumption": "如果我不投入，会错过很多机会，无法发挥自己的潜力。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我在同事群体中能发挥积极作用。",
+                "others": "同事在工作中会需要我的协作。",
+                "world": "团队合作需要每个人发挥自己的作用。"
+            },
+            "rules": "我要积极参与学校的各项工作和活动。",
+            "positive_assumption": "如果我积极参与，能促进学校工作顺利开展，我会被同事认可。",
+            "negative_assumption": "如果我不参与，学校工作可能受影响，我会被认为不合群。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我在学生的学习生活中是重要的引路人。",
+                "others": "学生需要我的引导和支持。",
+                "world": "师生间的相互需要让教育更有温度。"
+            },
+            "rules": "我要关注学生的学习和生活情况。",
+            "positive_assumption": "如果我关注学生，他们会健康成长，我会成为他们信任的老师。",
+            "negative_assumption": "如果我不关注学生，他们可能会在成长中遇到困难，我会觉得自己没做好老师。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以和同事分享教学经验，帮助他们提升教学水平。",
+                "others": "同事会欢迎我的经验分享。",
+                "world": "教师间相互帮助能提升整个学校的教学质量。"
+            },
+            "rules": "我要主动和同事交流教学经验。",
+            "positive_assumption": "如果我分享经验，同事教学能力提高，学校教学质量也会提升。",
+            "negative_assumption": "如果我不分享经验，同事可能错过提升机会，我也没尽到团队合作的责任。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的知识和耐心去帮助学生解决学习问题。",
+                "others": "学生遇到难题会向我求助。",
+                "world": "帮助学生进步是老师的使命。"
+            },
+            "rules": "当学生有学习困难时，我要及时给予帮助。",
+            "positive_assumption": "如果我帮助学生解决问题，他们会取得进步，我会得到学生的尊敬。",
+            "negative_assumption": "如果我不帮助学生，他们成绩可能下滑，我会感到失职。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我为学生手写评语能给予他们鼓励和指导，这是有意义的。",
+                "others": "学生会珍惜我写的评语。",
+                "world": "真诚的鼓励对学生成长很重要。"
+            },
+            "rules": "我要为每个毕业生认真手写评语。",
+            "positive_assumption": "如果我认真写评语，能激励学生更好地成长，我的价值会被看到。",
+            "negative_assumption": "如果我不写评语，学生可能会少了一份鼓励，我就没做好老师的职责。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我认真教学能让学生获得知识，这是很有价值的事。",
+                "others": "学生和同事会认可我的教学工作。",
+                "world": "教育事业需要像我这样认真负责的老师。"
+            },
+            "rules": "我要用心教好每一个学生。",
+            "positive_assumption": "如果我用心教学，学生成绩会提高，我的价值会得到体现。",
+            "negative_assumption": "如果我教学不用心，学生学不好，我就没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我的努力学习会有回报，知识会变得更有价值。",
+                "others": "老师会表扬我的努力。",
+                "world": "努力学习的人会得到应有的回报。"
+            },
+            "rules": "我要持续努力学习。",
+            "positive_assumption": "如果我持续努力，我会取得更大的进步。",
+            "negative_assumption": "如果我不努力，我的知识就会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我在学习中积累的知识是我的财富。",
+                "others": "同学会羡慕我的知识。",
+                "world": "知识能改变命运，推动社会进步。"
+            },
+            "rules": "我要好好利用自己学到的知识。",
+            "positive_assumption": "如果我利用好知识，能取得更好的成绩。",
+            "negative_assumption": "如果我浪费知识，我会变得平庸。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以尝试新的事物，在挑战中成长。",
+                "others": "同学会支持我尝试新事物。",
+                "world": "勇于尝试新事物能让世界变得更精彩。"
+            },
+            "rules": "我要勇敢地尝试新的事物。",
+            "positive_assumption": "如果我尝试新事物，我会获得更多的经验。",
+            "negative_assumption": "如果我不敢尝试，我会错过很多机会。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我在成长过程中会不断提升自己的能力。",
+                "others": "老师和家人会鼓励我成长。",
+                "world": "成长能让我有更多机会实现自己的梦想。"
+            },
+            "rules": "我要不断学习新的知识和技能。",
+            "positive_assumption": "如果我不断学习，我会变得更强大。",
+            "negative_assumption": "如果我停止学习，我会落后于别人。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我能给同桌和后桌带来快乐和帮助，他们需要我。",
+                "others": "同桌和后桌希望和我成为好朋友。",
+                "world": "朋友之间的相互陪伴和帮助能让生活更美好。"
+            },
+            "rules": "我要关心同桌和后桌的感受。",
+            "positive_assumption": "如果我关心他们，能让我们的友谊更深厚。",
+            "negative_assumption": "如果我不关心他们，他们会感到孤单。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我在班级里是重要的存在。",
+                "others": "同学和老师需要我的参与。",
+                "world": "班级的和谐需要每个人的参与。"
+            },
+            "rules": "我要积极参与班级活动。",
+            "positive_assumption": "如果我参与班级活动，能让班级更团结。",
+            "negative_assumption": "如果我不参与，班级会少一份活力。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以把自己的学习方法分享给同学，这是对大家的帮助。",
+                "others": "同学能从我的学习方法中受益。",
+                "world": "知识的分享能让大家变得更优秀。"
+            },
+            "rules": "我要把自己的学习方法分享给同学。",
+            "positive_assumption": "如果我分享学习方法，能帮助同学提高成绩。",
+            "negative_assumption": "如果我不分享，同学可能会走很多弯路。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力帮助同学解决学习上的问题。",
+                "others": "同学遇到问题会向我求助。",
+                "world": "同学之间互相帮助能让大家共同进步。"
+            },
+            "rules": "当同学需要帮助时，我应该主动帮忙。",
+            "positive_assumption": "如果我帮助同学，会得到同学的喜欢和尊重。",
+            "negative_assumption": "如果我不帮助同学，我会感到愧疚。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我克服困难去上学，说明我是有价值的人。",
+                "others": "家人和朋友会为我的坚持感到骄傲。",
+                "world": "坚持克服困难的人能为世界带来改变。"
+            },
+            "rules": "我要坚持克服上学路上的困难。",
+            "positive_assumption": "如果我坚持克服困难，我的价值会被更多人看到。",
+            "negative_assumption": "如果我放弃，我就会成为一个没有价值的人。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我努力学习是有意义的，能体现我的价值。",
+                "others": "同学和老师会认可我的努力。",
+                "world": "这个世界需要努力学习的人。"
+            },
+            "rules": "我应该努力学习，取得好成绩。",
+            "positive_assumption": "如果我努力学习，我的价值会得到体现。",
+            "negative_assumption": "如果我不努力学习，我就会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我识别野菜的知识是有用的。",
+                "others": "家人会依靠我识别野菜。",
+                "world": "了解野菜知识能增加食物来源。"
+            },
+            "rules": "我要继续学习识别更多的野菜。",
+            "positive_assumption": "如果我学习更多野菜知识，能找到更多食物。",
+            "negative_assumption": "如果我不学习，可能会错过一些可食用的野菜。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我学会的腌菜技艺是我重要的本事。",
+                "others": "家人会认可我的技艺。",
+                "world": "有用的技能能帮助家庭度过困难。"
+            },
+            "rules": "我要不断提高腌菜技艺。",
+            "positive_assumption": "如果我提高技艺，能腌制出更好的菜。",
+            "negative_assumption": "如果我不提高技艺，腌制的菜可能不好吃。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我需要注意自己的身体健康，才能照顾好家人。",
+                "others": "家人会提醒我注意身体。",
+                "world": "健康是照顾家人的基础。"
+            },
+            "rules": "我要合理休息，保证身体健康。",
+            "positive_assumption": "如果我注意健康，能更好地为家庭做事。",
+            "negative_assumption": "如果我忽视健康，可能会生病无法照顾家人。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我每天挖野菜锻炼，身体会越来越强壮。",
+                "others": "家人会因为我身体好而放心。",
+                "world": "在困难时期，有好身体才能更好地生存。"
+            },
+            "rules": "我要坚持锻炼，保持好身体。",
+            "positive_assumption": "如果我坚持锻炼，能更好地完成劳动。",
+            "negative_assumption": "如果我不锻炼，身体会变差。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "邻里可能会需要我的腌菜和野菜。",
+                "others": "邻里遇到食物短缺时会向我求助。",
+                "world": "邻里之间相互帮助能度过困难时期。"
+            },
+            "rules": "当邻里需要食物时，我可以适当分享。",
+            "positive_assumption": "如果我帮助邻里，会得到邻里的友好回应。",
+            "negative_assumption": "如果我不帮助邻里，会被邻里疏远。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭中是不可或缺的。",
+                "others": "家人需要我的照顾和帮助。",
+                "world": "家庭中的成员相互需要才能生存。"
+            },
+            "rules": "我要时刻关注家人的需求。",
+            "positive_assumption": "如果我关心家人，能让他们更安心。",
+            "negative_assumption": "如果我不关心家人，他们会感到无助。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我把腌菜技艺分享给家人，是对家庭的一种贡献。",
+                "others": "家人从我的技艺中能解决食物保存问题。",
+                "world": "技能的分享能让家庭更好地应对困难。"
+            },
+            "rules": "我要把腌菜技艺教给家人。",
+            "positive_assumption": "如果我传授技艺，家人能更好地保存食物。",
+            "negative_assumption": "如果我不传授技艺，食物可能会浪费。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力通过挖野菜和腌菜帮助家人度过困难。",
+                "others": "家人遇到困难时会指望我。",
+                "world": "在困难时期，相互帮助才能生存下去。"
+            },
+            "rules": "当家人需要食物时，我应该努力去获取。",
+            "positive_assumption": "如果我帮助家人解决食物问题，会得到家人的感激。",
+            "negative_assumption": "如果我不帮助家人，他们会挨饿。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭中扮演着照顾弟妹的重要角色。",
+                "others": "弟妹依赖我的照顾。",
+                "world": "在家庭里，每个人都有自己的角色和价值。"
+            },
+            "rules": "我要好好照顾弟妹，让他们健康成长。",
+            "positive_assumption": "如果我照顾好弟妹，家庭会更和睦。",
+            "negative_assumption": "如果我照顾不好弟妹，家庭会不和谐。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我学会腌菜和挖野菜养活弟妹，说明我是有价值的。",
+                "others": "家人会因为我做的事而认可我。",
+                "world": "在困难时期，能为家庭做贡献的人是有价值的。"
+            },
+            "rules": "我要继续学习生存技能，为家庭出力。",
+            "positive_assumption": "如果我持续学习技能并为家庭做事，我的价值会得到更多体现。",
+            "negative_assumption": "如果我不做事，我就会成为家庭的负担。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

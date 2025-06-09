@@ -1,0 +1,202 @@
+{
+    "node_24": {
+        "page_content": "过去的经历塑造了现在的我，我为自己的人生感到骄傲。",
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_23": {
+        "page_content": "我应该独自面对生活中的困难，不能给家人添麻烦。",
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_22": {
+        "page_content": "我可以依靠家人获得支持和关爱。",
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_21": {
+        "page_content": "我正在逐渐失去身体机能，变得无用。",
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_20": {
+        "page_content": "我是有价值的，我的经验和故事值得传承。",
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_19": {
+        "page_content": "过去的经历塑造了现在的我，我为自己的人生感到骄傲。",
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_18": {
+        "page_content": "我应该独自面对生活中的困难，不能给家人添麻烦。",
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_17": {
+        "page_content": "我可以依靠家人获得支持和关爱。",
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_16": {
+        "page_content": "我正在逐渐失去身体机能，变得无用。",
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_15": {
+        "page_content": "我是有价值的，我的经验和故事值得传承。",
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_14": {
+        "page_content": "这次战争经历会塑造更好的我，我为自己参与战争感到骄傲。",
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_13": {
+        "page_content": "我应该独自承担责任，不能拖累战友。",
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_12": {
+        "page_content": "我可以依靠战友获得支持和帮助。",
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_11": {
+        "page_content": "我必须保持警惕，否则会有危险。",
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_10": {
+        "page_content": "我是有价值的，我的贡献值得肯定。",
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_9": {
+        "page_content": "过去的经历和现在的努力塑造了未来的我，我为自己的成长感到期待。",
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": "我应该独自面对成长中的困难，不能轻易依赖他人。",
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": "我可以依靠伙伴和村干部获得支持和帮助。",
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_6": {
+        "page_content": "我正在逐渐成长，可能会遇到困难。",
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_5": {
+        "page_content": "我是有价值的，我的能力值得被认可。",
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_4": {
+        "page_content": "经历饥荒会让我成长，我会为自己的坚持感到骄傲。",
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": "我应该为家庭分担，不能只依赖家人。",
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": "我可以依靠家人一起度过饥荒。",
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": "我在饥荒中可能无力改变现状，显得无用。",
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": "我是有价值的，我的努力能帮助家庭度过难关。",
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

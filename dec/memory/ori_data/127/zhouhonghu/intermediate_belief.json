@@ -1,0 +1,830 @@
+{
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我的坚强是我最大的财富。",
+                "others": "坚强的人更容易获得成功和尊重。",
+                "world": "这个世界属于坚强的人。"
+            },
+            "rules": "我要保持坚强的心态。",
+            "positive_assumption": "如果我保持坚强，生活就会越来越好。",
+            "negative_assumption": "如果我失去坚强，生活就会陷入困境。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过那么多困难都挺过来了，现在也能克服困难。",
+                "others": "别人遇到困难也应该像我一样坚强。",
+                "world": "困难只是暂时的，只要坚强就能度过。"
+            },
+            "rules": "我应该勇敢面对生活中的困难。",
+            "positive_assumption": "如果我勇敢面对，困难会被我克服。",
+            "negative_assumption": "如果我逃避困难，会变得更脆弱。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "身体衰退让我有些自卑。",
+                "others": "别人会因为我的身体状况而轻视我。",
+                "world": "身体好的人才能在社会上有地位。"
+            },
+            "rules": "我应该避免在别人面前表现出身体的虚弱。",
+            "positive_assumption": "如果我不表现出虚弱，别人就不会轻视我。",
+            "negative_assumption": "如果我表现出虚弱，会被别人看不起。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我的身体不如以前了，很多事情力不从心。",
+                "others": "别人可能会因为我的身体状况而嫌弃我。",
+                "world": "身体衰退是老年人不可避免的命运。"
+            },
+            "rules": "我应该减少剧烈活动，注意身体保养。",
+            "positive_assumption": "如果我注意保养，身体状况会有所改善。",
+            "negative_assumption": "如果我不注意保养，身体会越来越差。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我的付出对家庭是有意义的。",
+                "others": "家人会因为我的付出而更团结。",
+                "world": "一个有付出的家庭才能长久。"
+            },
+            "rules": "我要把家庭事务放在重要位置。",
+            "positive_assumption": "如果我重视家庭事务，家庭会更稳定。",
+            "negative_assumption": "如果我忽视家庭事务，家庭会变得混乱。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我为家庭付出了很多，是家庭的重要成员。",
+                "others": "家人应该感激我的付出。",
+                "world": "家庭因为我的付出而更美好。"
+            },
+            "rules": "我应该继续为家庭付出。",
+            "positive_assumption": "如果我继续付出，家庭会更和睦。",
+            "negative_assumption": "如果我停止付出，家庭会出现问题。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我习惯了孤独，不需要别人的陪伴。",
+                "others": "别人的陪伴可能会打破我的平静。",
+                "world": "孤独是生活的常态。"
+            },
+            "rules": "我应该享受自己的孤独时光。",
+            "positive_assumption": "如果我享受孤独，我会更自在。",
+            "negative_assumption": "如果我渴望陪伴，会让自己更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是一个人，没人真正陪伴我。",
+                "others": "他人都有自己的生活，不会在意我的孤独。",
+                "world": "这个世界很热闹，但我却融不进去。"
+            },
+            "rules": "我不应该主动打扰别人。",
+            "positive_assumption": "如果我不打扰别人，就不会给别人添麻烦。",
+            "negative_assumption": "如果我主动打扰别人，会被别人厌烦。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力为家庭和社会做出贡献。",
+                "others": "他人会因为我的贡献而感激我。",
+                "world": "世界会因为我的贡献而变得更美好。"
+            },
+            "rules": "我应该积极参与家庭事务和社交活动。",
+            "positive_assumption": "如果我积极参与，我会让自己更有价值。",
+            "negative_assumption": "如果我不参与，我会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我有自己的技能和经验，是有价值的。",
+                "others": "他人应该尊重我的意见和经验。",
+                "world": "这个世界需要像我这样有经验的人。"
+            },
+            "rules": "我应该在家庭和社交中展现自己的价值。",
+            "positive_assumption": "如果我展现自己的价值，我会得到他人的尊重和认可。",
+            "negative_assumption": "如果我不展现自己的价值，我会被他人忽视。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我的坚强是我支撑家庭的重要保障。",
+                "others": "坚强的人更容易获得成功和家人的尊重。",
+                "world": "这个世界属于坚强的人。"
+            },
+            "rules": "我要保持坚强的心态，应对生活中的压力。",
+            "positive_assumption": "如果我保持坚强，家庭会越来越好。",
+            "negative_assumption": "如果我失去坚强，家庭会陷入困境。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过养蚕的辛苦和经济压力，都挺过来了，现在也能克服困难。",
+                "others": "别人遇到困难也应该像我一样坚强。",
+                "world": "困难只是暂时的，只要坚强就能度过。"
+            },
+            "rules": "我应该勇敢面对养蚕过程中的各种困难。",
+            "positive_assumption": "如果我勇敢面对，困难会被我克服。",
+            "negative_assumption": "如果我逃避困难，会让家庭陷入更糟糕的境地。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "身体衰退让我在工作中有些力不从心，有些自卑。",
+                "others": "别人会因为我的身体状况而轻视我。",
+                "world": "身体好的人才能在工作中更出色。"
+            },
+            "rules": "我应该在伙伴面前尽量掩饰身体的不适。",
+            "positive_assumption": "如果我不表现出不适，别人就不会轻视我。",
+            "negative_assumption": "如果我表现出不适，会被别人看不起。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "长时间养蚕工作让我的身体有些吃不消，不如以前了。",
+                "others": "别人可能会因为我的身体状况而减少与我合作。",
+                "world": "身体不好会影响工作和生活。"
+            },
+            "rules": "我应该合理安排工作时间，注意身体休息。",
+            "positive_assumption": "如果我注意休息，身体状况会有所改善。",
+            "negative_assumption": "如果我不注意休息，身体会越来越差，影响家庭收入。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我的付出能让家庭稳定发展，是家庭的顶梁柱。",
+                "others": "家人会因为我的付出而更团结。",
+                "world": "一个有付出的家庭才能长久。"
+            },
+            "rules": "我要把家庭经济和孩子教育放在首位。",
+            "positive_assumption": "如果我重视家庭经济和孩子教育，家庭会更稳定。",
+            "negative_assumption": "如果我忽视这些，家庭会变得混乱。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我连续五年养蚕供孩子上学，对家庭贡献巨大。",
+                "others": "家人会感激我的付出，孩子会努力学习回报我。",
+                "world": "为家庭付出的人会让家庭更幸福。"
+            },
+            "rules": "我应该继续努力养蚕，为孩子创造更好的条件。",
+            "positive_assumption": "如果我继续付出，孩子会有好的未来，家庭会更和睦。",
+            "negative_assumption": "如果我停止付出，孩子的学业会受影响，家庭会不和谐。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我习惯了一个人面对困难，孤独让我更独立。",
+                "others": "别人的帮助可能会让我依赖，不利于解决问题。",
+                "world": "在这个世界上，很多时候只能靠自己。"
+            },
+            "rules": "我应该独立解决问题，不依赖他人。",
+            "positive_assumption": "如果我独立解决问题，会变得更强大。",
+            "negative_assumption": "如果我依赖他人，会变得软弱无能。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我忙于养蚕和家庭事务，没时间和他人深入交流，很孤独。",
+                "others": "他人都有自己的事情，不会真正关心我的孤独。",
+                "world": "大家都为生活奔波，孤独是常态。"
+            },
+            "rules": "我应该专注于自己的事情，不要期望他人陪伴。",
+            "positive_assumption": "如果我专注自己的事，能完成家庭的经济目标。",
+            "negative_assumption": "如果我渴望他人陪伴，会耽误工作，影响家庭收入。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我能通过努力工作体现自己的价值。",
+                "others": "努力工作的人会被他人赞赏。",
+                "world": "努力工作能让世界变得更美好。"
+            },
+            "rules": "我应该全身心投入到养蚕和家庭事务中。",
+            "positive_assumption": "如果我努力工作，家庭会更富裕，我也更有价值。",
+            "negative_assumption": "如果我工作不努力，家庭会陷入困境，我也会失去价值。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我有养蚕和木工等技能，能为家庭创造价值。",
+                "others": "家人和伙伴会认可我的技能和价值。",
+                "world": "有技能的人在社会上是有价值的。"
+            },
+            "rules": "我应该不断提升技能，为家庭和伙伴提供帮助。",
+            "positive_assumption": "如果我提升技能并提供帮助，会得到更多尊重和认可。",
+            "negative_assumption": "如果我不提升技能，会被家人和伙伴轻视。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我的坚强是我完成盖房的关键。",
+                "others": "坚强的人更容易获得成功和他人的尊重。",
+                "world": "这个世界属于坚强的人。"
+            },
+            "rules": "我要保持坚强的心态面对生活中的挑战。",
+            "positive_assumption": "如果我保持坚强，生活就会越来越好。",
+            "negative_assumption": "如果我失去坚强，就无法实现自己的目标。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "烧砖盖房过程中遇到那么多困难我都挺过来了，我很坚强。",
+                "others": "别人遇到类似困难不一定能像我一样坚持。",
+                "world": "困难只是暂时的，只要坚强就能度过。"
+            },
+            "rules": "我应该勇敢面对烧砖盖房中的困难。",
+            "positive_assumption": "如果我勇敢面对，困难会被我克服。",
+            "negative_assumption": "如果我逃避困难，就无法盖好婚房。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我的付出对家庭的稳定和发展是有意义的。",
+                "others": "家人会因为我的付出而更团结。",
+                "world": "一个有成员付出的家庭才能长久。"
+            },
+            "rules": "我要把家庭建设放在重要位置。",
+            "positive_assumption": "如果我重视家庭建设，家庭会更稳定。",
+            "negative_assumption": "如果我忽视家庭建设，家庭会变得松散。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我亲手盖起婚房，为家庭的未来做出了贡献。",
+                "others": "家人会因为我盖好婚房而感激我。",
+                "world": "为家庭付出努力会让家庭更美好。"
+            },
+            "rules": "我应该继续为家庭的建设付出。",
+            "positive_assumption": "如果我继续付出，家庭会更和睦幸福。",
+            "negative_assumption": "如果我停止付出，家庭的发展会受到影响。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我习惯了一个人解决烧砖盖房中的问题，不需要别人的陪伴。",
+                "others": "别人的陪伴可能会打乱我的节奏。",
+                "world": "孤独能让我更专注于自己的事情。"
+            },
+            "rules": "我要享受孤独带来的专注。",
+            "positive_assumption": "如果我享受孤独，能更高效地完成盖房。",
+            "negative_assumption": "如果我渴望陪伴，会分散我的精力。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "在烧砖盖房的三年里，我常常独自面对困难，很孤独。",
+                "others": "烧窑同伴和婚房见证人有他们自己的生活，不会时刻陪伴我。",
+                "world": "很多事情都需要自己一个人去完成，孤独是常态。"
+            },
+            "rules": "我应该学会在孤独中坚持完成自己的事情。",
+            "positive_assumption": "如果我能在孤独中坚持，就能实现自己的目标。",
+            "negative_assumption": "如果我不能忍受孤独，就无法完成盖房的事。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我在烧砖盖房过程中积累的技能是我的价值体现。",
+                "others": "他人会因为我的技能而高看我。",
+                "world": "有技能的人在社会上更有立足之地。"
+            },
+            "rules": "我要不断提升自己的技能，让自己更有价值。",
+            "positive_assumption": "如果我提升技能，会获得更多的机会和认可。",
+            "negative_assumption": "如果我不提升技能，会被社会淘汰。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力亲手烧砖盖起婚房，是有价值的。",
+                "others": "烧窑同伴和婚房见证人会认可我的能力和价值。",
+                "world": "这个世界会因为我的努力和成果而认可我。"
+            },
+            "rules": "我应该通过实际行动展现自己的价值。",
+            "positive_assumption": "如果我通过行动展现价值，会得到他人的赞赏和尊重。",
+            "negative_assumption": "如果我不行动，会被他人认为是无能的。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我的坚强是我克服困难的保障。",
+                "others": "坚强的人更容易获得成功和尊重。",
+                "world": "这个世界属于坚强的人。"
+            },
+            "rules": "我要保持坚强的心态。",
+            "positive_assumption": "如果我保持坚强，工作会更顺利。",
+            "negative_assumption": "如果我失去坚强，会陷入困境。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过饥饿，能坚强面对工作压力。",
+                "others": "别人遇到压力也应该像我一样坚强。",
+                "world": "压力只是成长的磨练，坚强就能度过。"
+            },
+            "rules": "我应该坚强应对工作压力。",
+            "positive_assumption": "如果我坚强应对，能变得更成熟。",
+            "negative_assumption": "如果我被压力打倒，会一事无成。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我敢于尝试新的工作方法。",
+                "others": "同事们应该支持我的尝试。",
+                "world": "创新能让集体发展得更好。"
+            },
+            "rules": "我应该大胆尝试新方法。",
+            "positive_assumption": "如果我尝试成功，能为集体带来进步。",
+            "negative_assumption": "如果我尝试失败，会被同事嘲笑。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我有勇气面对工作中的困难。",
+                "others": "同事们遇到困难也应该勇敢面对。",
+                "world": "困难只是暂时的，只要勇敢就能克服。"
+            },
+            "rules": "我应该勇敢解决工作中的难题。",
+            "positive_assumption": "如果我勇敢解决，能提升自己的能力。",
+            "negative_assumption": "如果我逃避困难，会变得更胆小。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我积极参与集体活动，能为集体增添活力。",
+                "others": "同事们会因为我的参与而更团结。",
+                "world": "一个有活力的集体才能更强大。"
+            },
+            "rules": "我应该积极参加集体活动。",
+            "positive_assumption": "如果我积极参与，集体会更有凝聚力。",
+            "negative_assumption": "如果我不参与，集体会变得松散。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我认真做好记分工作，对集体有贡献。",
+                "others": "同事们会因为我的贡献而肯定我。",
+                "world": "集体因为每个人的贡献而发展。"
+            },
+            "rules": "我应该按时完成记分任务。",
+            "positive_assumption": "如果我按时完成任务，集体会发展得更好。",
+            "negative_assumption": "如果我拖延任务，会影响集体的进度。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我习惯了一个人做事，不需要别人陪伴。",
+                "others": "别人的陪伴可能会干扰我的工作。",
+                "world": "孤独是工作中的常态。"
+            },
+            "rules": "我应该专注于自己的工作。",
+            "positive_assumption": "如果我专注工作，能把事情做得更好。",
+            "negative_assumption": "如果我依赖别人，会降低工作效率。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我在集体中有些孤单，没人真正懂我。",
+                "others": "同事们都有自己的圈子，不会在意我的感受。",
+                "world": "集体里很热闹，但我很难融入。"
+            },
+            "rules": "我不应该主动和同事过于亲近。",
+            "positive_assumption": "如果我不主动亲近，就不会被拒绝。",
+            "negative_assumption": "如果我主动亲近，会被同事排斥。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我有学习新技能的能力，是有潜力的。",
+                "others": "会计会愿意教我更多技能。",
+                "world": "掌握更多技能能让我更有价值。"
+            },
+            "rules": "我应该主动向会计学习技能。",
+            "positive_assumption": "如果我主动学习，能提升自己的能力。",
+            "negative_assumption": "如果我不学习，会错过提升的机会。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我能做好记分员的工作，是有价值的。",
+                "others": "同事们应该认可我的工作能力。",
+                "world": "集体需要像我这样认真负责的人。"
+            },
+            "rules": "我应该准确无误地完成记分工作。",
+            "positive_assumption": "如果我准确完成工作，会得到同事的认可。",
+            "negative_assumption": "如果我工作出错，会被同事质疑。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我的坚强让我能在困难中生存下来。",
+                "others": "坚强的人更容易获得别人的尊重。",
+                "world": "这个世界属于坚强的人。"
+            },
+            "rules": "我要保持坚强的心态。",
+            "positive_assumption": "如果我保持坚强，生活就会越来越好。",
+            "negative_assumption": "如果我失去坚强，生活就会陷入困境。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我被批斗后没有放弃，说明我很坚强。",
+                "others": "别人遇到困难也应该像我一样坚强。",
+                "world": "困难只是暂时的，只要坚强就能度过。"
+            },
+            "rules": "我应该勇敢面对生活中的困难。",
+            "positive_assumption": "如果我勇敢面对，困难会被我克服。",
+            "negative_assumption": "如果我逃避困难，会变得更脆弱。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我努力让妹妹不挨饿，这对家庭很有意义。",
+                "others": "家人会因为我的努力而更团结。",
+                "world": "一个团结的家庭需要每个人的付出。"
+            },
+            "rules": "我要把照顾家人放在重要位置。",
+            "positive_assumption": "如果我照顾家人，家庭会更团结。",
+            "negative_assumption": "如果我不照顾家人，家庭会变得不和谐。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我偷藏红薯给妹妹吃，是对家庭有贡献的。",
+                "others": "家人会因为我的贡献而认可我。",
+                "world": "为家庭做出贡献是很重要的。"
+            },
+            "rules": "我应该为家庭做力所能及的事情。",
+            "positive_assumption": "如果我为家庭做事，我会得到家人的认可。",
+            "negative_assumption": "如果我不为家庭做事，我会被家人忽视。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我习惯了一个人面对困难，不需要别人的陪伴。",
+                "others": "别人的陪伴可能会让我更危险。",
+                "world": "孤独是保护自己的一种方式。"
+            },
+            "rules": "我应该独自解决自己的问题。",
+            "positive_assumption": "如果我独自解决问题，我会更安全。",
+            "negative_assumption": "如果我依赖别人，我会变得更脆弱。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我被公社批斗后，没人愿意和我一起玩，我很孤独。",
+                "others": "别人会因为我被批斗而远离我。",
+                "world": "被批斗的人会被社会孤立。"
+            },
+            "rules": "我应该避免和可能会伤害我的人接触。",
+            "positive_assumption": "如果我避免接触，我就不会受到更多伤害。",
+            "negative_assumption": "如果我和他们接触，我会再次受到伤害。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我有勇气在公社食堂偷藏红薯，这是我的能力。",
+                "others": "公社同伴会因为我的勇气而尊重我。",
+                "world": "有勇气的人在社会上是有价值的。"
+            },
+            "rules": "我应该在面对困难时表现出勇气。",
+            "positive_assumption": "如果我表现出勇气，我会得到别人的尊重。",
+            "negative_assumption": "如果我没有勇气，我会被别人看不起。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我能为妹妹偷藏红薯，说明我是有价值的。",
+                "others": "妹妹会因为我给她红薯而喜欢我。",
+                "world": "在困难时期，能帮助家人就是有价值的。"
+            },
+            "rules": "我应该在家人需要的时候提供帮助。",
+            "positive_assumption": "如果我帮助家人，我会得到家人的喜爱。",
+            "negative_assumption": "如果我不帮助家人，我会被家人讨厌。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

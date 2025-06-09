@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的经验和知识来完成族谱续写。",
+                "others": "可以向长辈和族人请教，获取更多信息。",
+                "world": "大家都希望族谱能够完整。"
+            },
+            "rules": "我要积极与族人沟通，获取续写族谱的信息。",
+            "positive_assumption": "如果我积极沟通，能更好地完成族谱续写。",
+            "negative_assumption": "如果我不沟通，族谱可能会有遗漏。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力完成续写族谱的任务，这是我的使命。",
+                "others": "家人会支持我续写族谱的工作。",
+                "world": "族谱是家族的重要记录，值得去完成。"
+            },
+            "rules": "我要努力收集资料，完成族谱续写。",
+            "positive_assumption": "如果我完成族谱续写，能为家族做出贡献。",
+            "negative_assumption": "如果我不完成，会留下遗憾。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任传承家族的传统和价值观。",
+                "others": "家人应该重视家族的文化。",
+                "world": "家族文化是我们的根，不能丢失。"
+            },
+            "rules": "我要教导孙辈了解家族的历史。",
+            "positive_assumption": "如果我教导孙辈，家族文化就能传承下去。",
+            "negative_assumption": "如果我不教导，家族文化可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任照顾好家庭，为家人付出。",
+                "others": "家人依赖我，需要我的帮助。",
+                "world": "家庭的和谐需要每个成员尽自己的责任。"
+            },
+            "rules": "我应该继续为家人做力所能及的事情。",
+            "positive_assumption": "如果我继续付出，家人会更幸福。",
+            "negative_assumption": "如果我不付出，家庭会变得不和谐。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我曾经的经验在现在没有用，是过时的。",
+                "others": "家人觉得我的经验没有价值。",
+                "world": "现在只看重新的知识和技能。"
+            },
+            "rules": "我不要用过去的经验指导家人。",
+            "positive_assumption": "如果我不指导，就不会被反驳。",
+            "negative_assumption": "如果我指导，会被家人认为是老顽固。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我过去的经历和故事很无趣，没人想听。",
+                "others": "年轻人对过去的事情不感兴趣。",
+                "world": "时代变了，过去的经验不再被重视。"
+            },
+            "rules": "我不要给孙子们讲故事。",
+            "positive_assumption": "如果我不讲，就不会被嫌弃。",
+            "negative_assumption": "如果我讲了，孙子们会更讨厌我。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我对家人来说是可有可无的。",
+                "others": "家人更关注年轻人，忽略了我的存在。",
+                "world": "在家庭中，老年人容易被忽视。"
+            },
+            "rules": "我不要期望家人的陪伴。",
+            "positive_assumption": "如果我不期望，就不会失望。",
+            "negative_assumption": "如果我期望家人陪伴，会让自己更伤心。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭中没有地位，是被遗忘的人。",
+                "others": "家人只关心自己的事情，不会在意我的感受。",
+                "world": "家庭不再是温暖的港湾。"
+            },
+            "rules": "我不要主动和家人交流。",
+            "positive_assumption": "如果我不主动交流，就不会被拒绝。",
+            "negative_assumption": "如果我主动交流，会遭到家人的冷漠回应。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力在新环境中立足，是个失败者。",
+                "others": "别人都比我强，能适应新的生活。",
+                "world": "这个世界变化太快，我跟不上节奏。"
+            },
+            "rules": "我应该少参与家庭事务。",
+            "positive_assumption": "如果我少参与，就不会犯错。",
+            "negative_assumption": "如果我参与，会让自己更难堪。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我现在做什么都没有意义，无法为家庭带来价值。",
+                "others": "家人不再需要我，我的存在对他们无关紧要。",
+                "world": "在这个新环境里，我是多余的。"
+            },
+            "rules": "我不需要再努力去做什么。",
+            "positive_assumption": "如果我不做什么，就不会被嫌弃。",
+            "negative_assumption": "如果我尝试去做，只会让家人更厌烦我。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力将家族在抗洪中的精神传递给下一代。",
+                "others": "晚辈们会愿意听我讲述家族的故事，传承家族文化。",
+                "world": "家族文化的延续需要代代相传，我可以起到桥梁作用。"
+            },
+            "rules": "我要给晚辈讲述家族在抗洪中的故事。",
+            "positive_assumption": "如果我讲述故事，家族文化就能在下一代中延续。",
+            "negative_assumption": "如果我不讲，家族文化的传承可能会中断。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力记录家族在抗洪中的表现，延续家族面对困难的精神。",
+                "others": "家族成员会认可我记录的价值，支持我做这件事。",
+                "world": "家族文化需要有人传承，我可以承担这个责任。"
+            },
+            "rules": "我要收集家族在抗洪中的事迹。",
+            "positive_assumption": "如果我收集好事迹，就能为家族文化传承做出贡献。",
+            "negative_assumption": "如果我不收集，家族在这次抗洪中的文化就可能丢失。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任保障抗洪物资的运输，不能让大家缺物资。",
+                "others": "队友们依赖我运送的沙袋，我不能让他们失望。",
+                "world": "在集体行动中，每个人都要对自己负责的部分尽责。"
+            },
+            "rules": "我要保证沙袋运输的数量和质量。",
+            "positive_assumption": "如果我保证了运输，就是尽到了责任。",
+            "negative_assumption": "如果我没做好运输，就是失职。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任保护家园，在抗洪中不能退缩。",
+                "others": "大家都在为了家园努力，我不能辜负他们的期望。",
+                "world": "面对自然灾害，每个人都有保护家园的责任。"
+            },
+            "rules": "我要坚守抗洪岗位。",
+            "positive_assumption": "如果我坚守岗位，就是尽到了自己的责任。",
+            "negative_assumption": "如果我离开岗位，就是不负责任的表现。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我在抗洪中的故事能激励他人，让大家更有斗志。",
+                "others": "队友们听了我的故事，会更有干劲。",
+                "world": "在困难时期，鼓舞人心的故事能凝聚力量。"
+            },
+            "rules": "我要在合适的时候讲述我的抗洪故事。",
+            "positive_assumption": "如果我讲述故事，能激发团队的士气，说明我的故事有意义。",
+            "negative_assumption": "如果我不讲，就失去了鼓舞大家的机会，故事变得没意义。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我在抗洪中的经历和经验是宝贵的财富，能给他人提供借鉴。",
+                "others": "队友们会对我的经验感兴趣，从中学习应对困难的方法。",
+                "world": "经验在困难面前是有价值的，能帮助大家更好地应对挑战。"
+            },
+            "rules": "我要和队友分享我的抗洪经验。",
+            "positive_assumption": "如果我分享经验，能帮助队友更好地完成任务，也证明我的经验有意义。",
+            "negative_assumption": "如果我不分享，我的经验就浪费了，变得没意义。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我运送沙袋的能力能保障抗洪物资的供应，他人需要我这份能力。",
+                "others": "大家都在为了一个目标努力，我的付出对他人很重要。",
+                "world": "在困难时期，每个人的专长都能发挥作用，满足他人的需求。"
+            },
+            "rules": "我要充分发挥自己运送沙袋的能力。",
+            "positive_assumption": "如果我发挥好能力，就能满足团队需求，被大家需要。",
+            "negative_assumption": "如果我能力发挥不好，就会被认为是无用之人，不被需要。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "大家一起抗洪，我是团队中不可或缺的一员，他人需要我。",
+                "others": "队友们在抗洪中相互依靠，我的存在能让他们更安心。",
+                "world": "在集体行动中，每个人都需要彼此的支持。"
+            },
+            "rules": "我要和队友们紧密配合。",
+            "positive_assumption": "如果我和队友紧密配合，就能更好地完成抗洪任务，也能证明我被需要。",
+            "negative_assumption": "如果我不配合，就会被团队嫌弃，不再被需要。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我能连续三天三夜运送沙袋，说明我在集体事务中有价值。",
+                "others": "队友们都在努力，我的坚持能给他们带来鼓舞。",
+                "world": "集体的事情需要每个人发挥价值，我不能拖后腿。"
+            },
+            "rules": "我要坚持到抗洪结束。",
+            "positive_assumption": "如果我坚持到最后，我的价值会得到充分体现。",
+            "negative_assumption": "如果我中途放弃，就成了没价值的人。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我有力气、有耐力，能为抗洪出大力，是有价值的。",
+                "others": "大家一起抗洪，我的付出能得到他人的认可。",
+                "world": "在困难面前，每个人的付出都能汇聚成力量，我也是其中重要的一份子。"
+            },
+            "rules": "我要在抗洪中全力以赴。",
+            "positive_assumption": "如果我全力以赴，就能为抗洪胜利做出贡献，体现我的价值。",
+            "negative_assumption": "如果我不全力以赴，就是没价值的人。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力向长辈学习家族文化。",
+                "others": "长辈愿意把家族文化传授给我。",
+                "world": "传承家族文化需要一代一代的学习。"
+            },
+            "rules": "我要多向长辈请教家族文化知识。",
+            "positive_assumption": "如果我请教长辈，能学到更多家族文化。",
+            "negative_assumption": "如果我不请教，家族文化的传承会受影响。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力记录家族的重要事件。",
+                "others": "家人会支持我记录家族历史。",
+                "world": "记录家族历史能让家族文化得以传承。"
+            },
+            "rules": "我要留意家族的大事小情并记录下来。",
+            "positive_assumption": "如果我记录下来，家族文化就能有记载。",
+            "negative_assumption": "如果我不记录，家族的历史会被遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任维护家庭的荣誉。",
+                "others": "家人的行为代表着家庭的形象。",
+                "world": "家庭的荣誉需要每个成员去维护。"
+            },
+            "rules": "我要教导家人遵守道德规范。",
+            "positive_assumption": "如果我教导家人，家庭会受到尊重。",
+            "negative_assumption": "如果我不教导，家庭会被人看不起。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任让家人吃饱穿暖。",
+                "others": "家人依靠我维持生活。",
+                "world": "作为家庭的一员，有责任保障家庭的基本生活。"
+            },
+            "rules": "我要努力劳作获取足够的生活物资。",
+            "positive_assumption": "如果我努力劳作，家人就能过上好日子。",
+            "negative_assumption": "如果我不努力，家人会挨饿受冻。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我的经验和故事能增强家庭的凝聚力。",
+                "others": "家人听我的故事能增进彼此感情。",
+                "world": "共同的故事能让家庭更团结。"
+            },
+            "rules": "我要经常给家人讲故事。",
+            "positive_assumption": "如果我经常讲故事，家庭会更温馨。",
+            "negative_assumption": "如果我不讲故事，家庭氛围会变冷淡。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我在生活中的经验和故事能给家人带来启发。",
+                "others": "家人愿意听我分享经验和故事。",
+                "world": "经验和故事能传承知识和文化。"
+            },
+            "rules": "我要多和家人分享我的经历。",
+            "positive_assumption": "如果我分享经历，能让家人学到东西。",
+            "negative_assumption": "如果我不分享，家人会错过很多知识。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我能为家人遮风挡雨，家人离不开我。",
+                "others": "家人在我这里能得到安全感。",
+                "world": "能给予家人安全感的人是被需要的。"
+            },
+            "rules": "我要保护好家人。",
+            "positive_assumption": "如果我保护好家人，他们会过得安心。",
+            "negative_assumption": "如果我没保护好家人，会让他们受伤害。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我是家庭的顶梁柱，家人需要我。",
+                "others": "家人依赖我解决生活中的问题。",
+                "world": "在家庭中，有能力的人会被需要。"
+            },
+            "rules": "我要时刻关注家人的需求。",
+            "positive_assumption": "如果我关注家人需求，家庭会更和睦。",
+            "negative_assumption": "如果我忽略家人需求，家庭会产生矛盾。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我在困难面前不退缩，能解决问题，是有价值的。",
+                "others": "家人遇到困难会依靠我。",
+                "world": "能克服困难的人在社会上有立足之地。"
+            },
+            "rules": "遇到困难我要勇敢面对。",
+            "positive_assumption": "如果我勇敢面对困难，就能保护家人。",
+            "negative_assumption": "如果我逃避困难，家人会失望。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我通过努力劳作能为家庭带来重要贡献，是有价值的。",
+                "others": "家人认可我的付出和价值。",
+                "world": "在农村生活里，勤劳的人是有价值的。"
+            },
+            "rules": "我要努力做好每一项农事。",
+            "positive_assumption": "如果我努力劳作，就能保障家庭的生活。",
+            "negative_assumption": "如果我不努力，家庭的生活就会受影响。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力在记分工作中发现问题，并提出改进建议。",
+                "others": "公社领导会重视我的建议。",
+                "world": "在集体发展中，积极提出改进建议能推动进步。"
+            },
+            "rules": "我要主动思考工作中的问题并提出建议。",
+            "positive_assumption": "如果我提出建议，可能会让公社的工作更高效。",
+            "negative_assumption": "如果我不提出建议，公社可能会错过改进的机会。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力通过准确的记分工作，为公社的生产安排提供参考。",
+                "others": "公社领导会根据我的记录来安排生产。",
+                "world": "在集体生产中，准确的信息能促进生产的合理安排。"
+            },
+            "rules": "我要及时准确地向领导汇报记分情况。",
+            "positive_assumption": "如果我及时汇报，能帮助领导做出更好的生产安排。",
+            "negative_assumption": "如果我不及时汇报，可能会影响公社的生产安排。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任维护公社的公平公正，在记分工作中不偏袒任何人。",
+                "others": "社员们希望我能公平地记录工分。",
+                "world": "公平公正是集体发展的基础。"
+            },
+            "rules": "我要严格按照规定记录工分。",
+            "positive_assumption": "如果我严格按规定记录，能维护公社的公平公正。",
+            "negative_assumption": "如果我不按规定记录，会破坏公社的公平公正。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任把记分员的工作做好，不能出现差错。",
+                "others": "社员们的劳动成果需要我准确记录。",
+                "world": "在集体中，每个人都要对自己的工作负责。"
+            },
+            "rules": "我要仔细核对每一个工分记录。",
+            "positive_assumption": "如果我仔细核对，能保证工分记录的准确性。",
+            "negative_assumption": "如果我不仔细核对，会影响社员们的利益。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我在记分工作中积累的经验，对解决工作中的问题很有帮助。",
+                "others": "大家会参考我的经验来处理类似的事情。",
+                "world": "在集体工作中，经验是宝贵的财富。"
+            },
+            "rules": "我要分享我的经验给其他社员。",
+            "positive_assumption": "如果我分享经验，能帮助大家更好地工作。",
+            "negative_assumption": "如果我不分享经验，大家可能会走弯路。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我作为记分员所具备的知识和技能，对公社的生产管理很重要。",
+                "others": "社员们需要我用这些知识和技能来准确记录工分。",
+                "world": "在公社的生产活动中，专业的能力是被需要的。"
+            },
+            "rules": "我要把我的知识和技能运用到工作中。",
+            "positive_assumption": "如果我运用好这些能力，能让公社的生产管理更有序。",
+            "negative_assumption": "如果我不运用这些能力，公社的生产管理可能会出现混乱。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我在工作中的表现得到了大家的肯定，是被认可的。",
+                "others": "大家会因为我的工作成果而尊重我。",
+                "world": "在集体中，工作成果是获得认可的重要因素。"
+            },
+            "rules": "我要努力取得更好的工作成果。",
+            "positive_assumption": "如果我取得更好的成果，会得到更多人的认可。",
+            "negative_assumption": "如果我工作成果不好，可能会被大家否定。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我凭借自己的努力成为记分员，得到了大家的认可。",
+                "others": "社员们对我这个年轻的记分员很尊重。",
+                "world": "在公社里，努力工作就能得到大家的认可。"
+            },
+            "rules": "我要和社员们保持良好的关系。",
+            "positive_assumption": "如果我和大家关系好，会得到更多的认可。",
+            "negative_assumption": "如果我和大家关系不好，可能会失去大家的认可。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力胜任记分员这个工作，能为公社的发展出一份力。",
+                "others": "大家相信我能把记分工作做好。",
+                "world": "在这个集体中，有能力的人就能发挥自己的价值。"
+            },
+            "rules": "我要不断提升自己的记分能力。",
+            "positive_assumption": "如果我提升了能力，就能为公社做出更大的贡献。",
+            "negative_assumption": "如果我不提升能力，可能就无法满足公社的需求。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我作为公社最年轻的记分员，能为公社的工作带来新的活力和准确的记录，是有价值的。",
+                "others": "社员们认可我的工作，需要我来做好记分的事情。",
+                "world": "在公社这个集体里，每个人都有自己的价值，我也不例外。"
+            },
+            "rules": "我要认真做好记分员的每一项工作。",
+            "positive_assumption": "如果我认真工作，就能更好地体现我的价值。",
+            "negative_assumption": "如果我工作不认真，就会被认为是没有价值的。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力把家族的传统记在心里。",
+                "others": "家人会支持我传承家族文化。",
+                "world": "家族传统是我们的根，我要守护好。"
+            },
+            "rules": "我要把家族传统教给其他小伙伴。",
+            "positive_assumption": "如果我教给别人，家族文化就能传播开。",
+            "negative_assumption": "如果我不教，家族文化会被遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力记住家族的事情，传承家族文化。",
+                "others": "家人相信我能把家族的故事传下去。",
+                "world": "家族文化需要有人传承，我可以做到。"
+            },
+            "rules": "我要认真听长辈讲家族故事。",
+            "positive_assumption": "如果我认真听，就能传承好家族文化。",
+            "negative_assumption": "如果我不听，家族文化可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我要照顾好自己，不让家人担心。",
+                "others": "家人已经很辛苦，我不能再让他们操心。",
+                "world": "在艰难时期，每个人都要坚强。"
+            },
+            "rules": "我要自己克服困难。",
+            "positive_assumption": "如果我自己克服困难，家人会轻松些。",
+            "negative_assumption": "如果我依赖家人，会增加他们的负担。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任帮家人一起度过饥荒。",
+                "others": "家人需要我的帮助，我不能袖手旁观。",
+                "world": "在饥荒中，每个人都要为家庭出份力。"
+            },
+            "rules": "我要帮家人找吃的。",
+            "positive_assumption": "如果我找到吃的，家人就能活下去。",
+            "negative_assumption": "如果我不找，家人可能会饿死。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历的那些小事没人会在意。",
+                "others": "别人只关心怎么活下去，不会在意我的经历。",
+                "world": "在这种环境下，个人经历不值一提。"
+            },
+            "rules": "我不要和别人分享我的经历。",
+            "positive_assumption": "如果我不分享，就不会被无视。",
+            "negative_assumption": "如果我分享，会被别人忽视。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我知道的那些事情在饥荒中没人想听。",
+                "others": "大家都在为吃的发愁，对我的故事没兴趣。",
+                "world": "在这个饥荒的世界，故事没有用。"
+            },
+            "rules": "我不要给别人讲我知道的事情。",
+            "positive_assumption": "如果我不讲，就不会被嘲笑。",
+            "negative_assumption": "如果我讲了，会被别人说浪费时间。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭中没有存在感，是个被遗忘的孩子。",
+                "others": "家人都有自己的事情，不会想到我。",
+                "world": "在这个家庭里，我是多余的。"
+            },
+            "rules": "我要安静地待着，不引起家人注意。",
+            "positive_assumption": "如果我安静，就不会被家人嫌弃。",
+            "negative_assumption": "如果我吵闹，会让家人更烦我。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "在饥荒中家人忙着找吃的，没人关心我。",
+                "others": "家人只关注怎么度过饥荒，不会在意我。",
+                "world": "在这个艰难时期，我是被忽视的。"
+            },
+            "rules": "我不要主动向家人提要求。",
+            "positive_assumption": "如果我不提要求，就不会被拒绝。",
+            "negative_assumption": "如果我提要求，会被家人责骂。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我没办法让家人过得更好，是个累赘。",
+                "others": "家人要照顾我很辛苦，我却帮不上忙。",
+                "world": "在这样艰难的环境里，我毫无用处。"
+            },
+            "rules": "我要尽量少给家人添麻烦。",
+            "positive_assumption": "如果我少添麻烦，家人会轻松些。",
+            "negative_assumption": "如果我添麻烦，家人会更讨厌我。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "在饥荒中我没能帮上忙，是个没用的孩子。",
+                "others": "其他人在努力应对饥荒，我却很无能。",
+                "world": "这个饥荒的世界，我没有价值。"
+            },
+            "rules": "我要努力多做些事来证明自己。",
+            "positive_assumption": "如果我努力做事，就能变得有价值。",
+            "negative_assumption": "如果我不做事，就会一直没价值。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

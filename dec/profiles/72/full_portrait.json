@@ -1,0 +1,202 @@
+{
+    "self-portrait": {
+        "basic_information": {
+            "id": 14023202,
+            "name": "黄春",
+            "en_name": "huangchun",
+            "age": "",
+            "gender": "",
+            "martial_status": "",
+            "economic_status": "",
+            "co_residence": "",
+            "birth_place": "",
+            "children_number": ""
+        },
+        "diagnosis": {
+            "symptoms": "",
+            "status": "",
+            "drisk": ""
+        },
+        "character": [
+            "坚韧",
+            "温和",
+            "节俭",
+            "沉默寡言",
+            "依赖性较强",
+            "家庭观念重"
+        ],
+        "appearance": [
+            "银白短发",
+            "布满皱纹的圆脸",
+            "微驼的背",
+            "青筋凸起的手背",
+            "常年穿素色斜襟衫"
+        ],
+        "interests_and_hobbies": {
+            "hobbies": [
+                "听地方戏曲",
+                "缝补衣物",
+                "照料盆栽"
+            ],
+            "activity": [
+                "在院子里晒太阳",
+                "给孙辈缝制布鞋",
+                "整理老照片"
+            ]
+        },
+        "dreams_and_aspirations": {
+            "short_term_goals": "记住孙子的新手机号码",
+            "long_term_goals": "看着曾孙考上大学"
+        },
+        "daily_life": {
+            "routine": "6:30起床喂鸡→7:30喝粥配腌萝卜→9:00在藤椅上听收音机→11:30帮儿媳择菜→13:00午睡→15:00数药片分装药盒→17:30看天气预报→19:00泡脚→20:30上床",
+            "weekends": "等城里的孙子视频通话→把珍藏的麦芽糖分给曾孙→反复擦拭亡夫的遗像"
+        },
+        "past_experiences": {
+            "childhood": "在饥荒年代靠挖野菜养大弟弟妹妹",
+            "adolescence": "16岁嫁给素未谋面的木匠",
+            "youth": "连续流产三次后终于生下长子",
+            "middle_aged": "在乡镇企业改制时失去食堂帮厨工作",
+            "recent_events": "三年前开始忘记关煤气灶"
+        },
+        "environment": "生于苏北农村，从未离开过出生地三十公里范围。年轻时在村办小学做过炊事员，丈夫去世后跟着小儿子住在翻新的祖屋，近年村里年轻人多外出务工，常对着空荡荡的晒谷场发呆。",
+        "persona_summary": "黄春，88 岁农村女性，与家人同住，经济一般。她坚韧温和、节俭顾家，有认知障碍和生活能力损失，无抑郁风险。爱好听戏曲、缝补等，短期想记住孙子手机号，长期盼曾孙考上大学。日常作息规律，周末等孙辈视频。她历经饥荒、流产、失业等，近年记忆衰退，如今守着祖屋，常对着空晒谷场发呆。 ",
+        "social_summary": "黄春不同阶段有不同社会关系。童年有 3 个兄弟姐妹、2 个邻居；青春期有丈夫和婆婆；青年期有赤脚医生和接生婆；中年有 2 个工友和 1 个债主；近期有儿子、3 个曾孙和村医。其社交模式从童年付出型，到新婚疏离、生育回避、中年封闭，近年因认知衰退和乡村空心化，社交渐转向亡夫遗物和盆栽，多被动接受照料。 "
+    },
+    "social-portrait": {
+        "social_connections_closeness": {
+            "childhood": [
+                {
+                    "relationship": "兄弟姐妹",
+                    "count": 3,
+                    "familiarity": [
+                        5,
+                        5,
+                        4
+                    ],
+                    "description": [
+                        "大妹因饥荒夭折前常蜷缩在她怀里取暖",
+                        "二弟参军后每月寄粮票回家",
+                        "幺妹远嫁东北后只见过三次"
+                    ]
+                },
+                {
+                    "relationship": "邻居",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "豆腐坊王婶曾教她辨认可食用野菜",
+                        "放牛郎阿福常偷偷塞给她山芋"
+                    ]
+                }
+            ],
+            "adolescence": [
+                {
+                    "relationship": "配偶",
+                    "count": 1,
+                    "familiarity": [
+                        2
+                    ],
+                    "description": [
+                        "丈夫婚前只会用木块刻小马哄她"
+                    ]
+                },
+                {
+                    "relationship": "婆婆",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "严厉的婆婆每天检查她纺的棉线是否够数"
+                    ]
+                }
+            ],
+            "youth": [
+                {
+                    "relationship": "赤脚医生",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "流产后给她送当归蛋的赵大夫"
+                    ]
+                },
+                {
+                    "relationship": "接生婆",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "第四次生产时守了三天三夜的六姑婆"
+                    ]
+                }
+            ],
+            "middle_aged": [
+                {
+                    "relationship": "工友",
+                    "count": 2,
+                    "familiarity": [
+                        3,
+                        2
+                    ],
+                    "description": [
+                        "总把剩饭留给她的食堂张师傅",
+                        "改制时一起抱头痛哭的洗碗工桂花"
+                    ]
+                },
+                {
+                    "relationship": "债主",
+                    "count": 1,
+                    "familiarity": [
+                        1
+                    ],
+                    "description": [
+                        "丈夫治病欠债的信用社信贷员"
+                    ]
+                }
+            ],
+            "recent_events": [
+                {
+                    "relationship": "儿子",
+                    "count": 1,
+                    "familiarity": [
+                        4
+                    ],
+                    "description": [
+                        "在县城开修车铺的小儿子每月回来两次"
+                    ]
+                },
+                {
+                    "relationship": "曾孙",
+                    "count": 3,
+                    "familiarity": [
+                        2,
+                        2,
+                        1
+                    ],
+                    "description": [
+                        "总躲着她口水的双胞胎曾孙女",
+                        "在省城重点高中寄宿的曾长孙"
+                    ]
+                },
+                {
+                    "relationship": "村医",
+                    "count": 1,
+                    "familiarity": [
+                        3
+                    ],
+                    "description": [
+                        "每周来测血压的年轻驻村医生"
+                    ]
+                }
+            ]
+        },
+        "social_connections_change": "童年时作为长姐被迫建立单向照顾关系，形成付出型社交模式。新婚期因包办婚姻产生疏离感，生育困境使其回避女性社交圈。中年失业摧毁最后的社会身份，开始自我封闭。近年来认知衰退叠加乡村空心化，社交对象从具体的人逐渐转为亡夫遗物和盆栽植物，仅存的互动多源于被动接受照料而非主动建立联系。"
+    }
+}

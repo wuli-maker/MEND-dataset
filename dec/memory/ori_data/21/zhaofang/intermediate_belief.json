@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我被爱包围着，生活很幸福。",
+                "others": "他人的爱是我生活的动力。",
+                "world": "因为有了爱，世界变得更美好。"
+            },
+            "rules": "我应该珍惜身边的爱。",
+            "positive_assumption": "如果我珍惜爱，我会更幸福。",
+            "negative_assumption": "如果我不珍惜爱，我会失去它。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被家人和朋友关爱。",
+                "others": "家人和朋友会关心和照顾我。",
+                "world": "这个世界充满了爱。"
+            },
+            "rules": "我可以向家人和朋友表达我的需求。",
+            "positive_assumption": "如果我表达需求，家人和朋友会满足我。",
+            "negative_assumption": "如果我不表达需求，家人和朋友可能不知道我需要什么。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我在面对一些困难时会感到力不从心。",
+                "others": "他人可能不会愿意帮助脆弱的我。",
+                "world": "世界的竞争很激烈，脆弱的人容易被淘汰。"
+            },
+            "rules": "我应该尽量避免面对过于困难的事情。",
+            "positive_assumption": "如果我避免困难，我就不会暴露自己的脆弱。",
+            "negative_assumption": "如果我挑战困难，我可能会失败并受到打击。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我的身体不如从前，容易受到伤害。",
+                "others": "他人可能会因为我的脆弱而轻视我。",
+                "world": "这个世界对脆弱的人不太友好。"
+            },
+            "rules": "我应该小心保护自己。",
+            "positive_assumption": "如果我小心保护自己，我就能减少受伤的风险。",
+            "negative_assumption": "如果我不小心，我会受到更多的伤害。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是一个人面对生活中的喜怒哀乐。",
+                "others": "他人都有自己的生活，无暇顾及我。",
+                "world": "世界是热闹的，但我是孤独的。"
+            },
+            "rules": "我应该习惯孤独。",
+            "positive_assumption": "如果我习惯孤独，我就不会那么难过。",
+            "negative_assumption": "如果我不能习惯孤独，我会更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我内心的孤独感难以被他人理解。",
+                "others": "他人很难真正走进我的内心世界。",
+                "world": "这个世界上没有人能完全懂我。"
+            },
+            "rules": "我应该把孤独藏在心里。",
+            "positive_assumption": "如果我隐藏孤独，我就不会给别人添麻烦。",
+            "negative_assumption": "如果我表露孤独，别人会觉得我很矫情。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够适应生活中的变化。",
+                "others": "他人会在我适应变化时给予支持。",
+                "world": "世界在不断变化，我有能力跟上它的步伐。"
+            },
+            "rules": "我应该勇敢面对生活中的变化。",
+            "positive_assumption": "如果我勇敢面对变化，我会获得新的成长。",
+            "negative_assumption": "如果我害怕变化，我会被时代淘汰。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力完成自己设定的目标。",
+                "others": "他人相信我有解决问题的能力。",
+                "world": "世界为有能力的人提供机会。"
+            },
+            "rules": "当遇到问题时，我应该积极尝试解决。",
+            "positive_assumption": "如果我积极解决问题，我会变得更有能力。",
+            "negative_assumption": "如果我逃避问题，我会被认为是无能的。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我在生活中积累的经验和知识是宝贵的财富。",
+                "others": "他人会向我请教和学习。",
+                "world": "世界会因为我的经验而变得更美好。"
+            },
+            "rules": "我应该分享自己的经验和知识。",
+            "positive_assumption": "如果我分享经验，我能帮助到更多人，也能体现我的价值。",
+            "negative_assumption": "如果我不分享，我的经验就会被浪费。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我对家庭和社区有重要贡献，我的存在是有意义的。",
+                "others": "他人认可我的价值和能力。",
+                "world": "这个世界需要像我这样有经验和智慧的人。"
+            },
+            "rules": "我应该继续发挥自己的长处，为家人和社区做贡献。",
+            "positive_assumption": "如果我继续为他人付出，我会得到更多的尊重和认可。",
+            "negative_assumption": "如果我停止付出，我会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我被股友和家人的爱包围着，投资更有动力。",
+                "others": "他人的爱是我在股票投资中的动力。",
+                "world": "因为有了爱，股票投资的世界变得更美好。"
+            },
+            "rules": "我应该珍惜股友和家人的爱。",
+            "positive_assumption": "如果我珍惜爱，我会在投资中更顺利。",
+            "negative_assumption": "如果我不珍惜爱，我会失去他们的支持。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被股友和家人关爱。",
+                "others": "股友和家人会关心和支持我在投资中的决策。",
+                "world": "这个世界充满了对投资者的理解和爱。"
+            },
+            "rules": "我可以向股友和家人表达我在投资中的需求。",
+            "positive_assumption": "如果我表达需求，股友和家人会给予我帮助。",
+            "negative_assumption": "如果我不表达需求，股友和家人可能不知道我需要什么。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我在面对股票市场的大幅波动时会感到力不从心。",
+                "others": "股友可能不会愿意帮助脆弱的我。",
+                "world": "股票市场的竞争很激烈，脆弱的投资者容易被淘汰。"
+            },
+            "rules": "我应该尽量避免在市场大幅波动时进行交易。",
+            "positive_assumption": "如果我避免波动，我就不会暴露自己的脆弱。",
+            "negative_assumption": "如果我在波动时交易，我可能会失败并受到打击。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我在股票投资中可能会遭受损失，容易受到伤害。",
+                "others": "股友可能会因为我的损失而轻视我。",
+                "world": "股票市场对脆弱的投资者不太友好。"
+            },
+            "rules": "我应该小心谨慎地进行股票投资。",
+            "positive_assumption": "如果我小心投资，我就能减少损失的风险。",
+            "negative_assumption": "如果我不小心，我会受到更多的损失。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是一个人面对股票投资的盈亏。",
+                "others": "他人都有自己的投资，无暇顾及我的感受。",
+                "world": "股票市场是热闹的，但我是孤独的。"
+            },
+            "rules": "我应该习惯投资中的孤独。",
+            "positive_assumption": "如果我习惯孤独，我就不会那么难过。",
+            "negative_assumption": "如果我不能习惯孤独，我会更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我在股票投资中的压力和困惑难以被他人理解。",
+                "others": "股友和同事很难真正走进我的内心世界。",
+                "world": "这个世界上没有人能完全懂我在投资中的感受。"
+            },
+            "rules": "我应该把投资的孤独藏在心里。",
+            "positive_assumption": "如果我隐藏孤独，我就不会给别人添麻烦。",
+            "negative_assumption": "如果我表露孤独，别人会觉得我很矫情。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够适应股票市场的变化。",
+                "others": "股友会在市场变化时参考我的意见。",
+                "world": "股票市场在不断变化，我有能力跟上它的节奏。"
+            },
+            "rules": "我应该勇敢面对股票市场的变化。",
+            "positive_assumption": "如果我勇敢面对变化，我会获得更多的收益。",
+            "negative_assumption": "如果我害怕变化，我会错失投资机会。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力在股票市场中做出正确的决策。",
+                "others": "股友会相信我在股票投资上的能力。",
+                "world": "股票市场为有能力的投资者提供机会。"
+            },
+            "rules": "当遇到股票投资的问题时，我应该自己分析解决。",
+            "positive_assumption": "如果我自己解决投资问题，我会变得更有能力。",
+            "negative_assumption": "如果我依赖他人，我会被认为是无能的。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我成为万元户证明了我的价值。",
+                "others": "周围的人会因为我是万元户而尊重我。",
+                "world": "社会会肯定像我这样成功致富的人。"
+            },
+            "rules": "我应该保持万元户的地位并继续积累财富。",
+            "positive_assumption": "如果我继续积累财富，我会更有价值。",
+            "negative_assumption": "如果我财富减少，我会失去价值。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我在股票投资上的决策能体现我的价值。",
+                "others": "股友和街道办同事会认可我在投资上的价值。",
+                "world": "这个时代需要像我这样敢于尝试新事物的人。"
+            },
+            "rules": "我应该继续在股票市场积极投资。",
+            "positive_assumption": "如果我继续投资股票，我会获得更多的财富和认可。",
+            "negative_assumption": "如果我停止投资，我会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我被秘密读书会的伙伴的爱包围着，更有动力保存古籍。",
+                "others": "伙伴们的爱是我坚持保存古籍的动力。",
+                "world": "因为有了伙伴们的爱，我保存古籍的事情变得更有意义。"
+            },
+            "rules": "我应该珍惜秘密读书会伙伴的爱和支持。",
+            "positive_assumption": "如果我珍惜这份爱，我会更有动力保存古籍。",
+            "negative_assumption": "如果我不珍惜爱，我可能会失去伙伴们的支持，无法坚持下去。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被秘密读书会的伙伴关爱。",
+                "others": "秘密读书会的伙伴会关心和支持我保存古籍。",
+                "world": "这个动荡的世界也存在着对文化传承的爱。"
+            },
+            "rules": "我可以向秘密读书会的伙伴表达我保存古籍时的困难。",
+            "positive_assumption": "如果我表达困难，伙伴们会帮助我。",
+            "negative_assumption": "如果我不表达困难，伙伴们可能不知道我需要什么帮助。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我在面对街道干部的调查时会感到力不从心。",
+                "others": "街道干部可能不会愿意理解我保护古籍的行为。",
+                "world": "世界的动荡很激烈，脆弱的我容易被打压。"
+            },
+            "rules": "我应该尽量避免和街道干部正面冲突。",
+            "positive_assumption": "如果我避免冲突，我就不会暴露自己的脆弱。",
+            "negative_assumption": "如果我和他们冲突，我可能会失败并受到打击，古籍也可能保不住。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我在面对革委会的检查时容易受到伤害。",
+                "others": "革委会的人可能会因为我的脆弱而刁难我。",
+                "world": "这个动荡的世界对保护古籍的人不太友好。"
+            },
+            "rules": "我应该小心保护自己和古籍不被发现。",
+            "positive_assumption": "如果我小心保护，我就能减少被发现的风险。",
+            "negative_assumption": "如果我不小心，我和古籍都会受到伤害。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是一个人承担保存古籍的风险和压力。",
+                "others": "他人都有自己的生活，无暇顾及我保存古籍的事情。",
+                "world": "世界是动荡的，但我只能孤独地守护古籍。"
+            },
+            "rules": "我应该习惯在孤独中保存古籍。",
+            "positive_assumption": "如果我习惯孤独，我就不会那么害怕。",
+            "negative_assumption": "如果我不能习惯孤独，我会更痛苦，也可能无法坚持保存古籍。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我内心对保存古籍的担忧和压力难以被他人理解。",
+                "others": "街道干部很难真正理解我保存古籍的意义。",
+                "world": "这个动荡的世界没有人能完全懂我。"
+            },
+            "rules": "我应该把对保存古籍的担忧藏在心里。",
+            "positive_assumption": "如果我隐藏担忧，就不会给秘密读书会的伙伴带来麻烦。",
+            "negative_assumption": "如果我表露担忧，别人会觉得我很懦弱。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够在危险的环境中完成古籍的抄写工作。",
+                "others": "身边的人会认可我在危险中完成任务的能力。",
+                "world": "在艰难的环境中，有能力的人才能有所作为。"
+            },
+            "rules": "我应该勇敢地面对抄写古籍时的危险。",
+            "positive_assumption": "如果我勇敢面对，我会变得更有能力，也能更好地完成任务。",
+            "negative_assumption": "如果我害怕危险，我就无法完成任务，会被认为是无能的。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力在文革期间秘密保存好家传古籍。",
+                "others": "秘密读书会的伙伴相信我有保护古籍的能力。",
+                "world": "这个动荡的世界需要有能力保护文化的人。"
+            },
+            "rules": "当遇到保存古籍的困难时，我应该积极想办法解决。",
+            "positive_assumption": "如果我积极解决问题，我保存古籍的能力会得到提升。",
+            "negative_assumption": "如果我逃避问题，我就会被认为是无能的，古籍也可能会丢失。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我在抄写古籍过程中展现出的坚持和细心是我的价值所在。",
+                "others": "语文老师和图书管理员会因为我的坚持而尊重我。",
+                "world": "在动荡的时代，我的坚持能为文化保留一丝火种。"
+            },
+            "rules": "我应该认真对待每一次抄写古籍的机会。",
+            "positive_assumption": "如果我认真抄写，能更好地传承古籍，我的价值会被更多人看到。",
+            "negative_assumption": "如果我敷衍了事，我就无法体现自己的价值。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我保存家传古籍的行为是有意义的，体现了我的价值。",
+                "others": "秘密读书会的成员认可我保存古籍的价值。",
+                "world": "文化传承需要像我这样有担当的人。"
+            },
+            "rules": "我应该继续坚持保存和传承古籍。",
+            "positive_assumption": "如果我坚持保存古籍，会为文化传承做出贡献，我的价值会得到更大体现。",
+            "negative_assumption": "如果我放弃保存古籍，我就会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我被夫家人的爱包围着，生活很幸福。",
+                "others": "夫家人的爱是我生活的动力。",
+                "world": "因为有了爱，夫家变得更温暖。"
+            },
+            "rules": "我应该珍惜夫家人的爱。",
+            "positive_assumption": "如果我珍惜爱，会更幸福。",
+            "negative_assumption": "如果我不珍惜爱，会失去它。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被夫家人关爱。",
+                "others": "夫家人会关心和照顾我。",
+                "world": "在这个家庭里，充满了爱。"
+            },
+            "rules": "我可以向夫家人表达我的需求。",
+            "positive_assumption": "如果我表达需求，夫家人会满足我。",
+            "negative_assumption": "如果我不表达需求，夫家人可能不知道我需要什么。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我在面对夫家复杂的人际关系时会感到力不从心。",
+                "others": "夫家人可能不会愿意帮助脆弱的我。",
+                "world": "家庭关系很复杂，脆弱的人容易被孤立。"
+            },
+            "rules": "我应该尽量避免参与夫家过于复杂的人际关系。",
+            "positive_assumption": "如果我避免复杂关系，就不会暴露自己的脆弱。",
+            "negative_assumption": "如果我参与复杂关系，可能会受到伤害。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我作为一个年轻女子，在夫家容易受到伤害。",
+                "others": "夫家人可能会因为我的脆弱而轻视我。",
+                "world": "在这个家庭环境中，脆弱的人容易被欺负。"
+            },
+            "rules": "我应该小心保护自己。",
+            "positive_assumption": "如果我小心保护自己，就能减少受伤的风险。",
+            "negative_assumption": "如果我不小心，会受到更多的伤害。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是一个人面对在夫家生活的喜怒哀乐。",
+                "others": "夫家人都有自己的生活，无暇顾及我。",
+                "world": "夫家是热闹的，但我是孤独的。"
+            },
+            "rules": "我应该习惯孤独。",
+            "positive_assumption": "如果我习惯孤独，就不会那么难过。",
+            "negative_assumption": "如果我不能习惯孤独，会更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我内心的孤独感难以被夫家人理解。",
+                "others": "夫家人很难真正走进我的内心世界。",
+                "world": "在这个夫家，没有人能完全懂我。"
+            },
+            "rules": "我应该把孤独藏在心里。",
+            "positive_assumption": "如果我隐藏孤独，就不会给夫家人添麻烦。",
+            "negative_assumption": "如果我表露孤独，夫家人会觉得我很矫情。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够适应在夫家的新生活和新工作。",
+                "others": "夫家人会在我适应过程中给予支持。",
+                "world": "生活不断变化，我有能力适应。"
+            },
+            "rules": "我应该勇敢面对在夫家生活的变化。",
+            "positive_assumption": "如果我勇敢面对变化，会获得新的成长。",
+            "negative_assumption": "如果我害怕变化，会被夫家认为没出息。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力处理夫家复杂的账目。",
+                "others": "夫家人相信我能把账目处理好。",
+                "world": "在生意场中，有能力处理账目的人很重要。"
+            },
+            "rules": "当遇到账目难题时，我应该积极解决。",
+            "positive_assumption": "如果我积极解决账目问题，会得到更多的信任。",
+            "negative_assumption": "如果我逃避账目问题，会被认为是无能的。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我的存在能让夫家的生意更好。",
+                "others": "夫家的生意伙伴会因为我的能力而与夫家合作。",
+                "world": "有价值的人能为家庭带来利益。"
+            },
+            "rules": "我要不断提升自己的心算能力，助力夫家生意。",
+            "positive_assumption": "如果我提升能力，夫家生意会更兴旺，我也更有价值。",
+            "negative_assumption": "如果我能力下降，夫家生意受影响，我就变得没价值。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我用心算能力帮夫家重整账目，对夫家有重要作用。",
+                "others": "夫家人会认可我的价值。",
+                "world": "在这个家庭里，有能力的人会被重视。"
+            },
+            "rules": "我应该继续发挥心算能力，为夫家多做贡献。",
+            "positive_assumption": "如果我继续为夫家付出，会得到更多的尊重和喜爱。",
+            "negative_assumption": "如果我停止付出，会被夫家嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我被家人的爱包围着，很幸福。",
+                "others": "家人的爱是我生活的温暖。",
+                "world": "因为有了家人的爱，我的世界很美好。"
+            },
+            "rules": "我应该珍惜家人的爱。",
+            "positive_assumption": "如果我珍惜爱，我会更幸福。",
+            "negative_assumption": "如果我不珍惜，我会失去这份爱。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我是家人的宝贝，值得被爱。",
+                "others": "家人会关心和照顾我。",
+                "world": "家庭里充满了爱。"
+            },
+            "rules": "我可以向家人表达我的需求。",
+            "positive_assumption": "如果我表达需求，家人会满足我。",
+            "negative_assumption": "如果我不表达，家人可能不知道我需要什么。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我在面对陌生的大人时会害怕，我很脆弱。",
+                "others": "陌生大人可能会因为我的害怕而不喜欢我。",
+                "world": "陌生的大人会让我感到害怕。"
+            },
+            "rules": "我应该尽量避免和陌生大人接触。",
+            "positive_assumption": "如果我避免接触，就不会害怕。",
+            "negative_assumption": "如果我接触了，可能会被批评。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我不小心摔倒就会受伤，我很脆弱。",
+                "others": "家人可能会因为我容易受伤而担心。",
+                "world": "这个世界对容易受伤的孩子不太友好。"
+            },
+            "rules": "我应该小心走路，避免摔倒。",
+            "positive_assumption": "如果我小心，就不会受伤。",
+            "negative_assumption": "如果我不小心，会让家人担心。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我经常一个人在院子里玩耍，我是孤独的。",
+                "others": "家人和小伙伴都有自己的事情，顾不上我。",
+                "world": "大家都很忙，只有我是孤独的。"
+            },
+            "rules": "我应该习惯一个人玩耍。",
+            "positive_assumption": "如果我习惯了，就不会那么难过。",
+            "negative_assumption": "如果我不习惯，会更伤心。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我有时候的想法没人能理解，我很孤独。",
+                "others": "家人和小伙伴很难真正懂我。",
+                "world": "这个世界上很难有人能完全理解我。"
+            },
+            "rules": "我应该把自己的想法藏在心里。",
+            "positive_assumption": "如果我藏起想法，就不会被别人嘲笑。",
+            "negative_assumption": "如果我说出想法，别人会觉得我奇怪。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我能在游戏中想出好点子，说明我有能力。",
+                "others": "小伙伴会因为我的点子而觉得我厉害。",
+                "world": "在游戏中能出主意的孩子是有能力的。"
+            },
+            "rules": "我应该在游戏中积极出主意。",
+            "positive_assumption": "如果我出的主意好，小伙伴会更愿意和我玩。",
+            "negative_assumption": "如果我不出主意，小伙伴可能会不和我玩。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我能学会一些简单的家务和技能，说明我有能力。",
+                "others": "家人会因为我学会技能而夸奖我。",
+                "world": "学会新技能的孩子是有能力的。"
+            },
+            "rules": "我应该努力学习新的家务和技能。",
+            "positive_assumption": "如果我学会更多技能，家人会更骄傲。",
+            "negative_assumption": "如果我学不会，家人会觉得我没能力。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我记住的故事和知识能给大家带来欢乐，是有价值的。",
+                "others": "家人和邻里会喜欢听我讲故事。",
+                "world": "能给别人带来欢乐的人是有价值的。"
+            },
+            "rules": "我应该多给大家讲故事。",
+            "positive_assumption": "如果我多讲故事，大家会更关注我。",
+            "negative_assumption": "如果我不讲，大家可能会忽视我。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我能为家庭做一些力所能及的小事，是有价值的。",
+                "others": "家人会因为我做的小事而认可我。",
+                "world": "在家庭这个小世界里，每个人都有自己的价值。"
+            },
+            "rules": "我应该多帮家人做些小事。",
+            "positive_assumption": "如果我多帮家人做事，家人会更喜欢我。",
+            "negative_assumption": "如果我不做事，家人可能会觉得我没价值。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

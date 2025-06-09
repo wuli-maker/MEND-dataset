@@ -1,0 +1,1082 @@
+{
+    "node_59": {
+        "page_content": {
+            "attitude": {
+                "self": "我的身体机能下降可能会影响我的生活和活动能力。",
+                "others": "他人可能会因为我的身体状况而减少对我的期望。",
+                "world": "身体不好会在一定程度上限制我的生活。"
+            },
+            "rules": "我要根据自己的身体状况调整生活和活动计划。",
+            "positive_assumption": "如果我调整计划，能更好地适应身体变化。",
+            "negative_assumption": "如果我不调整，可能会让身体更疲惫。"
+        },
+        "metadata": {
+            "node_id": "node_59",
+            "belief_id": "intermediate_belief_12",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_58": {
+        "page_content": {
+            "attitude": {
+                "self": "我的身体不如以前，很多事情不能像年轻时那样做。",
+                "others": "家人和朋友会担心我的身体状况。",
+                "world": "随着年龄增长，身体机能下降是正常的。"
+            },
+            "rules": "我要注意保养身体，避免过度劳累。",
+            "positive_assumption": "如果我注意保养，身体能保持相对健康。",
+            "negative_assumption": "如果我不注意，身体可能会出现更多问题。"
+        },
+        "metadata": {
+            "node_id": "node_58",
+            "belief_id": "intermediate_belief_11",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_57": {
+        "page_content": {
+            "attitude": {
+                "self": "我可能无法理解一些新的社会现象和潮流。",
+                "others": "他人可能会觉得我跟不上时代。",
+                "world": "现代社会的发展超出了我的认知范围。"
+            },
+            "rules": "我要保持开放的心态，尝试去理解新事物。",
+            "positive_assumption": "如果我保持开放心态，能更好地适应社会。",
+            "negative_assumption": "如果我封闭自己，会与社会脱节。"
+        },
+        "metadata": {
+            "node_id": "node_57",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_56": {
+        "page_content": {
+            "attitude": {
+                "self": "我在面对新的科技和观念时可能会感到力不从心。",
+                "others": "年轻人在新事物方面比我更有优势。",
+                "world": "世界变化太快，我可能跟不上节奏。"
+            },
+            "rules": "我应该向年轻人学习新的知识和技能。",
+            "positive_assumption": "如果我向年轻人学习，能缩小与时代的差距。",
+            "negative_assumption": "如果我不学习，会被时代远远抛下。"
+        },
+        "metadata": {
+            "node_id": "node_56",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_55": {
+        "page_content": {
+            "attitude": {
+                "self": "我是传统技艺和文化的守护者，要确保它们不被遗忘。",
+                "others": "社会会支持我对传统的保护工作。",
+                "world": "保护传统是对历史和未来的负责。"
+            },
+            "rules": "我要积极参与传统技艺和文化的修复和传承工作。",
+            "positive_assumption": "如果我参与修复和传承，能让传统技艺和文化延续下去。",
+            "negative_assumption": "如果我不参与，传统技艺和文化可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_55",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_54": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任传承和弘扬传统的文化和价值观。",
+                "others": "他人会尊重和学习我所传承的东西。",
+                "world": "传统价值是世界文化的重要组成部分。"
+            },
+            "rules": "我应该通过自己的行动和教导来传播传统价值。",
+            "positive_assumption": "如果我传播传统价值，能让更多人了解和重视它。",
+            "negative_assumption": "如果我不传播，传统价值可能会逐渐消失。"
+        },
+        "metadata": {
+            "node_id": "node_54",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_53": {
+        "page_content": {
+            "attitude": {
+                "self": "我在文化和教育方面的经验可以帮助更多的人。",
+                "others": "需要帮助的人会感激我的付出。",
+                "world": "一个美好的世界需要大家相互帮助。"
+            },
+            "rules": "我要利用自己的专长去帮助需要的人。",
+            "positive_assumption": "如果我帮助他人，能让社会变得更美好。",
+            "negative_assumption": "如果我不帮助，社会可能会缺少一些温暖。"
+        },
+        "metadata": {
+            "node_id": "node_53",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_52": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力和资源为社会做一些有益的事情。",
+                "others": "社会会认可我的贡献。",
+                "world": "社会的进步需要每个人的贡献。"
+            },
+            "rules": "我应该积极参与公益活动和文化保护事业。",
+            "positive_assumption": "如果我参与公益和文化保护，能为社会带来积极影响。",
+            "negative_assumption": "如果我不参与，会觉得自己没有尽到社会责任。"
+        },
+        "metadata": {
+            "node_id": "node_52",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_51": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家族中的地位和经验能为家族带来稳定。",
+                "others": "家族成员会听从我的安排和建议。",
+                "world": "稳定的家族需要有权威的长辈来引领。"
+            },
+            "rules": "在家族事务中，我应该发挥主导作用。",
+            "positive_assumption": "如果我发挥主导作用，家族事务会处理得更好。",
+            "negative_assumption": "如果我不主导，家族事务可能会混乱。"
+        },
+        "metadata": {
+            "node_id": "node_51",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_50": {
+        "page_content": {
+            "attitude": {
+                "self": "我是家族传承和发展的重要支柱。",
+                "others": "家族成员依赖我的指导和支持。",
+                "world": "家族的繁荣离不开像我这样的长辈。"
+            },
+            "rules": "我要关心家族成员的成长和发展。",
+            "positive_assumption": "如果我关心家族成员，家族会更加团结和兴旺。",
+            "negative_assumption": "如果我不关心，家族可能会逐渐松散。"
+        },
+        "metadata": {
+            "node_id": "node_50",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我在生活中能做出正确的决策，体现自己的价值。",
+                "others": "他人会信任我做决策的能力。",
+                "world": "在这个世界上，有能力做决策的人会更有价值。"
+            },
+            "rules": "遇到事情时，我应该主动承担决策的责任。",
+            "positive_assumption": "如果我主动决策，能证明自己的价值。",
+            "negative_assumption": "如果我逃避决策，会显得自己没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我拥有丰富的知识和经验，是有价值的个体。",
+                "others": "他人会尊重我的意见和建议。",
+                "world": "世界需要像我这样有经验的人。"
+            },
+            "rules": "我应该积极分享自己的经验和知识。",
+            "positive_assumption": "如果我分享经验和知识，能得到他人的认可和尊重。",
+            "negative_assumption": "如果我不分享，别人可能会忽视我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我的身体机能下降可能会影响我在文化保护现场的工作能力。",
+                "others": "同事可能会因为我的身体状况而减少对我的工作期望。",
+                "world": "身体不好会在一定程度上限制我的工作范围。"
+            },
+            "rules": "我要根据自己的身体状况调整文化保护工作的强度和方式。",
+            "positive_assumption": "如果我调整，能在身体允许的情况下继续为文化保护做贡献。",
+            "negative_assumption": "如果我不调整，可能会让身体更疲惫，无法继续工作。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_12",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我的身体不如年轻时，不能像以前那样高强度工作。",
+                "others": "家人和同事会担心我的身体状况。",
+                "world": "随着年龄增长，身体机能下降是正常的。"
+            },
+            "rules": "我要合理安排工作和休息时间，避免过度劳累。",
+            "positive_assumption": "如果我合理安排，身体能保持相对健康，不影响工作。",
+            "negative_assumption": "如果我不注意，身体可能会出现问题，影响文化保护工作。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_11",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我可能无法理解一些新的文化消费和传播模式。",
+                "others": "同行可能会觉得我跟不上文化市场的变化。",
+                "world": "文化市场的发展超出了我的认知范围。"
+            },
+            "rules": "我要保持开放的心态，尝试去了解新的文化市场模式。",
+            "positive_assumption": "如果我了解，能更好地推动文化保护与市场结合。",
+            "negative_assumption": "如果我不了解，文化保护工作可能会与市场脱节。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我在面对新兴的文化保护理念和技术时可能会感到困惑。",
+                "others": "年轻的文化保护从业者在新观念和技术方面比我更有优势。",
+                "world": "文化保护领域发展迅速，我可能跟不上节奏。"
+            },
+            "rules": "我应该向年轻的从业者学习新的文化保护理念和技术。",
+            "positive_assumption": "如果我学习，能跟上文化保护领域的发展。",
+            "negative_assumption": "如果我不学习，会在文化保护领域落后。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我是传统建筑文化的守护者，要让传统建筑文化在现代社会中延续。",
+                "others": "建筑学界和社会会支持我对传统建筑文化的保护。",
+                "world": "保护传统建筑文化是对历史和未来的负责。"
+            },
+            "rules": "我要积极参与传统建筑文化的研究和修复工作。",
+            "positive_assumption": "如果我参与，能让传统建筑文化得到传承和发展。",
+            "negative_assumption": "如果我不参与，传统建筑文化可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任保护和传承家乡的传统文化。",
+                "others": "家乡的人们会尊重我对传统文化的保护工作。",
+                "world": "家乡传统文化是世界文化的重要组成部分，需要保护。"
+            },
+            "rules": "我要投入时间和精力保护家乡传统文化。",
+            "positive_assumption": "如果我投入，家乡传统文化能得到更好的保护和传承。",
+            "negative_assumption": "如果我不投入，家乡传统文化可能会逐渐消失。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我在文化保护方面的经验可以影响更多人参与到社会公益中来。",
+                "others": "更多人会受到我的影响加入文化保护公益事业。",
+                "world": "社会公益事业需要大家共同参与。"
+            },
+            "rules": "我要通过自己的行动和宣传带动更多人参与文化保护公益。",
+            "positive_assumption": "如果我带动，能让更多人关注和参与文化保护公益。",
+            "negative_assumption": "如果我不带动，可能会错过让更多人参与公益的机会。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力和资源推动文化保护事业的发展，为社会做贡献。",
+                "others": "社会各界会支持我在文化保护方面的工作。",
+                "world": "文化保护对社会的发展和进步有重要意义。"
+            },
+            "rules": "我要积极组织和参与文化保护项目。",
+            "positive_assumption": "如果我组织和参与，能为社会文化保护带来积极影响。",
+            "negative_assumption": "如果我不参与，社会文化保护事业可能会缺少一份力量。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家族中的经济实力和社会地位能为家族带来资源和机会。",
+                "others": "家族成员会依赖我获取资源和支持。",
+                "world": "在社会中，家族的发展需要经济和社会资源的支持。"
+            },
+            "rules": "我要利用自己的资源为家族争取更多发展机会。",
+            "positive_assumption": "如果我争取，家族会有更好的发展。",
+            "negative_assumption": "如果我不争取，家族的发展可能会受限。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我是家族事业和文化传承的重要引领者。",
+                "others": "家族晚辈会以我为榜样，听从我的教导。",
+                "world": "家族的发展需要有经验的长辈引领。"
+            },
+            "rules": "我要给家族晚辈传授经验和文化知识。",
+            "positive_assumption": "如果我传授，家族晚辈会更好地发展，家族会更兴旺。",
+            "negative_assumption": "如果我不传授，家族可能会在传承上出现断层。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我在企业经营和文化保护之间的转换能力体现了我的价值。",
+                "others": "朋友和合作伙伴会欣赏我这种多领域的能力。",
+                "world": "在多元化的社会中，具备多领域能力的人更有价值。"
+            },
+            "rules": "我要在不同领域展示自己的能力。",
+            "positive_assumption": "如果我展示能力，能得到更多机会和尊重。",
+            "negative_assumption": "如果我不展示，可能会被忽视我的综合价值。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我在文化保护领域的专业知识和经验是有价值的。",
+                "others": "同行会认可我在文化保护方面的价值。",
+                "world": "文化保护事业需要像我这样有经验的人。"
+            },
+            "rules": "我应该积极参与文化保护项目，发挥自己的专业价值。",
+            "positive_assumption": "如果我积极参与，能在文化保护领域获得更多认可。",
+            "negative_assumption": "如果我不参与，我的价值可能无法在文化保护领域体现。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "身体的疲劳可能会影响我的工作效率和决策能力。",
+                "others": "同事可能会因为我的身体状况而减少对我的期望。",
+                "world": "身体不好会在一定程度上限制工作表现。"
+            },
+            "rules": "我要根据自己的身体状况调整工作强度。",
+            "positive_assumption": "如果我调整强度，能更好地适应身体变化，保持工作效率。",
+            "negative_assumption": "如果我不调整，可能会让身体更疲惫，工作效率更低。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_12",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "youth"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "长时间的工作会让我的身体感到疲惫，很多高强度的工作不能像以前那样做。",
+                "others": "家人和朋友会担心我的身体状况。",
+                "world": "过度劳累会影响身体健康。"
+            },
+            "rules": "我要合理安排工作时间，避免过度劳累。",
+            "positive_assumption": "如果我合理安排时间，身体能保持相对健康。",
+            "negative_assumption": "如果我不注意，身体可能会出现问题，影响工作。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_11",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "youth"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我可能无法理解一些新的商业模式和市场趋势。",
+                "others": "同行可能会觉得我跟不上时代。",
+                "world": "现代商业的发展超出了我的认知范围。"
+            },
+            "rules": "我要保持开放的心态，尝试去理解新的商业模式。",
+            "positive_assumption": "如果我保持开放心态，能更好地适应市场变化。",
+            "negative_assumption": "如果我封闭自己，会与市场脱节。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我在面对新的商业理念和技术时可能会感到困惑。",
+                "others": "年轻的创业者在新事物方面比我更有优势。",
+                "world": "商业世界变化太快，我可能跟不上节奏。"
+            },
+            "rules": "我要向年轻创业者学习新的商业知识和技术。",
+            "positive_assumption": "如果我向他们学习，能缩小与时代的差距。",
+            "negative_assumption": "如果我不学习，会被市场淘汰。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我是传统技艺在现代商业中的传播者，要让传统技艺在企业中焕发生机。",
+                "others": "社会会支持传统技艺与现代商业的结合。",
+                "world": "传统技艺的传承需要与现代商业相结合。"
+            },
+            "rules": "我要在企业中引入和发展传统技艺。",
+            "positive_assumption": "如果我引入传统技艺，能让传统技艺得到传承和发展。",
+            "negative_assumption": "如果我不引入，传统技艺可能会在商业浪潮中被遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任在企业经营中传承传统的诚信和勤劳价值观。",
+                "others": "合作伙伴会欣赏我的传统价值观。",
+                "world": "传统价值观是商业活动的基石。"
+            },
+            "rules": "我要在商业合作中坚守诚信和勤劳的原则。",
+            "positive_assumption": "如果我坚守原则，能赢得合作伙伴的信任和尊重。",
+            "negative_assumption": "如果我违背原则，会破坏传统价值，失去他人的信任。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过企业创新推动行业发展，为社会进步助力。",
+                "others": "同行会关注和学习我的创新成果。",
+                "world": "行业的进步能带动社会的发展。"
+            },
+            "rules": "我要投入资源进行企业创新。",
+            "positive_assumption": "如果我进行创新，能推动行业和社会的发展。",
+            "negative_assumption": "如果我不创新，会落后于时代，无法为社会做贡献。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力通过企业发展为社会创造就业机会。",
+                "others": "社会会认可企业对就业的贡献。",
+                "world": "社会的发展需要企业提供更多的就业岗位。"
+            },
+            "rules": "我要扩大企业规模，增加就业岗位。",
+            "positive_assumption": "如果我增加就业岗位，能为社会做出贡献。",
+            "negative_assumption": "如果我不扩大规模，会觉得自己没有尽到社会责任。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家族中的地位能为家族带来荣誉。",
+                "others": "家族成员会以我为骄傲。",
+                "world": "在社会中，家族的荣誉与成员的成就相关。"
+            },
+            "rules": "我要在事业上取得成功，为家族争光。",
+            "positive_assumption": "如果我取得成功，家族会更受尊重。",
+            "negative_assumption": "如果我失败，会让家族蒙羞。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我是家族经济的支柱，能为家族带来更好的生活。",
+                "others": "家族成员依赖我的经济支持。",
+                "world": "家族的发展需要有经济实力的成员。"
+            },
+            "rules": "我要努力赚钱，改善家族的生活条件。",
+            "positive_assumption": "如果我努力赚钱，家族会更加富裕和稳定。",
+            "negative_assumption": "如果我不努力，家族可能会陷入经济困境。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我能带领团队克服困难，实现企业目标。",
+                "others": "团队成员会信任我的领导能力。",
+                "world": "一个优秀的领导者能让团队更有战斗力。"
+            },
+            "rules": "在团队遇到问题时，我要主动承担解决问题的责任。",
+            "positive_assumption": "如果我主动解决问题，能体现自己的价值并增强团队凝聚力。",
+            "negative_assumption": "如果我逃避问题，会让团队陷入混乱，显得自己没有领导能力。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我有敏锐的商业洞察力，能为企业创造价值。",
+                "others": "合作伙伴会认可我的商业能力。",
+                "world": "商业世界需要有创新和决断力的人。"
+            },
+            "rules": "我要积极开拓市场，为企业争取更多机会。",
+            "positive_assumption": "如果我积极开拓市场，能证明自己的价值并获得成功。",
+            "negative_assumption": "如果我不积极，可能会被市场淘汰，显得自己没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "身体疲劳可能会影响我学习技艺的效率。",
+                "others": "师傅可能会因为我的效率低而批评我。",
+                "world": "身体状态会影响工作和学习。"
+            },
+            "rules": "当身体疲劳时，我要及时休息。",
+            "positive_assumption": "如果我及时休息，能恢复精力提高效率。",
+            "negative_assumption": "如果我不休息，学习效率会更低。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_12",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "长时间的学徒工作，可能会让我的身体吃不消。",
+                "others": "师傅会关心我的身体状况。",
+                "world": "长时间工作会对身体造成负担。"
+            },
+            "rules": "我要合理安排工作和休息时间。",
+            "positive_assumption": "如果我合理安排，身体能保持健康。",
+            "negative_assumption": "如果我过度劳累，身体会生病。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_11",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "对于新的商业营销方式，我可能理解不了。",
+                "others": "师傅可能更了解新的营销手段。",
+                "world": "商业营销方式变化多样。"
+            },
+            "rules": "我要向师傅请教新的营销知识。",
+            "positive_assumption": "如果我请教师傅，能提升店铺的销售业绩。",
+            "negative_assumption": "如果我不请教，店铺生意可能会变差。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "面对新的绸缎制作工具和方法，我可能学不会。",
+                "others": "年轻的学徒可能更容易接受新事物。",
+                "world": "时代变化快，新的东西不断出现。"
+            },
+            "rules": "我要尝试学习新的绸缎制作知识。",
+            "positive_assumption": "如果我学习新东西，能跟上行业发展。",
+            "negative_assumption": "如果我不学习，会被行业淘汰。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我传承绸缎庄的商道文化，是对传统价值的守护。",
+                "others": "同行会尊重我们的商道文化。",
+                "world": "传统商道文化能促进商业的健康发展。"
+            },
+            "rules": "我要遵守绸缎庄的商道规则。",
+            "positive_assumption": "如果我遵守规则，能维护良好的商业环境。",
+            "negative_assumption": "如果我违反规则，会破坏商业秩序。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我学习传统的绸缎制作技艺，是在守护传统价值。",
+                "others": "师傅会赞赏我对传统技艺的坚持。",
+                "world": "传统技艺是社会文化的重要组成部分。"
+            },
+            "rules": "我要严格按照传统方法制作绸缎。",
+            "positive_assumption": "如果我遵循传统，能保留传统技艺的精髓。",
+            "negative_assumption": "如果我随意改变，传统技艺可能会变味。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我在绸缎庄的工作，能促进当地商业的发展。",
+                "others": "同行会认可我的贡献。",
+                "world": "商业的繁荣需要大家共同努力。"
+            },
+            "rules": "我要积极参与店铺的各项事务。",
+            "positive_assumption": "如果我积极参与，能推动店铺发展。",
+            "negative_assumption": "如果我消极对待，店铺可能会落后。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我学好绸缎技艺，能为社会提供优质的绸缎产品。",
+                "others": "顾客会喜欢我参与制作的绸缎。",
+                "world": "社会需要优质的商品来发展。"
+            },
+            "rules": "我要用心制作每一匹绸缎。",
+            "positive_assumption": "如果我用心制作，能得到顾客的好评。",
+            "negative_assumption": "如果我制作粗糙，会影响店铺声誉。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我学会的技艺可以传给家族后辈，对家族发展有帮助。",
+                "others": "家族后辈会感激我的传授。",
+                "world": "家族的技艺传承需要有人带头。"
+            },
+            "rules": "我要认真学习技艺，以便将来传给家族后人。",
+            "positive_assumption": "如果我传承技艺，家族技艺会得到延续。",
+            "negative_assumption": "如果我不学习，家族技艺可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我在外面努力工作，能为家族带来荣耀。",
+                "others": "家族成员会以我为傲。",
+                "world": "家族的荣耀需要每个成员的努力。"
+            },
+            "rules": "我要在绸缎庄做出成绩，为家族争光。",
+            "positive_assumption": "如果我做出成绩，家族会更加团结。",
+            "negative_assumption": "如果我一事无成，会让家族蒙羞。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我能快速适应学徒生活，体现了我的价值。",
+                "others": "同行学徒会佩服我的适应能力。",
+                "world": "能快速适应新环境的人更有竞争力。"
+            },
+            "rules": "我要尽快适应绸缎庄的工作和生活。",
+            "positive_assumption": "如果我快速适应，能更好地融入集体。",
+            "negative_assumption": "如果我适应慢，可能会被大家孤立。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我努力学习绸缎技艺，能为自己创造价值。",
+                "others": "师傅会认可我努力学习的成果。",
+                "world": "在这个社会，有技艺的人会更有价值。"
+            },
+            "rules": "我应该勤奋学习绸缎庄的各项技艺。",
+            "positive_assumption": "如果我勤奋学习，能得到师傅的表扬和更多的教导。",
+            "negative_assumption": "如果我不努力，师傅可能会对我失望。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我的身体如果累了，学习效率会下降。",
+                "others": "长辈会提醒我注意休息。",
+                "world": "身体需要适当休息才能更好地学习。"
+            },
+            "rules": "学习累了要及时休息。",
+            "positive_assumption": "如果我休息，能提高学习效率。",
+            "negative_assumption": "如果我不休息，学习会更差。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_12",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "childhood"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我生病，就不能好好上学和学习。",
+                "others": "家人会担心我的身体。",
+                "world": "身体不好会影响学习和生活。"
+            },
+            "rules": "我要注意保暖，避免生病。",
+            "positive_assumption": "如果我注意，能保持身体健康。",
+            "negative_assumption": "如果我不注意，可能会生病耽误学习。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_11",
+            "core_belief_id": "core_belief_6",
+            "stage_key": "childhood"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我可能理解不了一些新出现的现象。",
+                "others": "别人可能知道我不知道的东西。",
+                "world": "世界很大，有很多我不了解的。"
+            },
+            "rules": "遇到不懂的要向别人请教。",
+            "positive_assumption": "如果我请教，能增长见识。",
+            "negative_assumption": "如果我不请教，会一直有知识盲区。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "外面的世界变化快，我在私塾学的可能不够用。",
+                "others": "可能有比私塾知识更新的东西。",
+                "world": "世界在不断变化，知识也在更新。"
+            },
+            "rules": "我要多和外面的人交流，了解新事物。",
+            "positive_assumption": "如果我交流，能跟上一些变化。",
+            "negative_assumption": "如果我不交流，会和外面的世界脱节。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我是家族传统技艺（算盘）的学习者和传承者。",
+                "others": "祖父会把技艺传给我，希望我传承。",
+                "world": "保护传统技艺是对家族和社会的责任。"
+            },
+            "rules": "我要熟练掌握算盘技艺，并教给其他小伙伴。",
+            "positive_assumption": "如果我教给别人，能让传统技艺传播更广。",
+            "negative_assumption": "如果我不教，传统技艺可能失传。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我要传承私塾所学的传统知识和价值观。",
+                "others": "长辈会希望我传承下去。",
+                "world": "传统价值是我们生活的根基。"
+            },
+            "rules": "我要牢记四书五经中的道理，并践行。",
+            "positive_assumption": "如果我践行，能让传统价值在我身上延续。",
+            "negative_assumption": "如果我不践行，传统价值可能在我这一代丢失。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以把学到的知识分享给同窗，为大家进步做贡献。",
+                "others": "同窗会感谢我的分享。",
+                "world": "大家相互学习，社会才能进步。"
+            },
+            "rules": "我要主动和同窗交流学习心得。",
+            "positive_assumption": "如果我分享，能帮助同窗进步，也能提升自己。",
+            "negative_assumption": "如果我不分享，大家可能进步得慢。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我现在学习知识，未来能为社会做贡献。",
+                "others": "社会需要有知识的人来建设。",
+                "world": "每个人都应为社会进步出一份力。"
+            },
+            "rules": "我要好好学习四书五经，为将来做准备。",
+            "positive_assumption": "如果我好好学习，未来能为社会做更多事。",
+            "negative_assumption": "如果我不好好学习，就无法为社会贡献力量。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家族中的成长会影响家族的未来。",
+                "others": "家族成员会关注我的发展。",
+                "world": "一个兴旺的家族需要培养优秀的后代。"
+            },
+            "rules": "我要努力学习，为家族增光。",
+            "positive_assumption": "如果我努力学习，能让家族更有面子。",
+            "negative_assumption": "如果我不努力，会让家族蒙羞。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我是家族的未来，对家族传承很重要。",
+                "others": "家族长辈希望我能传承家族文化。",
+                "world": "家族的延续需要后代的努力。"
+            },
+            "rules": "我要参与家族祭祀等活动，了解家族文化。",
+            "positive_assumption": "如果我参与，能让家族长辈看到我的担当。",
+            "negative_assumption": "如果我不参与，可能会被认为对家族不负责。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我能快速掌握算盘技艺，说明我很有能力，有价值。",
+                "others": "祖父会因为我学得快而高兴。",
+                "world": "有能力学习新技能的人更受重视。"
+            },
+            "rules": "我要认真学习祖父教的算盘技艺。",
+            "positive_assumption": "如果我认真学习，能得到祖父的夸奖。",
+            "negative_assumption": "如果我不认真，会让祖父失望。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我熟读四书五经，知识丰富，是有价值的孩子。",
+                "others": "同窗和长辈会认可我的学识。",
+                "world": "在这个世界上，有知识的人会更有价值。"
+            },
+            "rules": "我应该在私塾中积极表现自己的学识。",
+            "positive_assumption": "如果我积极表现，能得到他人的赞扬和认可。",
+            "negative_assumption": "如果我不表现，别人可能会忽视我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

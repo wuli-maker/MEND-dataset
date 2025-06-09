@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我现在虽然身体不好，但我有足够的毅力去克服。",
+                "others": "别人会为我的毅力点赞。",
+                "world": "有毅力的人能够战胜身体的疾病。"
+            },
+            "rules": "我要坚持锻炼，积极治疗，克服身体的问题。",
+            "positive_assumption": "如果我坚持锻炼和治疗，身体会慢慢好起来，别人会认可我。",
+            "negative_assumption": "如果我不坚持，身体会更差，别人会觉得我没毅力。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了丧偶、独自抚养子女等困难，说明我是坚强的。",
+                "others": "别人会敬佩我的坚强。",
+                "world": "坚强的人能够克服困难，在世界上立足。"
+            },
+            "rules": "遇到困难时，我要坚强面对，不轻易放弃。",
+            "positive_assumption": "如果我坚强面对困难，会得到别人的敬佩。",
+            "negative_assumption": "如果我放弃，别人会觉得我软弱。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我有自己的爱好和梦想，值得被人支持和关爱。",
+                "others": "别人会鼓励我追求自己的爱好和梦想。",
+                "world": "追求梦想的人会被世界善待。"
+            },
+            "rules": "我要勇敢地追求自己的爱好和梦想。",
+            "positive_assumption": "如果我勇敢追求，会得到别人的支持和爱。",
+            "negative_assumption": "如果我不追求，就得不到别人的爱和支持。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我曾经有家人的陪伴，现在也有人帮我找回照片，说明我是值得被爱的。",
+                "others": "别人会关心我、爱护我。",
+                "world": "这个世界上还是有温暖和爱的。"
+            },
+            "rules": "我要主动和别人交流，接受别人的爱。",
+            "positive_assumption": "如果我主动交流，会得到更多的爱。",
+            "negative_assumption": "如果我不主动交流，会错过别人的爱。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我会编织毛线袜、照料仙人掌，这些技能说明我是有价值的。",
+                "others": "别人可以欣赏我这些技能。",
+                "world": "有技能的人在世界上有自己的位置。"
+            },
+            "rules": "我要展示自己的技能，让别人看到我的价值。",
+            "positive_assumption": "如果我展示技能，别人会认可我的价值。",
+            "negative_assumption": "如果我不展示技能，别人就不知道我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我曾经养育子女、供弟弟读书，为家庭做出过贡献，是有价值的。",
+                "others": "别人应该尊重我曾经的付出。",
+                "world": "每个人的付出都应该被认可，我也不例外。"
+            },
+            "rules": "我要保持自己的尊严，不轻易贬低自己。",
+            "positive_assumption": "如果我保持尊严，别人会更尊重我。",
+            "negative_assumption": "如果我贬低自己，别人也不会重视我。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我现在身体不好，生活不能自理，别人肯定嫌弃我。",
+                "others": "别人看到我这样的状态会厌烦。",
+                "world": "健康的人才会被人喜欢，像我这样身体不好的人会被排斥。"
+            },
+            "rules": "我不要给别人添麻烦，自己能做的事尽量自己做。",
+            "positive_assumption": "如果我不麻烦别人，别人就不会嫌弃我。",
+            "negative_assumption": "如果我麻烦别人，别人会更嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是做错事，肯定会被别人嫌弃。",
+                "others": "别人不会真心接纳我，只会嫌弃我。",
+                "world": "这个世界对犯错的人很苛刻，我这样的人很难被接受。"
+            },
+            "rules": "我要尽量隐藏自己，少和别人接触。",
+            "positive_assumption": "如果我少和别人接触，就不会被人嫌弃。",
+            "negative_assumption": "如果我和别人接触多了，肯定会被嫌弃得更厉害。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我记忆力差，什么都记不住，根本没有用。",
+                "others": "别人会觉得我是个累赘。",
+                "world": "在这个快节奏的世界，记忆力不好就无法生存。"
+            },
+            "rules": "我不要尝试去记新东西，免得记不住又被人嫌弃。",
+            "positive_assumption": "如果我不记新东西，就不会因为记不住而被人说。",
+            "negative_assumption": "如果我尝试记新东西，记不住会让别人更嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我连生活小事都做不好，是个没用的人。",
+                "others": "别人会因为我做不好事而看不起我。",
+                "world": "这个世界只需要有能力的人，我这样的人没有立足之地。"
+            },
+            "rules": "我应该尽量少做事，以免犯错被人嘲笑。",
+            "positive_assumption": "如果我少做事，就不会犯错，别人就不会看不起我。",
+            "negative_assumption": "如果我多做事，就会犯错，别人会更觉得我没用。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然生活艰难，但有足够的毅力去克服。",
+                "others": "别人会为我的毅力点赞。",
+                "world": "有毅力的人能够改善生活状况。"
+            },
+            "rules": "我要努力工作，积极面对生活，改善家庭的条件。",
+            "positive_assumption": "如果我努力，家庭条件会慢慢变好，别人会认可我。",
+            "negative_assumption": "如果我不努力，家庭会更困难，别人会觉得我没毅力。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了丧偶的痛苦，还能独自抚养子女，说明我是坚强的。",
+                "others": "别人会敬佩我的坚强。",
+                "world": "坚强的人能够克服困难，给家人带来希望。"
+            },
+            "rules": "遇到困难时，我要坚强面对，给子女树立榜样。",
+            "positive_assumption": "如果我坚强面对困难，子女会以我为傲。",
+            "negative_assumption": "如果我放弃，子女会失去信心。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我有自己的爱好，如编织、听戏曲，值得被家人支持和关爱。",
+                "others": "家人会鼓励我追求自己的爱好。",
+                "world": "追求爱好的人会被家庭善待。"
+            },
+            "rules": "我要勇敢地追求自己的爱好，让家人看到我的快乐。",
+            "positive_assumption": "如果我勇敢追求，会得到家人的支持和爱。",
+            "negative_assumption": "如果我不追求，就得不到家人的爱和支持。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我曾经有丈夫的陪伴，现在子女也需要我，说明我是值得被爱的。",
+                "others": "子女会关心我、爱护我。",
+                "world": "家庭中充满了温暖和爱。"
+            },
+            "rules": "我要多和子女交流，接受他们的爱。",
+            "positive_assumption": "如果我多和子女交流，会得到更多的爱。",
+            "negative_assumption": "如果我不和子女交流，会错过他们的爱。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我会编织、照料仙人掌，这些技能说明我是有价值的。",
+                "others": "子女可以欣赏我这些技能。",
+                "world": "有技能的人在家庭中也有自己的地位。"
+            },
+            "rules": "我要展示自己的技能，让子女看到我的价值。",
+            "positive_assumption": "如果我展示技能，子女会认可我的价值。",
+            "negative_assumption": "如果我不展示技能，子女就不知道我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我供弟弟读书，为家庭做出了贡献，是有价值的。",
+                "others": "家人应该认可我为家庭的付出。",
+                "world": "为家庭付出的人应该得到尊重和认可。"
+            },
+            "rules": "我要继续为家庭付出，让家人看到我的价值。",
+            "positive_assumption": "如果我继续付出，家人会更尊重我。",
+            "negative_assumption": "如果我停止付出，家人会忽视我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我在二儿子婚礼上遭遇尴尬，肯定会被亲戚朋友嫌弃。",
+                "others": "别人会在背后议论我，不会真心尊重我。",
+                "world": "在社交场合出丑的人会被人看不起，我很难融入其中。"
+            },
+            "rules": "我要少参加社交活动，避免再次出丑被人嫌弃。",
+            "positive_assumption": "如果我少参加社交活动，就不会被人嫌弃。",
+            "negative_assumption": "如果我参加社交活动，肯定会被嫌弃得更厉害。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我身上有机油味，子女会嫌弃我，我肯定是被嫌弃的。",
+                "others": "别人不会真心接纳我这样有异味的人，只会嫌弃我。",
+                "world": "这个世界对不整洁的人很苛刻，我这样的人很难被接受。"
+            },
+            "rules": "我要尽量保持干净，少和子女亲密接触，免得被嫌弃。",
+            "positive_assumption": "如果我保持干净，子女就不会嫌弃我。",
+            "negative_assumption": "如果我不注意，子女会更嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我在工作和照顾家庭之间难以平衡，总是顾此失彼，根本没有用。",
+                "others": "别人会觉得我连家庭和工作都处理不好，是个失败者。",
+                "world": "在这个社会，不能兼顾家庭和工作的人是没有价值的。"
+            },
+            "rules": "我要更加努力地工作和照顾家庭，不能让别人看出我的无能。",
+            "positive_assumption": "如果我更努力，别人就会认可我的能力。",
+            "negative_assumption": "如果我不努力，别人会更看不起我。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我独自抚养三个子女很吃力，很多事情都做不好，是个没用的母亲。",
+                "others": "别人会因为我独自养孩子还这么艰难而看不起我。",
+                "world": "这个世界只青睐有能力独自撑起家庭的人，我这样的人很难立足。"
+            },
+            "rules": "我要默默承受困难，少向别人求助，以免被人说没用。",
+            "positive_assumption": "如果我少向别人求助，别人就不会觉得我没用。",
+            "negative_assumption": "如果我向别人求助，别人会更觉得我没用。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然有耳鸣的毛病，但我有足够的毅力去克服工作中的不适。",
+                "others": "工友们会为我的毅力点赞。",
+                "world": "有毅力的人能够战胜身体的小毛病。"
+            },
+            "rules": "我要坚持工作，积极调整状态，克服耳鸣带来的不适。",
+            "positive_assumption": "如果我坚持工作和调整状态，身体的不适会慢慢减轻，工友会认可我。",
+            "negative_assumption": "如果我不坚持，身体不适会更影响工作，工友会觉得我没毅力。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我能适应三班倒的工作，说明我是坚强的。",
+                "others": "工友们会敬佩我的坚强。",
+                "world": "坚强的人能够克服工作的困难，在工厂立足。"
+            },
+            "rules": "遇到工作困难时，我要坚强面对，不轻易放弃。",
+            "positive_assumption": "如果我坚强面对困难，会得到工友的敬佩。",
+            "negative_assumption": "如果我放弃，工友会觉得我软弱。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我喜欢听评剧，有自己的爱好，值得被人支持和关爱。",
+                "others": "工友们会鼓励我追求自己的爱好。",
+                "world": "追求爱好的人会被大家善待。"
+            },
+            "rules": "我要勇敢地和工友分享我的爱好。",
+            "positive_assumption": "如果我勇敢分享，会得到别人的支持和爱。",
+            "negative_assumption": "如果我不分享，就得不到别人的爱和支持。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "有上海女工教我认纺织机标牌，说明我是值得被爱的。",
+                "others": "工友们会关心我、帮助我。",
+                "world": "这个工厂里还是有温暖和爱的。"
+            },
+            "rules": "我要主动和工友交流，接受他们的帮助和爱。",
+            "positive_assumption": "如果我主动交流，会得到更多的帮助和爱。",
+            "negative_assumption": "如果我不主动交流，会错过别人的帮助和爱。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我会编织，这门手艺说明我是有价值的。",
+                "others": "工友们可以欣赏我编织的东西。",
+                "world": "有技能的人在工厂里也有自己的位置。"
+            },
+            "rules": "我要在休息时间展示自己编织的作品，让工友看到我的价值。",
+            "positive_assumption": "如果我展示作品，工友会认可我的价值。",
+            "negative_assumption": "如果我不展示，别人就不知道我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我学会了纺织机的操作，能为工厂生产做出贡献，是有价值的。",
+                "others": "工友们应该尊重我的付出。",
+                "world": "每个人的付出都应该被认可，我也不例外。"
+            },
+            "rules": "我要认真做好自己的工作，展示自己的价值。",
+            "positive_assumption": "如果我认真工作，工友会更尊重我。",
+            "negative_assumption": "如果我工作不认真，别人也不会重视我。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我因为耳鸣，有时候听不清工友说话，别人肯定嫌弃我。",
+                "others": "别人看到我这样会厌烦。",
+                "world": "听力好、交流顺畅的人才会被人喜欢，像我这样听力有问题的人会被排斥。"
+            },
+            "rules": "我和工友交流时要尽量多注意听，自己能理解的尽量自己理解。",
+            "positive_assumption": "如果我自己多理解，不麻烦别人重复，别人就不会嫌弃我。",
+            "negative_assumption": "如果我总是让别人重复，别人会更嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我饭盒里的腌萝卜总被夜班组长偷走，肯定是因为我好欺负，会被别人嫌弃。",
+                "others": "别人不会真心和我做朋友，只会欺负我。",
+                "world": "这个世界对软弱的人很苛刻，我这样的人很难被接受。"
+            },
+            "rules": "我要尽量和那些强势的工友保持距离，少招惹他们。",
+            "positive_assumption": "如果我少招惹他们，就不会被欺负和嫌弃。",
+            "negative_assumption": "如果我和他们接触多了，肯定会被欺负得更厉害。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我对纺织机的操作不够熟练，总是出错，根本没有用。",
+                "others": "工友们会觉得我是个累赘。",
+                "world": "在这个竞争激烈的工厂环境里，操作不熟练就无法生存。"
+            },
+            "rules": "我要多花时间练习操作纺织机，免得再出错被人嫌弃。",
+            "positive_assumption": "如果我多练习，操作熟练了，就不会被人说。",
+            "negative_assumption": "如果我不练习，操作还是不熟练，会让别人更嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我在三班倒的工作中落下耳鸣毛病，说明我身体不够好，是个没用的人。",
+                "others": "工友们会因为我身体不好而看不起我。",
+                "world": "这个世界只需要身体健康、能胜任工作的人，我这样的人很难立足。"
+            },
+            "rules": "我要尽量掩饰身体的不适，以免被工友嘲笑。",
+            "positive_assumption": "如果我掩饰好身体不适，工友就不会看不起我。",
+            "negative_assumption": "如果我表现出身体不适，工友会更觉得我没用。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭中默默承担责任，有足够的毅力去面对生活的压力。",
+                "others": "别人会为我的毅力点赞。",
+                "world": "有毅力的人能够在困难的环境中生存。"
+            },
+            "rules": "我要坚持为家庭付出，克服生活中的困难。",
+            "positive_assumption": "如果我坚持付出，生活条件会慢慢变好，别人会认可我。",
+            "negative_assumption": "如果我不坚持，生活只会更困难，别人会觉得我没毅力。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然家庭条件不好，但还是决定用嫁妆钱供弟弟读书，说明我是坚强的。",
+                "others": "别人会敬佩我的坚强。",
+                "world": "坚强的人能够克服困难，为家庭做出贡献。"
+            },
+            "rules": "遇到困难时，我要坚强面对，不轻易放弃。",
+            "positive_assumption": "如果我坚强面对困难，会得到别人的敬佩。",
+            "negative_assumption": "如果我放弃，别人会觉得我软弱。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我有自己的爱好，比如编织和听戏曲，值得被人支持和关爱。",
+                "others": "家人会鼓励我追求自己的爱好。",
+                "world": "追求爱好的人会被家人善待。"
+            },
+            "rules": "我要勇敢地追求自己的爱好。",
+            "positive_assumption": "如果我勇敢追求，会得到家人的支持和爱。",
+            "negative_assumption": "如果我不追求，就得不到家人的爱和支持。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我供弟弟读书，弟弟会感激我，说明我是值得被爱的。",
+                "others": "家人会因为我的付出而关心我、爱护我。",
+                "world": "在家庭中，付出爱会得到回报。"
+            },
+            "rules": "我要继续关爱家人，接受家人的爱。",
+            "positive_assumption": "如果我继续关爱家人，会得到更多的爱。",
+            "negative_assumption": "如果我不关爱家人，会错过家人的爱。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我会编织，这门手艺说明我是有价值的。",
+                "others": "别人可以欣赏我编织的东西。",
+                "world": "有手艺的人在社会上有自己的立足之地。"
+            },
+            "rules": "我要多展示自己编织的作品，让别人看到我的价值。",
+            "positive_assumption": "如果我展示编织作品，别人会认可我的价值。",
+            "negative_assumption": "如果我不展示作品，别人就不知道我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我用嫁妆钱供弟弟读书，对家庭有贡献，是有价值的。",
+                "others": "家人应该感激我的付出。",
+                "world": "为家庭付出的人应该被认可和尊重。"
+            },
+            "rules": "我要继续为家庭付出，让家人看到我的价值。",
+            "positive_assumption": "如果我继续为家庭付出，家人会更认可我的价值。",
+            "negative_assumption": "如果我停止付出，家人就会忘记我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我性格内向，不善于和别人交流，别人可能会嫌弃我。",
+                "others": "别人会觉得我很无趣，不愿意和我交往。",
+                "world": "外向开朗的人才会被人喜欢，像我这样内向的人会被排斥。"
+            },
+            "rules": "我要少和别人交往，免得被人嫌弃。",
+            "positive_assumption": "如果我少和别人交往，就不会被人嫌弃。",
+            "negative_assumption": "如果我和别人交往多了，肯定会被嫌弃得更厉害。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我用嫁妆钱供弟弟读书，可能会被家人嫌弃我把钱都花出去了。",
+                "others": "家人会因为我花了嫁妆钱而对我有意见。",
+                "world": "在家庭里，为他人付出太多会被嫌弃。"
+            },
+            "rules": "我要尽量少为别人付出，免得被家人嫌弃。",
+            "positive_assumption": "如果我少为别人付出，家人就不会嫌弃我。",
+            "negative_assumption": "如果我继续为别人付出，家人会更嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭里也没什么重要地位，只能默默付出。",
+                "others": "家人不会重视我的想法和感受。",
+                "world": "在家庭中，没能力赚钱的人就没有话语权。"
+            },
+            "rules": "我要少发表自己的意见，免得被家人忽视或批评。",
+            "positive_assumption": "如果我少发表意见，就不会被家人忽视或批评。",
+            "negative_assumption": "如果我发表意见，家人会觉得我不懂事，更不把我当回事。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我没什么本事，只能用嫁妆钱供弟弟读书，没其他更大的用处。",
+                "others": "别人会觉得我没出息，只能做这些小事。",
+                "world": "这个世界需要有大本事的人，我这样没能力的人很难有好出路。"
+            },
+            "rules": "我不要去尝试做大事，免得失败被人笑话。",
+            "positive_assumption": "如果我不尝试做大事，就不会失败，别人就不会看不起我。",
+            "negative_assumption": "如果我尝试做大事，失败了别人会更觉得我没用。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我在晒谷场学会心算，克服了困难，说明我是坚强的。",
+                "others": "父母会因为我克服困难而觉得我很棒。",
+                "world": "能克服困难的孩子是坚强的，会有好未来。"
+            },
+            "rules": "遇到学习上的困难，我要坚强面对，不放弃。",
+            "positive_assumption": "如果我坚强面对，会学会更多东西，得到别人的认可。",
+            "negative_assumption": "如果我放弃，别人会觉得我没毅力。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我被栓子偷了草鞋也没哭，说明我是坚强的。",
+                "others": "别人会因为我没哭而觉得我坚强。",
+                "world": "坚强的孩子能在这个世界上更好地生活。"
+            },
+            "rules": "遇到被欺负的事情，我要坚强，不能哭。",
+            "positive_assumption": "如果我坚强不哭，别人会敬佩我。",
+            "negative_assumption": "如果我哭了，别人会觉得我软弱。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "父亲用麦秆教我写字，说明我是值得被爱的。",
+                "others": "父母愿意花时间教我东西，是爱我的表现。",
+                "world": "有父母教导的孩子是幸福的，是值得被爱的。"
+            },
+            "rules": "我要认真学父亲教的东西，不辜负他的爱。",
+            "positive_assumption": "如果我认真学，父母会更爱我。",
+            "negative_assumption": "如果我不认真学，父母会觉得我不懂事，不爱我了。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "母亲把窝头芯掏给我吃，说明我是值得被爱的。",
+                "others": "父母会一直爱我、关心我。",
+                "world": "这个世界上，父母的爱是最温暖的。"
+            },
+            "rules": "我要听父母的话，这样能得到更多的爱。",
+            "positive_assumption": "如果我听父母的话，会得到更多的爱。",
+            "negative_assumption": "如果我不听话，会失去父母的爱。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我能帮父母捡麦穗，为家里做贡献，我是有价值的。",
+                "others": "父母会因为我捡麦穗而觉得我懂事。",
+                "world": "能为家庭做事的孩子是有价值的。"
+            },
+            "rules": "我要多帮父母捡麦穗，让他们知道我的价值。",
+            "positive_assumption": "如果我多捡麦穗，父母会更认可我的价值。",
+            "negative_assumption": "如果我不捡麦穗，父母会觉得我没价值。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我能很快学会心算，说明我是有价值的。",
+                "others": "父母会因为我学会心算而开心。",
+                "world": "聪明的孩子在世界上是有价值的。"
+            },
+            "rules": "我要多展示我的心算能力，让别人看到我的价值。",
+            "positive_assumption": "如果我展示心算能力，别人会认可我的价值。",
+            "negative_assumption": "如果我不展示，别人就不知道我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "私塾先生儿子嘲笑我算术快，他肯定嫌弃我。",
+                "others": "其他孩子可能也会受他影响嫌弃我。",
+                "world": "这个世界不喜欢和别人不一样的孩子。"
+            },
+            "rules": "我不要在私塾先生儿子面前表现算术，免得被他嫌弃。",
+            "positive_assumption": "如果我不在他面前表现，就不会被他嫌弃。",
+            "negative_assumption": "如果我在他面前表现，会被他更嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "栓子偷我草鞋，肯定是嫌弃我。",
+                "others": "玩伴们可能会跟着嫌弃我。",
+                "world": "这个世界上，弱小的孩子容易被嫌弃。"
+            },
+            "rules": "我要离栓子远一点，免得被他嫌弃。",
+            "positive_assumption": "如果我离他远一点，就不会被他嫌弃。",
+            "negative_assumption": "如果我靠近他，会被他嫌弃得更厉害。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我捡麦穗总是比别人少，我真是个没用的孩子。",
+                "others": "大人们会因为我捡得少而觉得我没本事。",
+                "world": "在农村，干活厉害的孩子才有用，我这样的不行。"
+            },
+            "rules": "我不要和别人比捡麦穗，免得显得自己更没用。",
+            "positive_assumption": "如果我不和别人比，就不会显得自己没用。",
+            "negative_assumption": "如果我和别人比，会更突出我没用。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我算术算错的时候，就觉得自己很没用。",
+                "others": "玩伴们会因为我算错算术而嘲笑我。",
+                "world": "这个世界只喜欢聪明的孩子，像我这样会算错的孩子没什么用。"
+            },
+            "rules": "我要少在别人面前做算术，免得算错被嘲笑。",
+            "positive_assumption": "如果我少在别人面前做算术，就不会算错被嘲笑。",
+            "negative_assumption": "如果我多在别人面前做算术，算错了别人会更觉得我没用。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

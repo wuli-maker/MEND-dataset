@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我给孙子讲农耕故事，希望能得到他们的尊重。",
+                "others": "孙子应该认真听我讲故事，尊重我的经验。",
+                "world": "长辈的经验和故事应该被晚辈尊重。"
+            },
+            "rules": "我要把农耕故事讲得更生动，让孙子喜欢听。",
+            "positive_assumption": "如果我把故事讲好，孙子会更尊重我。",
+            "negative_assumption": "如果孙子不喜欢听，说明他们不尊重我。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我希望我的付出能得到家人的认可和尊重。",
+                "others": "家人应该理解我的辛苦和努力。",
+                "world": "在家庭中，付出应该得到相应的认可。"
+            },
+            "rules": "我要努力做好自己的事，让家人认可我。",
+            "positive_assumption": "如果我做好自己的事，家人会认可和尊重我。",
+            "negative_assumption": "如果我没做好，家人会忽视我的付出。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我捡废品可能会让家人没面子，是一种负担。",
+                "others": "家人可能不喜欢我捡废品的行为。",
+                "world": "在现代社会，捡废品可能会被认为是不体面的。"
+            },
+            "rules": "我要考虑家人的感受，适当减少捡废品的行为。",
+            "positive_assumption": "如果我减少捡废品，家人会更开心。",
+            "negative_assumption": "如果我不改变，家人会对我有意见。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我的身体可能会变差，到时候会给家人添麻烦。",
+                "others": "家人要照顾我会很辛苦。",
+                "world": "老年人很容易成为家人的负担。"
+            },
+            "rules": "我要尽量保持健康，不给家人增加负担。",
+            "positive_assumption": "如果我保持健康，家人就不用为我操心。",
+            "negative_assumption": "如果我生病，家人会很为难。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我步行去批发市场买菜，能省不少钱，这是节俭的表现。",
+                "others": "别人可能觉得麻烦，但我觉得很值得。",
+                "world": "通过自己的努力节省开支是一种美德。"
+            },
+            "rules": "我要继续采用这种节省开支的购物方式。",
+            "positive_assumption": "如果我继续这样购物，能为家庭积累更多财富。",
+            "negative_assumption": "如果我不这样做，会增加家庭的经济负担。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我捡废品、用井水洗手，这些节俭行为是正确的。",
+                "others": "有些人不理解我的节俭，但我认为这是对的。",
+                "world": "节俭可以让资源得到更好的利用。"
+            },
+            "rules": "我要继续保持节俭的生活习惯。",
+            "positive_assumption": "如果我保持节俭，能为家庭节省开支。",
+            "negative_assumption": "如果我不节俭，会浪费资源和金钱。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我能承受身体上的不适，继续完成自己想做的事。",
+                "others": "有些人可能会因为身体不适就停止行动，但我不会。",
+                "world": "身体的小毛病不能阻碍我追求生活的目标。"
+            },
+            "rules": "即使身体有点不舒服，我也要坚持日常活动。",
+            "positive_assumption": "如果我坚持日常活动，我的身体和精神状态会更好。",
+            "negative_assumption": "如果因为身体不适就休息，我可能会变得更虚弱。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过那么多困难都挺过来了，现在这点小问题不算什么。",
+                "others": "别人遇到困难可能会退缩，但我不会。",
+                "world": "生活中总会有困难，但只要坚韧就能克服。"
+            },
+            "rules": "遇到困难时，我要坚持不放弃。",
+            "positive_assumption": "如果我坚持克服困难，我会变得更强大。",
+            "negative_assumption": "如果我放弃，我就会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我种的菜给家人吃，这是我对家庭的贡献。",
+                "others": "家人喜欢吃我种的菜，认可我的劳动成果。",
+                "world": "通过劳动为家庭创造价值是很有意义的。"
+            },
+            "rules": "我要继续打理好阳台小菜园。",
+            "positive_assumption": "如果我把菜园打理好，家人会更开心，我的价值也会更被认可。",
+            "negative_assumption": "如果菜园没打理好，我就没为家庭做出贡献。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我每天为家人熬粥、照顾老伴，这些都是我有价值的体现。",
+                "others": "家人需要我的照顾和付出。",
+                "world": "在家庭中，每个人都有自己的价值和贡献。"
+            },
+            "rules": "我应该继续为家人做好力所能及的事情。",
+            "positive_assumption": "如果我持续为家人付出，家人会更幸福，我的价值也会得到体现。",
+            "negative_assumption": "如果我停止为家人付出，我就会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我养活弟妹，照顾家人，希望能得到他们的尊重。",
+                "others": "弟妹和家人应该感激我的付出，尊重我。",
+                "world": "为家人付出应该得到家人的尊重。"
+            },
+            "rules": "我要把家人照顾得更好，让他们更尊重我。",
+            "positive_assumption": "如果我把家人照顾好，家人会更尊重我。",
+            "negative_assumption": "如果家人不尊重我，说明我的付出没有得到认可。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我在工地努力工作，希望能得到家人的认可和尊重。",
+                "others": "家人应该理解我的辛苦和努力。",
+                "world": "在家庭中，为家庭付出应该得到相应的认可。"
+            },
+            "rules": "我要在工地做出成绩，让家人认可我。",
+            "positive_assumption": "如果我在工地干得好，家人会认可和尊重我。",
+            "negative_assumption": "如果我没干好，家人会忽视我的付出。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我因为超生欠债，可能会给家人带来经济压力，是一种负担。",
+                "others": "家人要和我一起承担债务。",
+                "world": "超生欠债会让家庭经济困难。"
+            },
+            "rules": "我要努力挣钱尽快还清债务。",
+            "positive_assumption": "如果我还清债务，家人就不用再为钱发愁。",
+            "negative_assumption": "如果我还不清债务，家人会一直生活在压力下。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我在工地受伤可能会影响挣钱，给家人添麻烦。",
+                "others": "家人要照顾我会很辛苦。",
+                "world": "在工地干活受伤很容易成为家人的负担。"
+            },
+            "rules": "我要在工地注意安全，尽量不受伤。",
+            "positive_assumption": "如果我不受伤，家人就不用为我操心。",
+            "negative_assumption": "如果我受伤，家人会很为难。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我步行去买便宜的生活用品，能省不少钱，这是节俭的行为。",
+                "others": "别人可能觉得麻烦，但我觉得很值得。",
+                "world": "通过自己的努力节省开支是一种美德。"
+            },
+            "rules": "我要继续采用这种节省开支的购物方式。",
+            "positive_assumption": "如果我继续这样购物，能为家庭积累更多财富。",
+            "negative_assumption": "如果我不这样做，会增加家庭的经济负担。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我在工地省吃俭用，不浪费材料，这是节俭的表现。",
+                "others": "有些工友不理解我的节俭，但我认为这是对的。",
+                "world": "节俭能让资源得到更好的利用，也能为家庭节省开支。"
+            },
+            "rules": "我要继续在工地保持节俭的习惯。",
+            "positive_assumption": "如果我保持节俭，能为家庭多存些钱。",
+            "negative_assumption": "如果我不节俭，会浪费钱，家庭经济会更紧张。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过饥荒和超生欠债，现在这点工作困难不算什么。",
+                "others": "别人可能会被困难吓倒，但我能克服。",
+                "world": "生活总是充满困难，只要坚韧就能度过。"
+            },
+            "rules": "面对工作中的困难，我不能退缩。",
+            "positive_assumption": "如果我克服工作困难，我会有更多收入，家庭也会更好。",
+            "negative_assumption": "如果我退缩，家庭的生活就会受到影响。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我摔断肋骨还能坚持完成工期，说明我很坚韧。",
+                "others": "工友可能会因为受伤就休息，但我不会轻易放弃。",
+                "world": "在工地干活，遇到困难就得咬牙坚持。"
+            },
+            "rules": "遇到身体伤痛时，我要坚持完成工作。",
+            "positive_assumption": "如果我坚持完成工作，会得到工友和老板的认可，我也会更坚强。",
+            "negative_assumption": "如果我因为伤痛放弃工作，会被认为是软弱的。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我养活弟妹，照顾家人，这是我有价值的体现。",
+                "others": "弟妹和家人需要我的照顾和支持。",
+                "world": "长兄如父，我有责任照顾好家人。"
+            },
+            "rules": "我要继续照顾好弟妹和家人。",
+            "positive_assumption": "如果我把家人照顾好，家庭会更和睦，我的价值也更被认可。",
+            "negative_assumption": "如果我没照顾好家人，我就是个失职的兄长。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我在建筑工地努力工作挣钱，这是我为家庭做贡献的方式。",
+                "others": "家人依靠我挣钱养家，需要我的付出。",
+                "world": "在家庭里，男人就应该承担起挣钱养家的责任。"
+            },
+            "rules": "我要在工地好好干活，多挣些钱。",
+            "positive_assumption": "如果我在工地努力工作，家人的生活就会更好，我的价值也得到体现。",
+            "negative_assumption": "如果我工作不努力，挣不到钱，就无法为家庭做贡献。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我给家人讲未来的规划，希望能得到他们的尊重。",
+                "others": "家人应该认真听我讲规划，尊重我的想法。",
+                "world": "在家庭中，为家庭着想的想法应该被尊重。"
+            },
+            "rules": "我要把规划说得更合理，让家人喜欢听。",
+            "positive_assumption": "如果我把规划讲好，家人会更尊重我。",
+            "negative_assumption": "如果家人不喜欢听，说明他们不尊重我。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我努力工作还债，希望能得到家人的认可和尊重。",
+                "others": "家人应该理解我的辛苦和努力。",
+                "world": "在家庭困难时期，付出应该得到相应的认可。"
+            },
+            "rules": "我要努力还清债务，让家人认可我。",
+            "positive_assumption": "如果我还清债务，家人会认可和尊重我。",
+            "negative_assumption": "如果我没还清债务，家人会忽视我的付出。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我如果因为劳累生病，会让家人照顾我，成为家人的负担。",
+                "others": "家人照顾我会耽误他们的工作和生活。",
+                "world": "生病的人很容易成为家人的负担。"
+            },
+            "rules": "我要注意身体，尽量不生病。",
+            "positive_assumption": "如果我不生病，家人就不用为我操心。",
+            "negative_assumption": "如果我生病，家人会很为难。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我因为超生欠债，可能会给家人带来压力，成为家人的负担。",
+                "others": "家人要和我一起面对债务问题会很辛苦。",
+                "world": "因为自己的错误导致家庭困难，很容易成为家人的负担。"
+            },
+            "rules": "我要尽快还清债务，不给家人增加负担。",
+            "positive_assumption": "如果我还清债务，家人就不用为债务操心。",
+            "negative_assumption": "如果我还不清债务，家人会一直有压力。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我自己种菜吃，能省不少买菜钱，这是节俭的体现。",
+                "others": "别人可能觉得麻烦，但我觉得很值得。",
+                "world": "通过自己的劳动节省开支是一种美德。"
+            },
+            "rules": "我要继续打理好菜园。",
+            "positive_assumption": "如果我把菜园打理好，能为家庭节省更多开支。",
+            "negative_assumption": "如果菜园没打理好，就不能节省开支。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我不买不必要的东西，这是节俭的表现。",
+                "others": "有些人不理解我的节俭，但我认为这是对的。",
+                "world": "节俭可以让有限的钱发挥更大的作用。"
+            },
+            "rules": "我要继续保持不买不必要东西的习惯。",
+            "positive_assumption": "如果我保持节俭，能更快还清债务。",
+            "negative_assumption": "如果我不节俭，会增加债务负担。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我能承受工作的劳累，继续努力赚钱还债。",
+                "others": "有些人可能会因为工作累就放弃，但我不会。",
+                "world": "身体的劳累不能阻碍我还清债务的目标。"
+            },
+            "rules": "即使工作很累，我也要坚持工作。",
+            "positive_assumption": "如果我坚持工作，债务会早日还清。",
+            "negative_assumption": "如果因为累就休息，债务还清的时间会延长。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我面对超生罚款欠债的困难都没放弃，我很坚韧。",
+                "others": "别人可能在这种情况下会退缩，但我不会。",
+                "world": "生活中总会遇到困难，只要坚韧就能克服。"
+            },
+            "rules": "遇到债务问题时，我要坚持想办法解决。",
+            "positive_assumption": "如果我坚持解决债务问题，我会变得更强大。",
+            "negative_assumption": "如果我放弃，我就会被债务打倒。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我省吃俭用把食物留给家人，这也是我对家庭的贡献。",
+                "others": "家人因为我的节省能多吃一点。",
+                "world": "在困难时期，节省资源也是为家庭做贡献。"
+            },
+            "rules": "我要继续保持省吃俭用的习惯。",
+            "positive_assumption": "如果我继续节省，家人能有更多的食物，我的价值会更被认可。",
+            "negative_assumption": "如果我不节省，家人可能会挨饿，我就没尽到责任。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我努力当泥瓦匠赚钱还债，这是我为家庭做贡献的方式。",
+                "others": "家人需要我努力工作来维持家庭生计。",
+                "world": "在家庭困难时期，每个人都要为家庭贡献自己的力量。"
+            },
+            "rules": "我要更加努力工作，多赚些钱来还清债务。",
+            "positive_assumption": "如果我努力工作还清债务，家人的生活就会好起来，我的价值也得到体现。",
+            "negative_assumption": "如果我工作不努力，无法还清债务，我就没为家庭做出贡献。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我积极参与集体活动，希望能得到大家的尊重。",
+                "others": "大家应该认可我积极参与的态度。",
+                "world": "在集体中，积极参与应该被尊重。"
+            },
+            "rules": "我要更积极地参与集体活动，让大家喜欢我。",
+            "positive_assumption": "如果我积极参与，大家会更尊重我。",
+            "negative_assumption": "如果大家不认可，说明他们不尊重我。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我希望我的工作成果能得到集体的认可和尊重。",
+                "others": "大家应该理解我的努力。",
+                "world": "在集体中，付出应该得到相应的认可。"
+            },
+            "rules": "我要努力做好自己的工作，让集体认可我。",
+            "positive_assumption": "如果我做好工作，集体会认可和尊重我。",
+            "negative_assumption": "如果我没做好，集体会忽视我的付出。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我可能因为年轻经验不足，在集体活动中拖后腿，是一种负担。",
+                "others": "大家可能不喜欢我经验不足的样子。",
+                "world": "在集体中，经验不足可能会被认为是不好的。"
+            },
+            "rules": "我要努力学习经验，减少给集体带来的负担。",
+            "positive_assumption": "如果我学习经验，集体会更接纳我。",
+            "negative_assumption": "如果我不改变，集体会对我有意见。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我的工作可能会出现失误，到时候会给集体添麻烦。",
+                "others": "大家要弥补我的失误会很辛苦。",
+                "world": "在集体中，个人的失误容易成为集体的负担。"
+            },
+            "rules": "我要尽量避免工作失误，不给集体增加负担。",
+            "positive_assumption": "如果我避免失误，集体就不用为我操心。",
+            "negative_assumption": "如果我失误，集体会很为难。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我不浪费纸张记录，能省不少，这是节俭的表现。",
+                "others": "别人可能觉得无所谓，但我觉得很重要。",
+                "world": "通过自己的努力节省集体资源是一种美德。"
+            },
+            "rules": "我要继续采用这种节省资源的记录方式。",
+            "positive_assumption": "如果我继续这样做，能为集体积累更多资源。",
+            "negative_assumption": "如果我不这样做，会增加集体的负担。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我节约使用记录工具，这是节俭的表现。",
+                "others": "有些人可能不注意节约，但我认为这是对的。",
+                "world": "节俭可以让集体资源得到更好的利用。"
+            },
+            "rules": "我要继续保持节约使用集体工具的习惯。",
+            "positive_assumption": "如果我保持节俭，能为集体节省资源。",
+            "negative_assumption": "如果我不节俭，会浪费集体资源。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我能承受长时间工作的劳累，继续完成集体任务。",
+                "others": "有些人可能会因为劳累就休息，但我要坚持。",
+                "world": "身体的劳累不能阻碍我为集体做贡献。"
+            },
+            "rules": "即使身体劳累，我也要坚持完成集体工作。",
+            "positive_assumption": "如果我坚持完成工作，集体的任务能顺利完成，我也会更受认可。",
+            "negative_assumption": "如果因为劳累就休息，会影响集体进度，我会被认为没能力。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过饥荒都活下来了，生产队的工作困难难不倒我。",
+                "others": "有些人可能会被困难吓倒，但我不会。",
+                "world": "生活中总会有困难，只要坚韧就能克服。"
+            },
+            "rules": "遇到工作困难时，我要坚持不放弃。",
+            "positive_assumption": "如果我坚持克服困难，我会变得更强大，更能为集体做事。",
+            "negative_assumption": "如果我放弃，我就会被困难打倒，无法为集体出力。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我年轻有精力，可以多承担一些集体的杂活，这是我的价值体现。",
+                "others": "大家会认可我为集体的付出。",
+                "world": "在集体劳动中，多付出能让集体更团结。"
+            },
+            "rules": "我要主动承担集体的杂活。",
+            "positive_assumption": "如果我多承担杂活，集体氛围会更好，我的价值会被看到。",
+            "negative_assumption": "如果我不承担杂活，我就没为集体做出贡献。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我作为生产队最年轻的记分员，认真记录能为集体贡献力量。",
+                "others": "队里的人需要准确的记分来安排生产和分配。",
+                "world": "在集体中，每个人做好本职工作都能推动集体发展。"
+            },
+            "rules": "我要认真准确地完成记分工作。",
+            "positive_assumption": "如果我把记分工作做好，集体的生产和分配会更合理，我的价值也能体现。",
+            "negative_assumption": "如果我记分出错，会影响集体生产，我就没有价值了。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我照顾弟妹，希望能得到他们的尊重。",
+                "others": "弟妹应该听话，尊重我的照顾。",
+                "world": "照顾家人应该得到家人的尊重。"
+            },
+            "rules": "我要更好地照顾弟妹，让他们喜欢我。",
+            "positive_assumption": "如果我照顾好弟妹，他们会更尊重我。",
+            "negative_assumption": "如果弟妹不喜欢我，说明他们不尊重我。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我努力挖野菜，希望能得到家人的认可和尊重。",
+                "others": "家人应该理解我的辛苦和努力。",
+                "world": "在家庭中，为家庭付出应该得到认可。"
+            },
+            "rules": "我要挖更多的野菜，让家人认可我。",
+            "positive_assumption": "如果我挖到更多野菜，家人会认可和尊重我。",
+            "negative_assumption": "如果我挖得少，家人会忽视我的付出。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我如果吃太多食物，会让家人不够吃，成为家人的负担。",
+                "others": "家人会因为我吃多而挨饿。",
+                "world": "在食物匮乏时，多吃就是对家人的负担。"
+            },
+            "rules": "我要控制自己的食量。",
+            "positive_assumption": "如果我控制食量，家人就能有更多食物。",
+            "negative_assumption": "如果我不控制，家人会面临饥饿。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我如果生病，会消耗家里的食物和精力，成为家人的负担。",
+                "others": "家人照顾我会很辛苦。",
+                "world": "在饥荒年代，生病的人很容易成为家庭的负担。"
+            },
+            "rules": "我要尽量保持健康，不生病。",
+            "positive_assumption": "如果我保持健康，家人就不用为我操心。",
+            "negative_assumption": "如果我生病，家人会更艰难。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我会把野菜的根也利用起来，这是节俭的行为。",
+                "others": "有些人可能会扔掉野菜根，但我觉得可以吃就不浪费。",
+                "world": "资源匮乏时，节俭可以让我们更好地生存。"
+            },
+            "rules": "我要充分利用每一种可吃的东西。",
+            "positive_assumption": "如果我充分利用资源，就能为家庭节省更多食物。",
+            "negative_assumption": "如果我不节俭，家庭的食物储备会更快耗尽。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我珍惜每一口食物，不浪费，这是节俭的表现。",
+                "others": "大家都应该珍惜食物，不浪费。",
+                "world": "在饥荒年代，节俭食物是生存的关键。"
+            },
+            "rules": "我要把每一口食物都合理分配。",
+            "positive_assumption": "如果我合理分配食物，家人就能多坚持一段时间。",
+            "negative_assumption": "如果我浪费食物，家人可能会更早陷入危险。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我能承受饥饿，继续寻找食物，这体现了我的坚韧。",
+                "others": "别人可能会因为饥饿而倒下，但我会坚持。",
+                "world": "在饥荒中，只有坚韧的人才能存活。"
+            },
+            "rules": "即使很饿，我也要继续为家人寻找食物。",
+            "positive_assumption": "如果我坚持寻找食物，家人和我就有生存的希望。",
+            "negative_assumption": "如果我因为饥饿而放弃，我们都会饿死。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "即使环境恶劣，我也能坚持挖野菜，说明我很坚韧。",
+                "others": "有些孩子可能因为困难就放弃了，但我不会。",
+                "world": "饥荒是巨大的困难，但只要坚持就能生存下去。"
+            },
+            "rules": "无论遇到什么困难，我都要坚持挖野菜。",
+            "positive_assumption": "如果我坚持下去，就能克服饥荒带来的困难。",
+            "negative_assumption": "如果我放弃，家人和我都会面临危险。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我学会辨识草根，能找到更多可吃的东西，这是我对家庭的贡献。",
+                "others": "邻居王瘸子教会我辨识草根，也是为了让我能更好地养活家人。",
+                "world": "在艰难时期，掌握生存技能就是为家庭创造价值。"
+            },
+            "rules": "我要不断学习更多的生存技能。",
+            "positive_assumption": "如果我掌握更多生存技能，就能更好地照顾家人，我的价值会更被认可。",
+            "negative_assumption": "如果我不学习新技能，就不能为家庭提供更多帮助。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我能挖到野菜养活弟妹，这证明我对家庭是有价值的。",
+                "others": "弟妹需要我挖的野菜才能生存。",
+                "world": "在饥荒年代，为家人找到食物就是对家庭最大的贡献。"
+            },
+            "rules": "我要每天出去挖更多的野菜。",
+            "positive_assumption": "如果我挖到更多野菜，弟妹就能吃饱，我的价值就得到了体现。",
+            "negative_assumption": "如果我挖不到足够的野菜，我就不能为家庭做出贡献。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

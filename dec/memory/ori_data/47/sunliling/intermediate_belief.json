@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "孤独会让我反思自己的生活。",
+                "others": "他人也会有孤独的时候。",
+                "world": "孤独可以促使人们成长。"
+            },
+            "rules": "我应该利用孤独的时间进行自我提升。",
+            "positive_assumption": "如果我利用孤独时间提升自己，我会变得更好。",
+            "negative_assumption": "如果我在孤独中浪费时间，我会停滞不前。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我有时会因为独居而感到孤独。",
+                "others": "他人可能无法完全理解我的孤独。",
+                "world": "孤独是生活中难以避免的一部分。"
+            },
+            "rules": "我要学会在孤独中找到自己的乐趣。",
+            "positive_assumption": "如果我能在孤独中找到乐趣，我会更加坚强。",
+            "negative_assumption": "如果我无法忍受孤独，我会变得消沉。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我的技能和经验对他人是有帮助的。",
+                "others": "他人会需要我的帮助和建议。",
+                "world": "知识和经验的分享能让世界变得更美好。"
+            },
+            "rules": "我应该主动分享自己的技能和经验。",
+            "positive_assumption": "如果我分享，我会增进与他人的关系，同时也能提升自己。",
+            "negative_assumption": "如果我不分享，我会错过与他人交流的机会。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我在社区活动和家庭中都能发挥自己的作用。",
+                "others": "他人认可我的价值和贡献。",
+                "world": "社会需要每个人的贡献。"
+            },
+            "rules": "我要积极参与社区活动和家庭事务，展现自己的价值。",
+            "positive_assumption": "如果我积极参与，我会得到他人的尊重和认可。",
+            "negative_assumption": "如果我不参与，我会被认为是没有价值的。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "过去的经历塑造了现在的我，是我宝贵的财富。",
+                "others": "他人的过去经历也能给我带来启示。",
+                "world": "世界的发展离不开过去的积累。"
+            },
+            "rules": "我应该从过去的回忆中汲取力量，面对现在的生活。",
+            "positive_assumption": "如果我从回忆中汲取力量，我会更有勇气面对困难。",
+            "negative_assumption": "如果我忘记过去，我可能会在困难面前失去方向。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "回忆让我感到充实和满足。",
+                "others": "他人的回忆也有其独特的价值。",
+                "world": "世界因回忆而变得更加丰富。"
+            },
+            "rules": "我应该珍惜过去的回忆，并时常回味。",
+            "positive_assumption": "如果我珍惜回忆，我会拥有更多的情感寄托。",
+            "negative_assumption": "如果我忽视回忆，我会失去很多宝贵的东西。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被家人和朋友关爱。",
+                "others": "我的家人和朋友会关心和爱护我。",
+                "world": "爱和关怀在世界上是普遍存在的。"
+            },
+            "rules": "我可以坦然接受他人的爱和关怀。",
+            "positive_assumption": "如果我接受他人的爱，我会感受到幸福。",
+            "negative_assumption": "如果我拒绝他人的爱，我会错过温暖。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我的善良会让我得到他人的喜爱。",
+                "others": "大多数人会回应我的善良。",
+                "world": "世界是温暖和友好的。"
+            },
+            "rules": "我应该保持善良，真诚地对待他人。",
+            "positive_assumption": "如果我保持善良，我会拥有良好的人际关系。",
+            "negative_assumption": "如果我不善良，我会被他人排斥。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的能力去完成自己设定的目标。",
+                "others": "他人的建议可以参考，但我有自己的判断。",
+                "world": "世界为有能力的人提供机会。"
+            },
+            "rules": "我要坚持自己的目标，不被他人的意见左右。",
+            "positive_assumption": "如果我坚持自己的目标，我更有可能实现它们。",
+            "negative_assumption": "如果我轻易改变目标，我可能会一事无成。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够独自处理生活中的各种事务。",
+                "others": "他人的帮助是一种支持，但我自己也能做好。",
+                "world": "世界上的事情大多可以通过自己的努力去解决。"
+            },
+            "rules": "我应该尽量自己解决问题，不轻易依赖他人。",
+            "positive_assumption": "如果我自己解决问题，我会变得更加独立和强大。",
+            "negative_assumption": "如果我依赖他人，我会显得无能和软弱。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "孤独会让我反思自己的生活和对女儿的教育。",
+                "others": "他人也会有孤独的时候。",
+                "world": "孤独可以促使人们成长。"
+            },
+            "rules": "我应该利用孤独的时间提升自己的缝纫技能和教育女儿的能力。",
+            "positive_assumption": "如果我利用孤独时间提升自己，能给女儿更好的生活。",
+            "negative_assumption": "如果我在孤独中浪费时间，会影响家庭的未来。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我有时会因为独自抚养女儿而感到孤独。",
+                "others": "他人可能无法完全理解我的孤独。",
+                "world": "孤独是生活中难以避免的一部分。"
+            },
+            "rules": "我要学会在孤独中找到照顾女儿和工作的乐趣。",
+            "positive_assumption": "如果我能在孤独中找到乐趣，我会更加坚强。",
+            "negative_assumption": "如果我无法忍受孤独，会影响女儿的成长和自己的工作。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我在邻里间分享缝纫经验能帮助他人。",
+                "others": "邻居会需要我的缝纫建议和帮助。",
+                "world": "知识和经验的分享能让社区更美好。"
+            },
+            "rules": "我应该主动分享自己的缝纫技能和经验。",
+            "positive_assumption": "如果我分享，会增进与邻居的关系，同时也能提升自己。",
+            "negative_assumption": "如果我不分享，会错过与邻居交流的机会。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我通过接缝补活计为家庭和社会做出了贡献。",
+                "others": "他人认可我的缝纫手艺和付出。",
+                "world": "每个人的劳动都有价值。"
+            },
+            "rules": "我要认真做好每一件缝纫活，展现自己的价值。",
+            "positive_assumption": "如果我认真工作，会得到他人的尊重和更多的工作机会。",
+            "negative_assumption": "如果我工作不认真，会被认为没有价值，失去工作。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "过去的经历让我变得坚强，是我宝贵的财富。",
+                "others": "他人的过去经历也能给我面对困难的勇气。",
+                "world": "经历过的困难会成为未来的财富。"
+            },
+            "rules": "我要从过去的经历中学习，更好地应对现在的生活。",
+            "positive_assumption": "如果我从过去学习，能更从容地面对生活挑战。",
+            "negative_assumption": "如果我不重视过去的经历，可能会在同样的问题上犯错。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "和丈夫、女儿的过往回忆是我坚持下去的动力。",
+                "others": "邻居的回忆也能给我带来温暖和启发。",
+                "world": "回忆能让生活更有意义。"
+            },
+            "rules": "我应该时常回忆过去的美好时光，从中汲取力量。",
+            "positive_assumption": "如果我回忆过去，能让我在困难时更有勇气。",
+            "negative_assumption": "如果我忘记过去，可能会在困难面前失去信心。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得女儿的爱和依赖。",
+                "others": "女儿会理解我的辛苦并爱我。",
+                "world": "家庭中的爱是相互的。"
+            },
+            "rules": "我要尽最大努力给女儿关爱和良好的成长环境。",
+            "positive_assumption": "如果我关爱女儿，女儿会健康成长并爱我。",
+            "negative_assumption": "如果我忽视女儿，会影响我们之间的感情。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我的善良会让邻居愿意在必要时帮助我和女儿。",
+                "others": "大多数邻居是善良的，会回应我的善意。",
+                "world": "邻里之间应该相互帮助。"
+            },
+            "rules": "我应该保持善良，与邻居友好相处。",
+            "positive_assumption": "如果我保持善良，在困难时会得到邻居的帮助。",
+            "negative_assumption": "如果我不善良，会被邻居孤立，失去可能的帮助。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够熟练掌握接缝补活计的技能来维持生活。",
+                "others": "同行的经验可以借鉴，但我有自己的技巧。",
+                "world": "有技能就能在社会上立足。"
+            },
+            "rules": "我要不断提升自己的缝纫技能，以获得更多的收入。",
+            "positive_assumption": "如果我提升技能，就能接到更多的活，改善生活。",
+            "negative_assumption": "如果我不提升技能，可能会失去客户和收入。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的能力独自抚养女儿并维持生计。",
+                "others": "他人的帮助有限，最终还是要靠自己。",
+                "world": "生活的困难需要自己去克服。"
+            },
+            "rules": "我必须依靠自己的努力来解决生活中的经济和家庭问题。",
+            "positive_assumption": "如果我依靠自己解决问题，我能给女儿更好的生活。",
+            "negative_assumption": "如果我依赖他人，可能无法保障女儿的成长和生活。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "孤独会让我反思自己在新环境中的生活。",
+                "others": "他人在适应新环境时也会有孤独的时候。",
+                "world": "孤独可以促使人们在新环境中成长。"
+            },
+            "rules": "我应该利用孤独的时间进行自我提升，更好地适应新环境。",
+            "positive_assumption": "如果我利用孤独时间提升自己，我会更好地适应新环境。",
+            "negative_assumption": "如果我在孤独中浪费时间，我会在新环境中停滞不前。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我有时会因为离开熟悉的环境而感到孤独。",
+                "others": "他人可能无法完全理解我的孤独。",
+                "world": "孤独是适应新环境过程中难以避免的一部分。"
+            },
+            "rules": "我要学会在孤独中找到自己的乐趣。",
+            "positive_assumption": "如果我能在孤独中找到乐趣，我会更加坚强。",
+            "negative_assumption": "如果我无法忍受孤独，我会变得消沉。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我的技能和经验对新环境中的人是有帮助的。",
+                "others": "他人会需要我的帮助和建议。",
+                "world": "知识和经验的分享能让新环境变得更美好。"
+            },
+            "rules": "我应该主动分享自己的技能和经验。",
+            "positive_assumption": "如果我分享，我会增进与新环境中他人的关系，同时也能提升自己。",
+            "negative_assumption": "如果我不分享，我会错过与他人交流的机会。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我在新的社交圈子和家庭中都能发挥自己的作用。",
+                "others": "他人会认可我的价值和贡献。",
+                "world": "新环境也需要每个人的贡献。"
+            },
+            "rules": "我要积极参与新社交圈子和家庭事务，展现自己的价值。",
+            "positive_assumption": "如果我积极参与，我会得到他人的尊重和认可。",
+            "negative_assumption": "如果我不参与，我会被认为是没有价值的。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "过去在弄堂的经历塑造了现在的我，是我的财富。",
+                "others": "他人的过去经历也能给我在新环境中的启示。",
+                "world": "世界的发展离不开过去的积累。"
+            },
+            "rules": "我应该从过去的回忆中汲取力量，适应新环境。",
+            "positive_assumption": "如果我从回忆中汲取力量，我会更有勇气面对新环境。",
+            "negative_assumption": "如果我忘记过去，我可能会在新环境中迷失方向。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "童年在弄堂的回忆让我感到温暖和安心。",
+                "others": "他人的童年回忆也有其美好的地方。",
+                "world": "世界因为这些美好的回忆而更有温度。"
+            },
+            "rules": "我应该珍惜童年的回忆，并时常回味。",
+            "positive_assumption": "如果我珍惜回忆，我会在新环境中有情感寄托。",
+            "negative_assumption": "如果我忽视回忆，我会在新环境中感到空虚。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被丈夫和新认识的朋友关爱。",
+                "others": "我的丈夫和朋友会关心和爱护我。",
+                "world": "爱和关怀在新环境中也会存在。"
+            },
+            "rules": "我可以坦然接受他人的爱和关怀。",
+            "positive_assumption": "如果我接受他人的爱，我会感受到幸福。",
+            "negative_assumption": "如果我拒绝他人的爱，我会错过温暖。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我的善良会让我在新环境中交到朋友。",
+                "others": "大多数人会接受我的善良和友好。",
+                "world": "新的环境也是温暖和友好的。"
+            },
+            "rules": "我应该保持善良，主动与新环境中的人交往。",
+            "positive_assumption": "如果我保持善良并主动交往，我会拥有新的朋友。",
+            "negative_assumption": "如果我不善良或不主动，我会被新环境排斥。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力处理家庭和生活中的各种琐事。",
+                "others": "家人和朋友可以提供帮助，但我自己也能应对。",
+                "world": "生活中的困难都可以通过自己的努力解决。"
+            },
+            "rules": "我应该尽量自己处理家庭和生活琐事，不轻易麻烦他人。",
+            "positive_assumption": "如果我自己处理琐事，我会提高自己的生活能力。",
+            "negative_assumption": "如果我总是麻烦他人，我会显得无能。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够适应新的城市和生活环境。",
+                "others": "他人的经验可以借鉴，但我有自己适应的方式。",
+                "world": "世界很大，有很多机会等待我去适应和把握。"
+            },
+            "rules": "我要积极主动地适应新环境，不依赖他人的安排。",
+            "positive_assumption": "如果我能适应新环境，我会变得更加独立和自信。",
+            "negative_assumption": "如果我依赖他人适应新环境，我会失去锻炼自己的机会。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "孤独会让我思考未来的方向。",
+                "others": "同事也会有孤独的时候。",
+                "world": "孤独可以促使人们成长。"
+            },
+            "rules": "我应该利用孤独的时间规划自己的未来。",
+            "positive_assumption": "如果我利用孤独时间规划未来，我会变得更好。",
+            "negative_assumption": "如果我在孤独中浪费时间，我会停滞不前。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我有时会因为中断学业而感到孤独。",
+                "others": "同事可能无法完全理解我的孤独。",
+                "world": "孤独是成长中难以避免的一部分。"
+            },
+            "rules": "我要学会在孤独中专注于学习手艺。",
+            "positive_assumption": "如果我能在孤独中学习手艺，我会更加坚强。",
+            "negative_assumption": "如果我无法忍受孤独，我会变得消沉。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我的缝纫技能对生产组是有帮助的。",
+                "others": "同事会需要我的技能和经验。",
+                "world": "技能的分享能让生产组发展得更好。"
+            },
+            "rules": "我应该主动分享自己的缝纫技能和经验。",
+            "positive_assumption": "如果我分享，我会增进与同事的关系，同时也能提升自己。",
+            "negative_assumption": "如果我不分享，我会错过与同事交流的机会。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我在生产组能发挥自己的作用。",
+                "others": "同事认可我的工作成果。",
+                "world": "生产组需要每个人的贡献。"
+            },
+            "rules": "我要积极参与生产组的工作，展现自己的价值。",
+            "positive_assumption": "如果我积极参与，我会得到同事的尊重和认可。",
+            "negative_assumption": "如果我不参与，我会被认为是没有价值的。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "过去的经历让我变得坚强，是我的财富。",
+                "others": "他人的过去经历也能激励我。",
+                "world": "世界的发展离不开过去的积累。"
+            },
+            "rules": "我应该从过去的经历中汲取力量，面对现在的生活。",
+            "positive_assumption": "如果我从过去经历中汲取力量，我会更有勇气面对困难。",
+            "negative_assumption": "如果我忘记过去，我可能会在困难面前失去方向。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "童年在弄堂的回忆让我感到快乐。",
+                "others": "同事的回忆也有有趣的地方。",
+                "world": "世界因回忆而变得美好。"
+            },
+            "rules": "我应该珍惜童年回忆，并和同事分享。",
+            "positive_assumption": "如果我珍惜回忆并分享，我会拥有更多的快乐。",
+            "negative_assumption": "如果我忽视回忆，我会失去很多快乐。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得被生产组的同事关心和帮助。",
+                "others": "同事会在我需要时伸出援手。",
+                "world": "人与人之间应该相互关爱。"
+            },
+            "rules": "我可以坦然接受同事的帮助和关心。",
+            "positive_assumption": "如果我接受同事的帮助，我会感受到温暖。",
+            "negative_assumption": "如果我拒绝同事的帮助，我会错过温暖。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我的善良会让我在生产组交到朋友。",
+                "others": "生产组的同事会回应我的善良。",
+                "world": "生产组是一个温暖的集体。"
+            },
+            "rules": "我应该在生产组保持善良，真诚对待同事。",
+            "positive_assumption": "如果我保持善良，我会拥有良好的同事关系。",
+            "negative_assumption": "如果我不善良，我会被同事排斥。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力在艰苦环境中生存和发展。",
+                "others": "他人也在努力，我不能落后。",
+                "world": "世界充满挑战，但我有应对的能力。"
+            },
+            "rules": "我要积极面对困难，不轻易放弃。",
+            "positive_assumption": "如果我积极面对困难，我会变得更强大。",
+            "negative_assumption": "如果我放弃，我会被世界淘汰。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够在中断学业后学会新的手艺。",
+                "others": "他人的指导是暂时的，我最终要靠自己掌握技能。",
+                "world": "世界需要有手艺的人，我可以通过努力立足。"
+            },
+            "rules": "我要尽快学会缝纫手艺，不依赖他人太久。",
+            "positive_assumption": "如果我自己学会手艺，我会变得更加独立和有能力。",
+            "negative_assumption": "如果我依赖他人学手艺，我会显得无能。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "孤单的时候我可以自己思考。",
+                "others": "别人也会有自己思考的时候。",
+                "world": "孤单能让人成长。"
+            },
+            "rules": "我要利用孤单的时间想一些问题。",
+            "positive_assumption": "如果我思考问题，我会变得更有想法。",
+            "negative_assumption": "如果我在孤单中发呆，我会浪费时间。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "一个人在家的时候我会觉得孤单。",
+                "others": "别人可能不知道我有多孤单。",
+                "world": "有时候难免会一个人。"
+            },
+            "rules": "我要找些事情做来打发孤单的时间。",
+            "positive_assumption": "如果我有事可做，我就不会那么孤单。",
+            "negative_assumption": "如果我不找事做，我会更孤单。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我会的知识和技能能帮助到别人。",
+                "others": "小伙伴们会需要我的帮助。",
+                "world": "分享能让大家都进步。"
+            },
+            "rules": "我要主动分享自己的知识和技能。",
+            "positive_assumption": "如果我分享，我会和小伙伴们关系更好。",
+            "negative_assumption": "如果我不分享，我会被认为很小气。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我在班级活动中能发挥自己的作用。",
+                "others": "老师和同学会认可我的表现。",
+                "world": "集体活动需要每个人的参与。"
+            },
+            "rules": "我要积极参加班级活动。",
+            "positive_assumption": "如果我积极参与，我会得到表扬。",
+            "negative_assumption": "如果我不参与，我会被大家忽视。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "过去的经历让我变得更懂事。",
+                "others": "别人的经历也能让我学到东西。",
+                "world": "过去的事情对现在有帮助。"
+            },
+            "rules": "我要从过去的经历中学习。",
+            "positive_assumption": "如果我从经历中学习，我会变得更聪明。",
+            "negative_assumption": "如果我不学习，我可能会犯同样的错误。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "和小伙伴们的玩耍回忆让我开心。",
+                "others": "大家的回忆都很有趣。",
+                "world": "回忆让生活变得更美好。"
+            },
+            "rules": "我要记住那些开心的回忆。",
+            "positive_assumption": "如果我记住回忆，我会一直有好心情。",
+            "negative_assumption": "如果我忘记回忆，我会少很多快乐。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我值得家人和朋友的疼爱。",
+                "others": "家人和朋友会关心保护我。",
+                "world": "这个世界充满了爱。"
+            },
+            "rules": "我可以安心接受别人的爱。",
+            "positive_assumption": "如果我接受别人的爱，我会很快乐。",
+            "negative_assumption": "如果我拒绝别人的爱，我会很孤单。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我对小伙伴好，他们也会对我好。",
+                "others": "大家都会喜欢善良的人。",
+                "world": "周围的人都很友好。"
+            },
+            "rules": "我要友善地对待身边的每一个人。",
+            "positive_assumption": "如果我友善待人，我会有很多好朋友。",
+            "negative_assumption": "如果我不友善，我会没有朋友。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力学会新的游戏和技能。",
+                "others": "别人能学会的，我也一定能学会。",
+                "world": "只要我努力，就能掌握新东西。"
+            },
+            "rules": "遇到新事物我要积极去尝试。",
+            "positive_assumption": "如果我积极尝试，我会变得更有能力。",
+            "negative_assumption": "如果我害怕尝试，我就会落后于别人。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我能自己完成学校的作业和任务。",
+                "others": "小伙伴们的帮助是额外的，但我自己也能做好。",
+                "world": "生活里的小事情我都可以自己解决。"
+            },
+            "rules": "我要自己努力完成事情，不依赖别人帮忙。",
+            "positive_assumption": "如果我自己完成事情，我会变得更能干。",
+            "negative_assumption": "如果我依赖他人，我会被认为没本事。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

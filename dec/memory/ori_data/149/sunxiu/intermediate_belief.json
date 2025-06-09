@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我整理老照片，能留住回忆，这是有意义的。",
+                "others": "家人看到老照片可能会想起过去的美好。",
+                "world": "保存回忆也是一种价值。"
+            },
+            "rules": "我要好好整理和保存老照片。",
+            "positive_assumption": "如果我保存好老照片，能给家人带来回忆。",
+            "negative_assumption": "如果我不保存好老照片，那些回忆就会消失。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我能给野猫喂食，说明我还有用。",
+                "others": "家人可能也需要我偶尔的关心。",
+                "world": "每个人都有自己存在的价值。"
+            },
+            "rules": "我要多做一些力所能及的事。",
+            "positive_assumption": "如果我多做事，就能体现我的价值。",
+            "negative_assumption": "如果我什么都不做，就真的没价值了。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我一直都很坚韧，现在也能面对身体的问题。",
+                "others": "家人看到我坚强可能会受到鼓舞。",
+                "world": "坚强的人可以影响身边的人。"
+            },
+            "rules": "我要在家人面前表现得坚强。",
+            "positive_assumption": "如果我表现得坚强，家人会更安心。",
+            "negative_assumption": "如果我表现得脆弱，家人会更担心我。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了这么多磨难都挺过来了，我很坚强。",
+                "others": "别人遇到我这样的情况可能都坚持不下来。",
+                "world": "生活的磨难是可以被战胜的。"
+            },
+            "rules": "遇到困难我不能轻易放弃。",
+            "positive_assumption": "如果我不放弃，就一定能克服困难。",
+            "negative_assumption": "如果我放弃，就真的失败了。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "子女都不在身边，我就是一个人。",
+                "others": "别人都有家人陪伴，而我没有。",
+                "world": "老年孤独是无法改变的。"
+            },
+            "rules": "我只能通过回忆过去来缓解孤独。",
+            "positive_assumption": "如果我回忆过去，能让自己不那么孤独。",
+            "negative_assumption": "如果我不回忆过去，会更觉得孤独无助。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我和家人有沟通障碍，没人能理解我。",
+                "others": "家人都忙着自己的事，没空关心我。",
+                "world": "这个世界上没人会真正陪伴我。"
+            },
+            "rules": "我只能自己默默承受孤独。",
+            "positive_assumption": "如果我自己承受孤独，就不会给别人添麻烦。",
+            "negative_assumption": "如果我向别人诉说孤独，别人会觉得我很矫情。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我不会说普通话，和家人交流不好，他们肯定烦我。",
+                "others": "家人觉得和我交流很费劲。",
+                "world": "不能和家人良好交流的人是不被喜欢的。"
+            },
+            "rules": "我尽量少和家人说话。",
+            "positive_assumption": "如果我少说话，家人就不会觉得和我交流麻烦。",
+            "negative_assumption": "如果我多说话，家人会更讨厌和我交流。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我身上有失禁的问题，肯定让家人嫌弃。",
+                "others": "家人看到我这样会觉得恶心。",
+                "world": "有身体缺陷的人是会被人嫌弃的。"
+            },
+            "rules": "我尽量保持干净，不让家人闻到异味。",
+            "positive_assumption": "如果我保持干净，家人可能不会那么嫌弃我。",
+            "negative_assumption": "如果我身上有异味，家人会更嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我记不住事情，脑子不好使，什么都做不了。",
+                "others": "别人会因为我的认知问题而看不起我。",
+                "world": "认知功能不好的人在社会上没有立足之地。"
+            },
+            "rules": "我避免参与需要动脑的活动。",
+            "positive_assumption": "如果我不参与动脑活动，就不会暴露我的缺陷。",
+            "negative_assumption": "如果我参与动脑活动，会让别人更觉得我没用。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我连日常生活都无法自理，真是没用。",
+                "others": "家人可能觉得我是个累赘。",
+                "world": "在这个世界上，不能自理的人就是无用的。"
+            },
+            "rules": "我尽量少给家人添麻烦。",
+            "positive_assumption": "如果我少给家人添麻烦，家人可能不会那么讨厌我。",
+            "negative_assumption": "如果我给家人添麻烦，家人会更嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我整理和丈夫的老照片，能留住回忆，这是有意义的。",
+                "others": "家人看到老照片可能会想起过去的美好。",
+                "world": "保存家庭回忆也是一种价值。"
+            },
+            "rules": "我要好好整理和保存老照片。",
+            "positive_assumption": "如果我保存好老照片，能给家人带来回忆。",
+            "negative_assumption": "如果我不保存好老照片，那些回忆就会消失。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我能为丈夫采草药，说明我还有用。",
+                "others": "家人可能也需要我在照顾丈夫这件事上的坚持。",
+                "world": "每个人在家庭中都有自己存在的价值。"
+            },
+            "rules": "我要坚持采草药，照顾好丈夫。",
+            "positive_assumption": "如果我坚持下去，就能体现我的价值。",
+            "negative_assumption": "如果我放弃，就真的没价值了。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我一直都很坚韧，现在也能面对丈夫病重的问题。",
+                "others": "家人看到我坚强可能会受到鼓舞。",
+                "world": "坚强的人可以影响身边的人。"
+            },
+            "rules": "我要在家人面前表现得坚强。",
+            "positive_assumption": "如果我表现得坚强，家人会更安心。",
+            "negative_assumption": "如果我表现得脆弱，家人会更担心我。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我独自采草药三年都没放弃，我很坚强。",
+                "others": "别人遇到我这样的情况可能都坚持不下来。",
+                "world": "生活的磨难是可以被战胜的。"
+            },
+            "rules": "遇到采药困难我不能轻易放弃。",
+            "positive_assumption": "如果我不放弃，就一定能找到治疗丈夫病的方法。",
+            "negative_assumption": "如果我放弃，丈夫的病就真的没希望了。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "子女都在外地打工，我就是一个人面对丈夫的病。",
+                "others": "别人都有家人一起分担困难，而我没有。",
+                "world": "中年独自承担家庭重担的孤独是无法改变的。"
+            },
+            "rules": "我只能通过回忆过去和丈夫的美好来缓解孤独。",
+            "positive_assumption": "如果我回忆过去，能让自己不那么孤独。",
+            "negative_assumption": "如果我不回忆过去，会更觉得孤独无助。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我独自承担丈夫的病，没人能理解我。",
+                "others": "家人都有自己的事，没空关心我。",
+                "world": "这个世界上没人会真正陪伴我度过这个难关。"
+            },
+            "rules": "我只能自己默默承受照顾丈夫的压力。",
+            "positive_assumption": "如果我自己承受压力，就不会给别人添麻烦。",
+            "negative_assumption": "如果我向别人诉说压力，别人会觉得我很矫情。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我因为照顾丈夫没时间照顾家庭，家人肯定烦我。",
+                "others": "家人觉得我只关心丈夫，不关心他们。",
+                "world": "不能平衡照顾家人的人是不被喜欢的。"
+            },
+            "rules": "我要在照顾丈夫之余，尽量抽时间关心家人。",
+            "positive_assumption": "如果我关心家人，家人就不会那么讨厌我。",
+            "negative_assumption": "如果我不关心家人，家人会更嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我为了给丈夫治病花费很多，家人可能嫌弃我浪费钱。",
+                "others": "家人觉得我不应该花这么多钱在治不好的病上。",
+                "world": "在家人眼里，乱花钱治病的人是会被嫌弃的。"
+            },
+            "rules": "我要尽量节省采草药的费用。",
+            "positive_assumption": "如果我节省费用，家人可能不会那么嫌弃我。",
+            "negative_assumption": "如果我不节省，家人会更嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我独自采草药三年都没看到明显效果，我什么都做不好。",
+                "others": "草药贩子可能觉得我很笨，采的草药没价值。",
+                "world": "在治病这件事上，没成果的人就是无用的。"
+            },
+            "rules": "我要多和草药贩子交流，学习更多草药知识。",
+            "positive_assumption": "如果我多学习草药知识，可能对丈夫的病有帮助，我就不是无用的。",
+            "negative_assumption": "如果我不学习，丈夫的病更没希望，我会更没用。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我没能治好丈夫的病，我很没用。",
+                "others": "病友家属可能觉得我连丈夫的病都治不好。",
+                "world": "在这个世界上，不能治好家人病的人就是无用的。"
+            },
+            "rules": "我要更加努力寻找治疗丈夫病的方法。",
+            "positive_assumption": "如果我更努力找方法，也许能治好丈夫的病，证明我有用。",
+            "negative_assumption": "如果我不努力，就真的无法改变丈夫的病情，我会更无用。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我会缝补衣服，能给家人省一笔钱，这是有意义的。",
+                "others": "丈夫看到我缝补的衣服可能会很欣慰。",
+                "world": "会持家的女人也是有价值的。"
+            },
+            "rules": "我要多做一些缝补的活。",
+            "positive_assumption": "如果我多缝补，就能为家庭节省开支。",
+            "negative_assumption": "如果我不缝补，家庭开支会增加。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我能把孩子照顾好，说明我还有用。",
+                "others": "丈夫可能也需要我把家里打理好。",
+                "world": "每个母亲都有自己存在的价值。"
+            },
+            "rules": "我要好好照顾孩子和家庭。",
+            "positive_assumption": "如果我照顾好家庭，就能体现我的价值。",
+            "negative_assumption": "如果我什么都不做，就真的没价值了。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我一直都很坚韧，现在也能面对身体的劳累。",
+                "others": "丈夫看到我坚强可能会更努力干活。",
+                "world": "坚强的人可以影响身边的人。"
+            },
+            "rules": "我要在丈夫面前表现得坚强。",
+            "positive_assumption": "如果我表现得坚强，丈夫会更安心。",
+            "negative_assumption": "如果我表现得脆弱，丈夫会更担心我。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我连续二十年哺乳期未断地生育六个子女，都挺过来了，我很坚强。",
+                "others": "别的女人遇到我这样的情况可能都坚持不下来。",
+                "world": "生育的痛苦是可以被战胜的。"
+            },
+            "rules": "遇到生育和带孩子的困难我不能轻易放弃。",
+            "positive_assumption": "如果我不放弃，就一定能把孩子养大。",
+            "negative_assumption": "如果我放弃，孩子就可能养不活。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我社交空间被压缩到灶台与尿布之间，没有朋友，我就是一个人。",
+                "others": "别人都有朋友可以聊天，而我没有。",
+                "world": "生育后的女人孤独是无法改变的。"
+            },
+            "rules": "我只能通过听戏曲来缓解孤独。",
+            "positive_assumption": "如果我听戏曲，能让自己不那么孤独。",
+            "negative_assumption": "如果我不听戏曲，会更觉得孤独无助。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我整天忙着照顾孩子，没人能理解我带孩子的辛苦。",
+                "others": "丈夫只知道干活，根本不关心我。",
+                "world": "这个世界上没人会真正理解我。"
+            },
+            "rules": "我只能自己默默承受带孩子的辛苦。",
+            "positive_assumption": "如果我自己承受，就不会给丈夫添麻烦。",
+            "negative_assumption": "如果我向丈夫诉说辛苦，丈夫会觉得我很矫情。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我因为生育变得身材走样，样子不好看，丈夫肯定不喜欢我。",
+                "others": "丈夫看到我现在的样子会觉得厌烦。",
+                "world": "长得不好看的女人是不被丈夫喜欢的。"
+            },
+            "rules": "我尽量少在丈夫面前出现。",
+            "positive_assumption": "如果我少出现，丈夫就不会那么讨厌我。",
+            "negative_assumption": "如果我多在丈夫面前出现，丈夫会更嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我整天围着孩子转，身上有奶味和孩子的屎尿味，肯定让丈夫嫌弃。",
+                "others": "丈夫闻到我身上的味道会觉得恶心。",
+                "world": "身上有异味的人是会被人嫌弃的。"
+            },
+            "rules": "我尽量保持干净，不让丈夫闻到异味。",
+            "positive_assumption": "如果我保持干净，丈夫可能不会那么嫌弃我。",
+            "negative_assumption": "如果我身上有异味，丈夫会更嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我一直忙着生孩子带孩子，没有时间学新东西，我真是太笨了。",
+                "others": "村里的人会因为我没本事而看不起我。",
+                "world": "没本事的人在村里是没有地位的。"
+            },
+            "rules": "我避免参与村里需要技能的活动。",
+            "positive_assumption": "如果我不参与，就不会暴露我的无能。",
+            "negative_assumption": "如果我参与，会让别人更觉得我没用。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我连续生育六个子女，身体越来越差，什么重活都干不了，真是没用。",
+                "others": "丈夫可能觉得我连家务都做不好，是个没用的人。",
+                "world": "在农村，不能干活的女人就是无用的。"
+            },
+            "rules": "我尽量做一些力所能及的小事。",
+            "positive_assumption": "如果我做一些小事，丈夫可能不会觉得我那么没用。",
+            "negative_assumption": "如果我什么都不做，丈夫会更嫌弃我没用。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我会缝补，可以给家人做衣服，这是我的价值。",
+                "others": "家人穿上我做的衣服会很开心。",
+                "world": "有一技之长就能体现自己的价值。"
+            },
+            "rules": "我要多给家人缝补和做衣服。",
+            "positive_assumption": "如果我多做衣服，能让家人更认可我。",
+            "negative_assumption": "如果我不做衣服，就会被家人忽视。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我能把家里的活干好，说明我对这个家是有用的。",
+                "others": "丈夫和公婆可能会因为我的能干而对我好。",
+                "world": "每个人在家庭里都有自己的价值。"
+            },
+            "rules": "我要把家里的活都做好，让家人满意。",
+            "positive_assumption": "如果我把活做好，就能体现我的价值。",
+            "negative_assumption": "如果我做不好活，就真的没价值了。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我在新家庭努力干活，适应新环境，我很坚韧。",
+                "others": "丈夫和公婆看到我努力，可能会认可我。",
+                "world": "坚韧的人可以赢得别人的尊重。"
+            },
+            "rules": "我要一直努力干活，不偷懒。",
+            "positive_assumption": "如果我努力干活，会得到他们的认可。",
+            "negative_assumption": "如果我偷懒，会被他们看不起。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然被家人安排了婚姻，但我能坚强面对新的生活。",
+                "others": "别人遇到我这样的情况可能会崩溃，而我能挺住。",
+                "world": "生活的困境是可以被克服的。"
+            },
+            "rules": "遇到困难我不能轻易哭泣，要坚强面对。",
+            "positive_assumption": "如果我坚强面对，就能度过难关。",
+            "negative_assumption": "如果我哭泣，就会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我离开了自己的原生家庭，在新家庭没有朋友，我就是一个人。",
+                "others": "别人都有自己的圈子，而我没有。",
+                "world": "在农村的婚姻里，女人很难融入新的环境，孤独是常态。"
+            },
+            "rules": "我通过缝补和听戏曲来打发孤独的时光。",
+            "positive_assumption": "如果我做自己喜欢的事，能让自己不那么孤独。",
+            "negative_assumption": "如果我不做这些事，会更觉得孤独无助。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "和丈夫婚前仅见三次面，彼此不熟悉，我在这个家很孤独。",
+                "others": "丈夫和公婆都不关心我的感受，没人能陪我说话。",
+                "world": "在这个陌生的家庭里，我只能独自面对一切。"
+            },
+            "rules": "我只能自己默默忍受孤独，不向别人倾诉。",
+            "positive_assumption": "如果我不倾诉，就不会被别人嘲笑。",
+            "negative_assumption": "如果我倾诉，别人会觉得我矫情。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "婆婆用烧火棍检查初夜落红，这是对我的羞辱，他们嫌弃我不干净。",
+                "others": "公婆觉得我不是清白之身，会看不起我。",
+                "world": "在农村，女人的贞洁被看得很重，稍有瑕疵就会被嫌弃。"
+            },
+            "rules": "我要更加守规矩，不做出格的事。",
+            "positive_assumption": "如果我守规矩，他们可能会改变对我的看法。",
+            "negative_assumption": "如果我做出格的事，他们会更厌恶我。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "洞房夜发现丈夫左耳缺失，公婆对我态度不好，他们肯定嫌弃我。",
+                "others": "丈夫和公婆觉得我是花钱买来的，不会真心对我好。",
+                "world": "在这种彩礼婚姻里，女人就是被嫌弃的对象。"
+            },
+            "rules": "我要努力干活，讨好公婆和丈夫。",
+            "positive_assumption": "如果我努力干活，他们可能会对我好一点。",
+            "negative_assumption": "如果我不干活，他们会更嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我无法改变自己被嫁出去的命运，我太无能了。",
+                "others": "别人可能会觉得我很懦弱，连自己的事都做不了主。",
+                "world": "在农村，女孩子的命运就是被安排，无法掌控自己的人生。"
+            },
+            "rules": "我要默默接受命运，不抱怨。",
+            "positive_assumption": "如果我不抱怨，生活可能会好过一点。",
+            "negative_assumption": "如果我抱怨，生活会更糟糕。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我被家人当作换取彩礼的工具，我对家人来说只是个交易品，真是没用。",
+                "others": "家人为了弟弟的婚姻把我嫁出去，根本没考虑我的感受，他们觉得我没什么用。",
+                "world": "在这个家庭里，女孩子就是用来牺牲换取利益的，没有自身价值。"
+            },
+            "rules": "我只能听从家人的安排，不反抗。",
+            "positive_assumption": "如果我听从家人安排，家人可能不会太讨厌我。",
+            "negative_assumption": "如果我反抗家人安排，家人会更嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我能帮邻居做一些小事，这是有意义的。",
+                "others": "邻居看到我帮忙可能会夸奖我。",
+                "world": "帮助别人也是一种价值。"
+            },
+            "rules": "我要多帮邻居做力所能及的事。",
+            "positive_assumption": "如果我多帮邻居做事，就能得到邻居的认可。",
+            "negative_assumption": "如果我不帮邻居做事，就不会得到邻居的认可。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我能照顾弟妹，说明我对家里是有用的。",
+                "others": "父母可能也需要我帮忙照顾弟妹。",
+                "world": "每个孩子在家庭里都有自己存在的价值。"
+            },
+            "rules": "我要多帮父母照顾弟妹。",
+            "positive_assumption": "如果我多照顾弟妹，就能体现我的价值。",
+            "negative_assumption": "如果我什么都不做，就真的没价值了。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我一直都很坚韧，现在也能克服背伤的问题。",
+                "others": "家人看到我坚强可能会觉得欣慰。",
+                "world": "坚强的孩子可以让家人安心。"
+            },
+            "rules": "我要在家人面前表现得坚强。",
+            "positive_assumption": "如果我表现得坚强，家人会更安心。",
+            "negative_assumption": "如果我表现得脆弱，家人会更担心我。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我背伤了还坚持照顾弟妹，我很坚强。",
+                "others": "别人遇到我这样的情况可能都坚持不下来。",
+                "world": "生活的小困难是可以被战胜的。"
+            },
+            "rules": "遇到背伤的困难我不能轻易放弃照顾弟妹。",
+            "positive_assumption": "如果我不放弃，就一定能照顾好弟妹。",
+            "negative_assumption": "如果我放弃，就真的照顾不好弟妹了。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "邻居和我也不亲近，我就是一个人。",
+                "others": "别人都有小伙伴一起玩，而我没有。",
+                "world": "童年孤独是无法改变的。"
+            },
+            "rules": "我只能自己找点事情做。",
+            "positive_assumption": "如果我自己找点事情做，能让自己不那么孤独。",
+            "negative_assumption": "如果我不自己找事做，会更觉得孤独无助。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我要一直照顾弟妹，没人陪我玩，我很孤独。",
+                "others": "兄弟姐妹都只知道自己玩，没人关心我。",
+                "world": "在这个家里，没人会真正陪伴我。"
+            },
+            "rules": "我只能自己默默照顾弟妹。",
+            "positive_assumption": "如果我自己照顾弟妹，就不会显得我不懂事。",
+            "negative_assumption": "如果我抱怨没人陪我，家人会觉得我不懂事。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我背伤了，可能会成为家里的负担，被家人嫌弃。",
+                "others": "家人看到我受伤会觉得麻烦。",
+                "world": "受伤不能干活的孩子是会被家人嫌弃的。"
+            },
+            "rules": "我尽量不麻烦家人照顾我。",
+            "positive_assumption": "如果我不麻烦家人，家人可能不会那么嫌弃我。",
+            "negative_assumption": "如果我麻烦家人，家人会更嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我照顾不好弟妹，他们哭闹，肯定让父母嫌弃。",
+                "others": "父母看到弟妹哭闹会觉得我不称职。",
+                "world": "不能让弟妹听话的孩子是会被父母嫌弃的。"
+            },
+            "rules": "我要让弟妹少哭闹。",
+            "positive_assumption": "如果弟妹少哭闹，父母可能不会那么嫌弃我。",
+            "negative_assumption": "如果弟妹经常哭闹，父母会更嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我背伤了就不能帮家里干更多活，我很没用。",
+                "others": "邻居会因为我背伤不能干活而看不起我。",
+                "world": "在村里，不能干活的孩子是没有价值的。"
+            },
+            "rules": "我尽量在能干活的时候多干活。",
+            "positive_assumption": "如果我多干活，邻居可能就不会看不起我。",
+            "negative_assumption": "如果我不干活，邻居会更觉得我没用。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我照顾弟妹还落下背伤，真是没用。",
+                "others": "父母可能觉得我连照顾弟妹都做不好。",
+                "world": "在家庭里，不能照顾好弟妹的孩子就是无用的。"
+            },
+            "rules": "我要更努力地照顾弟妹。",
+            "positive_assumption": "如果我更努力照顾弟妹，父母可能会觉得我有用。",
+            "negative_assumption": "如果我不努力照顾弟妹，父母会更觉得我没用。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

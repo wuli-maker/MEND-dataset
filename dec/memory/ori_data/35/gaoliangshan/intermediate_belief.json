@@ -1,0 +1,830 @@
+{
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我要为家庭的未来考虑，尽到自己的责任。",
+                "others": "家人会支持我的决策和安排。",
+                "world": "一个有责任感的家庭才能在社会中立足。"
+            },
+            "rules": "我应该为家庭制定长远的规划，并努力实现。",
+            "positive_assumption": "如果我为家庭制定规划，家庭会有更好的发展。",
+            "negative_assumption": "如果我不为家庭制定规划，家庭可能会失去方向。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我作为家族长辈，对家庭有不可推卸的责任。",
+                "others": "家人依赖我来解决家庭中的问题。",
+                "world": "家庭的和谐稳定需要每个成员的责任担当。"
+            },
+            "rules": "我应该关心家人的生活，为家庭的发展出谋划策。",
+            "positive_assumption": "如果我关心家人，家庭会更加和谐。",
+            "negative_assumption": "如果我不关心家人，家庭可能会出现问题。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我在现代社会的生活方式和观念上有些落后，跟不上时代。",
+                "others": "大家都在适应新的生活方式，我显得很不合群。",
+                "world": "社会在不断进步，我很难适应新的变化。"
+            },
+            "rules": "我应该坚持自己的生活方式，不盲目追赶潮流。",
+            "positive_assumption": "如果我坚持自己的生活方式，能保持内心的平静。",
+            "negative_assumption": "如果我盲目追赶潮流，会让自己更迷茫。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我对智能设备和新事物不太了解，跟不上时代了。",
+                "others": "年轻人对新事物接受能力强，和他们有差距。",
+                "world": "时代发展太快，我很难跟上步伐。"
+            },
+            "rules": "我应该少接触新事物，避免自己感到挫败。",
+            "positive_assumption": "如果我少接触新事物，就不会觉得自己跟不上时代。",
+            "negative_assumption": "如果我接触新事物，会让我更清楚自己与时代的差距。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任将自己的技艺传授给下一代，我能做到。",
+                "others": "晚辈会尊重和学习我的技艺。",
+                "world": "技艺的传承能让家族更有凝聚力。"
+            },
+            "rules": "我要耐心地教导晚辈，直到他们掌握技艺。",
+            "positive_assumption": "如果我耐心教导，晚辈就能学好技艺。",
+            "negative_assumption": "如果我没有耐心教导，晚辈可能学不好技艺。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我掌握的嫁接果树技术和传统接骨术是家族的财富，我能传承下去。",
+                "others": "家族晚辈应该学习和传承这些技艺。",
+                "world": "传统技艺需要有人传承，这样才能延续下去。"
+            },
+            "rules": "我应该主动教导晚辈学习家族技艺。",
+            "positive_assumption": "如果我教导晚辈，家族技艺就能得到传承。",
+            "negative_assumption": "如果我不教导晚辈，家族技艺可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我在现代社会中有些格格不入，感到很孤独。",
+                "others": "大家都在忙自己的事情，没有人真正关心我。",
+                "world": "这个世界变得越来越冷漠，我很难找到温暖。"
+            },
+            "rules": "我应该多回忆过去的美好时光，来缓解孤独。",
+            "positive_assumption": "如果我回忆过去，能让我暂时忘记孤独。",
+            "negative_assumption": "如果我不回忆过去，孤独感会更强烈。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我与年轻人有代沟，很难融入他们的世界，我很孤独。",
+                "others": "年轻人更关注自己的生活，不太愿意和我交流。",
+                "world": "现代社会变化太快，我很难找到能理解我的人。"
+            },
+            "rules": "我应该减少和年轻人的接触，避免被忽视。",
+            "positive_assumption": "如果我减少和年轻人接触，就不会感受到被忽视的孤独。",
+            "negative_assumption": "如果我和年轻人接触，会让我更深刻地感受到孤独。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力解决生活中的各种问题，我是有价值的。",
+                "others": "他人遇到问题时会向我寻求帮助。",
+                "world": "世界需要有能力的人来解决各种困难。"
+            },
+            "rules": "当他人遇到问题时，我应该主动提供帮助。",
+            "positive_assumption": "如果我主动帮助他人，会让我更有价值感。",
+            "negative_assumption": "如果我不主动帮助他人，他人可能会觉得我没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我一生经历诸多，积累了丰富的经验，是有价值的。",
+                "others": "家人和邻居认可我的能力和经验。",
+                "world": "在这个世界上，每个人都有自己独特的价值。"
+            },
+            "rules": "我应该继续发挥自己的经验和能力，帮助他人。",
+            "positive_assumption": "如果我帮助他人，就能体现我的价值。",
+            "negative_assumption": "如果我不帮助他人，就会显得自己没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我要为家庭的未来住房考虑，尽到自己的责任。",
+                "others": "家人会支持我的建房决策和安排。",
+                "world": "一个有责任感的家庭才能在乡村立足。"
+            },
+            "rules": "我应该为家庭制定长远的建房规划，并努力实现。",
+            "positive_assumption": "如果我为家庭制定建房规划，家庭会有更好的居住条件。",
+            "negative_assumption": "如果我不为家庭制定建房规划，家庭可能会在住房上失去方向。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我作为家庭支柱，对家庭有不可推卸的责任。",
+                "others": "家人依赖我建房改善居住条件。",
+                "world": "家庭的稳定需要有能力的人来承担责任。"
+            },
+            "rules": "我应该关心家人的居住需求，为家庭建房出谋划策。",
+            "positive_assumption": "如果我关心家人居住需求，家庭会更加和谐。",
+            "negative_assumption": "如果我不关心家人，家庭可能会在居住方面出现问题。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我在建筑观念和方式上有些落后，跟不上时代。",
+                "others": "大家都在尝试新的建筑方式，我显得很不合群。",
+                "world": "建筑行业在不断进步，我很难适应新的变化。"
+            },
+            "rules": "我应该坚持自己的建房方式，不盲目追赶潮流。",
+            "positive_assumption": "如果我坚持自己的建房方式，能保持内心的平静。",
+            "negative_assumption": "如果我盲目追赶潮流，会让自己更迷茫。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我对新的建筑材料和技术不太了解，跟不上时代了。",
+                "others": "年轻人对新建筑技术接受能力强，和他们有差距。",
+                "world": "建筑行业发展太快，我很难跟上步伐。"
+            },
+            "rules": "我应该少接触新的建筑材料和技术，避免自己感到挫败。",
+            "positive_assumption": "如果我少接触新事物，就不会觉得自己跟不上时代。",
+            "negative_assumption": "如果我接触新事物，会让我更清楚自己与时代的差距。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任将建房技艺传授给下一代，我能做到。",
+                "others": "晚辈会尊重和学习我的建房技艺。",
+                "world": "建房技艺的传承能让家族更有凝聚力。"
+            },
+            "rules": "我要耐心地教导晚辈，直到他们掌握建房技艺。",
+            "positive_assumption": "如果我耐心教导，晚辈就能学好建房技艺。",
+            "negative_assumption": "如果我没有耐心教导，晚辈可能学不好建房技艺。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我掌握的建房技术是家族的财富，我能传承下去。",
+                "others": "家族晚辈应该学习和传承建房技艺。",
+                "world": "传统建房技艺需要有人传承，这样才能延续下去。"
+            },
+            "rules": "我应该主动教导晚辈学习建房技艺。",
+            "positive_assumption": "如果我教导晚辈，建房技艺就能得到传承。",
+            "negative_assumption": "如果我不教导晚辈，建房技艺可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我在乡村建房的圈子里有些孤立，感到很孤独。",
+                "others": "大家都在忙自己的建房活，没有人真正关心我。",
+                "world": "乡村建房竞争也激烈，很难找到温暖。"
+            },
+            "rules": "我应该多回忆建房成功的经历，来缓解孤独。",
+            "positive_assumption": "如果我回忆建房成功经历，能让我暂时忘记孤独。",
+            "negative_assumption": "如果我不回忆，孤独感会更强烈。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我专注于建房，和其他人的交流少，我很孤独。",
+                "others": "大家都有自己的事情，不太愿意和我交流建房之外的事。",
+                "world": "乡村生活忙碌，很难找到能深入交流的人。"
+            },
+            "rules": "我应该专注于建房，减少和他人不必要的交流。",
+            "positive_assumption": "如果我专注建房，就不会感受到交流少的孤独。",
+            "negative_assumption": "如果我和他人过多交流，会让我更深刻地感受到孤独。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我能解决建房过程中的各种难题，我是有价值的。",
+                "others": "遇到建房问题时，他人会向我寻求帮助。",
+                "world": "乡村需要有能力解决建房问题的人。"
+            },
+            "rules": "当他人建房遇到问题时，我应该主动提供帮助。",
+            "positive_assumption": "如果我主动帮助他人解决建房问题，会让我更有价值感。",
+            "negative_assumption": "如果我不主动帮助他人，他人可能会觉得我没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我亲手建造老宅，展现了我的能力，我是有价值的。",
+                "others": "建筑帮工和村人认可我的建房能力。",
+                "world": "在乡村，有建房能力的人是有价值的。"
+            },
+            "rules": "我应该不断提升建房技术，为村里更多人建房。",
+            "positive_assumption": "如果我为更多人建房，就能体现我的价值。",
+            "negative_assumption": "如果我不继续建房，就会显得自己没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我要为家庭的未来着想，尽到自己的责任。",
+                "others": "家人会支持我的决策和安排。",
+                "world": "一个有责任感的家庭才能在农村立足。"
+            },
+            "rules": "我应该为家庭制定长远的规划，让子女留在农村发展。",
+            "positive_assumption": "如果我为家庭制定规划，家庭会有更好的发展。",
+            "negative_assumption": "如果我不为家庭制定规划，家庭可能会失去方向。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我作为一家之主，对家庭有不可推卸的责任。",
+                "others": "家人依赖我来做决策和解决问题。",
+                "world": "家庭的稳定需要家长的责任担当。"
+            },
+            "rules": "我应该为家庭的发展考虑，阻止子女进城打工。",
+            "positive_assumption": "如果我阻止子女进城打工，家庭会更加稳定。",
+            "negative_assumption": "如果我不阻止子女进城打工，家庭可能会出现问题。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我在改革开放的浪潮中，观念有些保守，跟不上时代。",
+                "others": "大家都在积极响应改革开放，我显得很落后。",
+                "world": "社会在不断进步，我很难适应新的变化。"
+            },
+            "rules": "我应该坚持自己认为正确的农村生活方式，不盲目跟风。",
+            "positive_assumption": "如果我坚持自己的生活方式，能保持内心的平静。",
+            "negative_assumption": "如果我盲目跟风，会让自己更迷茫。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我对城市的新事物不太了解，跟不上时代的发展。",
+                "others": "子女对城市的新事物接受能力强，和他们有差距。",
+                "world": "时代发展太快，我很难跟上城市的步伐。"
+            },
+            "rules": "我应该专注于农村的生活和传统技艺，不盲目追求城市的新事物。",
+            "positive_assumption": "如果我专注于农村生活，就不会觉得自己跟不上时代。",
+            "negative_assumption": "如果我盲目追求城市新事物，会让我更清楚自己与时代的差距。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力将嫁接技术传授给子女，我能做到。",
+                "others": "子女会尊重和学习我的技艺。",
+                "world": "技艺的传承能让家族更有凝聚力。"
+            },
+            "rules": "我要耐心地教导子女，直到他们掌握技艺。",
+            "positive_assumption": "如果我耐心教导，子女就能学好技艺。",
+            "negative_assumption": "如果我没有耐心教导，子女可能学不好技艺。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我掌握的嫁接果树技术是家族的传统，我有责任传承下去。",
+                "others": "子女应该学习和传承这项技艺。",
+                "world": "传统技艺需要有人传承，这样家族才能延续特色。"
+            },
+            "rules": "我应该主动教导子女学习嫁接技术。",
+            "positive_assumption": "如果我教导子女，家族技艺就能得到传承。",
+            "negative_assumption": "如果我不教导子女，家族技艺可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "老族长责骂我，我觉得自己不被理解，很孤独。",
+                "others": "长辈们有他们的想法，不太能理解我的做法。",
+                "world": "在村里，要遵循长辈的意见，否则会被孤立。"
+            },
+            "rules": "我应该尽量和长辈们保持一致，避免冲突。",
+            "positive_assumption": "如果我和长辈们保持一致，就能减少孤独感。",
+            "negative_assumption": "如果我和长辈们冲突，会让我更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我和子女在进城打工的问题上有分歧，很难理解他们的想法，我很孤独。",
+                "others": "子女更向往城市的生活，不太愿意听我的话。",
+                "world": "时代在变化，年轻人和我的观念差异越来越大。"
+            },
+            "rules": "我应该坚持自己的想法，不轻易被子女的意见左右。",
+            "positive_assumption": "如果我坚持自己的想法，就不会被子女的观念影响而迷茫。",
+            "negative_assumption": "如果我轻易被子女的意见左右，会让我更孤独无助。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我掌握的务农、园艺和木工技术，能让我在村里立足，我是有价值的。",
+                "others": "同村人遇到相关问题会向我请教。",
+                "world": "掌握实用技能的人在社会上有价值。"
+            },
+            "rules": "当他人遇到技能相关问题时，我应该主动提供帮助。",
+            "positive_assumption": "如果我主动帮助他人，会让我更有价值感。",
+            "negative_assumption": "如果我不主动帮助他人，他人可能会觉得我没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我在劳动上表现出色，获得过劳动奖章，是有价值的。",
+                "others": "家人和同村人认可我的劳动能力。",
+                "world": "在农村，勤劳能干的人是有价值的。"
+            },
+            "rules": "我应该继续努力劳动，为家庭和村子做贡献。",
+            "positive_assumption": "如果我努力劳动，就能体现我的价值。",
+            "negative_assumption": "如果我不努力劳动，就会显得自己没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力找到解决水库修建难题的方法。",
+                "others": "大家会一起想办法解决困难。",
+                "world": "办法总比困难多。"
+            },
+            "rules": "我要积极思考，寻找解决困难的办法。",
+            "positive_assumption": "如果我积极思考，就能解决困难。",
+            "negative_assumption": "如果我不积极思考，困难可能无法解决，影响水库修建进度。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的毅力和勇气克服水库修建中的困难。",
+                "others": "队友们会和我一起克服困难。",
+                "world": "困难是可以被克服的，只要大家团结一心。"
+            },
+            "rules": "我不能在困难面前退缩，要带领大家一起解决问题。",
+            "positive_assumption": "如果我不退缩，就能克服困难，完成水库修建。",
+            "negative_assumption": "如果我退缩，可能导致任务无法完成。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够在水库修建中做出正确的决策，展现领导能力。",
+                "others": "队友会信任我的决策。",
+                "world": "领导者的决策对团队的成败至关重要。"
+            },
+            "rules": "我要在面对问题时果断做出决策。",
+            "positive_assumption": "如果我果断决策，能推动水库修建工作。",
+            "negative_assumption": "如果我犹豫不决，会影响团队的效率，损害我的领导形象。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力带领队友完成水库修建任务，我是合格的领导者。",
+                "others": "队友们会听从我的指挥和安排。",
+                "world": "一个好的领导者能带领团队取得成功。"
+            },
+            "rules": "我要合理安排队友的工作，确保水库修建顺利进行。",
+            "positive_assumption": "如果我合理安排工作，团队就能高效完成任务。",
+            "negative_assumption": "如果我安排不合理，可能导致任务失败，我就不是合格的领导者。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任为集体的发展贡献自己的一份力。",
+                "others": "大家会共同为集体目标而奋斗。",
+                "world": "只有集体发展好了，个人才能更好。"
+            },
+            "rules": "我要主动承担集体中的任务。",
+            "positive_assumption": "如果我主动承担任务，能促进集体的发展。",
+            "negative_assumption": "如果我不主动承担任务，集体可能无法顺利发展。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以为公社水库修建贡献力量，为集体带来好处。",
+                "others": "队友们会和我一起努力完成水库修建。",
+                "world": "集体的发展需要每个成员的共同努力。"
+            },
+            "rules": "我应该全身心投入到水库修建工作中。",
+            "positive_assumption": "如果我全身心投入，就能为集体做出更大贡献。",
+            "negative_assumption": "如果我不全身心投入，可能会影响集体的利益。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我具备完成水库修建任务的能力，我是有价值的。",
+                "others": "大家会因为我的能力而尊重我。",
+                "world": "有能力的人能为集体带来更大的价值。"
+            },
+            "rules": "我要不断提升自己的能力，为集体做更多贡献。",
+            "positive_assumption": "如果我提升能力，会让我更有价值感。",
+            "negative_assumption": "如果我不提升能力，可能无法为集体做出贡献，会被认为没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我在修建水库中发挥了作用，是有价值的。",
+                "others": "队友认可我的付出和价值。",
+                "world": "在集体活动中，每个人的努力都有价值。"
+            },
+            "rules": "我应该在集体活动中积极贡献自己的力量。",
+            "positive_assumption": "如果我积极贡献，就能体现我的价值。",
+            "negative_assumption": "如果我不积极贡献，就会显得自己没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我要为家人的未来考虑，尽到自己的责任。",
+                "others": "家人会因为我的努力而生活得更好。",
+                "world": "有责任感的人能让家庭更稳定。"
+            },
+            "rules": "我应该为家庭的生存制定计划，并努力实现。",
+            "positive_assumption": "如果我制定计划并执行，家庭会度过难关。",
+            "negative_assumption": "如果我不为家庭制定计划，家庭可能会陷入困境。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我作为哥哥，对妹妹的生存和成长负有责任。",
+                "others": "妹妹们的健康成长依赖于我的照顾。",
+                "world": "家庭中长兄要承担照顾弟妹的责任。"
+            },
+            "rules": "我要照顾好妹妹的生活起居，关心她们的情绪。",
+            "positive_assumption": "如果我照顾好妹妹，她们会快乐成长。",
+            "negative_assumption": "如果我没照顾好妹妹，我就是不负责的哥哥。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力通过劳动为家人提供食物。",
+                "others": "家人期待我带回更多的食物。",
+                "world": "劳动能让我们在饥荒中生存下去。"
+            },
+            "rules": "我要每天出去寻找食物，不能偷懒。",
+            "positive_assumption": "如果我勤劳劳动，家人就能吃饱。",
+            "negative_assumption": "如果我偷懒，家人可能会挨饿。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我熟悉周围环境，能找到野菜等生存资源。",
+                "others": "邻居们会和我交换资源，认可我的劳动。",
+                "world": "通过劳动获取资源是生存的方式。"
+            },
+            "rules": "我要不断学习寻找资源的方法。",
+            "positive_assumption": "如果我掌握更多方法，就能获取更多资源。",
+            "negative_assumption": "如果我不学习，可能会找不到足够的资源。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的勇气和力量在饥荒中保护家人。",
+                "others": "家人遇到危险时会依靠我。",
+                "world": "在困难面前，强者要保护弱者。"
+            },
+            "rules": "当家人遇到危险时，我要第一时间站出来。",
+            "positive_assumption": "如果我及时保护家人，他们会更安全。",
+            "negative_assumption": "如果我不站出来，家人可能会受到伤害。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我是哥哥，有能力保护妹妹不受饥饿威胁。",
+                "others": "妹妹们信任我能保护她们。",
+                "world": "哥哥就应该保护妹妹。"
+            },
+            "rules": "我要时刻关注妹妹的情况，保证她们的安全。",
+            "positive_assumption": "如果我保护好妹妹，她们就能健康成长。",
+            "negative_assumption": "如果我没保护好妹妹，就是我的失职。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我能应对饥荒，保护妹妹，我是有价值的。",
+                "others": "邻居们看到我的努力，会对我表示赞赏。",
+                "world": "在艰难的环境中，能承担责任的人是有价值的。"
+            },
+            "rules": "我要勇敢面对饥荒，不放弃保护妹妹。",
+            "positive_assumption": "如果我勇敢面对，会让我更有价值感。",
+            "negative_assumption": "如果我放弃，他人可能会觉得我没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我能挖到野菜养活妹妹，我是有价值的。",
+                "others": "妹妹们依赖我，认可我的能力。",
+                "world": "在饥荒中，能为家人提供食物就是有价值的。"
+            },
+            "rules": "我应该努力挖到更多的野菜。",
+            "positive_assumption": "如果我挖到更多野菜，就能更好地体现我的价值。",
+            "negative_assumption": "如果我挖不到足够的野菜，就会显得自己没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

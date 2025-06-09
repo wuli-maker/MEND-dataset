@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我有信心面对实现目标过程中的挑战。",
+                "others": "他人的意见可以参考，但最终决策要由我自己做出。",
+                "world": "实现目标的道路上会有阻碍，但我有能力克服。"
+            },
+            "rules": "遇到挑战时，我要积极寻找解决办法。",
+            "positive_assumption": "如果我积极解决挑战，能离目标更近一步。",
+            "negative_assumption": "如果我逃避挑战，目标就无法实现。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的经验和能力实现自己的目标。",
+                "others": "虽然会遇到一些困难和反对的声音，但我可以克服。",
+                "world": "只要努力，目标是可以实现的。"
+            },
+            "rules": "我要为实现目标制定计划，并坚持执行。",
+            "positive_assumption": "如果我坚持执行计划，就能实现自己的目标。",
+            "negative_assumption": "如果我中途放弃，就无法实现目标。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我不需要很多朋友，有几个真心的就够了。",
+                "others": "那些不理解我、不尊重我价值观的人，不必深交。",
+                "world": "真诚的友谊是珍贵的，不能用数量来衡量。"
+            },
+            "rules": "我要和那些与我有共同价值观的人保持密切联系。",
+            "positive_assumption": "如果我和有共同价值观的人交往，能获得真正的快乐和支持。",
+            "negative_assumption": "如果我和没有共同价值观的人交往，会感到孤独和不被理解。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我有自己的交友标准，不能随意交友。",
+                "others": "只有经过时间验证的人才能成为我的朋友。",
+                "world": "社交中存在虚假和不真诚，需要谨慎对待。"
+            },
+            "rules": "我要谨慎筛选社交关系，只和值得信任的人交往。",
+            "positive_assumption": "如果我谨慎交友，能避免受到伤害，拥有真正的友谊。",
+            "negative_assumption": "如果我随意交友，可能会陷入虚假的社交关系，受到伤害。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我改建祖宅为乡村文化展览馆是在守护和传承家族文化。",
+                "others": "虽然子女有不同意见，但这是有意义的事情。",
+                "world": "乡村文化需要有载体来传承和展示。"
+            },
+            "rules": "我要克服困难，完成祖宅的改建。",
+            "positive_assumption": "如果我完成祖宅改建，能为乡村文化传承做出贡献。",
+            "negative_assumption": "如果我放弃祖宅改建，家族文化和乡村文化的传承会受到影响。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我对传统和文化的坚守是正确的。",
+                "others": "有些人可能不理解我的做法，但传统不能被轻易抛弃。",
+                "world": "传统和文化是社会的根基，应该得到保护。"
+            },
+            "rules": "我要坚持修复老物件、研读地方志等传统爱好。",
+            "positive_assumption": "如果我坚持传统爱好，能让更多人了解和重视传统文化。",
+            "negative_assumption": "如果我放弃传统爱好，传统文化可能会逐渐消失。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够处理生活中的各种问题。",
+                "others": "邻居和义工的帮助只是偶尔的支持，不是必需的。",
+                "world": "依靠自己解决问题能让我更强大。"
+            },
+            "rules": "遇到问题时，我首先要尝试自己解决。",
+            "positive_assumption": "如果我自己解决问题，能提高自己的能力。",
+            "negative_assumption": "如果我轻易寻求他人帮助，会显得自己很无能。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的能力照顾好自己的日常生活。",
+                "others": "子女的养老提议是出于关心，但我不需要。",
+                "world": "老年人独立生活是一种值得尊重的生活方式。"
+            },
+            "rules": "我应该坚持独自生活，不依赖子女照顾。",
+            "positive_assumption": "如果我独自生活，能保持自己的独立性和自主性。",
+            "negative_assumption": "如果我接受子女的养老提议，会失去独立生活的能力。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我整理家族迁徙史手稿是在为家族和社会做贡献。",
+                "others": "家族成员和后人会重视这份手稿。",
+                "world": "家族历史的记录有助于文化的传承。"
+            },
+            "rules": "我要认真完成家族迁徙史手稿的整理工作。",
+            "positive_assumption": "如果我完成手稿整理，能让家族历史得以传承，我的价值得到进一步认可。",
+            "negative_assumption": "如果我不完成手稿，家族历史可能会被遗忘，我的价值也无法充分体现。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我丰富的人生经历是我的独特优势，能给他人带来启发。",
+                "others": "年轻人需要了解过去的历史和文化。",
+                "world": "传承文化和经验对社会的发展有积极意义。"
+            },
+            "rules": "我应该给社区孩子讲述农耕故事，分享我的经历。",
+            "positive_assumption": "如果我给孩子们分享经历，他们会从中受益，我的价值也得到体现。",
+            "negative_assumption": "如果我不分享，孩子们就会错过了解历史和文化的机会，我的价值也无法展现。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我有信心面对商业竞争中的挑战。",
+                "others": "竞争对手的策略可以参考，但我有自己的优势。",
+                "world": "商业竞争中会有阻碍，但我有能力克服。"
+            },
+            "rules": "遇到商业挑战时，我要积极寻找解决办法。",
+            "positive_assumption": "如果我积极解决挑战，能离商业目标更近一步。",
+            "negative_assumption": "如果我逃避挑战，目标就无法实现。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的经验和能力实现商业目标。",
+                "others": "虽然市场竞争激烈，但我可以克服困难。",
+                "world": "只要努力，商业目标是可以实现的。"
+            },
+            "rules": "我要为实现商业目标制定详细计划，并坚持执行。",
+            "positive_assumption": "如果我坚持执行计划，就能实现商业目标。",
+            "negative_assumption": "如果我中途放弃，就无法实现目标。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我不需要很多商业朋友，有几个真心的就够了。",
+                "others": "那些只看重利益、不尊重我的人，不必深交。",
+                "world": "真诚的商业友谊是珍贵的，不能用数量来衡量。"
+            },
+            "rules": "我要和那些与我有共同商业价值观的人保持密切联系。",
+            "positive_assumption": "如果我和有共同价值观的人交往，能获得真正的商业支持和快乐。",
+            "negative_assumption": "如果我和没有共同价值观的人交往，会感到孤独和不被理解。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我有自己的交友标准，不能和唯利是图的人交朋友。",
+                "others": "只有志同道合、诚实守信的人才能成为我的朋友。",
+                "world": "商业社交中存在很多利益关系，需要谨慎对待。"
+            },
+            "rules": "我要谨慎筛选商业合作伙伴和朋友。",
+            "positive_assumption": "如果我谨慎交友，能避免商业风险，拥有真正的商业伙伴。",
+            "negative_assumption": "如果我随意交友，可能会陷入商业陷阱，遭受损失。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我对家乡传统文化的热爱是有意义的，能为家乡文化传承做贡献。",
+                "others": "家乡人可能不重视传统文化，但我应该守护它。",
+                "world": "家乡传统文化是地方特色，应该得到保护和传承。"
+            },
+            "rules": "我要参与家乡文化保护活动。",
+            "positive_assumption": "如果我参与文化保护活动，能让更多人了解和重视家乡文化。",
+            "negative_assumption": "如果我不参与，家乡文化可能会逐渐消失。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我对传统商业道德的坚守是正确的，能让我在商业竞争中立足。",
+                "others": "有些同行可能不理解我的做法，但传统道德不能被抛弃。",
+                "world": "传统商业道德是商业社会的根基，应该得到维护。"
+            },
+            "rules": "我要在商业活动中坚持传统商业道德。",
+            "positive_assumption": "如果我坚持传统道德，能赢得同行的尊重和信任。",
+            "negative_assumption": "如果我放弃传统道德，可能会在商业竞争中失去信誉。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够独立应对生活中的各种困难。",
+                "others": "家人的关心是出于爱，但我不需要他们过度干涉。",
+                "world": "独立面对困难能让我变得更强大。"
+            },
+            "rules": "生活中遇到困难时，我要自己想办法克服。",
+            "positive_assumption": "如果我自己克服困难，能保持自己的独立性和自主性。",
+            "negative_assumption": "如果我依赖家人，会失去独立解决问题的能力。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的能力处理商业事务，不需要依赖他人。",
+                "others": "合作伙伴的建议可以参考，但最终决策要由我自己做出。",
+                "world": "商业领域中，独立决策能让我更具竞争力。"
+            },
+            "rules": "遇到商业问题时，我首先要尝试自己解决。",
+            "positive_assumption": "如果我自己解决问题，能提高自己的商业能力。",
+            "negative_assumption": "如果我轻易依赖他人，会显得自己很无能。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我对家族历史的了解是家族的重要财富，能增强家族凝聚力。",
+                "others": "家族成员会重视我所了解的家族历史。",
+                "world": "家族历史的传承有助于家族文化的延续。"
+            },
+            "rules": "我要在家族聚会时讲述家族历史。",
+            "positive_assumption": "如果我讲述家族历史，能让家族成员更了解家族，我的价值得到进一步认可。",
+            "negative_assumption": "如果我不讲，家族历史可能会在年轻一代中逐渐模糊，我的价值也无法充分体现。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我在商业领域的经验和知识是宝贵的财富，能为行业发展提供借鉴。",
+                "others": "同行们需要学习和借鉴我的经验。",
+                "world": "商业经验的传承对行业的发展有积极意义。"
+            },
+            "rules": "我应该在行业交流活动中分享我的商业经验。",
+            "positive_assumption": "如果我分享经验，同行们会从中受益，我的价值也得到体现。",
+            "negative_assumption": "如果我不分享，同行们就会错过学习的机会，我的价值也无法展现。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我有信心面对倒卖农机配件生意中的挑战。",
+                "others": "他人的意见可以参考，但最终决策要由我自己做出。",
+                "world": "商业道路上会有阻碍，但我有能力克服。"
+            },
+            "rules": "遇到生意上的挑战时，我要积极寻找解决办法。",
+            "positive_assumption": "如果我积极解决挑战，能离盈利目标更近一步。",
+            "negative_assumption": "如果我逃避挑战，目标就无法实现。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的能力在倒卖农机配件生意中实现盈利目标。",
+                "others": "虽然市场会有竞争和变化，但我可以应对。",
+                "world": "只要努力，商业目标是可以实现的。"
+            },
+            "rules": "我要为倒卖农机配件生意制定详细的计划，并坚持执行。",
+            "positive_assumption": "如果我坚持执行计划，就能实现盈利目标。",
+            "negative_assumption": "如果我中途放弃，就无法实现目标。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我不需要很多商业伙伴，有几个真心合作的就够了。",
+                "others": "那些只看重利益、不尊重我价值观的人，不必深交。",
+                "world": "真诚的商业合作关系是珍贵的，不能用数量来衡量。"
+            },
+            "rules": "我要和那些与我有共同商业价值观的人保持密切合作。",
+            "positive_assumption": "如果我和有共同价值观的人合作，能获得真正的商业成功和快乐。",
+            "negative_assumption": "如果我和没有共同价值观的人合作，会感到孤独和不被理解，生意也难以长久。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我有自己的交友标准，不能和唯利是图的人交朋友。",
+                "others": "只有那些真诚、有共同商业理念的人才能成为我的朋友。",
+                "world": "商业社交中存在很多虚假和不真诚，需要谨慎对待。"
+            },
+            "rules": "我要谨慎筛选商业伙伴和朋友，只和值得信任的人合作。",
+            "positive_assumption": "如果我谨慎交友，能避免商业上的风险，拥有真正的商业友谊。",
+            "negative_assumption": "如果我随意交友，可能会陷入商业陷阱，受到损失。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我传承家乡的商业文化是有意义的。",
+                "others": "可能有些人不理解我对家乡商业文化的执着，但这是宝贵的财富。",
+                "world": "地方商业文化需要有人去传承和发扬。"
+            },
+            "rules": "我要在商业活动中融入家乡的商业文化元素。",
+            "positive_assumption": "如果我融入家乡商业文化，能让更多人了解和重视它。",
+            "negative_assumption": "如果我放弃传承，家乡的商业文化可能会逐渐消失。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我坚守诚信经营的传统理念是正确的。",
+                "others": "有些同行可能为了利益不择手段，但我不能效仿。",
+                "world": "商业中的诚信是行业的根基，应该得到坚持。"
+            },
+            "rules": "我要在倒卖农机配件生意中始终坚持诚信原则。",
+            "positive_assumption": "如果我坚持诚信经营，能赢得客户的信任和口碑。",
+            "negative_assumption": "如果我放弃诚信，生意可能会受到影响，传统的商业美德也会被破坏。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够独立开拓商业渠道，不需要依赖别人的资源。",
+                "others": "虽然有人会提供一些渠道信息，但我要靠自己去拓展。",
+                "world": "商业中的独立开拓能带来更多的机会。"
+            },
+            "rules": "我要自己去寻找新的农机配件销售渠道。",
+            "positive_assumption": "如果我独立开拓渠道，能让生意更上一层楼。",
+            "negative_assumption": "如果我依赖别人的渠道，会失去自主发展的能力。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的能力独自完成农机配件的倒卖生意。",
+                "others": "商业伙伴的帮助只是辅助，我不需要过度依赖他们。",
+                "world": "在商业中独立打拼能让我更强大。"
+            },
+            "rules": "遇到生意上的问题时，我首先要尝试自己解决。",
+            "positive_assumption": "如果我自己解决问题，能提高自己的商业能力。",
+            "negative_assumption": "如果我轻易寻求他人帮助，会显得自己很无能。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我在改革开放初期抓住商机的经历是一种独特的价值。",
+                "others": "身边的人会认可我的商业眼光。",
+                "world": "敢于尝试新事物的经历值得被铭记和传承。"
+            },
+            "rules": "我要记录下我倒卖农机配件完成原始积累的过程。",
+            "positive_assumption": "如果我记录下来，能为自己和他人留下宝贵的经验，我的价值得到进一步认可。",
+            "negative_assumption": "如果我不记录，这段经历可能会被遗忘，我的价值也无法充分体现。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我在倒卖农机配件过程中的经验和智慧是我的优势，能让我在商业中脱颖而出。",
+                "others": "同行们可以从我的经历中学到有用的东西。",
+                "world": "商业中的经验传承有助于行业的发展。"
+            },
+            "rules": "我应该和同行分享我倒卖农机配件的经验。",
+            "positive_assumption": "如果我分享经验，能提升我的行业影响力，我的价值也得到体现。",
+            "negative_assumption": "如果我不分享，同行们会错过学习的机会，我的价值也无法充分展现。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我有信心面对保护族谱过程中的挑战。",
+                "others": "他人的质疑和反对不能动摇我的决心。",
+                "world": "实现目标的道路上会有阻碍，但我有能力克服。"
+            },
+            "rules": "遇到挑战时，我要积极想办法解决。",
+            "positive_assumption": "如果我积极解决挑战，能更好地保护好族谱，离目标更近一步。",
+            "negative_assumption": "如果我逃避挑战，就无法保护好族谱，目标也会落空。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力保护好族谱，实现传承家族文化的目标。",
+                "others": "虽然会遇到红卫兵的阻挠，但我可以克服。",
+                "world": "只要有决心，目标是可以实现的。"
+            },
+            "rules": "我要制定保护族谱的计划，并坚决执行。",
+            "positive_assumption": "如果我坚持执行计划，就能保护好族谱，实现目标。",
+            "negative_assumption": "如果我中途放弃，就无法保护好族谱，目标也无法实现。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我有自己的交友标准，不能因为外界压力而改变。",
+                "others": "那些在困境中能和我一起坚守信念的人才能成为真正的朋友。",
+                "world": "真正的友谊是在困难中建立的。"
+            },
+            "rules": "我要寻找和我志同道合、能一起保护家族文化的朋友。",
+            "positive_assumption": "如果我找到志同道合的朋友，能更好地保护族谱和传承文化。",
+            "negative_assumption": "如果我随意交友，可能会泄露保护族谱的秘密，导致失败。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我不能轻易相信红卫兵和反目的大堂伯，要谨慎交友。",
+                "others": "只有和我一样重视家族文化的人才能成为我的朋友。",
+                "world": "在动荡时期，交友要格外谨慎，避免受到伤害。"
+            },
+            "rules": "我要和那些不尊重家族文化的人保持距离。",
+            "positive_assumption": "如果我和不尊重家族文化的人保持距离，能避免受到伤害。",
+            "negative_assumption": "如果我和他们交往过密，可能会给自己带来麻烦。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我对家族族谱的重视是正确的，体现了我的文化责任感。",
+                "others": "那些不尊重族谱的人是不懂得传统文化价值的。",
+                "world": "尊重和保护传统文化是每个人的责任。"
+            },
+            "rules": "我要向他人宣扬保护族谱和传统文化的重要性。",
+            "positive_assumption": "如果我宣扬传统文化的重要性，能让更多人重视和保护它。",
+            "negative_assumption": "如果我不宣扬，传统文化可能会被更多人忽视。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我坚守保护族谱的行为是对传统文化的捍卫。",
+                "others": "虽然有些人不理解我保护族谱的行为，但传统文化不能被破坏。",
+                "world": "传统文化是我们的根，应该得到保护。"
+            },
+            "rules": "无论遇到什么困难，我都要坚持保护好族谱。",
+            "positive_assumption": "如果我坚持保护族谱，能让传统文化得以传承。",
+            "negative_assumption": "如果我放弃保护族谱，传统文化可能会流失。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我能自己决定如何保护族谱，不需要他人指手画脚。",
+                "others": "他人的建议不一定适合我，我要坚持自己的想法。",
+                "world": "独立决策能让我更好地实现目标。"
+            },
+            "rules": "在保护族谱的事情上，我要自己做决定。",
+            "positive_assumption": "如果我自己做决定，能更有效地保护好族谱。",
+            "negative_assumption": "如果我听从他人的意见，可能会做出错误的决定，导致族谱受损。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力独自应对批斗带来的压力。",
+                "others": "别人的帮助可能会让我变得软弱，我不需要。",
+                "world": "在困境中依靠自己才能真正成长。"
+            },
+            "rules": "面对批斗，我要独自承受，不依赖他人帮助。",
+            "positive_assumption": "如果我独自承受批斗，能让自己变得更强大。",
+            "negative_assumption": "如果我依赖他人帮助，会失去独立应对困难的能力。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我在批斗时的沉默是一种坚韧的表现，有独特价值。",
+                "others": "那些理解我的人会认可我的做法。",
+                "world": "在困境中坚守自己的信念是值得尊重的。"
+            },
+            "rules": "面对批斗，我要保持沉默，坚守自己的信念。",
+            "positive_assumption": "如果我保持沉默，能坚守自己的信念，我的价值会得到彰显。",
+            "negative_assumption": "如果我在批斗时屈服，就会失去自己的信念，我的价值也会受损。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我保护族谱的行为是有意义的，能体现我的价值。",
+                "others": "家族后人会感激我保护族谱的举动。",
+                "world": "传承家族文化对家族的延续至关重要。"
+            },
+            "rules": "我要尽最大努力保护好族谱。",
+            "positive_assumption": "如果我保护好族谱，能为家族文化传承做出贡献，我的价值也得到体现。",
+            "negative_assumption": "如果我没保护好族谱，家族文化可能会中断，我的价值也无法展现。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我有信心在饥荒中生存下来。",
+                "others": "虽然环境很艰难，但我可以克服困难。",
+                "world": "只要不放弃，就能度过难关。"
+            },
+            "rules": "我要积极寻找食物和生存的方法。",
+            "positive_assumption": "如果我积极应对饥荒，就能生存下来，实现生存的目标。",
+            "negative_assumption": "如果我消极对待，可能会饿死，无法实现目标。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力成为一名优秀的公社记分员。",
+                "others": "虽然我年纪小，但我可以做好这份工作。",
+                "world": "只要努力，就能在自己的岗位上取得成绩。"
+            },
+            "rules": "我要认真学习记账知识，把记分员工作做好。",
+            "positive_assumption": "如果我做好记分员工作，能得到大家的认可，实现自己的目标。",
+            "negative_assumption": "如果我做不好工作，会让大家失望，无法实现目标。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我不需要很多朋友，有一两个真心的就够了。",
+                "others": "那些只看重食物的孩子，不值得深交。",
+                "world": "真诚的友谊在困难时期更珍贵。"
+            },
+            "rules": "我要和那些与我有共同经历、互相帮助的孩子保持密切联系。",
+            "positive_assumption": "如果我和真心的朋友交往，能获得温暖和支持。",
+            "negative_assumption": "如果我和不真心的朋友交往，会感到失望和伤心。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我要和真诚善良的孩子交朋友。",
+                "others": "有些孩子可能会为了食物欺骗我，不能轻易相信。",
+                "world": "在饥荒年代，交朋友要谨慎，防止被伤害。"
+            },
+            "rules": "我要观察一段时间，确定对方是好人后再和他交朋友。",
+            "positive_assumption": "如果我谨慎交友，能交到真正的朋友，一起度过困难时期。",
+            "negative_assumption": "如果我随意交友，可能会被欺骗，受到伤害。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我跟私塾先生学的书法是传统文化，很珍贵。",
+                "others": "村里的孩子也应该学习书法。",
+                "world": "传统文化能提升人的素养，应该传承下去。"
+            },
+            "rules": "我要坚持练习书法，把书法技艺传承下去。",
+            "positive_assumption": "如果我坚持练习书法，能让更多人了解书法，传承传统文化。",
+            "negative_assumption": "如果我放弃练习书法，传统文化可能会在村里失传。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我听二叔念叨的祖训是有道理的，应该遵守。",
+                "others": "村里的人也应该重视祖训。",
+                "world": "祖训是家族的传统，能让家族团结和发展。"
+            },
+            "rules": "我要牢记祖训，并按照祖训做事。",
+            "positive_assumption": "如果我遵守祖训，能得到长辈的认可，也能维护家族传统。",
+            "negative_assumption": "如果我不遵守祖训，会被长辈批评，家族传统也可能被破坏。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我能自己完成公社记分员的工作，不需要别人帮忙。",
+                "others": "别人可能没有我做得好，我要靠自己。",
+                "world": "做好自己的工作是对集体的贡献。"
+            },
+            "rules": "我要独立完成记分员的工作，不轻易寻求他人帮助。",
+            "positive_assumption": "如果我独立完成工作，能得到大家的赞扬，也能提高自己的能力。",
+            "negative_assumption": "如果我寻求他人帮助，会被认为能力不足，也无法证明自己的独立性。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以自己寻找食物，减轻家里的负担。",
+                "others": "父母已经很辛苦，我不能总是依赖他们。",
+                "world": "在饥荒年代，每个人都要学会独立生存。"
+            },
+            "rules": "我要自己去野外找能吃的东西，不向父母要太多食物。",
+            "positive_assumption": "如果我能自己找到食物，就能让父母轻松一些，也证明我能独立。",
+            "negative_assumption": "如果我总是依赖父母找食物，会让他们更累，我也显得很没用。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历的饥荒能让我懂得珍惜和坚强，是我的财富。",
+                "others": "弟弟妹妹们可以从我的经历中学到应对困难的方法。",
+                "world": "经历困难能让人成长，这些经历值得分享。"
+            },
+            "rules": "我要把自己的经历讲给弟弟妹妹听，让他们从中受益。",
+            "positive_assumption": "如果我分享经历，弟弟妹妹能变得更坚强，我的价值也得到体现。",
+            "negative_assumption": "如果我不分享，弟弟妹妹可能会在困难面前不知所措，我的价值也无法展现。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我学会的写字和记账知识是有用的，能帮到大家。",
+                "others": "村里的人需要我这样能识字记账的人。",
+                "world": "掌握知识能在困难时期发挥重要作用。"
+            },
+            "rules": "我要努力学好写字和记账，为村里做事。",
+            "positive_assumption": "如果我学好这些知识，就能得到大家的认可，体现我的价值。",
+            "negative_assumption": "如果我学不好，就无法帮到大家，我的价值也无法体现。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

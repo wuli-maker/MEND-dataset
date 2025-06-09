@@ -1,0 +1,2603 @@
+{
+    "node_152": {
+        "page_content": "2025年2月10日下午1点15分，我一个人回到了自己的房间。坐在床边，我呆呆地看着前方，脑子里乱糟糟的。我开始想，是不是因为我现在身体不好，不能再像以前那样为家里做事了，所以家人才不重视我。我这一生经历了那么多苦难，饥荒、照顾病人，可现在连家人的陪伴都换不来。我心里又无助又绝望，感觉自己真的很没用。",
+        "metadata": {
+            "node_id": "node_152",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我现在身体不好，不能为家里做事，家人肯定嫌弃我，觉得我是个累赘。",
+            "emotion": "强烈的无助和绝望，情绪低落，自我否定感强烈。",
+            "behavior": "可能会继续呆呆地坐着，减少活动，避免与家人交流，以免给家人添麻烦。",
+            "physiological_response": "可能会出现呼吸沉重、叹气，身体肌肉松弛无力，眼神黯淡。",
+            "created_at": "2025-02-10 13:15:00"
+        }
+    },
+    "node_151": {
+        "page_content": "2025年2月10日中午12点30分，在县城老旧小区的家中客厅，我实在憋不住心里的难受，对儿子说出了我的委屈。儿子却只是淡淡地回了我一句，说他们也有自己的事要做。那一刻，我感觉自己就像个外人，不被他们理解。我想起自己一辈子为这个家操劳，从饥荒年代走过来，照顾病人，操持家务，可现在却换来了这样的对待。我的眼泪在眼眶里打转，心里的孤独和抑郁一下子到了极点。",
+        "metadata": {
+            "node_id": "node_151",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "我一辈子为这个家操劳，现在说出委屈却不被理解，子女果然顾不上我，我真的很孤独。",
+            "emotion": "极度孤独和抑郁，悲伤感强烈",
+            "behavior": "可能会沉默不语，独自坐在一旁，不再主动和儿子交流，默默承受这份孤独，符合‘我不能要求子女太多’的中间信念",
+            "physiological_response": "眼泪在眼眶里打转，心跳可能会加快，呼吸可能会变得急促",
+            "created_at": "2025-02-10 12:30:00"
+        }
+    },
+    "node_150": {
+        "page_content": "2025年2月10日上午10点，在县城老旧小区的家中，我满心欢喜地盼着儿子一家回来过年。这几天我一直没闲着，把家里打扫得干干净净，就想着一家人热热闹闹地聚聚。可他们回来后，儿子坐在沙发上玩手机，儿媳在一旁看电视，孙子也自己玩着游戏，谁都没和我说上几句话。我坐在角落里，看着他们，心里空落落的，那种失落感一下子就涌了上来。",
+        "metadata": {
+            "node_id": "node_150",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "子女有自己的事情要忙，顾不上我，我真是太孤独了。",
+            "emotion": "极度失落、孤独，情绪低落，强度较强",
+            "behavior": "继续默默地坐在角落里，不主动和家人交流，避免打扰他们，符合‘我不能要求子女太多’的中间信念",
+            "physiological_response": "叹气，可能会有轻微的胸闷、心跳变缓，眼神黯淡无光",
+            "created_at": "2025-02-10 10:00:00"
+        }
+    },
+    "node_149": {
+        "page_content": "2024年12月15日晚上7点，我一个人坐在县城老旧小区家中的门廊上，外面的天色已经完全暗下来，只有路灯发出昏黄的光。我呆呆地望着前方，脑子里全是自己忘记吃药的画面。我越想越难受，觉得自己就是个累赘，给儿子带来了那么多麻烦。要是因为我忘记吃药，身体出了问题，那可怎么办。我越想越觉得自己的存在就是个错误，心里的痛苦像潮水一样，一波又一波地涌来。",
+        "metadata": {
+            "node_id": "node_149",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我连降压药服用时间都记不住，真是没用，还会给儿子带来麻烦，要是因为我忘记吃药身体出问题就糟了，我就是个累赘。",
+            "emotion": "极度痛苦、自责、抑郁，情绪强度高，性质消极负面。",
+            "behavior": "可能会一直呆坐在门廊上，不愿起身活动，也可能会拒绝儿子之后的关心和照顾，默默承受自己认为的无能，以避免让儿子更看不起自己。",
+            "physiological_response": "可能会心跳加速、呼吸急促，身体肌肉紧张，甚至可能会出现头晕、胸闷等症状。",
+            "created_at": "2024-12-15 19:00:00"
+        }
+    },
+    "node_148": {
+        "page_content": "2024年12月2日下午4点，在县城老旧小区的家中，房间里光线有些暗。儿子看到我又没吃药，脸上露出担忧的神情。我低着头，眼泪在眼眶里打转，声音颤抖着说：“我真是没用，连吃药都记不住。”儿子赶紧安慰我，可我心里还是像被一块大石头压着，难受极了。我觉得自己怎么这么不争气，连这么简单的事都做不好，活着还有什么用呢。",
+        "metadata": {
+            "node_id": "node_148",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我连降压药服用时间都记不住，真是没用，别人都能轻松做好的事，我却做不到，我就是个累赘，这个世界对我这样没用的人很残酷。",
+            "emotion": "极度沮丧、自责，情绪低落且强度较高",
+            "behavior": "低着头，不愿与儿子对视，默默承受自己的无能，避免表现出更多的脆弱，符合‘我要默默承受自己的无能’的中间信念",
+            "physiological_response": "眼泪在眼眶里打转，声音颤抖，心里像被大石头压着，可能还会伴有呼吸不畅、胸口发闷等症状",
+            "created_at": "2024-12-02 16:00:00"
+        }
+    },
+    "node_147": {
+        "page_content": "2024年11月18日下午2点，在县城老旧小区的家中，屋里弥漫着一股陈旧的气息。儿子看到我没吃降压药，轻轻叹了口气。我看着他的样子，心里一阵刺痛，脑袋里乱糟糟的，不停地责怪自己怎么这么没用。想起之前髋骨骨折后身体就一直不好，现在连按时吃药这么简单的事都做不到，我真觉得自己成了儿子的拖累。",
+        "metadata": {
+            "node_id": "node_147",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我连按时吃降压药这么简单的事都做不到，真是没用，还成了儿子的拖累。",
+            "emotion": "极度自责和沮丧，强度较高",
+            "behavior": "可能会沉默不语，低下头，避免与儿子眼神接触，或者开始默默流泪，体现了默默承受自己无能以避免让别人更看不起自己的中间信念",
+            "physiological_response": "可能会心跳加快，呼吸变得急促，还可能会感到胸口发闷，脑袋发晕",
+            "created_at": "2024-11-18 14:00:00"
+        }
+    },
+    "node_146": {
+        "page_content": "2024年6月10日下午3点，在县城老旧小区的家中。我坐在椅子上，一动也不敢动。自从上次差点摔倒后，我就害怕自己再受伤。我望着窗外，街上的行人来来往往，可我却只能被困在这小小的房间里。我越想越觉得自己以后的日子没了盼头，行动不方便，什么事都做不了，还得让家人照顾我，我就是个累赘。想着想着，我的心情越来越沉重，眼泪在眼眶里打转。",
+        "metadata": {
+            "node_id": "node_146",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我现在行动不方便，什么事都做不了，还得让家人照顾我，真是个累赘，别人肯定会嫌弃我现在的状态。",
+            "emotion": "心情沉重、沮丧、自责，强度较强",
+            "behavior": "坐在椅子上一动不动，继续望着窗外发呆，避免做出可能给家人添麻烦的举动，符合‘我尽量少给别人添麻烦’的中间信念。",
+            "physiological_response": "眼泪在眼眶里打转，可能伴有呼吸变缓、身体微微蜷缩等表现。",
+            "created_at": "2024-06-10 15:00:00"
+        }
+    },
+    "node_145": {
+        "page_content": "2024年5月20日中午12点02分，在县城老旧小区的家中。我刚站起来，双脚还没站稳，身体就开始摇晃起来。我心里“咯噔”一下，还没反应过来，就感觉自己要摔倒了。我本能地伸手去抓旁边的桌子，手碰到桌子上的杂物，发出一阵声响。我死死地抓住桌子边缘，心脏怦怦直跳。脑海里不断闪现出之前摔倒在丈夫坟前，髋骨骨折的场景，眼泪都快出来了，我觉得自己真是太没用了。",
+        "metadata": {
+            "node_id": "node_145",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我现在身体这么差，连站都站不稳，肯定又会给别人添麻烦，别人会更嫌弃我。",
+            "emotion": "极度沮丧和自责，情绪强度很高",
+            "behavior": "可能会更加小心翼翼地慢慢坐下，之后减少不必要的站立和走动，避免再次出现类似情况给别人带来麻烦，符合中间信念中‘我尽量少给别人添麻烦’的规则。",
+            "physiological_response": "心跳加速，呼吸急促，身体颤抖，眼泪在眼眶中打转",
+            "created_at": "2024-05-20 12:02:00"
+        }
+    },
+    "node_144": {
+        "page_content": "2024年5月20日中午12点，在县城老旧小区的家中，房间里静悄悄的。我坐在椅子上，喉咙干得冒烟。儿子不在家，我不想因为这点小事就麻烦他。我咬了咬牙，心里想着自己虽然髋骨骨折了，但倒杯水这点事应该还能做。我深吸一口气，双手撑着椅子扶手，慢慢地站了起来，腿还有点发软，心里既有点不服输，又隐隐有些害怕。",
+        "metadata": {
+            "node_id": "node_144",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我不能因为这点小事就麻烦儿子，不然他会嫌弃我的，我自己能倒水。",
+            "emotion": "既不服输又害怕，情绪较为复杂且有一定强度",
+            "behavior": "双手撑着椅子扶手慢慢站起来，尝试自己去倒水，体现了尽量少给别人添麻烦的信念",
+            "physiological_response": "腿发软，喉咙干，身体可能因为紧张而微微颤抖",
+            "created_at": "2024-05-20 12:00:00"
+        }
+    },
+    "node_143": {
+        "page_content": "2024年4月7日下午2点20分，在医院病房里，阳光有些刺眼。康复师拿着助行器走进来，笑着对我说要教我使用。可我看着那助行器，心里就觉得别扭，我觉得自己用这个东西会很难看，好像自己真的成了一个没用的人。康复师走近我，想要扶我起来，我一下子就火了，顺手拿起旁边的扫帚就把他赶走了。康复师走后，病房里一下子安静下来，我坐在病床上，心里开始后悔。我知道康复师是为我好，可我就是拉不下这个脸。我越想越难受，觉得自己怎么这么任性，说不定伤害了人家的心。",
+        "metadata": {
+            "node_id": "node_143",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "用助行器会让我显得很没用，像个累赘，别人会嫌弃我现在用助行器的状态。",
+            "emotion": "后悔且自责，强度较强，性质为负面情绪。",
+            "behavior": "坐在病床上发呆，陷入自我反思，这与中间信念中‘我尽量少给别人添麻烦’一致，赶走康复师是不想表现出自己需要帮助的状态以免被嫌弃，而现在后悔也是担心自己的行为给康复师带来了麻烦。",
+            "physiological_response": "叹气，可能伴有轻微的手抖，身体微微蜷缩。",
+            "created_at": "2024-04-07 14:20:00"
+        }
+    },
+    "node_142": {
+        "page_content": "2024年4月5日10点45分，在医院里，消毒水的味道刺鼻。我躺在病床上，看着儿子忙前忙后地为我办理住院手续，心里说不出的难受。回想起自己摔倒后在地上挣扎的样子，我就觉得自己太不争气了。儿子跑前跑后，累得满头大汗，我却只能躺在这儿，什么忙都帮不上。我越想越愧疚，觉得自己就是儿子的负担，拖累了他。",
+        "metadata": {
+            "node_id": "node_142",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我现在身体不好，什么忙都帮不上儿子，还让他这么累，真是个累赘，儿子肯定会嫌弃我。",
+            "emotion": "强烈的愧疚和自责",
+            "behavior": "可能会不断地对儿子说抱歉，让儿子别忙了，自己能行；或者沉默不语，避免和儿子有过多交流，尽量少给儿子添麻烦。",
+            "physiological_response": "可能会心跳加快，呼吸变得沉重，面色发红，眼睛湿润。",
+            "created_at": "2024-04-05 10:45:00"
+        }
+    },
+    "node_141": {
+        "page_content": "2024年4月5日早上9点30分，在丈夫坟前，周围杂草丛生。我穿着整洁的衣服，带着老伴爱吃的点心，一步一步艰难地走到坟前。看到那熟悉的墓碑，过去和老伴的点点滴滴一下子涌上心头，我再也控制不住自己的情绪，泪水在眼眶里打转。突然，我的腿一软，整个人就摔倒在地上，膝盖和手掌擦破了皮，钻心的疼痛让我忍不住叫出声来。我心里又急又气，觉得自己真是太没用了，连这么简单的事都做不好。",
+        "metadata": {
+            "node_id": "node_141",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我连到丈夫坟前祭拜这么简单的事都做不好，真是个累赘，还可能会给别人添麻烦。",
+            "emotion": "极度沮丧、自责，情绪强度高，性质消极。",
+            "behavior": "可能会强忍着疼痛自己慢慢爬起来，尽量不发出声音，不想引起别人注意，避免给他人带来麻烦，符合‘我尽量少给别人添麻烦’的中间信念。",
+            "physiological_response": "心跳加速，呼吸急促，因疼痛和情绪激动而身体微微颤抖。",
+            "created_at": "2024-04-05 09:30:00"
+        }
+    },
+    "node_140": {
+        "page_content": "2023年8月18日下午14点10分，在县城老旧小区家中，屋里很安静。我扶着墙慢慢走，没走几步，髋骨就疼得钻心。我停下来，靠在墙上，心里特别难受。想起赶走康复师的事，我真是后悔极了，可又拉不下脸再去请人家。我忍不住埋怨自己：“怎么这么倔呢，现在可怎么办。”",
+        "metadata": {
+            "node_id": "node_140",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_5",
+            "intermediate_belief_id": "intermediate_belief_9",
+            "auto_thought": "我髋骨骨折后行动不便，这么脆弱，赶走了康复师，以后更难恢复了，我该怎么保护自己啊。",
+            "emotion": "极度焦虑和自责，焦虑感强烈，自责情绪也很深。",
+            "behavior": "继续靠在墙上，不敢再挪动脚步，害怕再次引发疼痛，同时可能会陷入沉思，一直纠结赶走康复师这件事。",
+            "physiological_response": "心跳加速，呼吸变得急促，额头可能会冒出冷汗，疼痛可能会导致身体微微颤抖。",
+            "created_at": "2023-08-18 14:10:00"
+        }
+    },
+    "node_139": {
+        "page_content": "2023年8月15日晚上18点30分，在县城老旧小区家中，灯光有些昏暗。我坐在椅子上，气呼呼的。儿子下班回来，了解情况后劝我：“妈，您就接受康复师的帮助吧。”我一听就火了，觉得他也不理解我，好像我真成了没用的人。我大声说：“我自己能行，不用你们管。”心里委屈极了。",
+        "metadata": {
+            "node_id": "node_139",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "接受康复师的帮助就是给别人添麻烦，别人会更嫌弃我，我不想成为累赘。",
+            "emotion": "愤怒且委屈，愤怒情绪强烈，委屈情绪也较为明显",
+            "behavior": "大声说“我自己能行，不用你们管”，以强硬的态度拒绝儿子的建议，这与“我尽量少给别人添麻烦”的中间信念一致，通过拒绝康复师的帮助来避免给别人添麻烦",
+            "physiological_response": "脸红、心跳加速、呼吸急促",
+            "created_at": "2023-08-15 18:30:00"
+        }
+    },
+    "node_138": {
+        "page_content": "2023年8月15日上午10点，在县城老旧小区家中，屋里布置简单朴素。康复师来到我家，拿着助行器跟我说：“大妈，您用这个助行器能走得更稳。”我一听就来气了，心里想着我一生经历了饥荒、照顾病人那么多难关都挺过来了，哪能这么快就靠这东西走路。我瞪着康复师，坚决不肯用。",
+        "metadata": {
+            "node_id": "node_138",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_11",
+            "auto_thought": "我一生经历了饥荒、照顾病人那么多难关都挺过来了，不能这么快就靠助行器走路，我得保持积极心态自己克服这个困难。",
+            "emotion": "愤怒，情绪较为强烈",
+            "behavior": "瞪着康复师，坚决不肯用助行器，这种行为体现了其认为自己坚韧，要积极面对困难，不依赖外界工具的信念。",
+            "physiological_response": "脸红，呼吸急促，心跳加快",
+            "created_at": "2023-08-15 10:00:00"
+        }
+    },
+    "node_137": {
+        "page_content": "2022年10月18日下午2点，我坐在县城老旧小区家中的门廊上，门廊有些破旧，旁边的花也都枯了。那瓶“钙片”就放在我能看到的地方，每次看到它，我就想起儿子的好，可又忍不住怪自己太没用。我坐在那里，看着路上一辆辆车子过去，心里空落落的，孤独感一下子就把我包围了。我既享受着家人的爱，又觉得自己不配，心里难受极了。",
+        "metadata": {
+            "node_id": "node_137",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "儿子这么用心照顾我，可我连降压药服用时间都记不住，真是个没用的累赘，还拖累家人。",
+            "emotion": "极度自责、痛苦且孤独感强烈，情绪低落，有轻度抑郁的悲伤感",
+            "behavior": "可能会默默低下头，眼神黯淡，身体蜷缩，减少动作，避免引起他人注意，继续独自坐在门廊发呆",
+            "physiological_response": "叹气增多，心跳可能会减缓，呼吸变浅，可能会有轻微的颤抖，面色可能变得更加憔悴",
+            "created_at": "2022-10-18 14:00:00"
+        }
+    },
+    "node_136": {
+        "page_content": "2022年10月15日上午10点30分，儿子走后，我坐在县城老旧小区家中的椅子上，手里紧紧握着那瓶“钙片”。儿子的笑容和那句“吃了对身体好”一直在我脑海里回荡。阳光照在我身上，我望着窗外，心里既觉得自己没用，又被这家人的关爱暖到了，心里乱糟糟的。",
+        "metadata": {
+            "node_id": "node_136",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我身体不好，还得让儿子哄着吃药，真是个累赘，我可不能再给儿子添麻烦了。",
+            "emotion": "内疚且自责，强度为中度",
+            "behavior": "紧紧握着“钙片”，可能会把它小心放好，之后默默承受身体不适也尽量不向儿子提及，避免给他添麻烦。",
+            "physiological_response": "可能会叹气，肩膀微微下垂，神情略显沮丧。",
+            "created_at": "2022-10-15 10:30:00"
+        }
+    },
+    "node_135": {
+        "page_content": "2022年10月15日上午10点，在县城老旧小区家中，屋里有些安静。儿子走进来，脸上带着笑，手里拿着一个钙片瓶。他走到我跟前，轻声说：“妈，这是钙片，吃了对身体好。”我看着他，心里明白他是把降压药装在里面哄我。那一刻，我心里一阵酸涩，觉得自己真的太没用了，连按时吃药这么简单的事都做不好。",
+        "metadata": {
+            "node_id": "node_135",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我连按时吃降压药这么简单的事都做不好，还得让儿子哄着我吃，我真是太没用了。",
+            "emotion": "酸涩、自责，情绪强度较强，属于负面消极情感。",
+            "behavior": "可能默默接过钙片瓶，低着头不说话，默默承受自己的无能，避免表现出自己的无力而让儿子更看不起自己，这与中间信念中‘我要默默承受自己的无能’相一致。",
+            "physiological_response": "可能会出现叹气、眼神黯淡、肩膀微微下垂等表现。",
+            "created_at": "2022-10-15 10:00:00"
+        }
+    },
+    "node_134": {
+        "page_content": "2021年10月15日晚上7点，在县城老旧小区屋内，客厅的灯光昏黄，沙发上还堆着一些没收拾的衣物。儿子一回来就坐在沙发上玩手机，我本想跟他说说白天的遭遇，可他只是敷衍地问了句‘今天怎么样’，眼睛都没从手机上抬一下。我张了张嘴，话到嘴边又说不出来了。看着他专注的样子，我心里一阵失落，觉得自己还是孤零零的，没人在乎我。",
+        "metadata": {
+            "node_id": "node_134",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "子女有自己的事情要忙，顾不上我，我要是跟他说白天的遭遇，他会觉得我很麻烦。",
+            "emotion": "失落、孤独，强度较强",
+            "behavior": "把到嘴边的话咽回去，不再尝试和儿子交流，可能会默默回到自己房间。这与中间信念中‘不能要求子女太多，否则他们会觉得我很麻烦’相一致。",
+            "physiological_response": "叹气，可能会有轻微的胸闷，肩膀不自觉地下垂。",
+            "created_at": "2021-10-15 19:00:00"
+        }
+    },
+    "node_133": {
+        "page_content": "2021年10月15日下午2点半，在县城老旧小区屋内，屋里的家具都旧旧的，床边还放着我平时吃的药。我在门廊坐得口渴了，想回屋倒水。起身时，腿一软，差点就摔在地上，吓得我心脏都快跳出来了。我用手紧紧撑着墙，一点一点地往屋里挪，每挪动一步都觉得自己的身体糟透了。坐到床边，我心里又自责又难受，觉得自己真是个没用的累赘。",
+        "metadata": {
+            "node_id": "node_133",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我连起身倒水这么简单的事都做不好，真是个累赘，别人肯定会嫌弃我。",
+            "emotion": "强烈的自责和难受，感到极度沮丧和自卑",
+            "behavior": "可能会减少日常活动，尽量避免自己做事，以免再出现类似情况给别人添麻烦；也可能会更加沉默寡言，独自待着。",
+            "physiological_response": "心跳加速、呼吸急促，可能还会伴有手抖、出冷汗等症状。",
+            "created_at": "2021-10-15 14:30:00"
+        }
+    },
+    "node_132": {
+        "page_content": "2021年10月15日下午2点，在县城老旧小区那有些破旧的门廊里，门廊旁几个旧花盆里的花早已没了生机。我坐在椅子上，看着马路上的车一辆接一辆地过去，思绪飘回了年轻时，那时候我每天忙忙碌碌，家里家外都是我在操持。可自从髋骨骨折后，我行动不便，儿子又忙，根本没时间陪我。我就这么一个人坐着，心里空落落的，感觉自己被这个世界抛弃了。",
+        "metadata": {
+            "node_id": "node_132",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "子女有自己的事情要忙，顾不上我，我只能自己度过这孤独的时光，不能要求子女太多。",
+            "emotion": "孤独、失落且沮丧，强度为中度，性质消极。",
+            "behavior": "继续静静地坐在椅子上，不主动联系子女，默默承受这份孤独，符合‘我只能自己度过孤独的时光’和‘我不能要求子女太多’的中间信念。",
+            "physiological_response": "叹气，眼神黯淡，身体微微蜷缩。",
+            "created_at": "2021-10-15 14:00:00"
+        }
+    },
+    "node_131": {
+        "page_content": "2020年6月15日晚上7点半，在县城老旧小区家中昏暗的客厅里，儿子坐在我旁边的旧沙发上。他看到我发呆的样子，关切地问我怎么了。我张了张嘴，却没说出织袜子失败的事，只是摇了摇头。然后他拿出装着降压药的钙片瓶，笑着哄我吃。我接过药，心里却觉得特别难受，觉得自己连吃药都要别人操心，真是太没用了。我默默地把药吃了下去，眼泪在眼眶里打转。",
+        "metadata": {
+            "node_id": "node_131",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我连吃药都要别人操心，真是太没用了，别人都能轻松做好的事，我却做不到，这个世界对我这样没用的人很残酷。",
+            "emotion": "极度沮丧、自我否定，强度较强",
+            "behavior": "默默地把药吃了下去，没有说话，体现了默默承受自己无能，不想让别人更看不起自己的行为，与中间信念中‘我要默默承受自己的无能’相一致。",
+            "physiological_response": "眼泪在眼眶里打转",
+            "created_at": "2020-06-15 19:30:00"
+        }
+    },
+    "node_130": {
+        "page_content": "2020年6月15日下午5点，在县城老旧小区家中的门廊，我坐在那把旧椅子上，呆呆地望着街道。回想着自己辛苦的一生，曾经那么坚强，可现在却被这点小事难住了。路上的车辆一辆辆驶过，我却感觉和这个世界越来越远。我觉得自己就是个没用的人，别人都不会愿意理我，孤独和无助包围着我。",
+        "metadata": {
+            "node_id": "node_130",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我现在身体不好，什么事都做不好，是个累赘，别人会嫌弃我现在的状态，我得尽量少给别人添麻烦。",
+            "emotion": "极度沮丧、孤独和无助，情绪低落感强烈",
+            "behavior": "继续呆呆地坐在椅子上，一动不动，避免主动与他人交流，以免给别人带来麻烦。",
+            "physiological_response": "叹气，眼神黯淡，身体微微蜷缩，心跳可能减缓，呼吸变得微弱而缓慢。",
+            "created_at": "2020-06-15 17:00:00"
+        }
+    },
+    "node_129": {
+        "page_content": "2020年6月15日下午2点半，在县城老旧小区的家中，我坐在窗边的椅子上，看着墙上全家福里可爱的曾孙，心里想着要给他织双毛线袜。我从角落里翻出毛线和针，刚坐下准备开始，手就不受控制地抖起来。毛线在我颤抖的手中缠成一团，我越想把它解开，就缠得越紧。我急得眼泪都快出来了，觉得自己连这点小事都做不好，真是太没用了。",
+        "metadata": {
+            "node_id": "node_129",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我连给曾孙织双毛线袜这么简单的事都做不好，真是太没用了，别人都能轻松做好的事，我却做不到。",
+            "emotion": "沮丧、自责，情绪强度较强",
+            "behavior": "可能会停止解毛线，把毛线和针扔到一边，默默坐在椅子上，不再尝试继续织袜子，体现了默默承受自己无能的中间信念。",
+            "physiological_response": "眼泪在眼眶里打转，可能还会伴有呼吸急促、心跳加快的现象。",
+            "created_at": "2020-06-15 14:30:00"
+        }
+    },
+    "node_128": {
+        "page_content": "2012年3月10日晚上6点20分，在县城老旧小区家中，房间里灯光昏暗。我坐在椅子上，旁边放着给曾孙织好的毛线袜。儿子回来后，我兴奋地把袜子拿给他看，满心期待他能夸我几句。可儿子只是看了一眼，随口说了句：“妈，您别太累着自己了。”就转身去忙别的了。我的心一下子凉了半截，坐在椅子上，眼泪在眼眶里打转。我觉得自己虽然老了，但还能为家人做点事，可家人似乎并不在意我的付出，我是不是真的没用了。",
+        "metadata": {
+            "node_id": "node_128",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我辛辛苦苦给曾孙织了毛线袜，儿子却不重视，我连这点事都做不好，真是没用。",
+            "emotion": "失落、沮丧，情绪强度较强",
+            "behavior": "坐在椅子上发呆，可能会把袜子收起来，之后可能减少为家人做事情的频率，默默承受自己的“无能”，避免再次被忽视。",
+            "physiological_response": "眼泪在眼眶里打转，可能会伴有轻微的哽咽，心跳可能会稍有加快。",
+            "created_at": "2012-03-10 18:20:00"
+        }
+    },
+    "node_127": {
+        "page_content": "2012年2月20日下午3点45分，我在县城老旧小区楼下，看着周围陌生的环境，鼓起勇气想和新邻居打个招呼。我看到一位邻居走过来，笑着说：“您好啊，住这儿挺久了吧。”邻居只是礼貌性地回了句：“嗯，还可以。”然后就匆匆走了。我站在原地，心里一阵失落。回到家，我坐在门廊上，门廊上摆放着一些我从老家带来的旧物件。我望着路上来来往往的车辆，觉得自己和这个世界格格不入，心里空落落的。",
+        "metadata": {
+            "node_id": "node_127",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "别人都有自己的生活，不会在意我，我总是这么孤独，这个世界很热闹，但不属于我。",
+            "emotion": "孤独、失落且沮丧，情绪强度较强",
+            "behavior": "坐在门廊上，望着路上的车辆发呆，减少与外界主动交流的行为，符合只能自己度过孤独时光，不打扰别人的中间信念。",
+            "physiological_response": "叹气，可能伴有轻微的呼吸沉重，身体微微蜷缩。",
+            "created_at": "2012-02-20 15:45:00"
+        }
+    },
+    "node_126": {
+        "page_content": "2012年1月15日上午10点半，在县城老旧小区的家中，儿子拉着我的手，兴奋地跟我说：“妈，我在县城给您买了套房子，您跟我去县城住，那儿生活方便，您就在那好好享福，别操心那么多。”我看着儿子期待的眼神，心里虽然有些不安，但还是点了点头。到了新家，房间里都是新的家具和装饰，可我却觉得格外陌生。我走到阳台上，看着那缠着从老家带来的晒菜干麻绳，眼泪忍不住流了下来。这里没有老家熟悉的邻居和田园风光，我真的很不习惯。",
+        "metadata": {
+            "node_id": "node_126",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "这里没有熟悉的一切，我只能自己面对这份孤独，别人都有自己的生活不会在意我。",
+            "emotion": "强烈的孤独感和失落感",
+            "behavior": "可能会静静地坐在阳台上，望着远方发呆，继续沉浸在对老家的回忆中，不主动与外界交流，符合‘只能自己度过孤独时光’的中间信念。",
+            "physiological_response": "流泪，叹气，身体可能会微微颤抖，肌肉处于紧张状态。",
+            "created_at": "2012-01-15 10:30:00"
+        }
+    },
+    "node_125": {
+        "page_content": "2024年4月5日上午10点15分，在丈夫的坟前，周围一片寂静，只有微风轻轻吹动着坟上的青草。我跪在坟前，回忆着和老伴一起度过的那些岁月，泪水忍不住流了下来。情绪太过激动，起身的时候，我一个踉跄，不小心摔倒在地。那一刻，我感到髋骨一阵剧痛，整个人都动弹不得。我心里充满了自责和沮丧，觉得自己真是太没用了，连给老伴上坟这么简单的事都做不好。",
+        "metadata": {
+            "node_id": "node_125",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我现在身体这么差，连给老伴上坟这么简单的事都做不好，真是个累赘，别人肯定会更嫌弃我。",
+            "emotion": "极度自责、沮丧和无助，强度非常高",
+            "behavior": "躺在地上不敢乱动，害怕再次受伤，也不敢大声呼救，怕给别人添麻烦",
+            "physiological_response": "心跳加速，呼吸急促，冷汗直冒，髋骨疼痛难忍",
+            "created_at": "2024-04-05 10:15:00"
+        }
+    },
+    "node_124": {
+        "page_content": "2010年5月15日下午2点半，在县城老旧小区家中那破旧的门廊上，我坐在那里，看着外面陌生的街道和来来往往的陌生人。自从儿子把我接到这里，我就一直觉得不适应。周围的一切都是那么陌生，邻居们的欢声笑语对我来说是那么遥远。我一个人默默地数着路过的车辆，心里空荡荡的，感觉自己与这个世界格格不入，孤独感像潮水一样将我淹没。",
+        "metadata": {
+            "node_id": "node_124",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "别人都有自己的生活，不会在意我，我只能自己度过这孤独的时光。",
+            "emotion": "强烈的孤独和失落，感到被世界遗忘",
+            "behavior": "继续默默地数路过的车辆，不主动与他人交流，避免打扰别人",
+            "physiological_response": "叹气，眼神黯淡，身体可能会微微蜷缩",
+            "created_at": "2010-05-15 14:30:00"
+        }
+    },
+    "node_123": {
+        "page_content": "2002年12月31日晚上快到零点的时候，在皖北农村家中那昏暗的屋子里，我守在病榻前，看着老伴日渐消瘦的面容，心里满是担忧和祈祷。我一勺一勺地喂他吃饭，用温热的毛巾轻轻擦拭他的身体，就盼着他能好起来。可命运还是没有眷顾我们，老伴的呼吸渐渐微弱，最终停止了。我坐在床边，紧紧握着他冰凉的手，眼泪止不住地流。那一刻，我觉得整个世界都崩塌了，生活没了依靠，只剩下无尽的孤独和无助。",
+        "metadata": {
+            "node_id": "node_123",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "recent_events",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "老伴走了，以后我只能自己度过孤独的时光了，别人都有自己的生活，不会在意我。",
+            "emotion": "极度悲伤、绝望、孤独，强度非常高，性质为负面消极。",
+            "behavior": "坐在床边，紧紧握着老伴冰凉的手，长时间发呆，不与外界交流，默默承受这份孤独。这与中间信念中‘我只能自己度过孤独的时光’相一致。",
+            "physiological_response": "眼泪止不住地流，呼吸急促，身体颤抖，面色苍白。",
+            "created_at": "2002-12-31 23:59:00"
+        }
+    },
+    "node_122": {
+        "page_content": "2002年3月18日上午10点，皖北农村家中弥漫着悲伤的气氛。我坐在床边，看着空荡荡的病床，婆婆的音容笑貌不断在我脑海中浮现，泪水不由自主地流了下来。这几天，我一直沉浸在悲痛之中，仿佛失去了灵魂。家人陆续赶来帮忙处理后事，他们围在我身边，纷纷对我多年照顾婆婆的付出表示感激和敬佩。“这么多年，多亏了你照顾妈，你真是辛苦了。”大哥拍了拍我的肩膀说。我听着他们的话，心里有一丝欣慰，但更多的是迷茫。这么多年来，我一直围绕着婆婆转，几乎没有自己的生活。现在婆婆走了，我不知道该如何重新融入这个社会，也不知道自己接下来该做些什么。我望着窗外，心里充满了焦虑和不安。",
+        "metadata": {
+            "node_id": "node_122",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_3",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "这么多年我一直守着婆婆，没有自己的社交生活，现在婆婆走了，我更孤独了，也不知道该怎么重新融入社会。",
+            "emotion": "极度孤独、迷茫且焦虑，孤独感和迷茫感强烈，焦虑情绪也较为明显",
+            "behavior": "可能会继续呆呆地望着窗外，不怎么和家人交流，沉浸在自己的思绪里，因为长期默默忍受孤独，习惯了将自己封闭起来，不知道如何面对新的社交和生活",
+            "physiological_response": "可能会出现心跳加快、呼吸变浅、肌肉紧张等表现，身体处于一种应激状态",
+            "created_at": "2002-03-18 10:00:00"
+        }
+    },
+    "node_121": {
+        "page_content": "2002年3月15日下午3点，在皖北农村家中安静的屋子里，阳光透过窗户洒在婆婆的病床上。从上午开始，我就一直守在婆婆身边，轻声安慰着她。婆婆的意识时而清醒时而模糊，偶尔睁开眼睛看我一眼，那眼神里满是感激和不舍。时间一分一秒地过去，我的心也揪得紧紧的。突然，婆婆的呼吸渐渐平稳下来，脸上露出了安详的神情，然后缓缓闭上了眼睛。我感觉到她的手在我手中渐渐失去了温度，那一刻，我的心仿佛被撕裂了一般。我紧紧抱住婆婆，泪水夺眶而出。这么多年的照顾终于结束了，我心里既有一种如释重负的解脱感，又充满了对婆婆深深的不舍。我在心里对自己说，这么多年的坚持是有意义的，我是坚韧的，能够在如此艰难的情况下照顾婆婆十二年。",
+        "metadata": {
+            "node_id": "node_121",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_2",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_11",
+            "auto_thought": "我这么多年的坚持是有意义的，我很坚韧，成功照顾了婆婆十二年。",
+            "emotion": "既有如释重负的轻松感，强度较强，又有对婆婆离世的悲痛和不舍，强度也较强。",
+            "behavior": "紧紧抱住婆婆，泪水夺眶而出，可能之后会整理婆婆的遗物，回忆和婆婆相处的点点滴滴，这些行为体现了对婆婆的不舍以及对自己多年坚持照顾的一种情感释放，与认为自己坚韧且坚持照顾婆婆有意义的信念相一致。",
+            "physiological_response": "心跳可能会逐渐从紧张状态恢复平稳，但仍会伴有抽泣、呼吸不规律等表现。",
+            "created_at": "2002-03-15 15:00:00"
+        }
+    },
+    "node_120": {
+        "page_content": "2002年3月15日上午10点，在皖北农村家中那昏暗的屋子里，我像往常一样守在婆婆病榻前。突然，婆婆的呼吸变得微弱而急促，我心里“咯噔”一下，紧紧握住她的手，手心里全是汗。这么多年，我早已习惯了婆婆在身边，照顾她虽然辛苦，但这就是我的生活。不一会儿，村医匆匆赶来，他看了看婆婆的情况，无奈地摇了摇头，轻声说：‘你做好心理准备吧。’我看着婆婆痛苦的模样，泪水在眼眶里打转，喉咙像被什么堵住了一样。那些年照顾婆婆的点点滴滴，像电影一样在我脑海中闪过，每一个画面都充满了艰辛和疲惫，但此刻，我只觉得对婆婆充满了深深的眷恋。",
+        "metadata": {
+            "node_id": "node_120",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_1",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "这么多年我一直努力照顾婆婆，要是没照顾好让她现在这样，家人一定会失望的。",
+            "emotion": "极度自责和悲伤，自责情绪强烈且沉重，悲伤情绪浓郁而深沉",
+            "behavior": "紧紧握着婆婆的手，不愿松开，希望能给她力量，同时不断地跟婆婆说话，表达自己的不舍和愧疚",
+            "physiological_response": "泪水夺眶而出，身体微微颤抖，心跳加速，呼吸变得急促且沉重",
+            "created_at": "2002-03-15 10:00:00"
+        }
+    },
+    "node_119": {
+        "page_content": "1998年7月18日下午4点，在皖北农村村口，周围有人在聊天。我遇到了村医，他问我张大爷的情况，我就把照顾张大爷的事说了。村医夸我善良有爱心，还说我照顾婆婆这么多年不容易，让我注意身体。听了他的话，我心里特别温暖，觉得自己的付出被认可了。我笑着跟村医说我会坚持照顾好婆婆。",
+        "metadata": {
+            "node_id": "node_119",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_3",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "村医夸我善良有爱心，还认可我照顾婆婆多年的付出，说明我的坚持是有意义的，我的价值被看到了。",
+            "emotion": "温暖且欣慰，强度较高，属于积极正向的情感。",
+            "behavior": "笑着跟村医说会坚持照顾好婆婆，这种行为与中间信念中‘我要坚持照顾婆婆，不放弃’以及‘如果我坚持下去，我的价值会被更多人看到’相契合，表明在得到认可后更坚定了坚持照顾婆婆的决心。",
+            "physiological_response": "面色红润，嘴角上扬，身体放松。",
+            "created_at": "1998-07-18 16:00:00"
+        }
+    },
+    "node_118": {
+        "page_content": "1998年7月15日中午11点半，在皖北农村王兰家，屋里很安静。我照顾完张大爷回来，坐在婆婆床边，脑海里都是张大爷孤独的模样。我看着婆婆，突然觉得自己一直抱怨太不应该了，家人偶尔的关心也是很温暖的。我轻轻地给婆婆擦拭身体，整理好床铺，轻声和她说话，告诉自己要乐观。",
+        "metadata": {
+            "node_id": "node_118",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_2",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "张大爷那么孤独，而我有家人偶尔的关心，我是被关爱的，我不该一直抱怨。",
+            "emotion": "感到温暖、欣慰，情绪强度中等，性质为积极情感。",
+            "behavior": "轻轻地给婆婆擦拭身体，整理好床铺，轻声和她说话，告诉自己要乐观，这些行为体现了珍惜家人的关心，以积极的态度继续照顾婆婆，与中间信念中‘我要珍惜家人的每一次关心’以及‘我要继续好好照顾婆婆，让家人安心’相一致。",
+            "physiological_response": "身体放松，呼吸平稳，面部表情舒缓。",
+            "created_at": "1998-07-15 11:30:00"
+        }
+    },
+    "node_117": {
+        "page_content": "1998年7月15日上午9点，在皖北农村张大爷家，屋里又暗又脏，气味难闻。村里的人跑来告诉我张大爷的情况后，我心急如焚，放下正给婆婆准备的饭菜就赶来了。看到张大爷虚弱的样子，我的心揪起来了。我赶紧开始收拾屋子、洗碗筷，一边忙一边想，自己虽然照顾婆婆累，但还有家人偶尔的关心，比张大爷好多了。煮好热粥喂他的时候，我觉得自己其实挺幸运的。",
+        "metadata": {
+            "node_id": "node_117",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_1",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "张大爷没人照顾这么可怜，我虽然照顾婆婆累，但还有家人偶尔的关心，我是被关爱的，其实挺幸运的。",
+            "emotion": "庆幸且心怀感激，庆幸自己的处境相对较好，感激家人的关心，这种情感强度适中。",
+            "behavior": "更加用心地照顾张大爷，煮热粥喂他，收拾屋子等，这与珍惜他人的困难处境并感恩自己被关爱，进而更愿意付出的信念相一致。",
+            "physiological_response": "心情放松，原本揪起来的心舒缓了，呼吸也变得平稳。",
+            "created_at": "1998-07-15 09:00:00"
+        }
+    },
+    "node_116": {
+        "page_content": "1996年3月15日下午2点半，在皖北农村的家中，床边的窗户透进几缕微弱的阳光。换好床单后，我坐在床边，呆呆地看着婆婆，眼神中满是愧疚和无奈。我心里不断反思自己的过错，这么多年为了照顾婆婆，我几乎放弃了所有个人生活，可还是没把事情做好。我担心家人会失望，村里的人会看不起我。接下来的几个小时，我一直沉浸在这种负面情绪中，做什么都心不在焉。",
+        "metadata": {
+            "node_id": "node_116",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_3",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我连照顾婆婆这么简单的事都觉得累，还没把事情做好，别人肯定会觉得我很没用。",
+            "emotion": "愧疚、无奈且焦虑，强度较强",
+            "behavior": "一直沉浸在负面情绪中，做什么都心不在焉，这与中间信念中害怕表现出力不从心被人看不起，进而陷入自我否定的状态相符",
+            "physiological_response": "可能会出现叹气、眼神呆滞、身体乏力等表现",
+            "created_at": "1996-03-15 14:30:00"
+        }
+    },
+    "node_115": {
+        "page_content": "1996年3月15日下午2点，在皖北农村的家中，屋内光线昏暗。我睡了大约半小时，被一股湿意惊醒。迷迷糊糊睁开眼，看到婆婆尿湿了床单，大脑瞬间一片空白。强烈的自责感涌上心头，我看着湿漉漉的床单和难受的婆婆，手忙脚乱地开始换床单，嘴里不停地念叨着‘对不起，是我不好’。",
+        "metadata": {
+            "node_id": "node_115",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_2",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我连照顾婆婆睡一会儿觉都会出问题，真是没用，别人照顾家人肯定不会这样，要是被人知道了，会更看不起我。",
+            "emotion": "强烈的自责和羞愧，程度很深，性质为负面消极情感。",
+            "behavior": "手忙脚乱地换床单，嘴里不停地念叨着‘对不起，是我不好’，这与中间信念中‘要更加努力地照顾婆婆，不能让人看出无能’相一致，想用尽快换好床单的行动来弥补自己的过错，不让别人觉得自己没用。",
+            "physiological_response": "心跳加速，额头冒汗，可能还会有手抖的现象。",
+            "created_at": "1996-03-15 14:00:00"
+        }
+    },
+    "node_114": {
+        "page_content": "1996年3月15日中午，在皖北农村的家中，屋内弥漫着淡淡的药味。我像往常一样，一大早就开始照顾瘫痪在床的婆婆。给她洗漱、喂饭，每一个动作都小心翼翼。之后又不停地为她翻身、擦拭身体，累得我腰酸背痛。午后，婆婆格外烦躁，不停地折腾，我只能轻声安抚。忙了一上午，我实在是撑不住了，坐在椅子上不知不觉就睡着了。",
+        "metadata": {
+            "node_id": "node_114",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_1",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我连照顾婆婆这么简单的事都觉得累，还睡着了，真是没用，别人肯定会更看不起我。",
+            "emotion": "极度自责，情绪低落",
+            "behavior": "醒来后立刻起身查看婆婆情况，更加用心地照顾婆婆，试图弥补刚刚睡着的过错，后续更加努力地坚持照顾婆婆，不表现出自己的疲惫。",
+            "physiological_response": "可能会心跳加速，满脸通红，身体微微颤抖。",
+            "created_at": "1996-03-15 13:30:00"
+        }
+    },
+    "node_113": {
+        "page_content": "1994年1月31日晚上8点，在皖北农村的家中，吃完年夜饭，一家人坐在沙发上聊天。儿子说等有空了会帮我照顾婆婆，让我多休息。我听了心里特别感动，笑着告诉儿子有他们这份心我就知足了，我会继续把婆婆照顾好。那一刻，我觉得自己充满了力量。",
+        "metadata": {
+            "node_id": "node_113",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_3",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "儿子愿意帮我照顾婆婆，让我多休息，说明家人心里还是有我的，我是被关爱的。",
+            "emotion": "感动且充满温暖，强度较强，性质为积极正向的情感。",
+            "behavior": "笑着告诉儿子有他们这份心就知足了，并表示会继续把婆婆照顾好，这与珍惜家人关心、让家庭更温暖的中间信念相一致。",
+            "physiological_response": "面色红润，嘴角上扬，可能会感觉心跳稍微加快，身体有一股暖流。",
+            "created_at": "1994-01-31 20:00:00"
+        }
+    },
+    "node_112": {
+        "page_content": "1994年1月31日晚上7点，在皖北农村的家中，一家人围坐在饭桌前吃年夜饭。儿子不停地给我夹菜，还叮嘱我别太累着自己，儿媳也在一旁关心我的身体。听着他们的话，我的眼眶不禁微微泛红。孙子孙女们还缠着我讲过去的故事，一家人有说有笑，温馨极了。",
+        "metadata": {
+            "node_id": "node_112",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_2",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "家人这么关心我，说明他们心里有我，我是被关爱的。我一定要珍惜家人的这些关心。",
+            "emotion": "感动且幸福，强度较强",
+            "behavior": "脸上洋溢着笑容，耐心地给孙子孙女们讲过去的故事，并且回应儿子儿媳的关心，表示自己会照顾好自己。这与中间信念中要珍惜家人的每一次关心相契合，通过积极互动来珍惜家人的关爱。",
+            "physiological_response": "眼眶微微泛红，心跳稍微加快，身体感觉温暖。",
+            "created_at": "1994-01-31 19:00:00"
+        }
+    },
+    "node_111": {
+        "page_content": "1994年1月31日傍晚，在皖北农村的家中，我看着满桌为儿子一家准备的饭菜，满心期待。当儿子一家终于回来，围坐在我身边时，儿子拉着我的手，关切地询问我照顾婆婆累不累。儿媳也在一旁附和，孙子孙女亲昵地靠在我身上。那一刻，我心里的委屈和疲惫都烟消云散，只觉得这么多年的辛苦都是值得的。",
+        "metadata": {
+            "node_id": "node_111",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_1",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "家人这么关心我，说明他们心里有我，我是被关爱的，这么多年照顾婆婆的辛苦没有白费。",
+            "emotion": "欣慰且感动，强度较强",
+            "behavior": "紧紧握住儿子的手，脸上露出笑容，温柔地回应家人的关心，还会摸摸孙子孙女的头。这种行为体现了珍惜家人关心，希望家庭更温暖，与中间信念中‘我要珍惜家人的每一次关心’以及‘如果我珍惜家人的关心，家庭会更温暖’相一致。",
+            "physiological_response": "眼眶湿润，心跳放缓且有力，身体放松。",
+            "created_at": "1994-01-31 18:30:00"
+        }
+    },
+    "node_110": {
+        "page_content": "1992年9月25日下午4点10分，我在皖北农村村口遇到了一个外乡人。他向我打听去邻村的路，我热心地给他指了路。和他交流的过程中，我感到很开心，因为我已经很久没有和外人说过这么多话了。可是，交流结束后，他匆匆离开了。我望着他的背影，心里突然一阵失落。我意识到，自己因为照顾婆婆，和外界的联系越来越少，已经和这个世界脱节了。回到家，我坐在床边看着瘫痪的婆婆，心中五味杂陈。我知道，我只能继续忍受这份孤独，因为我没有别的选择。",
+        "metadata": {
+            "node_id": "node_110",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_3",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "和外乡人交流完他就走了，我又回到了孤独的状态，每天守着病榻没有社交，我真的太孤独了，可我只能默默忍受，把精力都放在照顾婆婆上。",
+            "emotion": "极度失落、孤独且无奈",
+            "behavior": "坐在床边默默发呆，继续专注于照顾婆婆，不向家人抱怨自己的孤独。",
+            "physiological_response": "叹气，眼神黯淡，可能会有轻微的身体乏力感。",
+            "created_at": "1992-09-25 16:10:00"
+        }
+    },
+    "node_109": {
+        "page_content": "1992年9月20日下午2点30分，我又来到了皖北农村村口。和前几天一样，村口冷冷清清，没有了年轻人的身影，只有几个老人慢慢地走过。我坐在石头上，回忆起以前村子里热闹的场景，大家一起劳作、聊天，那时候的生活虽然辛苦，但却充满了温暖。可现在，一切都变了，我感觉自己就像被遗弃在角落里的人。我告诉自己，大家都有自己的生活，我不能去打扰他们，只能默默地忍受这份孤独。",
+        "metadata": {
+            "node_id": "node_109",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_2",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我每天守着病榻，没有自己的社交生活，现在村子也没了往日的热闹，我真的好孤独，但我只能默默忍受这份孤独，把精力都放在照顾婆婆上。",
+            "emotion": "孤独且无奈，情绪强度较强",
+            "behavior": "继续安静地坐在石头上，不主动与路过的老人交流，之后默默起身回家继续照顾婆婆，这种行为与中间信念中默默忍受孤独、把精力放在照顾婆婆上相符合。",
+            "physiological_response": "叹气，神情落寞，可能会有轻微的肩膀下垂、身体蜷缩的表现。",
+            "created_at": "1992-09-20 14:30:00"
+        }
+    },
+    "node_108": {
+        "page_content": "1992年9月15日上午10点，在皖北农村村口，我坐在大树下的石头上休息。这时，一群年轻人背着行囊，有说有笑地走了过来。我和他们打了招呼，问他们要去哪里。他们告诉我，外面机会多，想出去闯闯。我看着他们充满希望的眼神，心里既羡慕又失落。我每天守着瘫痪的婆婆，生活单调又乏味，很少有机会和外界交流。看着他们渐渐远去的背影，我突然觉得自己被这个世界遗忘了，孤独感像潮水一样将我淹没。",
+        "metadata": {
+            "node_id": "node_108",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_1",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "他们都能出去闯荡，拥有丰富多彩的生活，而我每天只能守着病榻照顾婆婆，没有自己的社交生活，被这个世界抛弃了，真的好孤独。",
+            "emotion": "极度孤独和失落，孤独感强烈且持久，失落感也较为明显。",
+            "behavior": "默默地坐在石头上，眼神呆滞地望着年轻人远去的方向，许久没有起身，继续把精力放在即将回去照顾婆婆这件事上，不再去想自己的孤独。",
+            "physiological_response": "叹气，肩膀微微下垂，身体有些蜷缩，可能还会出现心跳减缓、呼吸变缓的情况。",
+            "created_at": "1992-09-15 10:00:00"
+        }
+    },
+    "node_107": {
+        "page_content": "1990年6月15日上午10点30分，我带着买到的药回到家中。房间里布置简单，床边放着给婆婆的药。我坐在床边，呆呆地望着窗外，脑海里不断浮现出在集市上被村民冷漠对待的场景。眼泪忍不住流了下来，我觉得自己为了照顾婆婆付出了一切，却换来别人的冷漠和嫌弃。从那以后，我就暗暗发誓，要更刻意地减少和外界的接触，除了必要的外出，几乎都待在家里照顾婆婆，不想再经历这样的伤心事了。",
+        "metadata": {
+            "node_id": "node_107",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_3",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我为了照顾婆婆这么努力，在外面却被村民冷漠对待，他们肯定觉得我连照顾婆婆这点事都做不好，觉得我很没用。",
+            "emotion": "伤心、沮丧，强度较强，性质为负面消极情绪。",
+            "behavior": "暗暗发誓更刻意地减少和外界的接触，除必要外出都待在家里照顾婆婆，这与中间信念中‘我要更加努力地照顾婆婆，不能让人看出我的无能’相一致，通过减少外界接触避免再次被他人否定。",
+            "physiological_response": "眼泪忍不住流下来",
+            "created_at": "1990-06-15 10:30:00"
+        }
+    },
+    "node_106": {
+        "page_content": "1990年6月15日上午9点45分，在皖北农村熙熙攘攘的集市上，各种商品琳琅满目。我不甘心，又走向另一个村民，小心翼翼地问他有没有更便宜的药。他上下打量了我一番，皱着眉头，满脸不耐烦地说‘你别老缠着我，我忙着呢’。我的脸瞬间红到了耳根，头也不敢抬，尴尬极了。我默默地转身离开，泪水在眼眶里打转，心里又难过又委屈，觉得自己就像一个多余的人。",
+        "metadata": {
+            "node_id": "node_106",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_2",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我连问个便宜药都被人嫌弃，我真是没用，别人肯定更看不起我了。",
+            "emotion": "难过、委屈且羞愧，强度较高，这些负面情绪交织在一起，让来访者内心十分痛苦。",
+            "behavior": "默默地转身离开，之后可能会减少在集市上询问价格的行为，更加努力地想办法节省开支去买药，以证明自己不是没用的，符合‘我要更加努力地照顾婆婆，不能让人看出我的无能’这一中间信念。",
+            "physiological_response": "脸瞬间红到耳根，头不敢抬，泪水在眼眶里打转。",
+            "created_at": "1990-06-15 09:45:00"
+        }
+    },
+    "node_105": {
+        "page_content": "1990年6月15日上午9点30分，在皖北农村热闹的集市上，摊位一个挨着一个，到处都是人，叫卖声、谈笑声此起彼伏。我拖着疲惫的身体，在人群中寻找着药铺。看到一个熟悉的村民，我仿佛看到了希望，赶紧上前询问药铺的位置。我满脸期待地看着他，可他只是匆匆瞥了我一眼，脸上没有一丝表情，冷冷地回了句‘不知道’就走了。我站在原地，望着他离去的背影，心里一阵失落，感觉自己被这个热闹的世界抛弃了。",
+        "metadata": {
+            "node_id": "node_105",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_1",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "连熟悉的村民都不愿意帮我，我果然没有真正的朋友，在这个世界上就是被孤立的。",
+            "emotion": "极度失落和孤独，孤独感强烈且消极",
+            "behavior": "默默地转身，继续在人群中漫无目的地寻找药铺，不再主动向其他人询问，因为觉得即便问了也不会得到帮助，符合‘不要奢望有朋友陪伴，专注照顾婆婆就好’的规则。",
+            "physiological_response": "叹气，肩膀耷拉下来，眼神黯淡无光，身体更加疲惫，脚步变得沉重。",
+            "created_at": "1990-06-15 09:30:00"
+        }
+    },
+    "node_104": {
+        "page_content": "1988年4月20日下午2点，在皖北农村家中，屋子被我打扫得干净了些，阳光透过窗户洒在地上。邻居来看望婆婆，一进门就说：‘王兰，你最近看起来状态不错啊。’我笑着回答：‘多亏了村医的提醒，我开始注意自己的身体了。’邻居听了，朝我竖起了大拇指。那一刻，我心里别提多高兴了，就像一朵花在心里绽放。",
+        "metadata": {
+            "node_id": "node_104",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_3",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_11",
+            "auto_thought": "我听从村医提醒注意身体，现在状态不错得到邻居认可，说明我保持积极心态照顾婆婆的做法是对的，我很坚韧，能克服困难。",
+            "emotion": "开心、自豪，强度较高。这种积极的情感是因为自己的努力和坚持得到了他人的认可，符合认为自己坚韧且世界会给坚韧的人回报的信念。",
+            "behavior": "笑容更灿烂，可能会更热情地招呼邻居，和邻居更积极地交流。这与保持积极心态继续照顾好婆婆的规则相一致，积极的态度也体现了自己的坚韧。",
+            "physiological_response": "面色红润，心跳可能会稍微加快，身体感觉更有活力。这些生理反应是积极情绪下的常见表现。",
+            "created_at": "1988-04-20 14:00:00"
+        }
+    },
+    "node_103": {
+        "page_content": "1988年4月15日上午10点30分，在皖北农村家中婆婆的病床旁，村医打完针后没有马上走。他坐在那把破旧的椅子上，看着我说：‘王大姐，您照顾婆婆这么多年，真的很不容易，您也要多关心关心自己。身体是革命的本钱，要是您倒下了，婆婆可怎么办。’我听着他的话，鼻子一酸，眼泪在眼眶里打转。这么多年，我一直觉得照顾婆婆是我该做的，从来没想过还有人会关心我。我轻轻点了点头，小声说：‘我知道了，谢谢你。’从那以后，我心里有了不一样的想法，开始试着对自己好一点。",
+        "metadata": {
+            "node_id": "node_103",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_2",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_8",
+            "auto_thought": "村医关心我，说明有人在关注我，这也是对我的一种关爱，我应该配合村医的工作，也要开始多关心自己。",
+            "emotion": "感动，强度较强。因为多年来一直默默付出，突然得到他人的关心，内心触动很大。",
+            "behavior": "轻轻点头并小声表达感谢，之后开始试着对自己好一点。这与中间信念中‘我要配合村医的工作，表达我的感激’以及‘开始对自己好一点’相契合，说明开始重视他人的关心并做出积极改变。",
+            "physiological_response": "鼻子一酸，眼泪在眼眶里打转。这是在感动情绪下常见的生理表现。",
+            "created_at": "1988-04-15 10:30:00"
+        }
+    },
+    "node_102": {
+        "page_content": "1988年4月15日上午10点，在皖北农村家中那昏暗的屋子里，我守在婆婆病榻前，听着她微弱的呻吟声，只觉得身心俱疲。这时村医来了，他一进屋就看到了我憔悴的模样。他放下药箱，一边翻找着打针的器具，一边看着我说：‘王大姐，您也要注意自己的身体啊。’我原本一直低着的头猛地抬起来，心里又惊又喜，就像在黑暗中突然看到了一丝光亮。",
+        "metadata": {
+            "node_id": "node_102",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_1",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_8",
+            "auto_thought": "村医提醒我注意身体，说明他有关注我的状况，这是对我的一种间接关爱，这个世界还是有善意的。",
+            "emotion": "又惊又喜，感受到温暖，强度较强",
+            "behavior": "原本低着的头猛地抬起来，可能会微笑着对村医表达感谢，之后更积极地配合村医的工作。这种行为与中间信念中‘我要配合村医的工作，表达我的感激’相一致，体现了对村医关爱的回应。",
+            "physiological_response": "原本疲惫的身体可能会有短暂的振奋，比如眼睛发亮，身体坐直，呼吸可能会变得稍微急促一些，以应对这种突然的情绪变化。",
+            "created_at": "1988-04-15 10:00:00"
+        }
+    },
+    "node_101": {
+        "page_content": "1986年2月16日早上7点，天刚蒙蒙亮，我就轻手轻脚地起了床。走进厨房，我开始为婆婆准备早餐，锅里的米渐渐散发出淡淡的香气。我端着早餐走进婆婆的房间，看着她安静的样子，想到昨天村里那个被送进养老院的公公，心里更加珍惜能陪伴婆婆的时光。我坐在床边，一勺一勺地喂婆婆吃饭，比以往更加细心和耐心。我在心里告诉自己，我的坚持是有意义的，家人会看到我为婆婆付出的努力，我对这个家庭是有贡献的。我暗暗发誓，一定要把照顾婆婆的事做到最好，让更多人认可我的付出。",
+        "metadata": {
+            "node_id": "node_101",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_3",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我用心照顾婆婆，对家庭是有贡献的，继续好好照顾她，家人会更尊重我。",
+            "emotion": "充满干劲、欣慰，情感强度为中等偏上，属于积极正向的情感。",
+            "behavior": "轻手轻脚起床准备早餐，端着早餐进入婆婆房间，坐在床边一勺一勺更细心耐心地喂婆婆吃饭，这些行为体现了要继续好好照顾婆婆，让家人安心，与中间信念中的规则和积极假设相一致。",
+            "physiological_response": "面色红润，精神饱满，动作沉稳有力。",
+            "created_at": "1986-02-16 07:00:00"
+        }
+    },
+    "node_100": {
+        "page_content": "1986年2月15日晚上10点，我躺在自家卧室的床上，屋里的灯光昏黄而安静。白天村里发生的事情像放电影一样在我脑海里一遍又一遍地回放。想到那个被送进养老院的公公，我心里一阵感慨，觉得自己能一直陪在婆婆身边，是一种福气。我翻了个身，望着天花板，不断地给自己打气：“这么多年都坚持过来了，还有什么困难不能克服呢？我要乐观一点，说不定婆婆的情况会慢慢好起来。”我坚信自己是个坚韧的人，这个世界会给坚韧的人机会，只要我坚持下去，一切都会好的。",
+        "metadata": {
+            "node_id": "node_100",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_2",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_11",
+            "auto_thought": "我已经坚持照顾婆婆这么多年了，很坚韧，世界会给坚韧的人回报，只要我保持积极心态继续照顾婆婆，就能克服困难，婆婆的情况说不定会慢慢好起来。",
+            "emotion": "充满希望，情绪较为振奋",
+            "behavior": "可能会在心里默默规划接下来照顾婆婆的安排，第二天会更有干劲地去照顾婆婆，以积极的态度面对照顾过程中的各种事情。",
+            "physiological_response": "心跳较为平稳，呼吸均匀，可能脸上会露出淡淡的微笑。",
+            "created_at": "1986-02-15 22:00:00"
+        }
+    },
+    "node_99": {
+        "page_content": "1986年2月15日上午10点半，在皖北农村村里，阳光暖暖地照着。我正在自家院子里扫地，突然听到邻居们在不远处的树下叽叽喳喳地议论着。我心里好奇，就放下扫帚走了过去。原来是村里的一个媳妇，把生病的公公送进了养老院。邻居们你一言我一语，都在说这个媳妇不孝顺。我听着他们的话，心里“咯噔”一下，想到自己这几年照顾瘫痪婆婆的日子，那其中的辛苦只有自己知道。我看着大家指责的样子，暗暗告诉自己，无论多苦多累，我都不能像这个媳妇一样放弃，我一定要坚持照顾好婆婆。",
+        "metadata": {
+            "node_id": "node_99",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_1",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_12",
+            "auto_thought": "我不能像这个媳妇一样放弃，我要坚持照顾好婆婆，只要我坚持下去，婆婆的情况说不定会好转，家人也会为我骄傲。",
+            "emotion": "坚定且有责任感，强度较强",
+            "behavior": "回到院子继续拿起扫帚扫地，之后更加用心地照顾婆婆，在照顾过程中保持积极的态度。这种行为与核心信念中认为自己是坚韧的以及中间信念中要坚持照顾婆婆不被困难打倒相符合。",
+            "physiological_response": "可能会不自觉地挺直腰背，呼吸变得沉稳有力。",
+            "created_at": "1986-02-15 10:30:00"
+        }
+    },
+    "node_98": {
+        "page_content": "1984年11月21日清晨06:00，在皖北农村家中，窗外渐渐泛起鱼肚白，房间里安静下来。我看着婆婆呼吸不再那么急促，面容逐渐平静，心里总算稍微松了口气。可这一夜的折腾让我浑身像散了架一样，身心俱疲。我坐在床边，呆呆地看着婆婆，回想起这一夜的无助和担忧，心里一阵酸涩。我突然意识到，自己的身体太重要了，如果我垮了，谁来照顾婆婆。从这一刻起，我暗暗发誓，以后一定要注意休息，保护好自己的身体，不能再在关键时刻掉链子。",
+        "metadata": {
+            "node_id": "node_98",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_3",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_5",
+            "intermediate_belief_id": "intermediate_belief_9",
+            "auto_thought": "长期照顾婆婆让我的身体越来越吃不消了，要是我垮了谁来照顾婆婆，我得注意休息保护好自己的身体。",
+            "emotion": "担忧且坚定，担忧自己身体状况，坚定要保护好身体的决心",
+            "behavior": "之后会合理安排照顾婆婆的时间，增加休息，比如安排固定的午休时间等，这与中间信念中要注意休息保护身体的规则一致",
+            "physiological_response": "身体疲惫，肌肉酸痛，眼神疲倦",
+            "created_at": "1984-11-21 06:00:00"
+        }
+    },
+    "node_97": {
+        "page_content": "1984年11月21日凌晨02:00，在皖北农村家中那弥漫着紧张气氛的房间里，桌上的油灯忽明忽暗。我守在婆婆床边，眼睛都不敢眨一下。看着婆婆病情越来越严重，开始意识模糊，我的心像被刀割一样。我紧紧握着她的手，手心里全是汗，嘴里不停地轻声安慰她，可泪水还是在眼眶里打转。我不停地责怪自己，要是我身体再强壮些，能力再强些，是不是就能避免婆婆病情加重了。这种自责让我觉得自己真的很没用，身体也很脆弱。",
+        "metadata": {
+            "node_id": "node_97",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_2",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我连照顾婆婆都照顾不好，让她病情加重了，我真是太没用了。要是我身体再强壮些，能力再强些，就能避免这种情况了。",
+            "emotion": "极度自责、痛苦，强度非常高，性质为负面消极情绪。",
+            "behavior": "更加紧紧地握住婆婆的手，加大安慰婆婆的力度，可能会开始回忆自己照顾婆婆过程中哪里没做好，思考接下来要怎么更努力地照顾。这种行为与中间信念中‘我要更加努力地照顾婆婆，不能让人看出我的无能’相一致。",
+            "physiological_response": "手心出汗、泪水在眼眶里打转、心跳加速、呼吸可能变得急促。",
+            "created_at": "1984-11-21 02:00:00"
+        }
+    },
+    "node_96": {
+        "page_content": "1984年11月20日夜里23:00，在皖北农村家中那昏暗的房间里，月光透过窗户洒在地上。我正睡得迷迷糊糊，突然被婆婆剧烈的咳嗽声惊醒。我一骨碌从床上爬起来，鞋都没来得及穿，就冲到了婆婆床边。借着微弱的月光，我看到婆婆满脸痛苦，呼吸急促。我的心一下子揪了起来，慌乱地拿起毛巾给她擦去额头的汗水，嘴里不停地轻声唤着她。可我心里清楚，自己根本不知道该怎么办，那种无助和担忧就像潮水一样把我淹没，我觉得自己太没用了，身体也不够强壮，根本没办法应对这种突发状况。",
+        "metadata": {
+            "node_id": "node_96",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_1",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我连婆婆突发咳嗽这种情况都应对不了，真是没用，别人肯定能轻松处理好。",
+            "emotion": "极度焦虑、自责，强度高",
+            "behavior": "更加慌乱地照顾婆婆，手忙脚乱地找水、找药，试图做点什么来证明自己不是没用的，符合‘我要更加努力地照顾婆婆，不能让人看出我的无能’这一中间信念。",
+            "physiological_response": "心跳加速、手心出汗、身体颤抖",
+            "created_at": "1984-11-20 23:00:00"
+        }
+    },
+    "node_95": {
+        "page_content": "1982年7月22日上午10点20分，在皖北农村家中，屋里打扫得干干净净，婆婆的床头还放着几束野花。这时，村里的一位邻居来家里看望婆婆，看到我把婆婆照顾得很好，便竖起大拇指对我说：‘你照顾婆婆这么多年，真是太不容易了，大家都很佩服你。’听了邻居的话，我脸上露出了自豪的笑容。我想起儿子之前对我的肯定，现在又得到了邻居的认可，心中充满了成就感，觉得自己这么多年的坚持是值得的。我在心里暗暗发誓，一定要把婆婆照顾得更好，不辜负大家的认可。",
+        "metadata": {
+            "node_id": "node_95",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_3",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我这么多年坚持照顾婆婆是有意义的，我的价值得到了大家的认可，我要继续坚持下去，让更多人看到我的付出。",
+            "emotion": "充满成就感和自豪，情绪积极且强烈。",
+            "behavior": "脸上露出自豪的笑容，暗暗发誓要把婆婆照顾得更好，接下来可能会更加用心地照顾婆婆，比如更精心地准备饮食、更细心地关注婆婆的身体状况等，这与中间信念中‘我要坚持照顾婆婆，不放弃’以及‘如果我坚持下去，我的价值会被更多人看到’相契合。",
+            "physiological_response": "可能会面色红润，眼神明亮，身体姿态更加挺直，展现出积极的精神状态。",
+            "created_at": "1982-07-22 10:20:00"
+        }
+    },
+    "node_94": {
+        "page_content": "1982年7月18日下午2点，在皖北农村家中，午后的阳光透过窗户洒在屋内，形成一片片光斑。我坐在床边给婆婆讲故事，脸上洋溢着幸福的笑容。这几天，我一直沉浸在儿子对我的感激和认可中，回想着他的话，我暗暗下定决心要把婆婆照顾得更好。可是，多年的操劳让我的身体逐渐变得脆弱，照顾婆婆时我感到有些力不从心。但一想到儿子的肯定，我还是咬牙坚持着，心中不断给自己鼓劲：‘为了这个家，我一定要坚持下去。’",
+        "metadata": {
+            "node_id": "node_94",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_2",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "儿子认可了我的付出，我更要继续好好照顾婆婆，让家人安心。虽然身体有些吃不消，但我不能放弃。",
+            "emotion": "坚定且欣慰，坚定的情感强度较高，欣慰的情感强度适中。",
+            "behavior": "继续坐在床边给婆婆讲故事，更加用心地照顾婆婆，即便身体不适也不轻易停下手中的活。这种行为与中间信念中‘我要继续好好照顾婆婆，让家人安心’相一致。",
+            "physiological_response": "可能会感到身体疲惫，如腰酸背痛、肢体乏力，呼吸也可能会稍微急促。",
+            "created_at": "1982-07-18 14:00:00"
+        }
+    },
+    "node_93": {
+        "page_content": "1982年7月15日中午12点半，在皖北农村家中闷热的屋子里，我正坐在床边给婆婆擦拭身体，额头上满是汗珠。这时儿子从外面回来，看到我日夜操劳的样子，快步走到我身边，轻轻拉过我的手。他眼中含着泪花，心疼地说：‘娘，您照顾奶奶这么多年辛苦了，我们都看在眼里，您对这个家贡献很大。’听到儿子这番话，我的鼻子一酸，原本疲惫的神情瞬间舒缓，心中涌起一股暖流，多年来照顾婆婆的委屈和辛苦仿佛在这一刻都得到了释放。",
+        "metadata": {
+            "node_id": "node_93",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "儿子认可了我对家庭的贡献，看来我十二年如一日照顾婆婆是有价值的，家人会因为我的付出而感激我。",
+            "emotion": "欣慰且感动，强度较强，这种情感是积极正向的，多年的付出得到认可后内心的委屈消散。",
+            "behavior": "可能会轻轻拍了拍儿子的手，微笑着对儿子说‘没事，只要你们理解娘就好’，继续用心照顾婆婆，因为中间信念中提到要继续好好照顾婆婆让家人安心。",
+            "physiological_response": "原本紧绷的身体放松下来，心跳趋于平稳，原本紧皱的眉头舒展开。",
+            "created_at": "1982-07-15 12:30:00"
+        }
+    },
+    "node_92": {
+        "page_content": "1980年5月13日下午2点，我在家里收拾东西，看着这杂乱的屋子，又想起了李嫂家整洁的样子。这几天，我总是忍不住拿自己和她比较，每次照顾婆婆累得腰酸背痛的时候，就会想到她轻松自在的生活。这种比较让我越来越自卑，觉得自己处处不如别人。走在村里，看到其他人有说有笑，我就会下意识地躲开，害怕他们看出我的失败。我觉得自己和他们的差距太大了，这个世界根本容不下我这样顾此失彼的人。我越来越不想和别人交流，只想把自己封闭起来。",
+        "metadata": {
+            "node_id": "node_92",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我连照顾婆婆和收拾屋子这么简单的事都做不好，和李嫂比起来，我真是太没用了。",
+            "emotion": "极度自卑、沮丧，强度高，性质消极。",
+            "behavior": "下意识躲开有说有笑的人，不想和别人交流，把自己封闭起来，这与中间信念中害怕别人看出自己无能，担心被看不起的想法一致。",
+            "physiological_response": "可能会出现叹气、肩膀耷拉、身体乏力等表现。",
+            "created_at": "1980-05-13 14:00:00"
+        }
+    },
+    "node_91": {
+        "page_content": "1980年5月10日上午11点，我回到家，坐在床边，眼神呆滞地望着前方。李嫂家那温馨的场景一直在我脑海里挥之不去，我越想越觉得自己糟糕透顶。这么多年照顾婆婆，她的病情一点都没好转，而我因为守着她，家里也顾不上，生活变得枯燥乏味。我不停地责怪自己，为什么这么没用，连这点事都做不好。我的心情越来越沉重，感觉胸口像压了一块大石头，喘不过气来。我开始怀疑自己在这个世界上到底有什么用，是不是真的不该存在。",
+        "metadata": {
+            "node_id": "node_91",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我因为照顾婆婆没时间做其他事，对家庭没其他贡献，是个没用的人，家人可能觉得我只会守着婆婆，没什么用。",
+            "emotion": "极度沮丧、自责，情绪低落且沉重",
+            "behavior": "继续呆坐在床边，眼神呆滞，可能会陷入长时间的自我责备，暂时不会采取行动去照顾婆婆或做其他家务",
+            "physiological_response": "胸口像压了一块大石头，喘不过气，可能伴有心跳沉重、呼吸不畅",
+            "created_at": "1980-05-10 11:00:00"
+        }
+    },
+    "node_90": {
+        "page_content": "1980年5月10日上午10点，我路过村里李嫂家。站在门口，我看到屋内打扫得干干净净，家具摆放得规规矩矩，阳光透过窗户洒在地上，显得格外温馨。院子里种着各种蔬菜，绿油油的一片。李嫂的丈夫在一旁认真地修理农具，孩子在院子里欢快地跑来跑去，笑声清脆。李嫂一边熟练地做着家务，一边和丈夫、孩子有说有笑，那场景就像一幅美好的画卷。再想想我自己，每天守着瘫痪的婆婆，家里乱七八糟的，也没时间出去挣钱。我越想越难受，鼻子一酸，眼泪差点掉下来。",
+        "metadata": {
+            "node_id": "node_90",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "看看人家李嫂，家里家外都操持得这么好，我却因为照顾婆婆没时间做其他事，对家庭没其他贡献，真是个没用的人。",
+            "emotion": "难过、沮丧，情绪强度较强",
+            "behavior": "可能会加快脚步离开，不想再看这一幕，并且回到家后可能会更急切地抽空去做其他家务，以证明自己还有用。",
+            "physiological_response": "鼻子发酸，眼泪在眼眶里打转，可能会有轻微的呼吸急促。",
+            "created_at": "1980-05-10 10:00:00"
+        }
+    },
+    "node_89": {
+        "page_content": "1979年3月18日上午10点10分，在皖北农村的村里，道路两旁是错落的房屋和一些农田。我出门时遇到邻居，赶紧避开他们的目光，脚步也加快了。这几天我变得更加沉默寡言，照顾婆婆时也格外小心翼翼。有一次，婆婆不小心打翻了碗，我心里有些烦躁，但还是立刻微笑着安慰婆婆：‘没事没事，我收拾就好。’然后默默蹲下收拾地上的碎片。",
+        "metadata": {
+            "node_id": "node_89",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我连照顾婆婆这么简单的事都觉得累，要是被邻居看出来我力不从心，他们会更看不起我。",
+            "emotion": "焦虑、自卑，强度较强",
+            "behavior": "出门遇到邻居赶紧避开目光、加快脚步，变得更加沉默寡言，照顾婆婆格外小心翼翼，在婆婆打翻碗时微笑安慰并默默收拾，这些行为都是为了不让别人看出自己照顾婆婆力不从心，符合‘不能让人看出我的无能’的中间信念。",
+            "physiological_response": "心跳加速、呼吸变快，可能还会有轻微的出汗。",
+            "created_at": "1979-03-18 10:10:00"
+        }
+    },
+    "node_88": {
+        "page_content": "1979年3月15日下午2点45分，我低着头匆匆回到家，把水桶“哐当”一声放在院子里，脚步沉重地走进卧室。坐在床边，眼神空洞地望着窗外，邻居们的话在脑海中不断回荡。我的双手不自觉地揪着衣角，嘴唇也被咬得泛白。过了一会儿，我小声又颤抖地对自己说：‘我要默默承担照顾婆婆的压力，不抱怨，不然别人会更看不起我。’",
+        "metadata": {
+            "node_id": "node_88",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "邻居们肯定觉得我照顾婆婆都照顾不好，我真是没用，我要是抱怨，他们会更看不起我。",
+            "emotion": "沮丧、自卑且焦虑，强度较强",
+            "behavior": "坐在床边默默承受，不向他人倾诉抱怨，符合‘我要更加努力地照顾婆婆，不能让人看出我的无能’的规则，避免因抱怨而让别人更看不起自己。",
+            "physiological_response": "双手不自觉揪着衣角，嘴唇被咬得泛白，脚步沉重，眼神空洞",
+            "created_at": "1979-03-15 14:45:00"
+        }
+    },
+    "node_87": {
+        "page_content": "1979年3月15日下午2点半，在皖北农村村口的老槐树下，阳光有些慵懒地洒在地上。村里的邻居们吃过午饭，聚在一起聊天。我像往常一样，照顾完瘫痪在床的婆婆后，拿着水桶去井边打水。路过村口时，听到一个邻居说：‘王兰天天就守着个病榻，家里其他事啥都不管。’接着其他邻居纷纷附和，发出嫌弃的声音。那一刻，我的心‘咯噔’一下，仿佛被重锤击中，脸瞬间涨得通红，头也低了下去，脚步慌乱地匆匆离开。",
+        "metadata": {
+            "node_id": "node_87",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "他们说得对，我因为照顾婆婆没时间做其他事，对家庭没其他贡献，真是个没用的人。",
+            "emotion": "羞愧、沮丧，强度较强",
+            "behavior": "脚步慌乱地匆匆离开，之后可能会抽空做些其他家务，以证明自己还有用，这与中间信念中‘我要抽空做些其他家务，证明自己还有用’相一致。",
+            "physiological_response": "脸瞬间涨得通红，头低了下去，可能还会心跳加速",
+            "created_at": "1979-03-15 14:30:00"
+        }
+    },
+    "node_86": {
+        "page_content": "1978年12月30日晚上6点，在皖北农村的家中，屋里点着昏黄的灯。丈夫从外地打工回来了，他看了看婆婆，又看看我，说：‘你把娘照顾得挺好的，辛苦你了。’听到这话，我心里一下子暖了起来，觉得自己这么久的付出都值了。丈夫接着说：‘等农闲了，我帮你一起照顾娘，你也能歇歇。’我感受到了家人的关爱，暗暗发誓一定要继续把婆婆照顾好。",
+        "metadata": {
+            "node_id": "node_86",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "丈夫认可了我对婆婆的照顾，还说会帮我，我这么多年的付出有价值，我要继续好好照顾婆婆，让家人安心。",
+            "emotion": "欣慰且充满动力，强度较强，属于积极正向的情感。",
+            "behavior": "可能会微笑着回应丈夫，表示感谢，并和丈夫交流婆婆的近况和后续的照顾计划，之后会以更积极的态度投入到照顾婆婆的日常中。这种行为与中间信念中‘我要继续好好照顾婆婆，让家人安心’相一致。",
+            "physiological_response": "身体放松，原本紧绷的肌肉舒缓，可能会不自觉地深呼吸，脸上浮现出轻松的神情。",
+            "created_at": "1978-12-30 18:00:00"
+        }
+    },
+    "node_85": {
+        "page_content": "1978年6月20日中午12点半，在皖北农村的家中，屋里有些闷热。我端着药碗给婆婆喂药，她因为身体不舒服，一抬手就把药碗打翻了，药洒了一地。看着地上的药，我的眼泪在眼眶里打转，但还是强忍着安慰婆婆。我赶紧重新去熬药，回来后小心翼翼地喂她。这时，有邻居路过，小声说：‘连个病人都照顾不好。’我听到这话，心里像被刀割一样，觉得自己太没用了，不仅没照顾好婆婆，还被人看不起。",
+        "metadata": {
+            "node_id": "node_85",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我连照顾婆婆这么简单的事都做不好，还被邻居看到了，别人肯定觉得我更没用了。",
+            "emotion": "极度沮丧、自责，强度很高，性质为负面消极情绪。",
+            "behavior": "更加小心翼翼地照顾婆婆，之后可能会花费更多时间和精力去做其他家务，以证明自己不是没用的人，与中间信念中‘我要更加努力地照顾婆婆，不能让人看出我的无能’和‘我要抽空做些其他家务，证明自己还有用’相一致。",
+            "physiological_response": "心跳加速、呼吸急促，眼眶泛红，可能还会有轻微的手抖。",
+            "created_at": "1978-06-20 12:30:00"
+        }
+    },
+    "node_84": {
+        "page_content": "1978年1月15日早上6点，在皖北农村的家中，屋里冷得像冰窖。我正给婆婆掖被子，突然发现她不对劲，整个人瘫在床上。婆婆脸上满是痛苦，我慌了神，心里全是自责。我紧紧握着她的手，眼泪止不住地流，跟她说一定会照顾好她。从那之后，每天天还没亮，我就摸黑起床，在冰冷的灶房里给婆婆做早饭，然后忙这忙那，不敢有一点懈怠。",
+        "metadata": {
+            "node_id": "node_84",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "middle_aged",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我连照顾婆婆这么简单的事都没做好，让她变成这样，真是没用。我必须更加努力地照顾她，不能再让人看出我的无能。",
+            "emotion": "极度自责、愧疚，强度非常高，性质为负面消极情感。",
+            "behavior": "每天天还没亮就摸黑起床，在冰冷的灶房里给婆婆做早饭，然后忙这忙那，不敢有一点懈怠，这与中间信念中‘我要更加努力地照顾婆婆，不能让人看出我的无能’相一致。",
+            "physiological_response": "眼泪止不住地流，可能还会伴有心跳加速、呼吸急促、身体颤抖等表现。",
+            "created_at": "1978-01-15 06:00:00"
+        }
+    },
+    "node_83": {
+        "page_content": "1977年5月25日下午5点，在皖北农村集体公社那片曾经杂草丛生的农田里，经过我们十几天的努力，土地已经被开垦得平平整整。回想起之前内心的挣扎，我庆幸自己当时咬咬牙坚持了下来。我对同伴们说：“咱们不能半途而废，再加把劲肯定行。”说完我就又拿起工具干了起来。同伴们看到我这样，也都重新振作起来。这几天大家都累坏了，但好在我们在规定时间内完成了任务。公社领导来了，看着我们的成果，竖起了大拇指，还说要给我们奖励。那一刻，我心里别提多高兴了，觉得所有的辛苦都值了。",
+        "metadata": {
+            "node_id": "node_83",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_11",
+            "auto_thought": "我坚持下来完成了开垦任务，还得到了领导的认可和奖励，说明我能克服困难，很坚韧，继续保持坚韧就能取得更多成就。",
+            "emotion": "兴奋、自豪且充满成就感，强度较高",
+            "behavior": "更加积极地投入到后续可能的劳动中，可能会主动承担更多任务，并且鼓励同伴一起努力，这与要继续保持坚韧面对困难不放弃的中间信念相一致。",
+            "physiological_response": "面色红润，心跳稍快，身体充满活力，可能会不自觉地挺直腰板。",
+            "created_at": "1977-05-25 17:00:00"
+        }
+    },
+    "node_82": {
+        "page_content": "1977年5月15日中午12点半，在皖北农村集体公社的农田里，工具坏了一地，大家累得坐在地上，又饿又没力气。我看着同伴们疲惫的脸，自己也觉得浑身发软，一点劲都没有了。有几个同伴说：“别干了，这地根本弄不完。”我心里也动摇了，觉得自己根本没办法带大家完成任务，真是太脆弱了。就在我差点要跟着大家放弃的时候，我突然想起过去三年拿到劳动红旗时，同伴们羡慕的眼神和公社领导表扬的话语，那些场景一下子在我脑海里清晰起来。",
+        "metadata": {
+            "node_id": "node_82",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_11",
+            "auto_thought": "我连续三年获得劳动红旗，说明我能克服困难，很坚韧，我不能因为这点困难就放弃，继续坚持肯定能完成任务。",
+            "emotion": "坚定且振奋，强度较强",
+            "behavior": "站起身来，鼓励同伴们继续干活，自己带头开始修理工具、继续劳作。这种行为与中间信念中要继续保持坚韧，面对困难不放弃相契合，通过实际行动来展现自己的坚韧品质，争取取得更多成就。",
+            "physiological_response": "原本发软的身体有了力量感，心跳加快，充满干劲。",
+            "created_at": "1977-05-15 12:30:00"
+        }
+    },
+    "node_81": {
+        "page_content": "1977年5月5日清晨6点，在皖北农村集体公社那片地势复杂、杂草丛生的农田里，我和同伴们开始了艰巨的开垦任务。看着眼前的景象，我心里有些发怵，但一想到自己连续三年获得劳动红旗的荣誉，我咬咬牙告诉自己一定要带好头。我们挥舞着工具，努力清理着杂草和石头，可土地硬得像铁一样，每开垦一点都费劲。同伴们的动作渐渐慢了下来，脸上满是疲惫和无奈，我的心里也开始犯起了嘀咕，担心自己带不好这个头，完不成任务。",
+        "metadata": {
+            "node_id": "node_81",
+            "node_type": "long_term",
+            "event_id": "13",
+            "extended_event_id": "13_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我连续三年获得劳动红旗，要是这次带不好头，完不成任务，就会失去大家的认可，证明我其实没那么有价值。",
+            "emotion": "焦虑且担忧，强度较高，担心自己无法带领同伴完成任务，失去大家的认可。",
+            "behavior": "更加用力地挥舞工具，试图加快开垦进度，以此来证明自己的价值，带动同伴继续努力，与中间信念中要继续保持优秀，争取更多认可相契合。",
+            "physiological_response": "心跳加速，额头冒汗，肌肉紧绷，这些是身体在紧张焦虑状态下的典型表现。",
+            "created_at": "1977-05-05 06:00:00"
+        }
+    },
+    "node_80": {
+        "page_content": "1968年9月15日中午12点30分，休息结束后，我带着已经平复的心情来到皖北农村集体公社劳动区。在劳动过程中，我告诉自己要更加积极主动。我主动和同伴们搭话，一起协作完成劳动任务。我发现，当我主动参与集体活动时，同伴们也会热情地回应我。他们会笑着和我交流，还会帮我解决一些劳动中的小问题。这让我意识到，只要自己积极融入集体，就能够减少孤独感。这次经历也让我更加坚定了要尽量融入集体，减少孤独感的信念。",
+        "metadata": {
+            "node_id": "node_80",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我主动融入集体，同伴们热情回应我，还帮我解决问题，这样我就不会感到孤独了。",
+            "emotion": "轻松愉悦，强度适中。这种情感源于自己主动融入集体后得到积极反馈，减少了孤独感。",
+            "behavior": "更加积极主动地与同伴交流协作，主动承担更多劳动任务。这与要尽量融入集体，减少孤独感的中间信念相一致，通过积极的行为来进一步融入集体。",
+            "physiological_response": "面色红润，嘴角上扬，身体放松。这些生理反应体现出心情愉悦、放松的状态。",
+            "created_at": "1968-09-15 12:30:00"
+        }
+    },
+    "node_79": {
+        "page_content": "1968年9月15日中午12点15分，在皖北农村集体公社休息区，我因为同伴背着我聊天而感到孤独难受。但我很快想起自己告诉自己的规则，不能太在意他们的私下交流。我低下头，看着自己因为劳动而变得粗糙的双手，脑海中回忆着劳动时的场景，试图让自己不去想同伴们的聊天。我深吸一口气，在心里不断暗示自己：“不要在意，不要在意。”随着时间的推移，我的情绪逐渐稳定下来，心里的难受感也慢慢减轻了。",
+        "metadata": {
+            "node_id": "node_79",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "同伴们背着我聊天，他们不想让我参与他们的话题，我被孤立了，在这个集体里我很难找到真正的归属感。",
+            "emotion": "孤独、难受，随着自我暗示情绪强度逐渐减轻",
+            "behavior": "低下头看着自己粗糙的双手，回忆劳动场景，深吸一口气并在心里不断暗示自己不要在意，情绪逐渐稳定",
+            "physiological_response": "可能最初会心跳稍加快、呼吸变急促，随着情绪稳定恢复正常",
+            "created_at": "1968-09-15 12:15:00"
+        }
+    },
+    "node_78": {
+        "page_content": "1968年9月15日中午12点，在皖北农村集体公社休息区，我刚结束一上午的劳动，坐在石凳上想歇会儿。这时，几个平时和我关系还不错的同伴走到不远处的角落，开始背着我小声聊天。我看到他们的样子，心里“咯噔”一下，立刻竖起了耳朵，眼神也变得紧张起来。我心里想，他们是不是背着我说我坏话，不想让我参与他们的话题。这种想法让我心里一紧，孤独感瞬间把我包围了。",
+        "metadata": {
+            "node_id": "node_78",
+            "node_type": "long_term",
+            "event_id": "12",
+            "extended_event_id": "12_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "他们背着我聊天，是不想让我参与他们的话题，我被孤立了，很孤独。",
+            "emotion": "强烈的孤独感和失落感",
+            "behavior": "竖起耳朵想听清他们的谈话内容，眼神紧张，可能会不自觉地靠近他们，试图参与话题，也可能会因为害怕被发现而又退缩回来，表现出犹豫和纠结，这与中间信念中想融入集体又怕被孤立的心理相符。",
+            "physiological_response": "心跳加快，可能会脸红，肌肉紧张，呼吸变浅。",
+            "created_at": "1968-09-15 12:00:00"
+        }
+    },
+    "node_77": {
+        "page_content": "1967年7月5日上午9点，皖北农村集体公社的田间，阳光明媚，庄稼在微风中轻轻摇曳。我依然沉浸在获得劳动红旗的喜悦中，一边干活一边思考着未来的劳动计划。我告诉自己，这次的成功只是个开始，以后还会有更多的挑战。我决定要更加积极主动，帮助同伴们一起完成任务，让集体变得更团结。我把这个想法跟同伴们说了，大家都很赞同。在我的带动下，同伴们也都更加努力地干活了，田间一片热火朝天的景象。",
+        "metadata": {
+            "node_id": "node_77",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我连续三年获得劳动红旗，证明我对集体有很大的贡献，我是有价值的。我要继续保持优秀，积极帮助同伴，争取更多的荣誉，这样就能得到更多人的认可。",
+            "emotion": "兴奋且充满干劲，这种积极的情感强度较高，性质是正向且充满动力的。",
+            "behavior": "积极主动地干活，思考未来劳动计划，向同伴提出帮助大家一起完成任务让集体更团结的想法，带动同伴一起努力干活，这些行为与中间信念中要继续保持优秀、积极参与集体劳动以体现价值并获得认可相一致。",
+            "physiological_response": "面色红润，精力充沛，动作敏捷，可能会因为兴奋而微微出汗。",
+            "created_at": "1967-07-05 09:00:00"
+        }
+    },
+    "node_76": {
+        "page_content": "1967年6月30日上午10点30分，皖北农村集体公社大院里热闹非凡，大家都聚集在这里等待评选劳动红旗的结果。我的心紧张得砰砰直跳，手心都冒出了汗。当宣布我再次获得劳动红旗时，我一下子愣住了，过了好一会儿才反应过来。那一刻，我激动得眼泪都快流出来了，这段时间的辛苦付出终于有了回报。同伴们纷纷围过来，拍着我的肩膀，向我表示祝贺，他们的眼神里满是佩服。我感受到了大家的认可，心里别提有多高兴了，觉得自己在集体中的地位也提高了。",
+        "metadata": {
+            "node_id": "node_76",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我连续三年获得劳动红旗，证明我对集体有很大的贡献，是有价值的，大家会羡慕我的成就，认可我的价值。",
+            "emotion": "极度激动、喜悦且充满成就感，强度很高，性质积极。",
+            "behavior": "接受同伴的祝贺，可能会和同伴交流分享自己的喜悦，之后可能会更加积极地参与集体劳动，以继续保持优秀，争取更多荣誉，这与中间信念中要继续保持优秀争取更多认可相符合。",
+            "physiological_response": "心跳加快、手心出汗、激动得眼泪快流出来。",
+            "created_at": "1967-06-30 10:30:00"
+        }
+    },
+    "node_75": {
+        "page_content": "1967年6月1日凌晨4点，皖北农村集体公社的田间，周围一片寂静，只有偶尔的虫鸣声。我早早地来到了这里，开始了一天的劳作。这段时间，评选劳动红旗的消息传得沸沸扬扬，竞争特别激烈。我心里一直很焦虑，害怕自己拿不到红旗，被大家认为是没用的人。我干活的时候，眼睛紧紧盯着手中的活计，不敢有丝毫懈怠。同伴们陆陆续续来了，看到我这么早就开始干活，有的投来了敬佩的目光，有的则在一旁小声议论。我听到了他们的议论，但我顾不了那么多，我只想努力干活，拿到红旗，证明自己。",
+        "metadata": {
+            "node_id": "node_75",
+            "node_type": "long_term",
+            "event_id": "11",
+            "extended_event_id": "11_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "如果我拿不到红旗，就会被认为是没用的人，我必须努力干活争取拿到红旗。",
+            "emotion": "焦虑且急切，强度较高，属于负面情绪。",
+            "behavior": "早早来到田间劳作，干活时眼睛紧紧盯着手中活计，不敢有丝毫懈怠，不顾同伴议论继续努力干活，这些行为与中间信念中‘我必须努力争取劳动红旗’相一致。",
+            "physiological_response": "可能会心跳加速、手心出汗、肌肉紧绷。",
+            "created_at": "1967-06-01 04:00:00"
+        }
+    },
+    "node_74": {
+        "page_content": "1966年7月15日傍晚18点，我拖着疲惫的身体回到家中。屋里灯光昏黄，我坐在床边，回想着白天在农田里帮助同伴的场景。同伴感激的话语还在耳边回响，我的心里满是喜悦。我意识到，自己的一个小小举动，不仅帮助了别人，还让集体的氛围更加融洽。我暗暗下定决心，以后要更加关注同伴们的需求，主动伸出援手，为集体贡献更多的力量。",
+        "metadata": {
+            "node_id": "node_74",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "我帮助了同伴，他们很感激我，说明大家是互相关爱的，我也要继续帮助同伴，让大家的关系更好。",
+            "emotion": "喜悦且充满动力，这种积极的情感强度较高，性质是正向的，因为自己的行为得到了认可，感受到了集体的温暖。",
+            "behavior": "之后会更加主动地关注同伴需求，在集体劳动中积极伸出援手，这与中间信念中‘我也要帮助同伴’以及‘如果我帮助同伴，大家的关系会更好’相一致。",
+            "physiological_response": "可能会面带微笑，身体放松，呼吸平稳且均匀，这些生理反应体现出内心的愉悦和舒适。",
+            "created_at": "1966-07-15 18:00:00"
+        }
+    },
+    "node_73": {
+        "page_content": "1966年7月15日上午10点30分，在皖北农村集体公社的农田里，周围是待捆的麦秸和忙碌的社员。我来到同伴身边，微笑着主动提出帮忙。同伴起初有些不好意思，脸都红了，摆着手说不用。但我热情地拿起麦秸开始动手，他也就不再推辞。我们默契地配合着，很快麦秸就捆好了。同伴紧紧握住我的手，眼中满是感激，连声道谢。我笑着回应，然后我们又投入到了劳动中。",
+        "metadata": {
+            "node_id": "node_73",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "我帮助同伴捆麦秸，能让大家的关系更好，也说明集体劳动中大家是互相关爱的。",
+            "emotion": "开心、满足，强度适中",
+            "behavior": "笑着回应同伴，然后又投入到劳动中，继续积极帮助他人，这与‘我也要帮助同伴’的规则一致，体现出为了维护集体互相关爱的氛围而持续付出。",
+            "physiological_response": "面色红润，嘴角上扬，身体放松。",
+            "created_at": "1966-07-15 10:30:00"
+        }
+    },
+    "node_72": {
+        "page_content": "1966年7月15日上午10点，在皖北农村集体公社那片广袤的农田里，太阳高悬，酷热难耐。我正弯腰挥动着农具辛勤劳作，汗水湿透了衣衫。不经意间，我看到不远处有个同伴在捆麦秸时手忙脚乱，麦秸一次次散落。这时，几年前春梅帮我捆麦秸的场景浮现在脑海，温暖和感激涌上心头。我毫不犹豫地放下手中的活，快步穿过田间小道，朝同伴走去。",
+        "metadata": {
+            "node_id": "node_72",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "春梅曾经帮过我，现在同伴遇到困难，我也应该去帮他，这样大家的关系会更好。",
+            "emotion": "温暖且坚定，有较强的助人意愿",
+            "behavior": "毫不犹豫地放下手中的活，快步穿过田间小道，朝同伴走去，去帮助同伴捆麦秸。这与中间信念中‘我也要帮助同伴’以及‘如果我帮助同伴，大家的关系会更好’相一致。",
+            "physiological_response": "可能因为快步走动，心跳稍微加快，呼吸也会比正常劳作时急促一些。",
+            "created_at": "1966-07-15 10:00:00"
+        }
+    },
+    "node_71": {
+        "page_content": "1965年04月12日上午11点，在皖北农村集体公社的劳动场地，阳光有些刺眼。我看着修好的工具，心里还是七上八下的。开始干活后，我每做一个动作都要停顿一下，仔细想想这样做对不对。我的眼睛紧紧盯着手中的工具，额头上都冒出了汗珠。我不停地在心里提醒自己不能再犯错，害怕再次犯错会被同伴们孤立。不过，想到刚刚同伴们的帮助，我又觉得这个集体很温暖，也更想为集体做出贡献了。",
+        "metadata": {
+            "node_id": "node_71",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我要是在这次劳动中再犯错，就会被同伴们孤立，我就是个没用的人。",
+            "emotion": "紧张、害怕，强度较高，属于负面情感",
+            "behavior": "每做一个动作都停顿思考，眼睛紧紧盯着手中的工具，与中间信念中‘我在劳动中要格外小心，不能犯错’相一致，是为了避免犯错而产生的谨慎行为；同时因同伴帮助想为集体做贡献，体现了中间信念中积极参与集体劳动的想法。",
+            "physiological_response": "额头上冒出汗珠",
+            "created_at": "1965-04-12 11:00:00"
+        }
+    },
+    "node_70": {
+        "page_content": "1965年04月12日上午10点40分，在皖北农村集体公社工具房里，我紧张得眼泪都快出来了，声音颤抖着向同伴们道歉。我手忙脚乱地捡起地上的工具，手指都在不停地哆嗦。这时，春梅走过来，轻轻拍了拍我的肩膀，声音温和地安慰我。其他同伴也纷纷围过来，有的递工具，有的出主意，大家一起动手帮我修理。我心里又感动又害怕，感动于同伴们的宽容，又害怕这次错误会留下不好的影响。",
+        "metadata": {
+            "node_id": "node_70",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我在集体劳动中犯了错，我真是没用，同伴们肯定会因为我的错误而看不起我，还可能会孤立我。",
+            "emotion": "既感动又极度害怕，感动的强度为中等，害怕的强度为强烈",
+            "behavior": "紧张地向同伴们道歉，手忙脚乱地捡起地上的工具，接受同伴们的帮助，表现出慌乱和不知所措，这与中间信念中害怕犯错被同伴嫌弃的观念一致。",
+            "physiological_response": "眼泪快出来，声音颤抖，手指哆嗦，体现出极度的紧张和不安。",
+            "created_at": "1965-04-12 10:40:00"
+        }
+    },
+    "node_69": {
+        "page_content": "1965年04月12日上午10点30分，在皖北农村集体公社工具房里，大家都在紧张地忙碌着。我手里的工具突然滑落，‘哐当’一声砸在地上，声音在安静的工具房里格外刺耳。我看着损坏的工具，感觉血液都凝固了，心跳得飞快，脸上一阵阵地发烫。我不敢看周围同伴们的眼神，心里充满了恐惧，害怕他们会嫌弃我。",
+        "metadata": {
+            "node_id": "node_69",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我在集体劳动中犯错了，把工具弄坏了，我果然是没用的，同伴们肯定会因为我的错误而看不起我，还会孤立我。",
+            "emotion": "极度恐惧和自责，强度很高，性质为负面消极情绪。",
+            "behavior": "不敢看周围同伴们的眼神，可能会低下头，身体蜷缩，不敢有过多动作，试图减少自己的存在感，避免引起同伴注意，这与中间信念中害怕被同伴孤立的想法一致。",
+            "physiological_response": "感觉血液凝固，心跳飞快，脸上发烫，可能还会伴有出汗、手抖等症状。",
+            "created_at": "1965-04-12 10:30:00"
+        }
+    },
+    "node_68": {
+        "page_content": "1964年6月15日晚上9点，我回到家，把公社大会上领导表扬我，还给我奖励的事情讲给家人听。家人的脸上都洋溢着骄傲的笑容，他们鼓励我：“闺女，继续努力，以后肯定能做得更好。”夜晚，我躺在床上，白天的场景像电影一样在我脑海里回放。我想，我能得到集体的认可和关爱，都是我努力的结果。我暗暗下定决心，以后一定要更加积极地参与集体劳动，为集体做出更多的贡献。",
+        "metadata": {
+            "node_id": "node_68",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_8",
+            "auto_thought": "我在集体劳动中做出了贡献，得到了领导的表扬和奖励，还得到了家人的认可，说明我是有价值的，集体是关爱我的。我要继续为集体做出更多贡献，这样就能得到更多关爱。",
+            "emotion": "兴奋且充满动力，强度较高，是积极正向的情感。",
+            "behavior": "之后会更加主动地参与集体劳动，积极承担任务，帮助同伴，以实际行动为集体做更多贡献，这与中间信念中要为集体做出更多贡献相契合。",
+            "physiological_response": "心跳加快，可能会有轻微的失眠，因为大脑处于兴奋状态。",
+            "created_at": "1964-06-15 21:00:00"
+        }
+    },
+    "node_67": {
+        "page_content": "1964年6月15日上午9点30分，大会结束后，公社领导走到我面前，把一些生活用品递给我。我双手颤抖着接过，感觉这不仅仅是奖励，更是集体对我的肯定。我向领导深深地鞠了一躬，说：“谢谢领导。”这时，春梅走过来，拍了拍我的肩膀说：“王兰，你可真厉害，我们都要向你学习。”我笑着回答：“大家一起努力，都能做得很好。”其他同伴也围了过来，你一言我一语地和我交流着劳动的经验，我心里暖烘烘的。",
+        "metadata": {
+            "node_id": "node_67",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我连续三年获得劳动红旗，现在又得到领导奖励和同伴认可，证明我对集体有很大的贡献，是有价值的。",
+            "emotion": "自豪且温暖，强度较高。这种情感源于对自身价值得到集体肯定的喜悦和满足。",
+            "behavior": "笑着与同伴交流，鼓励大家一起努力。这与中间信念中积极参与集体、体现自身价值相契合，通过友好交流和鼓励同伴，进一步融入集体并展现自己的价值。",
+            "physiological_response": "双手颤抖，心里暖烘烘的。双手颤抖体现了当时激动的心情，心里暖烘烘则是情感上的温暖在生理上的体现。",
+            "created_at": "1964-06-15 09:30:00"
+        }
+    },
+    "node_66": {
+        "page_content": "1964年6月15日上午9点，在皖北农村集体公社大院里，阳光明媚。社员们都聚集在这里，公社领导站在主席台上，手里拿着我的劳动成果报告开始宣读。我站在台下，听着领导讲述我这两年在集体劳动中的表现，心里涌起一股暖流。我看到同伴们都在交头接耳，投来羡慕的目光，那一刻，我觉得自己的努力都值了，脸上的笑容怎么也藏不住。",
+        "metadata": {
+            "node_id": "node_66",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "领导宣读我的劳动成果，同伴们投来羡慕目光，说明我连续获得劳动红旗对集体贡献很大，我是有价值的，也得到了大家的认可。",
+            "emotion": "非常开心、自豪，情绪强度较高，属于积极正向的情感。",
+            "behavior": "脸上始终挂着笑容，可能会不自觉地挺胸抬头，向周围同伴点头示意，这些行为体现了她因为自己的价值得到认可而展现出自信和友好，与核心信念和中间信念中自己有价值、会得到同伴认可相契合。",
+            "physiological_response": "脸颊泛红，心跳稍微加快，身体感觉温暖而有活力。",
+            "created_at": "1964-06-15 09:00:00"
+        }
+    },
+    "node_65": {
+        "page_content": "1963年8月15日中午12点，在皖北农村集体公社的农田里，土地上已经有了不少翻好的痕迹。我按照同伴教的技巧重新拿起锄头干活，一开始动作很生硬，怎么都使不上劲。但我没有放弃，不断地尝试。渐渐地，我找到了感觉，锄头在我手里变得听话起来。随着我熟练地运用技巧，干活的效率明显提高，进度也越来越快。看着自己翻好的一大片土地，我心里涌起一股强烈的成就感。我意识到，只要努力提升自己的能力，就没有克服不了的困难。原来我并不是那么脆弱，我是有能力战胜困难的。",
+        "metadata": {
+            "node_id": "node_65",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_11",
+            "auto_thought": "我通过不断尝试克服了干活使不上劲的困难，说明我能克服困难，很坚韧，继续保持坚韧就能取得更多成就。",
+            "emotion": "充满自信且成就感强烈，情绪积极高昂。",
+            "behavior": "更加积极主动地投入到劳动中，可能会主动帮助其他同伴，并且会以更饱满的热情和更高的标准要求自己完成后续劳动任务。",
+            "physiological_response": "面色红润，呼吸平稳且有力，身体充满活力，动作更加轻快。",
+            "created_at": "1963-08-15 12:00:00"
+        }
+    },
+    "node_64": {
+        "page_content": "1963年8月15日上午10点30分，在皖北农村集体公社的农田里，周围的同伴都在忙碌地劳作着。我因为干不动那片硬土地，心情十分低落。但我咬咬牙，告诉自己不能这么脆弱下去，得想办法解决问题。我红着脸走到一位有经验的同伴身边，支支吾吾地说了自己的难处。这位同伴停下手中的活，热心地看着我，耐心地给我讲解应对这种土地的技巧。他一边说，一边用手比划着锄头的角度和发力的方法。我认真地听着，不时点头，心里默默记住这些要点。那一刻，我感受到了同伴的友好和集体的温暖，觉得大家是互相关爱的。",
+        "metadata": {
+            "node_id": "node_64",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "同伴愿意停下手中的活来帮我解决干不动硬土地的问题，说明他们关心我，集体里大家是互相关爱的。",
+            "emotion": "温暖、感激，强度较强。这种情感源于感受到同伴的友好和集体的关爱，与核心信念中‘我是被关爱的’相呼应。",
+            "behavior": "认真倾听同伴讲解，不时点头，心里默默记住要点。这一行为体现了对同伴帮助的尊重和重视，也符合中间信念中‘我也要帮助同伴’所传达的积极互动态度，通过认真学习来回应同伴的关爱。",
+            "physiological_response": "脸红逐渐消退，情绪放松，身体不再紧绷。这是因为之前因干不动活而心情低落、紧张，在得到同伴帮助后，心理压力得到缓解，身体也随之放松。",
+            "created_at": "1963-08-15 10:30:00"
+        }
+    },
+    "node_63": {
+        "page_content": "1963年8月15日上午9点，在皖北农村集体公社的农田里，土地硬邦邦的，到处都是石头。公社接到紧急任务，要我们在短时间内完成这片农田的深耕工作。我一开始充满干劲，拿起锄头就开始用力挖。可没干多久，我就发现这土地太难对付了，锄头下去只能挖出浅浅的一层土。我累得腰酸背痛，抬头看看其他同伴，他们虽然也很吃力，但进度明显比我快。我的心里又急又沮丧，感觉自己特别没用，在这么困难的任务面前完全力不从心。我担心同伴们会嫌弃我，害怕自己成了集体的负担，越想越觉得自己脆弱。",
+        "metadata": {
+            "node_id": "node_63",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_5",
+            "intermediate_belief_id": "intermediate_belief_10",
+            "auto_thought": "遇到这么困难的劳动任务我力不从心，我真是太脆弱了，同伴们肯定会觉得我能力不足，我会成为集体的负担。",
+            "emotion": "极度沮丧和焦虑，强度较高，性质为负面消极情绪，对自己的能力产生强烈怀疑。",
+            "behavior": "可能会放慢锄头的挥动速度，甚至暂时停下手中的活，不敢再抬头看其他同伴，害怕看到他们的进度。这种行为与认为自己脆弱、担心被同伴嫌弃的核心信念和中间信念相一致，因为觉得自己能力不足，所以不敢积极行动。",
+            "physiological_response": "心跳加速，呼吸变得急促，额头冒出冷汗，原本就酸痛的腰背更加疼痛，肌肉也变得更加紧绷。",
+            "created_at": "1963-08-15 09:00:00"
+        }
+    },
+    "node_62": {
+        "page_content": "1963年05月15日下午4点，在皖北农村集体公社会议室门口，人群渐渐散去。这时，几个同伴朝我走过来，他们脸上带着赞许的笑容。其中一个同伴拍了拍我的肩膀说：“王兰，你做得太对了，维护了咱们集体的公平和荣誉。”其他同伴也纷纷点头表示赞同。我听着他们的话，心里像吃了蜜一样甜，那种欣慰的感觉涌上心头。我更加坚定了自己的信念，只要坚持做正确的事，保持坚韧和正直，就一定会得到大家的认可。",
+        "metadata": {
+            "node_id": "node_62",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_12",
+            "auto_thought": "我面对不公平竞争保持坚韧，坚持做正确的事，果然得到了大家的认可。",
+            "emotion": "自豪且欣慰，强度较高，属于积极正向的情感",
+            "behavior": "会微笑着和同伴交流，并且表示会继续保持这样的态度和做法，这与中间信念中要在面对不公平竞争时保持坚韧相契合",
+            "physiological_response": "面色红润，心跳稍微加快，可能会不自觉地挺直腰板",
+            "created_at": "1963-05-15 16:00:00"
+        }
+    },
+    "node_61": {
+        "page_content": "1963年05月15日下午3点，在皖北农村集体公社会议室里，气氛有些严肃。我坐在台下，回想着上午看到二柱偷藏红旗的场景，内心很不是滋味。集体负责人站在前面，严肃地讲述着调查结果，证实了二柱偷藏红旗的事。二柱低着头，不敢看大家的眼睛。我看着他那副样子，虽然觉得他受到批评是罪有应得，但还是忍不住有些感慨，毕竟大家都是一起劳动的同伴。",
+        "metadata": {
+            "node_id": "node_61",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_12",
+            "auto_thought": "即使有人偷藏红旗搞不公平竞争，但我没有气馁继续努力，我的坚韧最终会得到认可。",
+            "emotion": "欣慰且坚定，欣慰的情绪强度为中等，坚定的情绪强度较高",
+            "behavior": "坐得更端正，眼神变得更加坚定，以积极的姿态面对会议，这与要在面对不公平竞争时保持坚韧的中间信念相一致。",
+            "physiological_response": "呼吸平稳，可能会不自觉地坐直身体，肌肉有轻微的紧绷感。",
+            "created_at": "1963-05-15 15:00:00"
+        }
+    },
+    "node_60": {
+        "page_content": "1963年05月15日上午10点，在皖北农村集体公社仓库里，里面杂乱地堆放着各种劳动工具。我进去拿工具时，眼角余光瞥见二柱在仓库角落鬼鬼祟祟的。我悄悄走近一看，只见他正把墙上的一面劳动红旗往自己衣服里塞。我的心猛地一紧，一股怒火直冲脑门。这劳动红旗是我们集体劳动的荣誉象征，他怎么能这么自私地想据为己有呢？我又替他感到羞愧，他怎么能做出这种违背集体规则的事。我站在那里，气得手都微微颤抖。",
+        "metadata": {
+            "node_id": "node_60",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_12",
+            "auto_thought": "二柱偷藏红旗这种不公平竞争行为是不对的，我不能气馁，要继续保持坚韧，不能被他打败。",
+            "emotion": "愤怒且坚定，愤怒情绪强度较高，对二柱的行为感到不齿；坚定情绪也较强，决心保持坚韧应对此事。",
+            "behavior": "可能会直接站出来指责二柱的行为，要求他把红旗放回原处，表明自己会继续努力争取荣誉，不会受此影响。这与中间信念中在面对不公平竞争时要保持坚韧相符合。",
+            "physiological_response": "气得手微微颤抖，心跳加速，呼吸变急促。",
+            "created_at": "1963-05-15 10:00:00"
+        }
+    },
+    "node_59": {
+        "page_content": "1962年6月30日晚上9点，在皖北农村集体公社宿舍，周围很安静。我躺在床上，脑海里不断浮现着评选时的场景。月光透过窗户洒在我脸上，我暗暗下定决心，不能因为这两次的成功就骄傲自满，我要继续努力，不然就会失去大家的认可。",
+        "metadata": {
+            "node_id": "node_59",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我连续三年获得劳动红旗，要是因为这两次成功就骄傲自满，不再继续努力，就会失去大家的认可。",
+            "emotion": "严肃且坚定，有一定紧张感，担心因懈怠失去认可",
+            "behavior": "会在后续集体劳动中更加积极主动，严格要求自己，争取完成更多任务，保持优秀表现",
+            "physiological_response": "可能会心跳稍微加快，呼吸变得平稳且深沉，大脑处于相对兴奋状态",
+            "created_at": "1962-06-30 21:00:00"
+        }
+    },
+    "node_58": {
+        "page_content": "1962年6月30日上午10点30分，在皖北农村集体公社大院，气氛格外紧张。当评选结果宣布我的名字时，我感觉自己像是在做梦。大院里瞬间热闹起来，同伴们的祝贺声在我耳边响起，我激动得说不出话，泪水模糊了双眼。这一刻，我觉得之前所有的付出都值了。",
+        "metadata": {
+            "node_id": "node_58",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我连续三年获得劳动红旗，证明我对集体有很大的贡献，是有价值的，同伴们会羡慕我的成就，认可我的价值。",
+            "emotion": "极度激动和自豪，强度很高，属于积极正向的情感。",
+            "behavior": "激动得说不出话，可能会与祝贺的同伴们握手、拥抱，以表达对大家认可的回应，这与中间信念中认为积极参与集体劳动获得成就会得到同伴认可相契合。",
+            "physiological_response": "泪水模糊了双眼，心跳加速，可能还会有脸红、呼吸急促等表现。",
+            "created_at": "1962-06-30 10:30:00"
+        }
+    },
+    "node_57": {
+        "page_content": "1962年6月1日早上6点，在皖北农村集体公社的农田和仓库，为了即将到来的劳动红旗评选，我一刻也不敢松懈。在农田里，我和同伴们一起弯腰劳作，太阳晒得我头晕目眩，但我不敢停下。晚上，仓库里弥漫着陈旧农具的味道，我一个人默默地整理着，耳边不时传来同伴们私下的议论声。可一想到拿到红旗就能证明自己，我就又充满了干劲。",
+        "metadata": {
+            "node_id": "node_57",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我必须努力争取劳动红旗，要是没拿到红旗，就说明我不够好，是没用的。",
+            "emotion": "紧张且充满斗志，紧张是因为担心拿不到红旗证明自己没用，斗志是为了拿到红旗证明自己的价值。",
+            "behavior": "在农田里即便头晕目眩也不停止劳作，晚上独自在仓库默默整理农具，不被同伴的议论声干扰，继续努力。这些行为与中间信念中‘必须努力争取劳动红旗’相一致。",
+            "physiological_response": "头晕目眩，可能还会有心跳加速、出汗等表现，这是由于长时间劳作和精神紧张导致的。",
+            "created_at": "1962-06-01 06:00:00"
+        }
+    },
+    "node_56": {
+        "page_content": "1962年2月1日上午11点15分，在皖北农村我的家中，床边放着几副熬好的中药。阳光透过窗户洒在床沿，我躺在那里，回想着之前听到的同伴议论，心里又难过又自责。但我突然握紧了拳头，暗暗发誓一定要尽快好起来。我告诉自己不能这么脆弱，要重新成为集体里有用的人。从那以后，我开始积极配合治疗，盼着自己能早日回到田野里。",
+        "metadata": {
+            "node_id": "node_56",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_5",
+            "intermediate_belief_id": "intermediate_belief_9",
+            "auto_thought": "我生病不能参加劳动，成了集体的负担，同伴们会嫌弃我，我得尽快恢复健康回到劳动中。",
+            "emotion": "难过、自责且带着强烈的决心",
+            "behavior": "积极配合治疗，盼着早日回到田野参与集体劳动，符合‘我要尽快恢复健康，回到劳动中’的规则。",
+            "physiological_response": "握紧拳头，可能伴随心跳加快",
+            "created_at": "1962-02-01 11:15:00"
+        }
+    },
+    "node_55": {
+        "page_content": "1962年2月1日上午10点30分，在皖北农村我的家中，屋内弥漫着浓浓的药味。我正迷迷糊糊地躺着，突然听到屋子外面公社同伴们小声的议论。一个说：‘王兰这次怕是不能承担劳动任务了。’另一个马上附和。我的心像被重锤砸了一下，又难过又自责，眼泪止不住地流下来，觉得自己真的成了大家的累赘。",
+        "metadata": {
+            "node_id": "node_55",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_5",
+            "intermediate_belief_id": "intermediate_belief_9",
+            "auto_thought": "我生病不能参加劳动，真的成了集体的负担，同伴们会嫌弃我。",
+            "emotion": "难过且自责，情绪强度强烈",
+            "behavior": "可能会暗自下定决心尽快恢复健康，比如更积极配合治疗，按时吃药等，这与中间信念中‘我要尽快恢复健康，回到劳动中’相一致。",
+            "physiological_response": "眼泪止不住地流下来，心跳可能加快，呼吸可能变得急促。",
+            "created_at": "1962-02-01 10:30:00"
+        }
+    },
+    "node_54": {
+        "page_content": "1962年2月1日上午9点，在皖北农村我的家中，我躺在那张破旧的木床上，透过窗户看着外面田野里同伴们忙碌的身影。阳光洒在他们身上，可我却因为生病只能卧床。我心里着急得很，知道集体劳动离不开我，可现在我却什么都做不了。想到自己成了集体的负担，眼泪忍不住在眼眶里打转。",
+        "metadata": {
+            "node_id": "node_54",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_5",
+            "intermediate_belief_id": "intermediate_belief_9",
+            "auto_thought": "我因为生病不能参加劳动，成了集体的负担，同伴们会嫌弃我。",
+            "emotion": "焦虑、自责且沮丧，情绪强度较高",
+            "behavior": "可能会在床上辗转反侧，尝试挣扎着起身想要去参加劳动，以此来摆脱成为负担的状况，与中间信念中想要尽快恢复健康回到劳动中一致",
+            "physiological_response": "心跳加快，呼吸急促，眼泪在眼眶里打转",
+            "created_at": "1962-02-01 09:00:00"
+        }
+    },
+    "node_53": {
+        "page_content": "1961年7月15日下午1点10分，在皖北农村集体公社的农田里，休息结束后大家又开始干活。我心里一直想着刚才在田埂上的尴尬事，干活都没了力气，心情低落到了极点。就在这时，春梅走了过来，她关切地看着我，问我是不是身体不舒服。我就把刚才自己鼓起勇气去和大家聊天，却被大家奇怪眼神对待的事情，还有我心里的委屈和孤独，一股脑都告诉了她。春梅听了，拍了拍我的肩膀，笑着说：“别多想啦，大家没有不接纳你，就是我们刚才聊的话题有点私人，你一来我们就不好意思说了。”听了她的话，我心里像照进了一束光，一下子就亮堂起来了，也重新有了想要融入集体的勇气和希望。",
+        "metadata": {
+            "node_id": "node_53",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "大家刚才奇怪的眼神是因为聊的话题私人，不是不接纳我，我还是可以融入集体的。",
+            "emotion": "原本低落的情绪一扫而空，变得开心、充满希望，情绪强度较高。",
+            "behavior": "重新振作起来，恢复干活的力气，更加积极地参与集体劳动，尝试和其他同伴交流。这与中间信念中要融入集体，减少孤独感相契合。",
+            "physiological_response": "原本无力的状态得到改善，身体变得有活力，呼吸变得顺畅，面色也恢复红润。",
+            "created_at": "1961-07-15 13:10:00"
+        }
+    },
+    "node_52": {
+        "page_content": "1961年7月15日中午12点45分，还是在皖北农村集体公社的农田田埂上。我坐在田埂上，心里一直在挣扎，最后终于咬咬牙站起身，朝着同伴们走去。可就在我快走近的时候，他们的聊天声突然停了下来，所有人都转过头，用一种我看不懂的眼神看着我。我的脸一下子就红了，感觉血液都往头上涌，喉咙也像被什么东西堵住了，想说的话怎么也说不出口。我站在那里，尴尬得恨不得找个地缝钻进去，只好默默地转身，又回到了田埂上坐下。我心里又沮丧又难过，觉得自己果然是个外人，根本没办法融入这个集体。",
+        "metadata": {
+            "node_id": "node_52",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "他们背着我聊天，突然不说话还这样看我，是不想让我参与他们的话题，我被孤立了，在这个集体里我很难找到真正的归属感。",
+            "emotion": "沮丧、难过且尴尬，强度较强",
+            "behavior": "默默地转身，回到田埂上坐下，体现了因觉得被孤立而不敢再尝试融入集体，与中间信念中认为不融入集体会更孤独但又难以融入的情况相符",
+            "physiological_response": "脸一下子红了，感觉血液往头上涌，喉咙像被东西堵住",
+            "created_at": "1961-07-15 12:45:00"
+        }
+    },
+    "node_51": {
+        "page_content": "1961年7月15日中午12点30分，在皖北农村集体公社的农田田埂上，集体劳动进行到一半迎来了休息时间。我一直低着头干活，等大家都开始休息聊天，我才猛地反应过来，自己和同伴们几乎没怎么交流。我看到他们自然地围在一起，欢声笑语不断，而我却孤零零地站在一旁。我一个人走到田埂上坐下，心里满是懊悔，怪自己只知道干活，把和大家相处的时间都错过了。现在想加入他们，却感觉有一道无形的墙挡在中间，孤独的感觉像潮水一样把我淹没了。",
+        "metadata": {
+            "node_id": "node_51",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我一直只顾着干活，没和大家交流，现在他们都有自己的圈子在聊天，不会在意我，我好孤独。",
+            "emotion": "强烈的孤独和懊悔，孤独感如潮水般强烈且持续，懊悔自己没有把握好和大家相处的时间。",
+            "behavior": "一个人坐在田埂上，没有主动去尝试融入同伴们的聊天，符合‘不融入集体会更孤独，但此时因觉得有障碍而未行动’的中间信念。",
+            "physiological_response": "可能会出现叹气、肩膀耷拉、眼神黯淡等表现，身体姿态显得比较萎靡。",
+            "created_at": "1961-07-15 12:30:00"
+        }
+    },
+    "node_50": {
+        "page_content": "1961年6月1日上午10点，我一个人默默地回到皖北农村集体劳动场地。看着地上还未完成的工作，我的心里五味杂陈。刚刚评选失败的沮丧还在心头，但我不想就这么放弃。我握紧了拳头，暗暗发誓，下次一定要拿到红旗，证明自己的价值。从那以后，我每天都第一个到劳动场地，最后一个离开，遇到不懂的就向有经验的同伴请教。我相信，只要我坚持不懈，就一定能实现自己的目标。",
+        "metadata": {
+            "node_id": "node_50",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "这次评选失败了，说明我没拿到红旗，我不够好，是没用的。我必须努力争取劳动红旗，下次拿到红旗就能证明自己的价值。",
+            "emotion": "沮丧但又充满斗志，沮丧情绪较强，斗志随着决心逐渐增强",
+            "behavior": "每天第一个到劳动场地，最后一个离开，遇到不懂的就向有经验的同伴请教，这些行为与‘我必须努力争取劳动红旗’的规则相一致，是为了实现拿到红旗证明自己价值的目标",
+            "physiological_response": "可能会有心跳加速，握拳时肌肉紧绷，可能还会有呼吸稍微急促的表现",
+            "created_at": "1961-06-01 10:00:00"
+        }
+    },
+    "node_49": {
+        "page_content": "1961年6月1日上午9点30分，在皖北农村集体公社大院里，公布评选结果的声音回荡在空气中。当我听到自己的名字不在获奖名单里时，只觉得脑袋“嗡”的一声，仿佛周围的热闹都与我无关了。我看着旁边拿到红旗的同伴们，他们欢呼着、跳跃着，脸上洋溢着自豪的笑容。而我，只能默默地低下头，眼泪在眼眶里打转。我不停地问自己，为什么我这么没用，连个红旗都拿不到。",
+        "metadata": {
+            "node_id": "node_49",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我没拿到劳动红旗，说明我不够好，是没用的，会被同伴们认为是没用的人，还会被孤立。",
+            "emotion": "极度沮丧、自卑，强度非常高，性质为负面消极情绪。",
+            "behavior": "默默地低下头，避免与同伴目光接触，可能会远离热闹的人群，独自待着，符合中间信念中认为拿不到红旗会被孤立，所以选择自我孤立的行为模式。",
+            "physiological_response": "脑袋“嗡”的一声，眼泪在眼眶里打转，可能还会有心跳加快、呼吸变急促等表现。",
+            "created_at": "1961-06-01 09:30:00"
+        }
+    },
+    "node_48": {
+        "page_content": "1961年6月1日上午9点，在皖北农村集体公社大院里，人群熙熙攘攘。我站在人群中，眼睛紧紧盯着前方公布评选结果的地方，心“砰砰”直跳。自从听说公社要推行劳动红旗评选制度，我就满心期待。评选前的日子里，我每天天不亮就来到劳动场地，认真地完成每一项任务，手上磨出了茧子也不觉得疼。我心里想着，只要我努力，就一定能得到大家的认可。",
+        "metadata": {
+            "node_id": "node_48",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我每天天不亮就来劳动，认真完成每项任务，手上磨出茧子也坚持，我这么努力，这次一定能拿到劳动红旗，证明我对集体有很大贡献，是有价值的。",
+            "emotion": "紧张且期待，强度较高。既担心自己拿不到红旗，又满怀希望能通过这次评选证明自己的价值。",
+            "behavior": "身体不自觉地前倾，眼睛紧紧盯着公布结果的地方，一动不动，生怕错过自己的名字。这种行为与中间信念中想要通过拿到红旗证明自己价值的想法一致，因为太渴望结果，所以全神贯注关注公布情况。",
+            "physiological_response": "心跳加速，能明显感觉到心脏“砰砰”直跳；手心微微出汗，身体有些紧绷。",
+            "created_at": "1961-06-01 09:00:00"
+        }
+    },
+    "node_47": {
+        "page_content": "1961年3月15日晚上6点，我回到家中。屋内有些昏暗，我坐在床边，回想起白天在麦场的经历。我心里既高兴又担心，高兴的是在春梅的帮助下我掌握了捆麦秸的技巧，得到了同伴们的认可；可又担心自己只是偶尔表现好，下次要是再犯错，之前建立起来的好印象就没了，又会被同伴们嫌弃。我告诉自己，以后干活一定要格外小心，不能再出错了。",
+        "metadata": {
+            "node_id": "node_47",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "这次在春梅帮助下表现好得到认可，要是下次劳动犯错，同伴们就会嫌弃我，证明我是没用的。",
+            "emotion": "既兴奋又焦虑，兴奋程度中等，焦虑程度偏高",
+            "behavior": "提醒自己以后干活要格外小心，可能会在脑海中反复回忆捆麦秸的正确技巧，为下次劳动做准备。这与中间信念中‘我在劳动中要格外小心，不能犯错’相一致。",
+            "physiological_response": "心跳可能会微微加快，手心可能会有轻微出汗的现象",
+            "created_at": "1961-03-15 18:00:00"
+        }
+    },
+    "node_46": {
+        "page_content": "1961年3月15日上午9点30分，在皖北农村集体公社麦场，在春梅耐心的教导下，我慢慢地掌握了捆麦秸的技巧，速度也越来越快。周围的同伴们注意到了我的变化，纷纷朝我投来赞许的目光。我心里乐开了花，感觉自己的努力得到了认可，证明了自己是有价值的。我暗暗告诉自己，以后一定要更加积极地参与集体劳动，争取获得更多的认可。",
+        "metadata": {
+            "node_id": "node_46",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我在春梅的教导下掌握了捆麦秸技巧，还得到同伴赞许，说明我积极参与集体劳动体现了自己的价值，我之后要更积极参与。",
+            "emotion": "开心、充满动力，强度较高，属于积极正向的情感。",
+            "behavior": "之后会更主动地参与集体劳动中的各项任务，主动承担更多工作，与同伴交流也会更加积极。这与中间信念中‘我要积极参与集体劳动’相符合，通过积极的行为来体现自身价值。",
+            "physiological_response": "面带微笑，可能会不自觉地挺直腰板，精神状态饱满。",
+            "created_at": "1961-03-15 09:30:00"
+        }
+    },
+    "node_45": {
+        "page_content": "1961年3月15日上午9点，在皖北农村集体公社麦场，麦秸堆得高高的，周围的同伴们都在熟练地捆着麦秸。我第一次干这个活，心里紧张得不行，手一直抖，怎么都捆不紧。春梅看到我着急的样子，走过来轻轻地拍了拍我的肩膀，笑着说：'兰妹子，别慌，我教你。'她手把手地教我，我心里特别感激她，但又觉得自己太笨了。我担心自己要是再犯错，同伴们肯定会看不起我，觉得我是个没用的人。",
+        "metadata": {
+            "node_id": "node_45",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "youth",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我第一次干这个活就总是犯错，我真是个没用的人，同伴们肯定会看不起我。",
+            "emotion": "羞愧、焦虑，强度较强，属于负面消极情感。",
+            "behavior": "更加小心翼翼地跟着春梅学习捆麦秸，不敢有丝毫懈怠，生怕再犯错，与中间信念中'我在劳动中要格外小心，不能犯错'相一致。",
+            "physiological_response": "心跳加速，手心出汗，手抖得更厉害。",
+            "created_at": "1961-03-15 09:00:00"
+        }
+    },
+    "node_44": {
+        "page_content": "1960年8月15日下午3点，皖北农村的农田里，原本枯黄的庄稼重新泛起了绿意。经过两个月的努力，庄稼终于保住了一部分。村民们欢呼雀跃，我也激动得热泪盈眶。大家围在我身边，纷纷夸赞我在这次抗旱行动中表现出色，说我的坚韧和付出大家都看在眼里。听着大家的夸奖，我心里像吃了蜜一样甜，充满了成就感。我觉得自己的努力没有白费，在这场灾难面前，我用自己的行动证明了自己的价值。",
+        "metadata": {
+            "node_id": "node_44",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我在抗旱行动中的努力和付出得到了大家的认可，说明我在集体中是有价值的，能为大家做出贡献。",
+            "emotion": "强烈的喜悦和自豪，充满成就感",
+            "behavior": "微笑着和村民们交流，接受大家的夸赞，并且表示会继续为集体贡献自己的力量，之后可能会更加积极主动地参与集体事务。这种行为与中间信念中要继续在家庭和集体中承担责任、为家人和集体付出相符合，因为得到认可后更坚定了继续付出体现价值的想法。",
+            "physiological_response": "脸颊泛红，心跳加快，眼睛明亮有神",
+            "created_at": "1960-08-15 15:00:00"
+        }
+    },
+    "node_43": {
+        "page_content": "1960年6月15日中午11点半，会议一结束，我就和村民们一起投入到了挑水浇地的工作中。天还没亮，我们就来到了河边，打满两桶水，然后挑着往农田走去。一开始，扁担压在肩膀上，疼得我眼泪都快出来了，脚步也有些踉跄。但是我咬着牙，告诉自己一定要坚持。在挑水的路上，村民们都很照顾我。有位大哥帮我调整了扁担的位置，说这样能减轻点重量；还有位大姐在旁边给我加油打气，让我别放弃。我感受到了大家的关心和集体的力量，心里暖乎乎的。我在心里对自己说，一定要坚持下去，不能让大家失望。",
+        "metadata": {
+            "node_id": "node_43",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_11",
+            "auto_thought": "大家这么照顾我、鼓励我，我一定要保持积极心态，克服挑水的困难，不能让大家失望。",
+            "emotion": "充满斗志、感激，强度较强",
+            "behavior": "咬着牙，更加坚定地挑着水继续往农田走，不轻易放弃，努力跟上大家的节奏。这种行为与核心信念中认为自己是坚韧的，以及中间信念中要保持积极心态面对困难相符合，体现了坚韧和积极应对困难的态度。",
+            "physiological_response": "原本因疼痛而紧张的肌肉逐渐放松，呼吸可能会变得更加平稳有力，可能会因为内心的鼓舞而面色红润。",
+            "created_at": "1960-06-15 11:30:00"
+        }
+    },
+    "node_42": {
+        "page_content": "1960年6月15日上午10点，皖北农村村口的老槐树下，聚集了一群心急如焚的村民。连续几个月滴雨未下，村里的庄稼都快旱死了。大家围在一起，你一言我一语地讨论着对策。有人提议打井取水，有人说要去远处的河里挑水。我跟着丈夫也站在人群中，虽然我年纪小，但看着那一片枯黄的庄稼，我心里特别着急。我心想，我一定要为村里出份力，不能看着庄稼就这么旱死。于是，我鼓起勇气，大声说我愿意和大家一起挑水浇地。那一刻，我感觉自己充满了力量。",
+        "metadata": {
+            "node_id": "node_42",
+            "node_type": "long_term",
+            "event_id": "10",
+            "extended_event_id": "10_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_11",
+            "auto_thought": "庄稼旱死问题严峻，我要像拿出嫁妆换牛车那样坚韧，积极参与挑水浇地，为村里出份力，这样就能克服庄稼干旱的困难。",
+            "emotion": "充满斗志，积极向上，情绪强度较高。",
+            "behavior": "主动站出来大声表明愿意和大家一起挑水浇地，之后积极准备挑水工具，投入到挑水工作中。这种行为体现了在坚韧的核心信念和保持积极心态面对困难的中间信念驱动下，积极承担责任解决问题。",
+            "physiological_response": "心跳加速，热血沸腾，身体充满力量感。",
+            "created_at": "1960-06-15 10:00:00"
+        }
+    },
+    "node_41": {
+        "page_content": "1958年10月1日晚上，在皖北农村王兰新家的屋内，自从我受伤后，丈夫每天都细心地照顾我。他按时为我熬药，给我做好吃的，把我照顾得无微不至。看着他忙碌的身影，我心里满是感激。今天晚上，我主动和他聊了很多，把我心里的感受都告诉了他。他听着，笑着点点头。那一刻，我觉得我们的心靠得更近了。我暗暗发誓，以后一定要更加珍惜这份感情，为这个家多付出一些。",
+        "metadata": {
+            "node_id": "node_41",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "丈夫这么细心照顾我，还认真听我倾诉，说明他很珍惜我，我是被关爱的。",
+            "emotion": "幸福且充满安全感，这种情感强度较高，性质积极。",
+            "behavior": "会更主动地与丈夫交流互动，在之后的日子里按照中间信念中提到的，更积极地为家庭付出，比如伤好后多承担家务等，以此来回应丈夫的关爱，体现家庭的和睦。",
+            "physiological_response": "面色红润，心跳平稳且较平时稍慢，身体处于一种放松舒适的状态。",
+            "created_at": "1958-10-01 19:00:00"
+        }
+    },
+    "node_40": {
+        "page_content": "1958年9月15日上午，在皖北农村王兰新家的屋内，草药熬好了。丈夫端着热气腾腾的药碗，轻轻走到我床边。他坐在床边，用勺子舀起一勺药，放在嘴边小心翼翼地吹凉，然后慢慢送到我嘴边。他看着我，温柔地说：'别着急，很快就会好起来的。'那关切的眼神，就像一道温暖的光，照进了我的心里。我喝着药，心里满是温暖，觉得自己在这个家里是那么的重要。",
+        "metadata": {
+            "node_id": "node_40",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "丈夫这么细心照顾我，说明他很在乎我，我在这个家里是被关爱的。",
+            "emotion": "感动且充满幸福感，情感强度较强",
+            "behavior": "微笑着看着丈夫，伸手轻轻握住丈夫的手，表达对丈夫关爱的回应，这与相信家人的爱并接受家人关爱的中间信念相一致。",
+            "physiological_response": "面色红润，心跳平稳且稍加快，身体感觉温暖。",
+            "created_at": "1958-09-15 08:30:00"
+        }
+    },
+    "node_39": {
+        "page_content": "1958年9月15日早上，在皖北农村的田间，我不小心摔倒，疼得动弹不得。丈夫看到后，急忙跑过来，满脸焦急，小心翼翼地把我背回了家。到家后，他顾不上休息，就开始四处打听治疗的药方。得知草药汤有用后，天还没亮他就进山采药了。等他回来，我看到他满头大汗，手里还紧紧握着采来的草药。他把草药放在灶台上，就开始生火熬药，那专注的样子让我心里特别感动。",
+        "metadata": {
+            "node_id": "node_39",
+            "node_type": "long_term",
+            "event_id": "9",
+            "extended_event_id": "9_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "丈夫这么尽心尽力地照顾我，说明他很珍惜我，我是被关爱的。",
+            "emotion": "感动且充满安全感，这种情感强度较强，性质是温暖而积极的。",
+            "behavior": "可能会轻声对丈夫表达感谢，也会更加配合治疗，比如乖乖喝药等，这与相信家人的爱并接受家人关爱的中间信念相一致。",
+            "physiological_response": "心跳可能会稍微加快，脸上会浮现出温柔的神情，身体的疼痛感似乎也会有所减轻。",
+            "created_at": "1958-09-15 07:00:00"
+        }
+    },
+    "node_38": {
+        "page_content": "1958年7月15日上午11点10分，在皖北农村集体劳动场地，阳光依旧炽热，村民们在地里来来往往，继续着手中的活计。我简单地处理了一下手上的伤口，然后重新回到了劳动队伍中。我不再像以前那样和周围的人交流，只是默默地干着活。我心里想着，只要把活干好就行，不需要别人的关心。在接下来的劳动中，即使遇到了一些小困难，我也选择自己默默解决，不再向他人寻求帮助。周围的人并没有注意到我的变化，而我也渐渐习惯了这种独自面对一切的状态。",
+        "metadata": {
+            "node_id": "node_38",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_6",
+            "auto_thought": "别人都有自己的事情，不会帮我分担，我只能靠自己解决劳动中的困难。",
+            "emotion": "平静且有些孤独，孤独感强度适中。",
+            "behavior": "不再和周围人交流，默默干活，遇到小困难自己解决，不向他人寻求帮助，这种行为与‘我要依靠自己解决问题’的中间信念一致。",
+            "physiological_response": "可能会有轻微的肌肉紧张，手上伤口处可能会有隐隐的痛感。",
+            "created_at": "1958-07-15 11:10:00"
+        }
+    },
+    "node_37": {
+        "page_content": "1958年7月15日上午10点45分，我一个人坐在皖北农村集体劳动场地的田埂上，田埂边的野草在微风中轻轻摇曳，不远处是村民们忙碌的身影。我看着手上还在渗血的伤口，心里越想越难受。脑海中不禁浮现出之前用嫁妆钱换牛车的场景，那时也没有人真正理解我的苦衷。我觉得自己总是一个人面对生活中的困难，没有一个人能与我分担。我张了张嘴，想向周围的人求助，可是看到大家都在为了生活辛苦劳作，我又把到嘴边的话咽了回去。我默默地对自己说，要学会自己承受孤独，不要再指望别人的关心了。",
+        "metadata": {
+            "node_id": "node_37",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我为了换牛车拿出嫁妆没人理解，现在手上受伤也没人能分担我的痛苦，别人不会在意我内心感受，我只能自己承受孤独。",
+            "emotion": "孤独且无助，这种情绪强度较强，性质偏向消极。",
+            "behavior": "默默坐在田埂上，不再向周围人求助，自己默默承受手上伤口带来的痛苦，这与‘要学会自己承受孤独，不要再指望别人的关心’的中间信念相一致。",
+            "physiological_response": "可能会出现叹气、眼神黯淡、肩膀微微下垂等表现。",
+            "created_at": "1958-07-15 10:45:00"
+        }
+    },
+    "node_36": {
+        "page_content": "1958年7月15日上午10点30分，在皖北农村集体劳动场地，地里的庄稼在烈日下显得有些萎靡，周围是村民们忙碌劳作的身影，尘土飞扬。我和大家一起在地里干活，每个人都为了完成劳动任务而忙碌着。我全神贯注地干着手中的活，突然，一阵剧痛从手上袭来，我不小心被农具弄伤了，鲜血顺着手指流了下来。我疼得直咧嘴，可环顾四周，大家都在埋头苦干，根本没人注意到我。看着伤口不断涌出的鲜血，我心里委屈极了，感觉自己在这忙碌的世界里是那么渺小，没有人会在意我的伤痛。",
+        "metadata": {
+            "node_id": "node_36",
+            "node_type": "long_term",
+            "event_id": "8",
+            "extended_event_id": "8_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我受伤了，没人注意到我，也没人会在意我内心的感受，我好孤独。",
+            "emotion": "强烈的委屈和孤独感",
+            "behavior": "强忍着疼痛，自己找个角落简单处理伤口，不向他人求助，继续默默干活，不想让别人看到自己的脆弱。这与中间信念中‘要学会自己承受孤独，避免被别人嘲笑’相一致。",
+            "physiological_response": "伤口疼痛导致身体微微颤抖，心跳加快，因强忍着疼痛额头冒出冷汗。",
+            "created_at": "1958-07-15 10:30:00"
+        }
+    },
+    "node_35": {
+        "page_content": "1958年05月08日下午2点45分，在皖北农村集体劳动场地的一角，我找到生产队长，鼓起勇气说：'队长，我想在完成轻省活计的同时，学习一些其他的劳动技能。'队长看着我，点了点头说：'行，你这孩子积极上进，我给你安排个师傅。'不一会儿，队长就带了一位经验丰富的师傅过来。师傅开始教我新技能，我学得特别认真，眼睛紧紧地盯着师傅的每一个动作，每一个步骤都仔细琢磨。遇到不懂的地方，我就赶紧问师傅，师傅也很耐心地给我解答。学了一会儿，师傅笑着说：'你这孩子聪明又勤奋，学得真快。'听了师傅的话，我心里充满了信心，觉得自己一定能不断提升自己，展现更多的价值。",
+        "metadata": {
+            "node_id": "node_35",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "我抓住了学习新技能的机会，师傅夸我学得快，说明我有一定的智慧和能力，能让更多人看到我的价值。",
+            "emotion": "充满信心、兴奋，强度较高，属于积极正向的情感。",
+            "behavior": "继续全神贯注地学习新技能，更加积极主动地向师傅请教问题，努力展现自己的能力。这与中间信念中‘抓住机会展现自己的价值’相一致。",
+            "physiological_response": "面色红润，眼神明亮，身体坐得更直，可能会不自觉地微微抬头挺胸。",
+            "created_at": "1958-05-08 14:45:00"
+        }
+    },
+    "node_34": {
+        "page_content": "1958年04月20日上午9点15分，在皖北农村集体劳动场地，我像往常一样早早地来干活。大家都在各自的位置上忙碌着，我认真地做着队长安排的轻省活计。这时，一起劳动的大姐走过来，笑着对我说：'王兰，你现在干得越来越好了，队长都夸你呢。'我听了，心里别提多高兴了，脸上也忍不住露出了笑容，我赶忙说：'这都多亏了队长给我机会。'大姐点了点头，又去忙自己的活了。我一边干活，一边想着大姐的话，觉得只要自己继续努力，肯定能展现出更多的价值。",
+        "metadata": {
+            "node_id": "node_34",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "大姐夸我干得好，队长也夸我，说明我抓住了队长给的机会，展现出了自己的价值，以后我要继续抓住机会，让更多人看到我的价值。",
+            "emotion": "开心、自信，强度较高",
+            "behavior": "更加认真努力地干活，积极主动地完成任务，可能还会主动和其他一起劳动的人交流分享经验。这种行为与中间信念中'要抓住机会展现自己的价值'相一致，通过更努力干活来进一步展现价值。",
+            "physiological_response": "面带笑容，精神饱满，可能还会不自觉地加快干活的动作。",
+            "created_at": "1958-04-20 09:15:00"
+        }
+    },
+    "node_33": {
+        "page_content": "1958年04月15日上午10点30分，在皖北农村集体劳动场地，阳光明媚，大家都在忙碌着。我像往常一样认真地干着活，生产队长在场地里巡视。他走到我身边，笑着对我说：'王兰啊，看你平时干活挺踏实的，以后给你安排点轻省的活计。'我听到这话，一下子愣住了，心里又惊又喜。我结结巴巴地说：'谢谢队长，我一定会好好干的。'队长拍了拍我的肩膀就走了，我望着他的背影，心里充满了喜悦，感觉自己的努力终于被看到了。",
+        "metadata": {
+            "node_id": "node_33",
+            "node_type": "long_term",
+            "event_id": "7",
+            "extended_event_id": "7_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_4",
+            "auto_thought": "队长因为我干活踏实给我安排轻省活，说明我有一定的能力和价值，别人认可我了，这是展现我价值的好机会。",
+            "emotion": "强烈的喜悦和自豪，性质为积极正向的情感。",
+            "behavior": "接下来干活更加认真努力，积极主动去完成轻省活计，还可能会主动和其他工友分享这个好消息，以展现自己的价值。这与中间信念中要抓住机会展现自己的价值相符合。",
+            "physiological_response": "面带微笑，脸颊泛红，心跳可能会稍微加快。",
+            "created_at": "1958-04-15 10:30:00"
+        }
+    },
+    "node_32": {
+        "page_content": "1957年6月10日中午12点，在皖北农村村里集市上，人群熙熙攘攘。我一眼就看到了那个年轻人，他站在一个不起眼的角落，手里拿着卖柴换来的钱，脸上满是欣慰的笑容。我走过去和他交谈，得知他通过努力让家里情况有了很大改善，父亲的病情也得到了控制。看着他自信从容的样子，我打心底为他高兴。我想，只要像他一样坚韧，我也能克服未来的困难。",
+        "metadata": {
+            "node_id": "node_32",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_11",
+            "auto_thought": "他通过坚韧努力改善了家庭情况，我之前拿出嫁妆换牛车也很坚韧，只要我保持这样的坚韧，也能克服未来的困难。",
+            "emotion": "充满希望、振奋，强度较强。",
+            "behavior": "可能会主动和更多人交流，分享自己的想法，并且在之后面对事情时更积极主动地去解决。这与中间信念中要保持积极心态面对困难相一致。",
+            "physiological_response": "可能会不自觉地挺胸抬头，眼神明亮，呼吸平稳且有力。",
+            "created_at": "1957-06-10 12:00:00"
+        }
+    },
+    "node_31": {
+        "page_content": "1957年5月20日清晨5点30分，在皖北农村村口，天色还未破晓。我出门时，看到一个身影背着砍柴工具匆匆赶路。走近一看，原来是那个为家庭努力的年轻人。我主动和他搭话，他声音坚定地说要通过砍柴卖钱照顾父亲。看着他在微弱的晨光中远去的背影，我心中满是敬佩。想想自己以前遇到一点小困难就退缩，真是惭愧。从那一刻起，我告诉自己要像他一样坚韧。",
+        "metadata": {
+            "node_id": "node_31",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_11",
+            "auto_thought": "他为了家庭如此努力，在困难面前毫不退缩，我也应该像他一样坚韧，积极面对生活中的困难。",
+            "emotion": "充满斗志，敬佩感强烈",
+            "behavior": "开始在生活中主动去面对之前害怕的困难，不再轻易退缩，积极尝试解决问题。",
+            "physiological_response": "可能会心跳加速，身体充满力量感，神情变得坚定。",
+            "created_at": "1957-05-20 05:30:00"
+        }
+    },
+    "node_30": {
+        "page_content": "1957年5月15日上午10点，在皖北农村村里年轻人家中，屋内一片破败景象。年轻人的父亲躺在床上，脸色苍白，不时发出痛苦的呻吟。年轻人的母亲坐在床边，默默流泪，满脸愁容。周围的村民围在一起，小声议论着。我站在一旁，听着他们的交谈，心中一阵酸楚。我仿佛看到了自己家庭未来可能面临的困境，一种莫名的焦虑涌上心头。我开始怀疑自己，要是遇到这样的困难，我有能力解决吗？",
+        "metadata": {
+            "node_id": "node_30",
+            "node_type": "long_term",
+            "event_id": "6",
+            "extended_event_id": "6_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "要是我家遇到这样的困难，我没能力解决，别人会觉得我很没用。",
+            "emotion": "焦虑且自我怀疑，强度较强，性质为负面消极。",
+            "behavior": "可能会开始思考如何提升自己解决问题的能力，比如默默观察周围人讨论解决办法，暗自学习，这与中间信念中要努力提升自己能力的规则相一致。",
+            "physiological_response": "心跳加速，手心出汗，眉头紧锁。",
+            "created_at": "1957-05-15 10:00:00"
+        }
+    },
+    "node_29": {
+        "page_content": "1957年3月15日傍晚，在皖北农村王兰新家，我坐在屋里，目光又落在了米缸上。每次看到它，借粮失败的绝望经历就会涌上心头，我的内心充满了恐惧和不安。从那以后，我变得更加节俭，做饭时每一粒粮食都舍不得浪费。只要家里涉及到经济方面的决策，我就会变得犹豫不决，甚至想逃避。我害怕再次面对像借粮失败那样的困境，害怕自己再次体验到那种无能为力的感觉。丈夫看到我这样，心疼地安慰我：'别想太多了，会好起来的。'可我还是无法从这种消极的情绪中走出来。",
+        "metadata": {
+            "node_id": "node_29",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_5",
+            "intermediate_belief_id": "intermediate_belief_10",
+            "auto_thought": "家里涉及经济决策，我肯定又处理不好，会再次陷入借粮失败那样无能为力的困境。",
+            "emotion": "极度恐惧和不安，情绪低落且消极",
+            "behavior": "在经济决策上犹豫不决、逃避，做饭时过度节俭，对丈夫的安慰无动于衷，依旧沉浸在消极情绪中，这些行为体现了因觉得自己在面对经济问题时脆弱无助，所以想尽量避免面对经济问题的中间信念。",
+            "physiological_response": "心跳加速、呼吸急促、可能伴有手脚冰凉、冒冷汗等表现",
+            "created_at": "1957-03-15 18:00:00"
+        }
+    },
+    "node_28": {
+        "page_content": "1957年2月28日中午，借粮失败后，我和丈夫拖着疲惫的身躯回到家。我缓缓走到米缸前，手颤抖着打开盖子，里面空空如也。那一刻，我的眼泪夺眶而出，绝望感瞬间将我淹没。我觉得自己被整个世界抛弃了，身体不受控制地蜷缩在角落里，眼泪止不住地流。我在心里不断责怪自己：'都怪我没用，让家人跟着挨饿。'我觉得自己太脆弱了，根本没有能力解决这样的经济困境。在极度的痛苦和绝望中，我暗暗发誓，以后一定要尽量避免面对经济问题。",
+        "metadata": {
+            "node_id": "node_28",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我在家庭事务上没能帮到丈夫，让家人跟着挨饿，我是个累赘，家人可能会因为我的无能而失望。",
+            "emotion": "极度绝望、自责，强度非常高",
+            "behavior": "蜷缩在角落里，暗暗发誓以后尽量避免面对经济问题，这与中间信念中认为自己在家庭事务上无能，要避免面对经济问题以减少伤害相一致。",
+            "physiological_response": "手颤抖、眼泪夺眶而出、身体蜷缩，眼泪止不住地流",
+            "created_at": "1957-02-28 12:30:00"
+        }
+    },
+    "node_27": {
+        "page_content": "1957年2月28日上午，在皖北农村，旱灾让庄稼收成锐减，粮食变得异常稀缺。我和丈夫看着家里米缸里越来越少的粮食，心急如焚。为了让家人能继续有饭吃，我们决定向邻里借粮。我们一家一家地敲门，我低着头，红着脸，低声下气地说：'大哥，我们家实在没粮了，能不能借点给我们救救急。'可得到的都是无奈的回应：'妹子，我家也没多少粮了，实在没法借给你。'每一次被拒绝，我的心就像被刀割一样。回到家，我看着空荡荡的米缸，眼泪在眼眶里打转，觉得自己太没用了，连家人的温饱都保障不了。",
+        "metadata": {
+            "node_id": "node_27",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我连向邻里借粮都办不到，真的太没用了，我没能力保障家人的温饱，别人肯定会觉得我很没用。",
+            "emotion": "极度自责、沮丧，强度很强，性质为负面消极。",
+            "behavior": "可能会更加努力地操持家务，想通过多做家务来弥补自己借不到粮食的不足，也可能会把自己关在房间里，不愿与家人交流，觉得自己让家人失望了。",
+            "physiological_response": "眼泪在眼眶里打转，可能会伴有抽泣，心跳加快，呼吸沉重，身体微微颤抖。",
+            "created_at": "1957-02-28 09:00:00"
+        }
+    },
+    "node_26": {
+        "page_content": "1956年10月1日早上6点，在皖北农村王兰的新家，屋里弥漫着淡淡的炊烟。自从上次用嫁妆钱赎回牛车被婆婆指责后，我每天天不亮就起床开始忙碌。我先去井边打水，把水缸装满，然后回来洗衣、做饭、打扫院子，一刻也不敢停歇。我心里想着，只要我多做些家务，就能弥补自己的过错，得到家人的认可。可是，婆婆还是不领情，时不时地就挑我的毛病。她指着没擦干净的桌子说：'这点活都干不好，还能干什么。'我只能低着头，默默地听着，然后更加拼命地干活。",
+        "metadata": {
+            "node_id": "node_26",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我多做家务还是不能让婆婆满意，我在家庭事务上真是个累赘，家人肯定因为我的无能而失望了。",
+            "emotion": "沮丧、自责，强度较强，属于负面消极情感。",
+            "behavior": "更加拼命地干活，试图通过更多的家务劳动来弥补自己的不足，与中间信念中'我要多做些家务来弥补自己的不足'相一致。",
+            "physiological_response": "可能会心跳加速、呼吸急促，身体感到疲惫但仍强撑着继续干活。",
+            "created_at": "1956-10-01 06:00:00"
+        }
+    },
+    "node_25": {
+        "page_content": "1956年9月15日下午3点30分，我赶着牛车回到了皖北农村的新家。院子里弥漫着一种压抑的气氛，牛车还带着一路的尘土。丈夫坐在门槛上，只是淡淡地看了我一眼，说了句'回来了'。这时，婆婆从屋里走出来，双手叉腰，阴阳怪气地说：'一个女人家，就知道乱花嫁妆钱，以后还不知道会做出什么糊涂事呢。'听到这话，我的心像被刀割一样，原本兴奋的心情瞬间消失得无影无踪。我的脸涨得通红，眼泪在眼眶里打转，我低着头，双手紧紧地攥着衣角，不敢看婆婆的眼睛，也不敢说话，只能默默地站在那里。",
+        "metadata": {
+            "node_id": "node_25",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "婆婆说得对，我用嫁妆钱换牛车，就是没本事，还被她嫌弃，别人肯定也觉得我没用。",
+            "emotion": "极度委屈、自责，强度很高",
+            "behavior": "低着头，双手紧紧地攥着衣角，不敢看婆婆的眼睛，也不敢说话，默默地站在那里，这与中间信念中认为自己没用，害怕被人看不起，所以不敢表达自己的想法相一致。",
+            "physiological_response": "脸涨得通红，眼泪在眼眶里打转",
+            "created_at": "1956-09-15 15:30:00"
+        }
+    },
+    "node_24": {
+        "page_content": "1956年9月15日下午3点，在皖北农村王兰的新家，院子里一片混乱，农忙要用的农具扔得到处都是。丈夫一脸懊悔地坐在门槛上，家人也都唉声叹气。我看着这一切，心里像压了块大石头。经过一番痛苦的思考，我咬咬牙，拿出了自己的嫁妆钱。我紧紧攥着钱，一路小跑着去了扣押牛车的地方。在那里，我跟工作人员好说歹说，磨破了嘴皮，终于把牛车赎了回来。我赶着牛车，满心欢喜地往家走，想着丈夫看到牛车肯定会很高兴，家人也会认可我的做法。",
+        "metadata": {
+            "node_id": "node_24",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我用嫁妆钱换回了牛车，在关键时刻帮到了丈夫，我是有价值的，家人会认可我的做法。",
+            "emotion": "充满成就感和喜悦，情绪强度较高，性质积极。",
+            "behavior": "赶着牛车满心欢喜地往家走，期待家人的认可，这种行为与中间信念中认为自己在家庭中能发挥作用、为家人付出体现价值相符合。",
+            "physiological_response": "心跳可能稍快，脸上洋溢着笑容，步伐轻快。",
+            "created_at": "1956-09-15 15:00:00"
+        }
+    },
+    "node_23": {
+        "page_content": "1956年7月20日上午10点20分，在皖北农村村里的路口，我看到了那个面容憔悴的女人。她身边带着孩子，旁边还放着简单的行李，看样子是准备回娘家。我赶紧走过去，轻声问她：'妹子，这是要回娘家啊？'她看到我，眼里满是无奈和痛苦，开始向我倾诉她的遭遇。她说男人还是一直赌博，家里实在过不下去了，她只能带着孩子回娘家。我听着她的话，心里一阵难受，安慰她说：'妹子，别太伤心了，日子总会好起来的。'和她交流完后，我更加深刻地认识到能力的重要性。我在心里暗暗告诉自己，一定要变得强大起来，这样才能保护好自己和家人，不能让自己和家人也落到这样的地步。",
+        "metadata": {
+            "node_id": "node_23",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "这个女人因为丈夫赌博过不下去，我要是没能力，也可能让自己和家人陷入这样的困境，我得努力提升自己的能力。",
+            "emotion": "担忧且坚定，担忧自己和家人会遭遇类似困境，坚定要提升能力的决心",
+            "behavior": "开始思考提升自己能力的方法，比如向村里有经验的人请教，或者寻找一些能增加收入的活计",
+            "physiological_response": "眉头紧锁，神情凝重，可能会不自觉地握紧拳头",
+            "created_at": "1956-07-20 10:20:00"
+        }
+    },
+    "node_22": {
+        "page_content": "1956年7月15日下午3点10分，我心情沉重地回到家，走进自己的房间。房间里很安静，可我的心却乱成了一团。那个女人哭泣的样子一直在我眼前晃悠，怎么也赶不走。我坐在床边，想到自己用嫁妆钱换回丈夫被扣押的牛车，虽然暂时解决了问题，但我还是觉得自己太没用了。我不停地责怪自己，要是我当时能想出更好的办法，就不用拿出嫁妆钱了。那可是我娘家给我的重要东西啊。我越想越自责，眼泪忍不住流了下来。我暗暗发誓，一定要努力学习，提升自己各方面的能力，绝对不能让自己以后像那个女人一样，陷入那样的困境。",
+        "metadata": {
+            "node_id": "node_22",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我用嫁妆钱换牛车，是我没本事让丈夫不丢牛车，我很没用。要是我能力强些，当时就能想出更好的办法，不用拿出嫁妆钱了。",
+            "emotion": "强烈的自责和沮丧，认为自己能力不足，对自己的表现非常不满。",
+            "behavior": "暗暗发誓要努力学习，提升自己各方面的能力，避免再出现类似情况，符合中间信念中‘我要努力提升自己的能力，避免再出现这种事’。",
+            "physiological_response": "眼泪忍不住流下来，心情沉重导致身体处于一种压抑的状态。",
+            "created_at": "1956-07-15 15:10:00"
+        }
+    },
+    "node_21": {
+        "page_content": "1956年7月15日下午2点半，在皖北农村村里的街道上，太阳火辣辣地照着。我正走着，看到一户人家门口围了一群人。我挤进去一看，一个女人满脸泪水，苦苦哀求着一个男人，说他赌博输了太多钱，家里都快过不下去了，让他别再赌了。那男人却满脸不耐烦，大声呵斥女人，让她闭嘴。周围的村民们有的在小声议论：'这男人真是没出息，把家都败光了。'有的则无奈地摇头叹息。我看着女人那绝望又无助的样子，心里一阵酸楚，仿佛看到了自己的未来。我开始担心，要是我没有能力，以后会不会也像她一样，连自己的生活都掌控不了。",
+        "metadata": {
+            "node_id": "node_21",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "要是我没有能力，以后也会像这个女人一样，连自己的生活都掌控不了，别人也会觉得我没用。",
+            "emotion": "担忧且焦虑，强度较强。对自己未来可能陷入类似困境感到深深的不安和害怕。",
+            "behavior": "可能会默默离开人群，回家后开始思考如何提升自己的能力，比如计划学习一些新的劳动技能，以避免未来出现类似的情况，这与中间信念中要努力提升自己能力的规则相一致。",
+            "physiological_response": "心跳加速，手心出汗，眉头紧锁。这些都是在担忧和焦虑情绪下常见的生理表现。",
+            "created_at": "1956-07-15 14:30:00"
+        }
+    },
+    "node_20": {
+        "page_content": "1956年5月20日晚上6点，王兰拿着嫁妆钱，怀着忐忑不安的心情朝着扣押牛车的地方走去。一路上，她的心一直悬着，脚步也有些沉重。到了扣押牛车的地方，那里有些杂乱，周围还围了一些人。对方看到王兰一个年轻的女子拿着钱来赎车，脸上露出了不屑的神情。王兰深吸一口气，鼓起勇气和对方交涉起来。经过一番努力，她终于成功赎回了牛车。王兰赶着牛车回到家，院子里，丈夫正焦急地等待着。丈夫看到失而复得的牛车，眼中瞬间满是惊喜和感激。他快步走上前，紧紧握住王兰的手，激动地说：'多亏了你，不然咱们家可就完了。'王兰看着丈夫的样子，心里像有一股暖流涌过，感到无比温暖。",
+        "metadata": {
+            "node_id": "node_20",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我用嫁妆钱换回了牛车，在关键时刻帮到了丈夫，我在这个家里是有价值的。",
+            "emotion": "感到欣慰和自豪，情绪强度较高，属于积极正向的情感。",
+            "behavior": "王兰可能会更加积极地参与家庭事务，继续为家人付出，就像中间信念里提到的要在家庭中承担责任。",
+            "physiological_response": "身体放松，心跳恢复正常，脸上可能会露出微笑。",
+            "created_at": "1956-05-20 18:00:00"
+        }
+    },
+    "node_19": {
+        "page_content": "1956年5月20日下午4点45分，在皖北农村王兰的新家，丈夫用着急的眼神紧紧盯着王兰。王兰咬了咬牙，鼓起勇气对丈夫说：'要不，我用嫁妆钱把牛车赎回来吧。'丈夫有些惊讶地看着她，说道：'那可是你的嫁妆啊。'王兰心里像揣了只兔子，又害怕又坚定。她害怕钱花了事情没办好，可又坚定自己一定要帮丈夫解决这个难题。她缓缓走到角落的箱子前，手轻轻搭在箱盖上，深吸一口气，打开了箱子。她的手在箱子里摸索着，找到了藏在最里面的嫁妆钱，拿出来的时候，手微微颤抖着。",
+        "metadata": {
+            "node_id": "node_19",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_11",
+            "auto_thought": "我能在困难面前拿出嫁妆换牛车，说明我很坚韧，这个世界会给坚韧的人机会，我要保持积极的心态面对困难，一定能克服这个难题。",
+            "emotion": "既紧张又坚定，紧张的情绪强度为中等，因为害怕钱花了事情没办好；坚定的情绪强度较高，坚信自己能帮丈夫解决难题。",
+            "behavior": "咬了咬牙，鼓起勇气向丈夫提出用嫁妆钱赎回牛车，然后走到角落打开箱子拿出嫁妆钱，体现了她在积极面对困难，与核心信念中自己是坚韧的以及中间信念中要保持积极心态面对困难相符合。",
+            "physiological_response": "心里像揣了只兔子，手微微颤抖，深吸一口气，这些都是紧张和坚定情绪下的典型生理反应。",
+            "created_at": "1956-05-20 16:45:00"
+        }
+    },
+    "node_18": {
+        "page_content": "1956年5月20日下午4点半，在皖北农村王兰的新家，屋内弥漫着一种紧张的气氛。刚嫁入这个家不久的王兰还在努力适应新环境，突然，丈夫心急如焚地冲了进来，脸上满是焦虑，喘着粗气说道：'糟了，牛车被人扣押了，没有牛车，咱们接下来的农活可怎么干啊，日子也没法过了。'王兰看到丈夫如此着急，心里“咯噔”一下，也跟着慌乱起来。她深知牛车对于这个家的重要性，可嫁妆钱是她的底气和保障啊。她犹豫着，内心天人交战，站在那里，手足无措。",
+        "metadata": {
+            "node_id": "node_18",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_11",
+            "auto_thought": "我必须拿出嫁妆钱换回牛车，我要在困难面前坚韧起来，不能退缩，这样才能解决问题，也能让别人佩服我的勇气。",
+            "emotion": "坚定且带着一丝紧张，坚定的情绪较强，因为要展现坚韧克服困难；紧张的情绪稍弱，毕竟要拿出重要的嫁妆钱。",
+            "behavior": "深吸一口气，稳定了一下情绪，然后转身走向存放嫁妆钱的地方，准备拿出钱去换回牛车，这与要保持积极心态面对困难、坚持自己能克服困难的信念相一致。",
+            "physiological_response": "心跳稍微加快，双手可能会有些微微颤抖，但整体能保持镇定，这是在紧张和坚定情绪下的正常生理表现。",
+            "created_at": "1956-05-20 16:30:00"
+        }
+    },
+    "node_17": {
+        "page_content": "1955年01月20日上午10:20，在皖北农村坑坑洼洼的村里小道上，两旁是破旧的房屋。我遇到了同村的小伙伴，他们听说我要嫁人的消息，一下子都围了过来。有的小伙伴羡慕地说我能嫁去条件好的人家，有的则满脸同情地看着我。我看着他们各种各样的表情，心里就像打翻了五味瓶一样。我觉得他们都在可怜我，可我却一点办法都没有，根本改变不了现状。我突然感觉自己被孤立了，好像这个世界上没有人能懂我心里的痛苦。这种孤独感越来越强烈，让我更加坚信“我是孤独的”，我只能一个人默默地承受这一切。",
+        "metadata": {
+            "node_id": "node_17",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "他们都不理解我嫁人的无奈，没人在意我内心的感受，我只能自己承受这种孤独。",
+            "emotion": "极度孤独、无助，这种情感强度很高，性质消极。",
+            "behavior": "可能会默默低下头，不与小伙伴们过多交流，转身默默离开，避免继续感受这种被孤立的感觉，这与‘我要学会自己承受孤独’的中间信念相一致。",
+            "physiological_response": "可能会心跳加速，呼吸变浅，身体微微颤抖。",
+            "created_at": "1955-01-20 10:20:00"
+        }
+    },
+    "node_16": {
+        "page_content": "1955年01月15日下午15:10，媒人走后，在皖北农村我家那昏暗的屋子里，爹娘把我叫到跟前。爹娘坐在破旧的椅子上，语重心长地对我说：“闺女，咱家这条件，能找个让你吃饱饭的人家不容易，你就听爹娘的话吧。”我低着头，眼泪在眼眶里直打转，我多想反抗啊，可喉咙像被堵住了一样，什么都说不出来。我觉得自己在这个家里一点话语权都没有，只能乖乖听爹娘的安排。我的心里又痛苦又无奈，更加觉得自己就是个没用的人，连为自己争取幸福的勇气都没有，还觉得自己活着就是给家里添负担。",
+        "metadata": {
+            "node_id": "node_16",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我连为自己争取幸福的勇气都没有，没办法改变爹娘的安排，我真的很没用，别人肯定会觉得我没本事。",
+            "emotion": "痛苦、无奈且自卑，强度较强，这些情感交织在一起，让内心充满了负面情绪。",
+            "behavior": "低着头，默默流泪，不说话，顺从地接受爹娘的安排。这与中间信念中认为自己没用，需要努力提升能力避免类似情况，但当下又无力改变的想法一致，所以选择沉默顺从。",
+            "physiological_response": "眼泪在眼眶里打转，喉咙像被堵住一样，可能还会有轻微的呼吸急促和心跳加快。",
+            "created_at": "1955-01-15 15:10:00"
+        }
+    },
+    "node_15": {
+        "page_content": "1955年01月15日下午14:30，在皖北农村我那破旧的家中，屋里昏暗又冷清。突然，家里来了媒人，爹娘赶紧把他迎进来，还倒上了茶水。媒人开始说起给我说亲的事，爹娘和他仔细地商量着对方家里的情况。媒人一个劲儿地夸对方家里条件不错，能让我吃饱饭。我就静静地在一旁听着，大气都不敢出。我心里又害怕又迷茫，感觉自己就像一件没有生命的物品，未来只能任由爹娘和媒人摆弄。我不停地在心里骂自己，怎么这么没用，连自己的婚姻都没法决定。",
+        "metadata": {
+            "node_id": "node_15",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "adolescence",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我连自己的婚姻都没法决定，真是太没用了，别人肯定会觉得我连自己的终身大事都处理不好。",
+            "emotion": "极度沮丧、自卑，强度较高，属于负面消极情感。",
+            "behavior": "继续静静地待在一旁，不敢发表自己的意见，大气都不敢出，表现得非常顺从和沉默，这与中间信念中认为自己没用，要避免表现出自己的不足相符合。",
+            "physiological_response": "心跳加速，可能会有轻微的颤抖，呼吸变浅且急促。",
+            "created_at": "1955-01-15 14:30:00"
+        }
+    },
+    "node_14": {
+        "page_content": "1953年09月15日中午11点，在皖北农村野外，阳光暖暖地照着。我拖着受伤的膝盖，一步一步地在野菜丛中穿梭。每挖一把野菜，都要忍受着膝盖传来的剧痛。但我不停地在心里给自己打气：‘坚持住，一定要让弟弟妹妹们吃饱。’终于，经过几个小时的努力，竹篓渐渐满了起来。我看着满满一篓野菜，疲惫的脸上露出了欣慰的笑容。那一刻，我觉得所有的疼痛和辛苦都值了，我知道自己做到了，我能养活弟弟妹妹，我是有价值的。",
+        "metadata": {
+            "node_id": "node_14",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我克服了膝盖的伤痛，挖到了满满一篓野菜，能持续养活弟弟妹妹，体现了我的价值。",
+            "emotion": "欣慰且充满成就感，强度较高。这种情感源于自己克服困难达成了养活弟弟妹妹的目标，觉得自己的付出有了回报。",
+            "behavior": "脸上露出欣慰的笑容，可能会更加坚定之后每天去挖野菜的想法。这与中间信念中‘我要每天都去挖野菜’相契合，因为挖到足够野菜体现了价值，所以会强化这种行为。",
+            "physiological_response": "原本因疼痛而紧绷的身体会放松下来，可能会深吸一口气，肌肉不再那么紧张。",
+            "created_at": "1953-09-15 11:00:00"
+        }
+    },
+    "node_13": {
+        "page_content": "1953年09月15日早上7点15分，在皖北农村野外，地上满是石头和枯枝。我正低着头找野菜，突然脚下一滑，整个人向前扑去。膝盖重重地磕在石头上，一阵剧痛袭来。我疼得差点叫出声来，眼泪在眼眶里直打转。看着渗出血的伤口，我心里又害怕又无助。但当我看到竹篓里那一点点野菜，想到弟弟妹妹们还等着我带吃的回去，我咬了咬牙，双手撑地，艰难地爬了起来。",
+        "metadata": {
+            "node_id": "node_13",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_11",
+            "auto_thought": "我不能因为这点伤就放弃，我要坚持每天去挖野菜，这样才能养活弟弟妹妹，度过饥荒。",
+            "emotion": "坚定且带着些许痛苦，虽然受伤感到害怕和无助，但为了弟弟妹妹又充满了坚持下去的决心。",
+            "behavior": "咬了咬牙，双手撑地，艰难地爬了起来，继续低头寻找野菜。这种行为与要坚持每天去挖野菜，养活弟弟妹妹的中间信念相一致。",
+            "physiological_response": "伤口疼痛，膝盖处有明显的刺痛感，心跳加速，可能因为疼痛和紧张，呼吸也会变得急促。",
+            "created_at": "1953-09-15 07:15:00"
+        }
+    },
+    "node_12": {
+        "page_content": "1953年09月15日早上6点30分，在皖北农村野外，周围一片荒芜。我背着小竹篓，脚步虚浮地走着。肚子饿得实在难受，每走一步都觉得天旋地转。我用手紧紧按住肚子，心里想着弟弟妹妹们期待的眼神，咬着牙继续往前走。",
+        "metadata": {
+            "node_id": "node_12",
+            "node_type": "long_term",
+            "event_id": "5",
+            "extended_event_id": "5_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_12",
+            "auto_thought": "我虽然肚子饿得难受，但只要克服饥饿去挖野菜，就能挖到更多野菜，养活弟弟妹妹，生活就会好起来。",
+            "emotion": "坚定且略带悲壮，强度较高。面对饥饿仍要坚持的艰难处境，有着为了家人必须克服困难的坚定意志，同时也因当下的艰难而有一丝悲壮。",
+            "behavior": "尽管脚步虚浮、天旋地转，仍咬着牙继续往前走，努力寻找野菜。这与中间信念中‘要克服饥饿去挖野菜’相一致，体现了为了达成养活弟弟妹妹的目标，坚持行动的决心。",
+            "physiological_response": "肚子咕咕叫，手紧紧按住肚子，脚步虚浮，天旋地转。这些都是饥饿导致身体虚弱的典型表现。",
+            "created_at": "1953-09-15 06:30:00"
+        }
+    },
+    "node_11": {
+        "page_content": "1950年7月15日早上9点10分，我来到了皖北农村的野菜地，这里的野菜稀稀拉拉地长着，周围一片荒芜。我开始专注地挖野菜，可邻居家小孩和父母在一起的画面总是在我脑海里晃来晃去，我的心情一下子就低落了下来。但是，一想到弟弟妹妹们那期待的眼神，我咬了咬牙，又重新振作起来。我更加用力地挥动着小锄头，想让自己忙碌起来，把孤独都赶走。在挖野菜的过程中，我遇到了不少困难，有些野菜长在石头缝里，很难挖出来。我的手都磨破了，但是我没有放弃，我告诉自己一定要坚持下去。靠着这份坚韧，我终于挖到了足够的野菜。",
+        "metadata": {
+            "node_id": "node_11",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_6",
+            "intermediate_belief_id": "intermediate_belief_11",
+            "auto_thought": "虽然挖野菜很困难，周围环境也不好，还让我感到孤独，但我必须坚持每天来挖，这样才能养活弟弟妹妹，度过饥荒。",
+            "emotion": "起初感到孤独和低落，但随后振作起来，充满坚定和决心。",
+            "behavior": "一开始心情低落，但想到弟弟妹妹后重新振作，更加用力地挥动小锄头，遇到困难不放弃，坚持挖野菜直到挖到足够的量。",
+            "physiological_response": "手磨破了，可能会有疼痛感；在用力挥动锄头和坚持挖野菜的过程中，可能会有出汗、呼吸急促的表现。",
+            "created_at": "1950-07-15 09:10:00"
+        }
+    },
+    "node_10": {
+        "page_content": "1950年7月15日早上8点40分，在皖北农村去挖野菜的路上，路边的野草枯黄枯黄的，偶尔有几只瘦巴巴的麻雀飞过。我深吸了一口气，努力让自己从刚才的羡慕和孤独中走出来。我在心里一遍又一遍地告诉自己，弟弟妹妹还等着我挖野菜回去，我不能一直沉浸在这种情绪里。我必须习惯一个人去面对这些。一路上，我不断给自己打气，可每走一步，心里都像被针扎一样，隐隐作痛，那种无奈和苦涩就像这路边的野草一样，怎么也拔不掉。",
+        "metadata": {
+            "node_id": "node_10",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "我每天都要一个人来挖野菜，没有人陪我，太孤独了，但我必须习惯一个人面对这些，不然会更难过。",
+            "emotion": "孤独且无奈，情绪强度较强，性质消极",
+            "behavior": "一边给自己打气，一边继续朝着挖野菜的地方走去，努力让自己坚持一个人面对。这与中间信念中‘我要习惯一个人挖野菜’相一致，通过给自己打气的行为来尝试习惯孤独。",
+            "physiological_response": "深吸一口气，心里像被针扎一样隐隐作痛",
+            "created_at": "1950-07-15 08:40:00"
+        }
+    },
+    "node_9": {
+        "page_content": "1950年7月15日早上8点30分，在皖北农村村里邻居家院子外，篱笆歪歪扭扭地立着，旁边几株枯瘦的小草在风中颤抖。我拿着小锄头和篮子，准备去挖野菜，家里的弟弟妹妹还等着我带回食物。路过邻居家院子时，我看到邻居家小孩被父母温柔地陪伴着玩耍，父母脸上的疼爱都快溢出来了，小孩笑得那么开心。我的脚步不由自主地停了下来，眼睛直直地盯着他们，心里满是羡慕。我在心里不停地问自己，为什么别人有父母陪，而我却只能一个人去挖野菜。这种强烈的对比让我的孤独感像潮水一样涌来，我觉得这个世界对我太不公平了。",
+        "metadata": {
+            "node_id": "node_9",
+            "node_type": "long_term",
+            "event_id": "4",
+            "extended_event_id": "4_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_3",
+            "intermediate_belief_id": "intermediate_belief_5",
+            "auto_thought": "别人都有父母陪着玩，而我却只能一个人去挖野菜，这个饥荒的世界太残酷了，我只能孤独面对生活。",
+            "emotion": "极度孤独、难过且觉得不公平，情绪强度强烈。",
+            "behavior": "脚步停住，眼睛直直盯着邻居家小孩和父母，可能会在原地停留一会儿，之后才继续去挖野菜，这与‘要习惯一个人挖野菜’的中间信念一致，即便感到孤独但还是要去完成挖野菜的任务。",
+            "physiological_response": "可能会眼眶泛红，呼吸微微急促，肩膀微微下垂，呈现出一种失落的姿态。",
+            "created_at": "1950-07-15 08:30:00"
+        }
+    },
+    "node_8": {
+        "page_content": "1948年6月15日上午10点30分，吃完野菜后，我坐在皖北农村家中的院子里。院子里的树在微风中轻轻摇晃，地上的石头和杂草也显得格外安静。我看着弟弟妹妹们脸上满足的笑容，心里满满的都是成就感。我回想着早上挖野菜的辛苦，还有小弟把野菜让给我的温暖，暗暗发誓以后一定要更努力地挖野菜，让弟弟妹妹们都能吃饱。从那以后，不管多困难，每天天不亮我就会起床去山林，从来没有放弃过。",
+        "metadata": {
+            "node_id": "node_8",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我靠挖野菜让弟弟妹妹们吃饱了，他们很开心，我是有价值的。我每天都去挖野菜，就能持续养活弟弟妹妹，体现我的价值。",
+            "emotion": "充满成就感和喜悦，强度较高，属于积极正向的情感。",
+            "behavior": "暗暗发誓以后要更努力地挖野菜，每天天不亮就起床去山林挖野菜，这与中间信念中“我要每天都去挖野菜”的规则相一致，通过持续的行动来体现自己的价值。",
+            "physiological_response": "面色红润，精神饱满，身体充满力量感。",
+            "created_at": "1948-06-15 10:30:00"
+        }
+    },
+    "node_7": {
+        "page_content": "1948年6月15日上午9点30分，我满心欢喜地跑回皖北农村的家中。一路上，我都在想弟弟妹妹看到野菜时开心的样子。一进家门，弟弟妹妹们围了过来，看到满满一篮子野菜，他们的眼睛一下子亮了，就像黑暗里突然有了光。小弟走到我身边，把他碗里的野菜往我碗里推，奶声奶气地说：'姐，你吃，你挖野菜辛苦。'我看着小弟那可爱又懂事的模样，心里像被一股暖流包围，眼睛也湿湿的。我摸了摸小弟的头，说：'姐不饿，你吃。'那一刻，我真真切切地感受到了弟弟妹妹对我的爱，也更坚定了每天去挖野菜的想法。",
+        "metadata": {
+            "node_id": "node_7",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_4",
+            "intermediate_belief_id": "intermediate_belief_7",
+            "auto_thought": "小弟把野菜让给我，弟弟妹妹们心里是爱我的，我要珍惜他们对我的关爱。",
+            "emotion": "感动且温暖，强度较强，性质为积极正向的情感。",
+            "behavior": "摸了摸小弟的头，并拒绝了小弟让的野菜，同时更坚定了每天去挖野菜的想法，后续会继续坚持每天去挖野菜，这与要珍惜弟弟妹妹的关爱，通过持续挖野菜养活他们来维系感情的中间信念相一致。",
+            "physiological_response": "眼睛湿润，心里有一股暖流的感觉。",
+            "created_at": "1948-06-15 09:30:00"
+        }
+    },
+    "node_6": {
+        "page_content": "1948年6月15日清晨5点，皖北农村的山林还笼罩在雾气中。我在睡梦中被饥饿感弄醒，看着身旁熟睡的弟弟妹妹，他们小小的身子蜷缩在一起，脸上带着饥饿的憔悴。我的心像被揪住一样疼，我知道我必须去挖野菜。我轻手轻脚地起床，生怕吵醒他们，拿起那破旧得快散架的篮子，慢慢走出家门。走进山林，雾气湿湿地扑在脸上，我开始在草丛里仔细找野菜。每找到一棵，我就像找到了宝贝一样，眼睛里有了希望。时间一点点过去，我的腰又酸又痛，腿也发软，但我不敢停。我想着弟弟妹妹们等着野菜吃，就咬着牙坚持。几个小时后，篮子里有了不少野菜，我虽然累得走不动路，但一想到弟弟妹妹能吃上野菜，就忍不住笑了。",
+        "metadata": {
+            "node_id": "node_6",
+            "node_type": "long_term",
+            "event_id": "3",
+            "extended_event_id": "3_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_2",
+            "intermediate_belief_id": "intermediate_belief_3",
+            "auto_thought": "我必须每天都去挖野菜，这样才能持续养活弟弟妹妹，体现我的价值。",
+            "emotion": "坚定且充满希望，虽然过程中会有疲惫但想到能帮到弟弟妹妹就感到欣慰",
+            "behavior": "轻手轻脚起床，拿起篮子去山林挖野菜，即便腰酸腿痛也不停歇，坚持挖了几个小时直到篮子里有不少野菜",
+            "physiological_response": "饥饿感明显，在挖野菜过程中腰酸痛、腿发软，最后累得走不动路",
+            "created_at": "1948-06-15 05:00:00"
+        }
+    },
+    "node_5": {
+        "page_content": "1945年03月15日晚上7点，在我家中，屋内灯光昏暗。从野外回来后，我一直担心学不好野菜会让弟弟妹妹挨饿、遭邻居嘲笑，饭都吃不下。我一个人拿着野菜样本，在灯下反复辨认，每认错一次，心里就像被针扎一样。但我告诉自己不能放弃，一定要坚持学下去。",
+        "metadata": {
+            "node_id": "node_5",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我连野菜都分辨不好，总是挖错，这样弟弟妹妹会挨饿，邻居们也会笑话我，我太没用了。要是我不向瘸腿张叔多学习认野菜，就会一直挖错，情况会更糟。",
+            "emotion": "焦虑且自责，强度较强。因为担心弟弟妹妹挨饿和遭邻居嘲笑，对自己认不清野菜的能力感到深深自责。",
+            "behavior": "一个人拿着野菜样本在灯下反复辨认，不吃饭也要坚持学习。这与中间信念中‘我要向瘸腿张叔多学习认野菜’相一致，为了避免被嘲笑和让弟弟妹妹挨饿，努力学习辨认野菜。",
+            "physiological_response": "食欲不振，吃不下饭；每认错一次心里像被针扎一样，可能会心跳加速、呼吸变快，身体处于紧张状态。",
+            "created_at": "1945-03-15 19:00:00"
+        }
+    },
+    "node_4": {
+        "page_content": "1945年03月15日上午9点30分，在皖北农村野外，阳光洒在地上。张叔耐心地教我认野菜，我认真地看着、摸着。可自己认的时候，还是错了好多。张叔安慰我，我羞愧得脸通红，心里又急又自责，觉得自己怎么这么笨。但我在心里暗暗发誓，一定要学好认野菜。",
+        "metadata": {
+            "node_id": "node_4",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我连野菜都分辨不好，总是挖错，真是没用。邻居们会笑话我连野菜都认不清，这个世界对我这样没用的小孩太残酷了。",
+            "emotion": "强烈的羞愧、着急和自责",
+            "behavior": "更加专注地向张叔学习认野菜，仔细听张叔讲解，用心去观察和记忆野菜的特征，以避免再次犯错，符合‘我要向瘸腿张叔多学习认野菜’的规则。",
+            "physiological_response": "脸通红，心跳加快，可能还会手心出汗。",
+            "created_at": "1945-03-15 09:30:00"
+        }
+    },
+    "node_3": {
+        "page_content": "1945年03月15日上午9点，在皖北农村野外，周围一片荒芜。我因为之前挖错野菜，让弟弟妹妹挨饿，还遭邻居异样眼光，心里又急又自卑。我鼓起勇气找到瘸腿张叔，张叔答应教我认野菜。我跟着张叔来到野外，风一吹，心里更紧张了，害怕自己还是学不会。",
+        "metadata": {
+            "node_id": "node_3",
+            "node_type": "long_term",
+            "event_id": "2",
+            "extended_event_id": "2_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我之前连野菜都分辨不好，总是挖错，要是这次还是学不会，邻居们会更笑话我，我真是太没用了。",
+            "emotion": "极度紧张、自卑且焦虑，紧张和焦虑的情绪强度较高，自卑的情绪也较为明显。",
+            "behavior": "身体可能会不自觉地缩起来，不敢主动去触碰野菜，眼睛可能会频繁地观察张叔的表情和动作，不敢大声说话，表现得很拘谨，这与中间信念中害怕被邻居笑话的想法一致。",
+            "physiological_response": "心跳加速，手心出汗，呼吸可能会变得急促，脸色可能会因为紧张而微微泛红或发白。",
+            "created_at": "1945-03-15 09:00:00"
+        }
+    },
+    "node_2": {
+        "page_content": "1942年2月20日早上9点，我独自来到皖北农村的野外，这里杂草丛生，远处有几棵枯树。我拿着小篮子，满怀信心地开始挖野菜。可是，我总是认错，挖了很多不能吃的草。看着篮子里的成果，我的心情一下子跌到了谷底。我觉得自己太没用了，连野菜都分辨不好，弟弟妹妹们肯定又要挨饿了，邻居们也会笑话我的。我越想越沮丧，眼泪在眼眶里打转。",
+        "metadata": {
+            "node_id": "node_2",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_3",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我连野菜都分辨不好，总是挖错，真是没用。弟弟妹妹会因为我没挖到足够的食物而挨饿，他们会怪我，邻居们也会笑话我连野菜都认不清。",
+            "emotion": "极度沮丧、自责，情绪低落且强烈",
+            "behavior": "可能会停止挖野菜，呆坐在原地，或者收拾篮子准备回家，因为觉得自己没用，失去了继续挖野菜的动力，与认为自己没用就无法完成养活弟弟妹妹任务的中间信念一致。",
+            "physiological_response": "眼泪在眼眶里打转，可能还会伴有轻微的抽泣，身体可能会微微颤抖，表现出情绪上的痛苦。",
+            "created_at": "1942-02-20 09:00:00"
+        }
+    },
+    "node_1": {
+        "page_content": "1942年2月15日下午2点半，在皖北农村张叔家门口，破旧的小板凳旁放着张叔挖野菜用的锄头。我看到张叔挖野菜回来，犹豫了很久，终于鼓起勇气走上前去。张叔看到我，笑了笑，然后耐心地给我讲解常见野菜的样子和生长地点。我眼睛一眨不眨地听着，心里燃起了希望，想着只要挖到野菜，弟弟妹妹们就能填饱肚子，我也就不是没用的人了。",
+        "metadata": {
+            "node_id": "node_1",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_2",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_2",
+            "auto_thought": "我连野菜都分辨不好，总是挖错，真是没用。要是我向张叔多学习，就能认清野菜，挖到足够的野菜养活弟弟妹妹，他们就不会怪我，邻居们也不会笑话我了。",
+            "emotion": "既羞愧又充满希望，羞愧感较强，希望感也在不断增强。因为意识到自己之前连野菜都认不清而羞愧，但又因有机会学习而燃起希望。",
+            "behavior": "眼睛一眨不眨地认真听张叔讲解，还可能会不时点头表示自己在理解，会在心里默默记住张叔说的话，并且可能会在张叔讲完后提出一些自己不明白的问题。这些行为与中间信念中要向张叔多学习认野菜相符合，目的是为了能认清野菜，避免被别人嘲笑，体现自己的价值。",
+            "physiological_response": "可能会脸红，因为羞愧的情绪导致脸部血管扩张；心跳可能会加快，这是因为内心的紧张和对学习的期待；呼吸可能会变得稍微急促，反映出情绪上的波动。",
+            "created_at": "1942-02-15 14:30:00"
+        }
+    },
+    "node_0": {
+        "page_content": "1942年1月1日早上8点，在皖北农村的土坯房里，昏暗的光线透过窗户的破洞洒进来。父母坐在破旧的桌子旁，眉头紧锁，看着几个空碗唉声叹气。弟弟妹妹们饿得哇哇大哭，声音在空荡荡的房间里回荡。我站在一旁，心里像被刀割一样难受，不断地自责：'我要是没用，弟弟妹妹们可怎么办啊'。那一刻，我暗暗发誓，一定要做点什么来改变现状。",
+        "metadata": {
+            "node_id": "node_0",
+            "node_type": "long_term",
+            "event_id": "1",
+            "extended_event_id": "1_1",
+            "stage_key": "childhood",
+            "core_belief_id": "core_belief_1",
+            "intermediate_belief_id": "intermediate_belief_1",
+            "auto_thought": "我要是挖不到足够的野菜，就没办法养活弟弟妹妹，他们会因为我没挖到足够的食物而挨饿，还会怪我，我太没用了，我要拼命多挖野菜。",
+            "emotion": "极度自责、焦虑且痛苦，强度非常高，这些情感交织在一起，让王兰内心备受煎熬。",
+            "behavior": "王兰迅速拿起挖野菜的工具，准备出门去挖野菜，这种行为与中间信念中“我要拼命多挖野菜”相契合，她想通过实际行动来改变现状，养活弟弟妹妹。",
+            "physiological_response": "心跳加速，呼吸变得急促，双手可能会不自觉地颤抖，额头冒出冷汗。",
+            "created_at": "1942-01-01 08:00:00"
+        }
+    }
+}

@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我的经验和知识是独特的，有很大的价值。",
+                "others": "他人应该重视我的经验和知识。",
+                "world": "世界上的经验知识是宝贵的财富，应该被珍惜。"
+            },
+            "rules": "我要利用自己的经验和知识为社会做出贡献。",
+            "positive_assumption": "如果我用经验知识做贡献，会得到社会的认可。",
+            "negative_assumption": "如果我不做贡献，我的经验知识就没有发挥应有的作用。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我的经验和知识是我一生的财富，应该传承下去。",
+                "others": "他人可以从我的经验和知识中受益。",
+                "world": "世界需要传承和积累经验知识才能进步。"
+            },
+            "rules": "我应该将自己的经验和知识分享给他人。",
+            "positive_assumption": "如果我分享经验知识，会帮助他人成长，也会让我的知识更有价值。",
+            "negative_assumption": "如果我不分享，我的知识就会随着我老去而消失。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我对家族和社会的责任是不可推卸的。",
+                "others": "他人会理解我为责任付出的努力。",
+                "world": "世界会因为每个人履行责任而变得更美好。"
+            },
+            "rules": "我要尽最大努力完成我的责任，不辜负他人的期望。",
+            "positive_assumption": "如果我完成了责任，会得到他人的认可和尊重。",
+            "negative_assumption": "如果我没有完成责任，会被他人指责。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任让家族传承下去，为社会培养人才。",
+                "others": "家族成员和社会需要我的指导和支持。",
+                "world": "社会的发展需要每个人承担起自己的责任。"
+            },
+            "rules": "我应该为家族和社会培养下一代，传授我的经验和知识。",
+            "positive_assumption": "如果我培养好下一代，家族会更兴旺，社会会更进步。",
+            "negative_assumption": "如果我没有培养好下一代，我会觉得自己失职。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我的孤独是因为我和他人有距离感。",
+                "others": "他人不会主动来打破这种距离。",
+                "world": "世界上的人都有自己的生活，很难相互靠近。"
+            },
+            "rules": "我不应该主动寻求他人的陪伴，以免被拒绝。",
+            "positive_assumption": "如果我不主动寻求陪伴，就不会受到伤害。",
+            "negative_assumption": "如果我主动寻求陪伴，可能会被拒绝，让我更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我常常感到无人理解，很孤独。",
+                "others": "他人很难真正走进我的内心世界。",
+                "world": "这个世界上很难找到真正懂我的人。"
+            },
+            "rules": "我应该习惯孤独，享受与自己相处的时光。",
+            "positive_assumption": "如果我习惯孤独，我就不会那么痛苦。",
+            "negative_assumption": "如果我不能习惯孤独，我会一直不开心。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我的能力是经过时间和经验积累的，值得信赖。",
+                "others": "他人应该依靠我的能力解决问题。",
+                "world": "在我的世界里，能力是解决一切的关键。"
+            },
+            "rules": "我应该用自己的能力帮助他人解决问题。",
+            "positive_assumption": "如果我用能力帮助他人，会得到他人的尊重和感激。",
+            "negative_assumption": "如果我不帮助他人，会被认为是自私的。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力完成自己设定的目标。",
+                "others": "他人可以信任我完成任务。",
+                "world": "世界上有很多事情等待我用能力去解决。"
+            },
+            "rules": "当遇到困难时，我应该凭借自己的能力去克服。",
+            "positive_assumption": "如果我凭借能力克服困难，我会更有成就感。",
+            "negative_assumption": "如果我不能克服困难，我会觉得自己很无能。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我有独特的价值，不应该被忽视。",
+                "others": "他人应该尊重我的价值。",
+                "world": "世界会因为我的价值而变得更美好。"
+            },
+            "rules": "我要维护自己的价值，不允许他人贬低。",
+            "positive_assumption": "如果我维护自己的价值，他人会更尊重我。",
+            "negative_assumption": "如果我不维护自己的价值，他人会轻视我。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我为家庭和社会做出了贡献，我的存在是有意义的。",
+                "others": "他人会认可我的价值。",
+                "world": "这个世界需要像我这样有经验和贡献的人。"
+            },
+            "rules": "我应该继续发挥自己的价值，为家庭和社会做更多的事。",
+            "positive_assumption": "如果我继续为家庭和社会做贡献，我会更有价值。",
+            "negative_assumption": "如果我停止贡献，我就会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我在水利设计方面的经验和知识是独特的，有很大的价值。",
+                "others": "学术伙伴和工程队成员应该重视我的经验和知识。",
+                "world": "水利建设领域的经验知识是宝贵的财富，应该被珍惜。"
+            },
+            "rules": "我要利用自己的经验和知识为水利建设做出更大贡献。",
+            "positive_assumption": "如果我用经验知识做贡献，会得到社会的认可。",
+            "negative_assumption": "如果我不做贡献，我的经验知识就没有发挥应有的作用。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我在水利设计方面的经验和知识是我一生的财富，应该传承下去。",
+                "others": "学术伙伴和工程队成员可以从我的经验和知识中受益。",
+                "world": "水利建设领域需要传承和积累经验知识才能进步。"
+            },
+            "rules": "我应该将自己在水利设计方面的经验和知识分享给他人。",
+            "positive_assumption": "如果我分享经验知识，会帮助他人成长，也会让我的知识更有价值。",
+            "negative_assumption": "如果我不分享，我的知识就会随着项目结束而被埋没。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我对水利建设和家族的责任是不可推卸的。",
+                "others": "学术伙伴和家族成员会理解我为责任付出的努力。",
+                "world": "世界会因为每个人履行水利建设责任而变得更美好。"
+            },
+            "rules": "我要尽最大努力完成水利设计责任，不辜负他人的期望。",
+            "positive_assumption": "如果我完成了责任，会得到他人的认可和尊重。",
+            "negative_assumption": "如果我没有完成责任，会被他人指责。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任设计出高质量的水利发电机组，为社会培养水利人才。",
+                "others": "学术伙伴和工程队成员需要我的指导和支持。",
+                "world": "社会的水利建设发展需要每个人承担起自己的责任。"
+            },
+            "rules": "我应该为水利建设培养下一代，传授我的经验和知识。",
+            "positive_assumption": "如果我培养好下一代水利人才，水利建设会更进步。",
+            "negative_assumption": "如果我没有培养好下一代，我会觉得自己失职。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我在水利项目中的孤独是因为我和他人有距离感。",
+                "others": "学术伙伴和工程队成员不会主动来打破这种距离。",
+                "world": "水利建设中的人都专注于工作，很难相互靠近。"
+            },
+            "rules": "我不应该主动寻求他人的陪伴，以免影响工作。",
+            "positive_assumption": "如果我不主动寻求陪伴，就不会分散工作精力。",
+            "negative_assumption": "如果我主动寻求陪伴，可能会被拒绝，还会影响工作。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我在水利项目中常常感到无人理解，很孤独。",
+                "others": "学术伙伴和工程队成员很难真正走进我的内心世界。",
+                "world": "在水利建设这个领域很难找到真正懂我的人。"
+            },
+            "rules": "我应该习惯在水利项目中的孤独，专注于工作。",
+            "positive_assumption": "如果我习惯孤独，我就能更专注于水利设计。",
+            "negative_assumption": "如果我不能习惯孤独，我会影响工作状态。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我的能力是经过长期积累的，在水利设计方面值得信赖。",
+                "others": "学术伙伴和工程队成员应该依靠我的能力解决问题。",
+                "world": "在水利建设领域，能力是解决一切的关键。"
+            },
+            "rules": "我应该用自己的能力帮助学术伙伴和工程队成员解决水利设计问题。",
+            "positive_assumption": "如果我用能力帮助他人，会得到他人的尊重和感激。",
+            "negative_assumption": "如果我不帮助他人，会被认为是自私的。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力完成水利发电机组的设计目标。",
+                "others": "学术伙伴和工程队成员可以信任我完成任务。",
+                "world": "水利建设中有很多难题等待我用能力去解决。"
+            },
+            "rules": "当遇到水利设计困难时，我应该凭借自己的能力去克服。",
+            "positive_assumption": "如果我凭借能力克服困难，我会更有成就感。",
+            "negative_assumption": "如果我不能克服困难，我会觉得自己很无能。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我在水利设计领域有独特价值，不应被忽视。",
+                "others": "学术伙伴和工程队成员应该尊重我的价值。",
+                "world": "水利建设领域会因为我的价值而发展得更好。"
+            },
+            "rules": "我要维护自己在水利设计中的价值，不允许他人贬低。",
+            "positive_assumption": "如果我维护自己在水利设计中的价值，他人会更尊重我。",
+            "negative_assumption": "如果我不维护自己的价值，他人会轻视我。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我主持设计水利发电机组，为国家建设做出贡献，我的存在是有价值的。",
+                "others": "学术伙伴和工程队成员会认可我的价值。",
+                "world": "国家建设需要像我这样有能力做贡献的人。"
+            },
+            "rules": "我应该继续在水利项目中发挥自己的价值。",
+            "positive_assumption": "如果我继续在水利项目中做贡献，我会更有价值。",
+            "negative_assumption": "如果我停止在水利项目中的贡献，我就会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我在技术上的经验和知识是独特的，有很大的价值。",
+                "others": "同事和徒弟应该重视我的经验和知识。",
+                "world": "世界上的技术经验知识是宝贵的财富，应该被珍惜。"
+            },
+            "rules": "我要利用自己的技术经验和知识为三线建设做出贡献。",
+            "positive_assumption": "如果我用经验知识做贡献，会得到同事和上级的认可。",
+            "negative_assumption": "如果我不做贡献，我的经验知识就没有发挥应有的作用。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我在技术方面的经验和知识是我宝贵的财富，应该传承下去。",
+                "others": "徒弟可以从我的经验和知识中受益。",
+                "world": "三线建设需要传承和积累技术经验知识才能进步。"
+            },
+            "rules": "我应该将自己的技术经验和知识分享给徒弟。",
+            "positive_assumption": "如果我分享经验知识，会帮助徒弟成长，也会让我的知识更有价值。",
+            "negative_assumption": "如果我不分享，我的知识就会随着时间流逝而浪费。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我对三线建设和家族传承的责任是不可推卸的。",
+                "others": "同事和家人会理解我为责任付出的努力。",
+                "world": "世界会因为每个人履行责任而变得更美好。"
+            },
+            "rules": "我要尽最大努力完成我的责任，不辜负他人的期望。",
+            "positive_assumption": "如果我完成了责任，会得到他人的认可和尊重。",
+            "negative_assumption": "如果我没有完成责任，会被他人指责。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任为三线建设贡献自己的技术，培养徒弟。",
+                "others": "同事和徒弟需要我的技术指导和支持。",
+                "world": "国家建设需要每个人承担起自己的责任。"
+            },
+            "rules": "我应该为三线建设和培养徒弟传授我的技术知识。",
+            "positive_assumption": "如果我培养好徒弟，三线建设会更顺利。",
+            "negative_assumption": "如果我没有培养好徒弟，我会觉得自己失职。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我的孤独是因为我和他人在技术追求上有距离感。",
+                "others": "他人不会主动来理解我的技术世界。",
+                "world": "世界上的人都有自己的工作，很难相互深入了解。"
+            },
+            "rules": "我不应该主动寻求他人的理解，以免被误解。",
+            "positive_assumption": "如果我不主动寻求理解，就不会受到伤害。",
+            "negative_assumption": "如果我主动寻求理解，可能会被误解，让我更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我在工作中常常独自思考技术问题，感到孤独。",
+                "others": "他人很难真正理解我在技术上的追求。",
+                "world": "在三线建设的环境中，很难找到真正懂我的人。"
+            },
+            "rules": "我应该习惯在工作中的孤独，专注于技术研究。",
+            "positive_assumption": "如果我习惯孤独，我就能更专注于研究。",
+            "negative_assumption": "如果我不能习惯孤独，我会无法集中精力工作。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我的能力是通过不断学习和实践积累的，值得信赖。",
+                "others": "他人应该依靠我的能力解决技术问题。",
+                "world": "在三线建设的世界里，能力是解决一切技术问题的关键。"
+            },
+            "rules": "我应该用自己的能力帮助同事和徒弟解决技术问题。",
+            "positive_assumption": "如果我用能力帮助他人，会得到他人的尊重和感激。",
+            "negative_assumption": "如果我不帮助他人，会被认为是自私的。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力攻克技术难题，发明新的工艺。",
+                "others": "同事和徒弟可以信任我解决技术问题。",
+                "world": "三线建设中有很多技术问题等待我去解决。"
+            },
+            "rules": "当遇到技术难题时，我应该凭借自己的能力去解决。",
+            "positive_assumption": "如果我凭借能力解决难题，我会更有成就感。",
+            "negative_assumption": "如果我不能解决难题，我会觉得自己很无能。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我的价值体现在对技术的钻研和创新上。",
+                "others": "他人应该尊重我在技术方面的价值。",
+                "world": "世界会因为技术创新者的存在而进步。"
+            },
+            "rules": "我要维护自己在技术上的价值，不允许他人质疑。",
+            "positive_assumption": "如果我维护好自己的技术价值，他人会更尊重我。",
+            "negative_assumption": "如果我不维护，他人会轻视我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我在三线建设中做出的成果证明了我的价值。",
+                "others": "同事和徒弟会因为我的成果认可我的价值。",
+                "world": "国家建设需要像我这样能做出实际贡献的人。"
+            },
+            "rules": "我应该继续在工作中取得成果，展现自己的价值。",
+            "positive_assumption": "如果我继续取得成果，我会更有价值。",
+            "negative_assumption": "如果我没有新的成果，我会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我在工科方面的经验和知识是独特的，有很大的价值。",
+                "others": "他人应该重视我的工科经验和知识。",
+                "world": "世界上的工科经验知识是宝贵的财富，应该被珍惜。"
+            },
+            "rules": "我要利用自己的工科经验和知识为社会做出贡献。",
+            "positive_assumption": "如果我用经验知识做贡献，会得到社会的认可。",
+            "negative_assumption": "如果我不做贡献，我的经验知识就没有发挥应有的作用。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我在工科学习中积累的经验和知识是宝贵的财富，应该传承下去。",
+                "others": "同学和后辈可以从我的经验和知识中受益。",
+                "world": "世界需要传承和积累工科经验知识才能进步。"
+            },
+            "rules": "我应该将自己在工科的经验和知识分享给他人。",
+            "positive_assumption": "如果我分享经验知识，会帮助他人成长，也会让我的知识更有价值。",
+            "negative_assumption": "如果我不分享，我的知识就会随着我在学习中被遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我对家族和社会在工科方面的责任是不可推卸的。",
+                "others": "他人会理解我为责任付出的努力。",
+                "world": "世界会因为每个人履行工科责任而变得更美好。"
+            },
+            "rules": "我要尽最大努力在工科学习上完成我的责任，不辜负他人的期望。",
+            "positive_assumption": "如果我完成了责任，会得到他人的认可和尊重。",
+            "negative_assumption": "如果我没有完成责任，会被他人指责。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任传承家族的工科精神，为社会培养工科人才。",
+                "others": "家族和社会需要我在工科方面的贡献。",
+                "world": "社会的发展需要每个人承担起在工科领域的责任。"
+            },
+            "rules": "我应该努力学习工科知识，为家族和社会培养下一代。",
+            "positive_assumption": "如果我培养好下一代，家族会更兴旺，社会会更进步。",
+            "negative_assumption": "如果我没有培养好下一代，我会觉得自己失职。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我的孤独是因为我对工科的追求和他人有距离感。",
+                "others": "他人不会主动来理解我对工科的追求。",
+                "world": "世界上的人都有自己的学习方向，很难相互靠近。"
+            },
+            "rules": "我不应该主动寻求他人对我工科追求的理解，以免被拒绝。",
+            "positive_assumption": "如果我不主动寻求理解，就不会受到伤害。",
+            "negative_assumption": "如果我主动寻求理解，可能会被拒绝，让我更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我在工科学习中有时会无人理解，很孤独。",
+                "others": "同学和老师很难真正走进我对工科独特的思考世界。",
+                "world": "这个世界上很难找到真正懂我工科想法的人。"
+            },
+            "rules": "我应该习惯在工科学习中的孤独，享受钻研的时光。",
+            "positive_assumption": "如果我习惯孤独，就不会那么痛苦。",
+            "negative_assumption": "如果我不能习惯孤独，会一直不开心。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我的工科能力是有潜力的，值得挖掘。",
+                "others": "他人应该鼓励我发挥工科能力。",
+                "world": "在工科的世界里，能力是解决一切的关键。"
+            },
+            "rules": "我应该积极参与工科学习和实践来发挥能力。",
+            "positive_assumption": "如果我积极发挥能力，会得到更多成长。",
+            "negative_assumption": "如果我不积极发挥，能力会被埋没。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力学好工科知识，解决相关问题。",
+                "others": "老师和同学可以信任我解决工科难题。",
+                "world": "世界上有很多工科问题等待我去解决。"
+            },
+            "rules": "当遇到工科难题时，我应该凭借自己的能力去克服。",
+            "positive_assumption": "如果我凭借能力克服难题，会更有成就感。",
+            "negative_assumption": "如果我不能克服难题，会觉得自己很无能。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我的价值体现在对工科知识的掌握和运用上。",
+                "others": "他人会因为我在工科的能力而尊重我。",
+                "world": "世界会因为有我这样的工科人才而进步。"
+            },
+            "rules": "我要不断提升自己在工科方面的能力以维护价值。",
+            "positive_assumption": "如果我提升能力，会更有价值。",
+            "negative_assumption": "如果我不提升能力，价值会降低。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我绘制精准水车图纸，对工科学习有价值。",
+                "others": "老师和同学会认可我在工科方面的价值。",
+                "world": "这个世界需要像我这样有工科天赋的人。"
+            },
+            "rules": "我应该在工科学习上继续展现自己的价值。",
+            "positive_assumption": "如果我在工科学习上持续展现价值，会得到更多认可。",
+            "negative_assumption": "如果我不再展现价值，会被老师和同学忽视。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我在学习中积累的知识是独特的，有很大的价值。",
+                "others": "他人应该重视我学到的知识。",
+                "world": "世界上的技术知识是宝贵的财富，应该被珍惜。"
+            },
+            "rules": "我要利用自己学到的知识为家族做出贡献。",
+            "positive_assumption": "如果我用知识做贡献，会得到家族的认可。",
+            "negative_assumption": "如果我不做贡献，我的知识就没有发挥应有的作用。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我在《营造法式》中学到的知识是我宝贵的财富，应该传承下去。",
+                "others": "同窗可以从我的知识中受益。",
+                "world": "世界需要传承和积累技术知识才能进步。"
+            },
+            "rules": "我应该将自己学到的知识分享给同窗。",
+            "positive_assumption": "如果我分享知识，会帮助同窗成长，也会让我的知识更有价值。",
+            "negative_assumption": "如果我不分享，我的知识就会随着我成长而被浪费。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我对家族技术传承的责任是不可推卸的。",
+                "others": "家族长辈会理解我为传承付出的努力。",
+                "world": "世界会因为每个人传承家族技术而变得更美好。"
+            },
+            "rules": "我要尽最大努力学习技术，不辜负家族期望。",
+            "positive_assumption": "如果我完成了传承责任，会得到家族的认可和尊重。",
+            "negative_assumption": "如果我没有完成传承责任，会被家族指责。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任传承家族的技术，为家族增光。",
+                "others": "家族成员需要我的努力来传承技术。",
+                "world": "社会的发展需要每个人传承家族技术。"
+            },
+            "rules": "我应该努力学习技术，为家族传承做出贡献。",
+            "positive_assumption": "如果我努力学习技术，家族会更兴旺。",
+            "negative_assumption": "如果我没有努力学习技术，我会觉得自己失职。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我在学习上的孤独是因为我和他人有距离感。",
+                "others": "他人不会主动来打破这种距离。",
+                "world": "在学习技术的世界里，人们都有自己的学习节奏，很难相互靠近。"
+            },
+            "rules": "我不应该主动寻求他人的陪伴，以免被拒绝。",
+            "positive_assumption": "如果我不主动寻求陪伴，就不会受到伤害。",
+            "negative_assumption": "如果我主动寻求陪伴，可能会被拒绝，让我更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我在学习《营造法式》时常常感到无人理解，很孤独。",
+                "others": "他人很难真正走进我对技术学习的内心世界。",
+                "world": "在这个学习技术的世界里，很难找到真正懂我的人。"
+            },
+            "rules": "我应该习惯在学习中的孤独，享受与知识相处的时光。",
+            "positive_assumption": "如果我习惯在学习中的孤独，我就不会那么痛苦。",
+            "negative_assumption": "如果我不能习惯在学习中的孤独，我会一直不开心。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我的学习能力是经过努力积累的，值得信赖。",
+                "others": "他人应该依靠我的学习能力解决问题。",
+                "world": "在学习技术的世界里，能力是解决一切的关键。"
+            },
+            "rules": "我应该用自己的学习能力帮助同窗解决问题。",
+            "positive_assumption": "如果我用学习能力帮助同窗，会得到他人的尊重和感激。",
+            "negative_assumption": "如果我不帮助同窗，会被认为是自私的。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力理解《营造法式》中的知识。",
+                "others": "同窗和长辈可以信任我掌握相关知识。",
+                "world": "世界上有很多技术知识等待我去学习。"
+            },
+            "rules": "当遇到学习困难时，我应该凭借自己的能力去克服。",
+            "positive_assumption": "如果我凭借能力克服学习困难，我会更有成就感。",
+            "negative_assumption": "如果我不能克服学习困难，我会觉得自己很无能。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我在技术学习上有独特的见解，不应该被忽视。",
+                "others": "他人应该尊重我在学习中的价值。",
+                "world": "世界会因为我的学习成果而变得更美好。"
+            },
+            "rules": "我要维护自己在学习中的价值，不允许他人贬低。",
+            "positive_assumption": "如果我维护自己在学习中的价值，他人会更尊重我。",
+            "negative_assumption": "如果我不维护自己在学习中的价值，他人会轻视我。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我在学习《营造法式》上的努力是有意义的，我是家族传承的希望。",
+                "others": "家族长辈和同窗会认可我在学习中的价值。",
+                "world": "在这个学习技术的世界里，我的努力会得到回报。"
+            },
+            "rules": "我应该认真学习《营造法式》，不辜负家族期望。",
+            "positive_assumption": "如果我认真学习《营造法式》，我会更有价值。",
+            "negative_assumption": "如果我学习不认真，我就会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

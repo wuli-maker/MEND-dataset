@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以在新时代中找到自己的位置。",
+                "others": "他人会支持我在新时代中发展。",
+                "world": "新时代为我提供了新的机会。"
+            },
+            "rules": "我应该勇敢地尝试新的社交方式和活动。",
+            "positive_assumption": "如果我尝试新的社交方式，我会结识更多的人。",
+            "negative_assumption": "如果我不尝试新的社交方式，我会错过新的机会。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我有学习和适应新事物的能力。",
+                "others": "他人会鼓励我尝试新事物。",
+                "world": "世界在不断变化，我需要跟上时代的步伐。"
+            },
+            "rules": "我应该主动接触和学习新的知识和技能。",
+            "positive_assumption": "如果我学习新事物，我能更好地适应新时代。",
+            "negative_assumption": "如果我不学习新事物，我会被时代淘汰。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我的经验和智慧能让我在社交中发挥影响力。",
+                "others": "他人会尊重我的经验和智慧。",
+                "world": "社交中经验和智慧是重要的影响力来源。"
+            },
+            "rules": "我应该用自己的经验和智慧去引导社交活动。",
+            "positive_assumption": "如果我用经验和智慧引导社交，我会得到他人的认可。",
+            "negative_assumption": "如果我不用经验和智慧引导社交，我会被他人忽视。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我在社交场合中有一定的话语权和影响力。",
+                "others": "他人会听取我的意见和建议。",
+                "world": "社交中影响力可以推动事情朝着好的方向发展。"
+            },
+            "rules": "在社交中，我应该积极表达自己的观点。",
+            "positive_assumption": "如果我积极表达观点，我能发挥更大的影响力。",
+            "negative_assumption": "如果我不表达观点，我会失去影响力。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我的帮助对他人来说是重要的。",
+                "others": "他人会珍惜我的帮助。",
+                "world": "人与人之间应该相互帮助。"
+            },
+            "rules": "我应该用自己的技能和经验去帮助更多的人。",
+            "positive_assumption": "如果我帮助更多的人，我会让更多人受益。",
+            "negative_assumption": "如果我不帮助更多人，我会错过让世界更美好的机会。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力和知识去帮助他人解决问题。",
+                "others": "他人遇到问题时会向我寻求帮助。",
+                "world": "帮助他人能让世界变得更美好。"
+            },
+            "rules": "当他人需要帮助时，我应该主动伸出援手。",
+            "positive_assumption": "如果我帮助他人，我会收获他人的感激和友谊。",
+            "negative_assumption": "如果我不帮助他人，我会失去他人的信任。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我的独立和坚韧是我多年来积累的宝贵品质。",
+                "others": "他人会尊重我的独立和坚韧。",
+                "world": "在这个世界上，独立和坚韧的人更容易生存。"
+            },
+            "rules": "我应该保持自己独立和坚韧的品质。",
+            "positive_assumption": "如果我保持独立和坚韧，我会赢得他人的尊重。",
+            "negative_assumption": "如果我失去独立和坚韧，我会被他人轻视。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够独自应对生活中的困难。",
+                "others": "他人可能需要我的帮助，但我不需要依赖他人。",
+                "world": "生活中的挑战是对我坚韧的考验。"
+            },
+            "rules": "遇到困难时，我应该自己想办法解决。",
+            "positive_assumption": "如果我自己解决困难，我会变得更坚韧。",
+            "negative_assumption": "如果我依赖他人解决困难，我会变得软弱。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我的存在本身就是有价值的，不需要用物质来衡量。",
+                "others": "他人不会因为我的经济状况而否定我的价值。",
+                "world": "世界上的价值是多元的，不只是金钱。"
+            },
+            "rules": "我不需要为了证明价值而追求物质财富。",
+            "positive_assumption": "如果我不追求物质财富，我能更专注于体现自身价值。",
+            "negative_assumption": "如果我过度追求物质财富，我可能会失去真正的价值。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我所做的事情都有其意义和价值。",
+                "others": "他人会认可我的付出和贡献。",
+                "world": "这个世界需要像我这样有价值的人。"
+            },
+            "rules": "我应该坚持做对自己和他人有意义的事情。",
+            "positive_assumption": "如果我坚持做有意义的事，我会更有价值。",
+            "negative_assumption": "如果我不做有意义的事，我就会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以在新时代农村发展中找到自己的位置。",
+                "others": "村里的人会支持我参与新的发展项目。",
+                "world": "新时代为农村带来了新的机会。"
+            },
+            "rules": "我要勇敢尝试参与村里的新发展项目。",
+            "positive_assumption": "如果我参与项目，能获得更多收益。",
+            "negative_assumption": "如果我不参与，会错过新机会。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我有学习新农业技术的能力。",
+                "others": "村里干部会鼓励我尝试新的种植方法。",
+                "world": "农业在发展，我要跟上新的种植技术。"
+            },
+            "rules": "我要主动学习新的农业知识和技术。",
+            "positive_assumption": "如果我学习新技术，能提高农作物产量。",
+            "negative_assumption": "如果我不学习，农作物产量会下降。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我的人生经验和智慧能在社交中发挥作用。",
+                "others": "别人会尊重我的经验和智慧。",
+                "world": "社交中经验和智慧是重要的影响力来源。"
+            },
+            "rules": "我要用经验和智慧引导村里的社交活动。",
+            "positive_assumption": "如果我引导社交，会得到大家的认可。",
+            "negative_assumption": "如果我不引导，会被人忽视。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我在村里的社交场合有一定的发言权，大家会听我的。",
+                "others": "村里的人会听取我的意见和建议。",
+                "world": "在村里，有经验的人说话有分量。"
+            },
+            "rules": "在村里社交时，我要积极表达自己的看法。",
+            "positive_assumption": "如果我积极表达，能更好地影响事情发展。",
+            "negative_assumption": "如果我不表达，就会失去影响力。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我的经验和技能对别人很有用。",
+                "others": "别人会珍惜我传授的经验和技能。",
+                "world": "分享经验能让大家共同进步。"
+            },
+            "rules": "我应该把自己的经验和技能传授给更多人。",
+            "positive_assumption": "如果我传授经验，能让更多人受益。",
+            "negative_assumption": "如果我不传授经验，大家可能走弯路。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我有丰富的种地和编织手艺，能帮到村里的人。",
+                "others": "村里有人遇到种地或编织问题会找我。",
+                "world": "互相帮助能让村子发展得更好。"
+            },
+            "rules": "当村里有人需要种地或编织帮助时，我要主动帮忙。",
+            "positive_assumption": "如果我帮助别人，会收获大家的好感。",
+            "negative_assumption": "如果我不帮助别人，会被人说闲话。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我的独立和坚韧让我在村里立足，是我的优势。",
+                "others": "村里人会尊重我独立做事的态度。",
+                "world": "在农村，独立坚韧的人更能生存。"
+            },
+            "rules": "我要保持独立做事的风格，不轻易求助。",
+            "positive_assumption": "如果我保持独立，我会赢得更多尊重。",
+            "negative_assumption": "如果我失去独立，我会被人看轻。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我独自生活这么多年，能应对各种生活难题。",
+                "others": "别人有困难可能找我帮忙，但我不需要依赖他们。",
+                "world": "生活的困难是锻炼我坚韧的机会。"
+            },
+            "rules": "遇到生活困难时，我要自己咬牙解决。",
+            "positive_assumption": "如果我自己解决困难，我会更坚韧。",
+            "negative_assumption": "如果我依赖别人解决困难，我会变软弱。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我守护祖屋也是一种价值体现，这是对家族的责任。",
+                "others": "子女可能不理解，但守护祖屋是有意义的。",
+                "world": "守护传统和家族根基是有价值的。"
+            },
+            "rules": "我应该坚守守护祖屋的责任。",
+            "positive_assumption": "如果我坚守守护祖屋，我的价值会得到传承。",
+            "negative_assumption": "如果我放弃守护祖屋，我会失去这份价值。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我靠自己的劳动和手艺创造价值，这是实实在在的。",
+                "others": "村里的人认可我干活的能力和价值。",
+                "world": "在农村，勤劳能干的人是有价值的。"
+            },
+            "rules": "我应该持续用劳动和手艺为自己和家庭创造价值。",
+            "positive_assumption": "如果我坚持劳动和发挥手艺，我会更有价值。",
+            "negative_assumption": "如果我停止劳动和手艺，我就会变得没价值。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以在新时代的耕种和抚养方式中找到自己的位置。",
+                "others": "村里的人会支持我在新时代中采用新的耕种和抚养方式。",
+                "world": "新时代为我提供了新的耕种和抚养机会。"
+            },
+            "rules": "我应该勇敢地尝试新的耕种和抚养方式。",
+            "positive_assumption": "如果我尝试新的方式，我会提高耕种效率和抚养质量。",
+            "negative_assumption": "如果我不尝试新的方式，我会错过新的机会。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我有学习新的耕种技术和抚养观念的能力。",
+                "others": "村里的人会鼓励我尝试新的耕种和抚养方法。",
+                "world": "时代在变化，我需要跟上新的耕种和抚养方式。"
+            },
+            "rules": "我应该主动接触和学习新的耕种知识和抚养技能。",
+            "positive_assumption": "如果我学习新事物，我能更好地适应新时代的耕种和抚养。",
+            "negative_assumption": "如果我不学习新事物，我会在耕种和抚养上落后。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我的耕种和抚养经验能让我在村里社交中发挥影响力。",
+                "others": "他人会尊重我的耕种和抚养经验。",
+                "world": "村里社交中经验是重要的影响力来源。"
+            },
+            "rules": "我应该用自己的耕种和抚养经验去引导村里的社交活动。",
+            "positive_assumption": "如果我用经验引导社交，我会得到他人的认可。",
+            "negative_assumption": "如果我不用经验引导社交，我会被他人忽视。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我在村里关于耕种和抚养子女的话题中有一定的话语权和影响力。",
+                "others": "他人会听取我在耕种和抚养方面的意见和建议。",
+                "world": "在村里社交中影响力可以推动大家更好地耕种和抚养子女。"
+            },
+            "rules": "在村里社交中，我应该积极表达自己在耕种和抚养方面的观点。",
+            "positive_assumption": "如果我积极表达观点，我能发挥更大的影响力。",
+            "negative_assumption": "如果我不表达观点，我会失去影响力。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我的耕种和抚养经验对他人来说是重要的。",
+                "others": "他人会珍惜我的帮助。",
+                "world": "人与人之间应该相互帮助，共同抚养好子女。"
+            },
+            "rules": "我应该用自己的经验去帮助更多在耕种和抚养上有困难的人。",
+            "positive_assumption": "如果我帮助更多的人，我会让更多人受益。",
+            "negative_assumption": "如果我不帮助更多人，我会错过让村里更美好的机会。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我有耕种田地和抚养子女的经验，可以帮助村里有同样困难的人。",
+                "others": "他人遇到耕种和抚养子女问题时会向我寻求帮助。",
+                "world": "帮助他人能让村里的生活变得更美好。"
+            },
+            "rules": "当他人在耕种或抚养子女方面需要帮助时，我应该主动伸出援手。",
+            "positive_assumption": "如果我帮助他人，我会收获他人的感激和友谊。",
+            "negative_assumption": "如果我不帮助他人，我会失去他人的信任。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我的独立和坚韧是我在独自抚养子女中锻炼出来的宝贵品质。",
+                "others": "他人会尊重我的独立和坚韧。",
+                "world": "在这个世界上，独立和坚韧的人更容易抚养好子女。"
+            },
+            "rules": "我应该保持自己独立和坚韧的品质。",
+            "positive_assumption": "如果我保持独立和坚韧，我会赢得他人的尊重。",
+            "negative_assumption": "如果我失去独立和坚韧，我会被他人轻视。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够独自应对耕种田地和抚养子女中的困难。",
+                "others": "他人可能会对我表示同情，但我不需要依赖他人的救济。",
+                "world": "生活中的困难是对我坚韧的考验。"
+            },
+            "rules": "遇到耕种和抚养子女的困难时，我应该自己想办法解决。",
+            "positive_assumption": "如果我自己解决困难，我会变得更坚韧。",
+            "negative_assumption": "如果我依赖他人解决困难，我会变得软弱。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我的价值在于对家庭的责任和付出，不在于是否有丈夫依靠。",
+                "others": "他人不会因为我丈夫早逝而否定我的价值。",
+                "world": "世界上的价值是多元的，不只是依靠丈夫。"
+            },
+            "rules": "我不需要为了证明价值而依赖他人。",
+            "positive_assumption": "如果我不依赖他人，我能更体现自身价值。",
+            "negative_assumption": "如果我过度依赖他人，我可能会失去真正的价值。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我独自耕种两亩薄田抚养子女的行为是有价值的。",
+                "others": "村里的人会认可我独自抚养子女的付出。",
+                "world": "这个世界需要像我这样坚强抚养子女的人。"
+            },
+            "rules": "我应该坚持独自耕种田地抚养好子女。",
+            "positive_assumption": "如果我坚持独自抚养子女，我会更有价值。",
+            "negative_assumption": "如果我放弃抚养子女，我就会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以在公社的新劳动模式中找到自己的位置。",
+                "others": "领导会支持我在新劳动模式中发展。",
+                "world": "公社的新劳动模式为我提供了新的机会。"
+            },
+            "rules": "我应该勇敢地尝试新的劳动方式和活动。",
+            "positive_assumption": "如果我尝试新的劳动方式，我会有更多的收获。",
+            "negative_assumption": "如果我不尝试新的劳动方式，我会错过新的机会。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我有学习新的插秧方法的能力。",
+                "others": "同事会鼓励我尝试新的插秧方法。",
+                "world": "农业生产在不断发展，我需要跟上新的方法。"
+            },
+            "rules": "我应该主动学习新的插秧知识和技能。",
+            "positive_assumption": "如果我学习新方法，我能提高插秧效率。",
+            "negative_assumption": "如果我不学习新方法，我会被时代淘汰。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我的插秧经验和技巧能让我在公社社交中发挥影响力。",
+                "others": "同事会尊重我的经验和技巧。",
+                "world": "在公社里，经验和技巧是重要的影响力来源。"
+            },
+            "rules": "我应该用自己的经验和技巧去引导劳动活动。",
+            "positive_assumption": "如果我用经验和技巧引导劳动，我会得到同事的认可。",
+            "negative_assumption": "如果我不用经验和技巧引导劳动，我会被同事忽视。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我作为公社最佳插秧手，在劳动安排上有一定的话语权。",
+                "others": "同事会听取我的劳动安排建议。",
+                "world": "在公社劳动中，有能力的人可以发挥影响力。"
+            },
+            "rules": "在劳动安排讨论中，我应该积极表达自己的观点。",
+            "positive_assumption": "如果我积极表达观点，能让劳动安排更合理。",
+            "negative_assumption": "如果我不表达观点，我会失去在劳动安排上的影响力。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我的插秧经验对其他同事是有帮助的。",
+                "others": "同事会珍惜我的经验分享。",
+                "world": "分享经验能让大家共同进步。"
+            },
+            "rules": "我应该把自己的插秧经验分享给其他同事。",
+            "positive_assumption": "如果我分享经验，会让更多人受益。",
+            "negative_assumption": "如果我不分享经验，我会错过让大家共同进步的机会。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力教会年轻社员捆扎稻秆，这是在帮助他人。",
+                "others": "年轻社员会感激我的帮助。",
+                "world": "在公社里，大家应该相互帮助。"
+            },
+            "rules": "当年轻社员需要帮助时，我应该主动教他们。",
+            "positive_assumption": "如果我帮助年轻社员，我会收获他们的感激和友谊。",
+            "negative_assumption": "如果我不帮助他们，我会失去他们的信任。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我在插秧过程中不怕吃苦，这体现了我的坚韧。",
+                "others": "他人会尊重我的坚韧。",
+                "world": "在艰苦的劳动中，坚韧的人更容易成功。"
+            },
+            "rules": "我应该坚持完成每一次的插秧任务。",
+            "positive_assumption": "如果我坚持完成任务，我会变得更坚韧。",
+            "negative_assumption": "如果我中途放弃，我会被他人轻视。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我能独自完成插秧任务，说明我很独立。",
+                "others": "同事可能需要我的帮助，但我不需要依赖他们。",
+                "world": "在劳动中，独立完成任务是一种优秀的品质。"
+            },
+            "rules": "遇到插秧难题时，我应该自己想办法解决。",
+            "positive_assumption": "如果我自己解决难题，我会变得更独立。",
+            "negative_assumption": "如果我依赖他人解决难题，我会变得软弱。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我能为公社做出贡献，这就是我的价值。",
+                "others": "公社领导会看到我的贡献并给予肯定。",
+                "world": "为集体做贡献的人是有价值的。"
+            },
+            "rules": "我应该积极参与公社的各项劳动。",
+            "positive_assumption": "如果我积极参与劳动，我会更有价值。",
+            "negative_assumption": "如果我不参与劳动，我就会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我插秧的能力证明了我是有价值的。",
+                "others": "公社的同事会因为我插秧快而认可我。",
+                "world": "在公社里，有一技之长的人是有价值的。"
+            },
+            "rules": "我应该不断提高自己的插秧速度和质量。",
+            "positive_assumption": "如果我插秧又快又好，我会更有价值。",
+            "negative_assumption": "如果我插秧慢或质量差，我就会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以在饥荒年代找到生存的方法。",
+                "others": "弟弟妹妹会支持我寻找生存方法。",
+                "world": "即使在困难时期，也会有新的机会。"
+            },
+            "rules": "我应该勇敢地尝试新的生存方式。",
+            "positive_assumption": "如果我尝试新的生存方式，我们可能会找到更多食物。",
+            "negative_assumption": "如果我不尝试新方式，我们可能会一直挨饿。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我能适应饥荒年代的生活，有学习新生存技能的能力。",
+                "others": "弟弟妹妹会和我一起学习适应。",
+                "world": "环境在变化，我们需要不断学习适应。"
+            },
+            "rules": "我应该主动学习新的生存技能。",
+            "positive_assumption": "如果我学习新技能，我们就能更好地应对饥荒。",
+            "negative_assumption": "如果我不学习新技能，我们可能会面临生存危机。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我的经验和智慧能让我在家庭中发挥影响力。",
+                "others": "弟弟妹妹会尊重我的经验和智慧。",
+                "world": "在困难时期，经验和智慧很重要。"
+            },
+            "rules": "我应该用自己的经验和智慧引导弟弟妹妹。",
+            "positive_assumption": "如果我用经验和智慧引导他们，我们能更好地生存。",
+            "negative_assumption": "如果我不用经验和智慧引导他们，他们可能会犯错，我会被他们轻视。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我在照顾弟弟妹妹的过程中有一定的话语权和影响力。",
+                "others": "弟弟妹妹会听取我的意见和建议。",
+                "world": "在家庭中，有能力的人应该引导大家。"
+            },
+            "rules": "在家庭事务中，我应该积极表达自己的观点。",
+            "positive_assumption": "如果我积极表达观点，能让家庭更好地应对饥荒。",
+            "negative_assumption": "如果我不表达观点，家庭可能会陷入混乱，我会失去影响力。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我的照顾对弟弟妹妹的成长很重要。",
+                "others": "弟弟妹妹会珍惜我的照顾。",
+                "world": "家人之间就应该相互照顾。"
+            },
+            "rules": "我应该用自己的能力让弟弟妹妹健康成长。",
+            "positive_assumption": "如果我让弟弟妹妹健康成长，我会很有成就感。",
+            "negative_assumption": "如果我没照顾好他们，我会很自责。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力照顾好弟弟妹妹，能为他们提供帮助。",
+                "others": "弟弟妹妹遇到问题会向我寻求帮助。",
+                "world": "在家庭中，相互帮助才能度过难关。"
+            },
+            "rules": "当弟弟妹妹需要帮助时，我应该立刻伸出援手。",
+            "positive_assumption": "如果我帮助弟弟妹妹，我们的感情会更好。",
+            "negative_assumption": "如果我不帮助他们，他们会失望，我会失去他们的信任。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我在暴雨夜抱小妹修屋顶，说明我能独自应对困难。",
+                "others": "弟弟妹妹依靠我保护他们，我不能退缩。",
+                "world": "生活中的困难是对我坚韧的考验。"
+            },
+            "rules": "遇到自然灾害等困难，我要勇敢地保护弟弟妹妹。",
+            "positive_assumption": "如果我勇敢保护弟弟妹妹，我会成为他们的依靠。",
+            "negative_assumption": "如果我害怕退缩，弟弟妹妹会受到伤害，我就是不称职的。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我能背着高烧的大弟翻山找医生，我很独立坚韧。",
+                "others": "大弟需要我照顾，我不能依赖别人。",
+                "world": "在艰难的环境中，只有独立坚韧才能生存。"
+            },
+            "rules": "遇到弟弟妹妹生病等困难，我要自己想办法解决。",
+            "positive_assumption": "如果我自己解决困难，我会变得更坚韧。",
+            "negative_assumption": "如果我依赖别人，弟弟妹妹可能会有危险，我就是软弱的。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我教会二妹辨认野菜，这体现了我的价值。",
+                "others": "二妹学会辨认野菜后能帮我分担，她会感激我。",
+                "world": "在困难时期，能传授生存技能就是有价值的。"
+            },
+            "rules": "我应该把自己知道的生存技能教给弟弟妹妹。",
+            "positive_assumption": "如果我教会弟弟妹妹更多技能，我们就能更好地度过饥荒。",
+            "negative_assumption": "如果我不教他们技能，他们可能会陷入危险，我就是失职的。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我能挖到足够的野菜养活弟弟妹妹，我是有价值的。",
+                "others": "弟弟妹妹需要我，他们认可我的付出。",
+                "world": "在饥荒年代，能为家人提供食物就是有价值的。"
+            },
+            "rules": "我应该努力挖到更多的野菜。",
+            "positive_assumption": "如果我挖到更多野菜，我对家人的价值就更大。",
+            "negative_assumption": "如果我挖不到足够野菜，我就不能照顾好弟弟妹妹，我就没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

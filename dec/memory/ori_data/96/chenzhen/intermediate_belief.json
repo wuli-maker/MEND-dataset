@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然年纪大了，但我的能力还在，我可以完成自己想做的事。",
+                "others": "别人不应该因为我的年龄而质疑我的能力。",
+                "world": "年龄不是实现目标的障碍。"
+            },
+            "rules": "我要相信自己的能力，勇敢地去追求目标。",
+            "positive_assumption": "如果我相信自己，就能克服困难实现目标。",
+            "negative_assumption": "如果我不相信自己，就会错过实现目标的机会。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的经验和能力完成教孙子包馄饨和整理丈夫图纸的目标。",
+                "others": "家人应该支持我完成这些目标。",
+                "world": "只要努力，目标都可以实现。"
+            },
+            "rules": "我要制定计划，逐步实现自己的目标。",
+            "positive_assumption": "如果我按计划执行，就能实现目标。",
+            "negative_assumption": "如果我不制定计划，目标可能无法实现。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "整理丈夫的遗物和侍弄花草能让我和过去建立联系，我很享受这个过程。",
+                "others": "这些旧物承载着和家人、朋友的回忆。",
+                "world": "旧物是过去生活的象征。"
+            },
+            "rules": "我要好好保存这些旧物，传承过去的记忆。",
+            "positive_assumption": "如果我保存好旧物，能让回忆更长久。",
+            "negative_assumption": "如果我丢弃旧物，回忆会渐渐消失。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "过去的回忆让我感到温暖和安心，是我生活的动力。",
+                "others": "过去一起经历的人是我最珍贵的财富。",
+                "world": "回忆是连接过去和现在的桥梁。"
+            },
+            "rules": "我要经常回忆过去，珍惜曾经的经历。",
+            "positive_assumption": "如果我回忆过去，能让我更有勇气面对现在。",
+            "negative_assumption": "如果我忘记过去，我会失去精神支柱。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭中的地位好像变了，家人不再像以前那样亲近我。",
+                "others": "家人对我的态度变得冷淡了。",
+                "world": "家庭不再是我温暖的港湾。"
+            },
+            "rules": "我要努力修复和家人的关系。",
+            "positive_assumption": "如果我努力修复，家庭关系会回到从前。",
+            "negative_assumption": "如果我不努力，家庭关系会越来越糟糕。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我和家人之间好像有了隔阂，我变得不了解他们了。",
+                "others": "家人的行为和想法让我感到陌生。",
+                "world": "家庭关系变得越来越复杂，我有些不知所措。"
+            },
+            "rules": "我要主动和家人沟通，增进彼此的了解。",
+            "positive_assumption": "如果我主动沟通，能拉近和家人的距离。",
+            "negative_assumption": "如果我不沟通，和家人的关系会越来越疏远。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我曾经是劳模，为社会和家庭都做出了贡献，我是有价值的人。",
+                "others": "社会和家人应该认可我的价值。",
+                "world": "有贡献的人应该被肯定。"
+            },
+            "rules": "我要展示自己的价值，让家人看到我的重要性。",
+            "positive_assumption": "如果我展示自己的价值，家人会更加重视我。",
+            "negative_assumption": "如果我不展示，家人会忘记我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我独自抚养子女长大，为家庭奉献了一生，我是有价值的。",
+                "others": "家人应该感激我的付出。",
+                "world": "一个为家庭付出的人是值得被尊重的。"
+            },
+            "rules": "我应该得到家人的理解和关心。",
+            "positive_assumption": "如果家人理解和关心我，说明我的付出是有价值的。",
+            "negative_assumption": "如果家人不理解我，我的付出就没有意义。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我在生活中的影响力越来越小，很多事情都不由我决定。",
+                "others": "子女们开始自作主张，不考虑我的感受。",
+                "world": "这个世界变化太快，我跟不上节奏了。"
+            },
+            "rules": "我要多表达自己的想法，让家人知道我的需求。",
+            "positive_assumption": "如果我多表达，家人可能会尊重我的想法。",
+            "negative_assumption": "如果我不表达，家人会继续忽视我。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我连自己吃的药都不能做主，我对生活的掌控力越来越弱了。",
+                "others": "家人不再尊重我的意见和选择。",
+                "world": "随着年龄增长，世界变得越来越不受我控制。"
+            },
+            "rules": "我应该尽量坚持自己的生活方式和选择。",
+            "positive_assumption": "如果我坚持自己的选择，我还能保留一些对生活的掌控。",
+            "negative_assumption": "如果我不坚持，我会完全失去对生活的掌控。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然年纪大了，但我的能力还在，我可以克服困难完成目标。",
+                "others": "别人不应该因为我的年龄而质疑我的能力。",
+                "world": "年龄不是实现目标的障碍。"
+            },
+            "rules": "我要相信自己的能力，勇敢地去追求目标。",
+            "positive_assumption": "如果我相信自己，就能克服困难实现目标。",
+            "negative_assumption": "如果我不相信自己，就会错过实现目标的机会。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我有丰富的生活经验，有能力完成自己想做的事情。",
+                "others": "家人应该支持我去实现自己的目标。",
+                "world": "只要努力，目标都可以实现。"
+            },
+            "rules": "我要制定详细的计划，一步一步实现目标。",
+            "positive_assumption": "如果我按计划执行，就能实现目标。",
+            "negative_assumption": "如果我不制定计划，目标可能无法实现。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "看着阳台上丈夫机械厂旧址，回忆起过去的点点滴滴，让我感到很踏实。",
+                "others": "这些旧的场景承载着和丈夫的回忆。",
+                "world": "旧场景是过去生活的见证。"
+            },
+            "rules": "我要珍惜这些旧场景，保留对过去的记忆。",
+            "positive_assumption": "如果我珍惜旧场景，能让回忆更深刻。",
+            "negative_assumption": "如果我不珍惜，回忆会渐渐模糊。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "过去和丈夫、子女一起的回忆让我感到温暖和安心，是我坚持下去的动力。",
+                "others": "过去一起经历的家人是我最珍贵的财富。",
+                "world": "回忆是连接过去和现在的纽带。"
+            },
+            "rules": "我要经常和子女分享过去的故事，传承家庭的记忆。",
+            "positive_assumption": "如果我分享故事，能让子女更了解家庭的历史。",
+            "negative_assumption": "如果我不分享，过去的记忆可能会被遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭中的地位好像在改变，子女对我的依赖越来越少。",
+                "others": "子女对我的态度没有以前那么亲近了。",
+                "world": "家庭氛围不如以前温暖了。"
+            },
+            "rules": "我要多组织家庭活动，增强家庭的凝聚力。",
+            "positive_assumption": "如果我组织活动，家庭关系会更加融洽。",
+            "negative_assumption": "如果我不组织，家庭关系会越来越松散。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "子女长大了有了自己的圈子，和我交流越来越少，我和他们变得陌生了。",
+                "others": "子女的行为和想法让我越来越看不懂。",
+                "world": "家庭关系变得越来越微妙，我有些不知所措。"
+            },
+            "rules": "我要主动参与子女的生活，增进彼此的了解。",
+            "positive_assumption": "如果我主动参与，能拉近和子女的距离。",
+            "negative_assumption": "如果我不参与，和子女的关系会越来越疏远。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我曾经是纺织劳模，为社会和家庭都做出了贡献，我是有价值的。",
+                "others": "社会和家人应该肯定我的贡献。",
+                "world": "有贡献的人应该被铭记。"
+            },
+            "rules": "我要在家庭中继续发挥作用，展示自己的价值。",
+            "positive_assumption": "如果我继续发挥作用，家人会更加重视我。",
+            "negative_assumption": "如果我不发挥作用，家人会忘记我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我独自把子女抚养长大，为家庭操持了这么多年，我的付出是有价值的。",
+                "others": "子女应该理解我的辛苦和付出。",
+                "world": "为家庭付出的人应该得到尊重和认可。"
+            },
+            "rules": "我要让子女知道我的付出和期望。",
+            "positive_assumption": "如果子女知道我的付出，会更加尊重我。",
+            "negative_assumption": "如果我不说，子女可能会忽视我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我跟不上社会的变化，在很多事情上都插不上手。",
+                "others": "年轻人的想法和做法我很难理解。",
+                "world": "这个世界变得越来越复杂，我有点力不从心。"
+            },
+            "rules": "我要多学习新事物，跟上时代的步伐。",
+            "positive_assumption": "如果我学习新事物，能重新获得对生活的掌控感。",
+            "negative_assumption": "如果我不学习，会和这个世界脱节，彻底失去掌控。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "子女长大了开始有自己的想法，我对家庭事务的掌控力在下降。",
+                "others": "子女不再像小时候那样听从我的安排。",
+                "world": "时代变化太快，很多新事物我都不了解，感觉生活越来越不受我控制。"
+            },
+            "rules": "我要坚守自己的原则和决定，不能轻易妥协。",
+            "positive_assumption": "如果我坚守原则，还能在家庭中保留一定的话语权。",
+            "negative_assumption": "如果我轻易妥协，会完全失去对家庭事务的掌控。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然面临很多困难，但我有能力克服它们，实现自己的目标。",
+                "others": "别人不应该怀疑我实现目标的能力。",
+                "world": "困难只是暂时的，我有能力实现自己的目标。"
+            },
+            "rules": "我要相信自己的能力，勇敢地追求目标，不被困难吓倒。",
+            "positive_assumption": "如果我相信自己，就能克服困难实现目标。",
+            "negative_assumption": "如果我不相信自己，就会错过实现目标的机会。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力抚养好子女，让他们健康成长，实现这个目标。",
+                "others": "家人和朋友会支持我抚养子女的目标。",
+                "world": "只要有决心和努力，就能实现自己的目标。"
+            },
+            "rules": "我要制定合理的计划，努力工作，为子女创造更好的生活。",
+            "positive_assumption": "如果我按计划执行，就能实现抚养子女的目标。",
+            "negative_assumption": "如果我不制定计划，目标可能无法实现。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "和家人一起度过的困难时光让我变得坚强，是我生活的动力。",
+                "others": "家人是我最珍贵的财富，他们的陪伴让我有勇气面对一切。",
+                "world": "美好的回忆和身边的人能让我在困难中坚持下去。"
+            },
+            "rules": "我要珍惜和家人在一起的时光，从回忆中获取力量。",
+            "positive_assumption": "如果我珍惜时光、回忆美好，就能更有勇气面对困难。",
+            "negative_assumption": "如果我不珍惜时光、忘记回忆，就会在困难面前退缩。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "过去在工厂当劳模的经历让我有了奋斗的动力，我要继续努力。",
+                "others": "身边的家人和同事是我前进的支持，他们的鼓励很重要。",
+                "world": "过去的经历和身边的人是我不断前进的动力源泉。"
+            },
+            "rules": "我要回忆过去的成功经历，汲取身边人的力量，不断前进。",
+            "positive_assumption": "如果我回忆过去、汲取力量，就能更有动力面对生活。",
+            "negative_assumption": "如果我忘记过去、忽视身边的人，就会失去前进的动力。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我和家人相互依靠，共同面对生活的困难，这种关系坚不可摧。",
+                "others": "家人是我最坚强的后盾，他们会一直支持我。",
+                "world": "有家人的陪伴，任何困难都能克服。"
+            },
+            "rules": "我要和家人保持密切的沟通，共同解决问题。",
+            "positive_assumption": "如果我和家人沟通良好，就能一起度过难关，保持紧密关系。",
+            "negative_assumption": "如果我和家人沟通不畅，家庭关系会出现问题，无法共同面对困难。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我是家庭的顶梁柱，家人都依赖我，我们的关系非常紧密。",
+                "others": "家人会理解我的辛苦，和我一起度过困难时期。",
+                "world": "家庭是温暖的港湾，家人之间应该相互支持。"
+            },
+            "rules": "我要关心家人，为他们提供更好的生活，维护家庭的紧密关系。",
+            "positive_assumption": "如果我关心家人，家庭关系会更加紧密，大家都能幸福。",
+            "negative_assumption": "如果我不关心家人，家庭关系会变得疏远，生活也会失去意义。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我在工作和家庭中都发挥着重要作用，我是有价值的人。",
+                "others": "我的家人和同事都需要我，我的价值不可替代。",
+                "world": "每个人都在社会中扮演着重要角色，我的付出不可或缺。"
+            },
+            "rules": "我要在工作和家庭中都做到最好，展现自己的价值。",
+            "positive_assumption": "如果我在各方面都表现出色，就能让大家看到我的价值。",
+            "negative_assumption": "如果我表现不好，就会被认为没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我作为劳模努力工作，独自抚养子女，我的付出是有价值的。",
+                "others": "家人和社会应该尊重和认可我的付出。",
+                "world": "为家庭和社会付出的人是值得尊敬的。"
+            },
+            "rules": "我要继续为家庭和社会做出贡献，证明自己的价值。",
+            "positive_assumption": "如果我持续付出，就能得到家人和社会的认可，体现自己的价值。",
+            "negative_assumption": "如果我停止付出，就会失去自己的价值，被人遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我每天工作16小时，说明我有足够的精力和能力应对生活。",
+                "others": "家人和同事应该认可我的努力和能力。",
+                "world": "只要努力，就能够掌控自己的生活。"
+            },
+            "rules": "我要不断努力工作，证明自己有能力掌控生活。",
+            "positive_assumption": "如果我努力工作，就能让生活越来越好，掌控生活。",
+            "negative_assumption": "如果我不努力工作，生活就会陷入混乱，失去掌控。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我能够独自承担起家庭的重担，应对生活中的各种困难。",
+                "others": "别人可能无法理解我所面临的压力，但我可以靠自己解决。",
+                "world": "生活虽然艰难，但我有能力掌控局面。"
+            },
+            "rules": "我要坚强地面对生活中的一切困难，不轻易向他人求助。",
+            "positive_assumption": "如果我坚强面对，就能顺利度过难关，掌控生活。",
+            "negative_assumption": "如果我向他人求助，会显得自己很软弱，无法掌控生活。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过学习和实践，提升自己的纺织技能，实现目标。",
+                "others": "师傅会愿意教我提升技能。",
+                "world": "技能提升是实现目标的关键。"
+            },
+            "rules": "我要主动学习和实践，提升自己的技能。",
+            "positive_assumption": "如果我主动学习，就能提升技能实现目标。",
+            "negative_assumption": "如果我不学习，就无法实现目标。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力在纺织工作中取得更好的成绩，实现目标。",
+                "others": "领导和同事会支持我实现目标。",
+                "world": "只要有目标并努力，就能实现。"
+            },
+            "rules": "我要制定明确的工作目标，并努力去实现。",
+            "positive_assumption": "如果我制定并努力实现目标，就能取得更好成绩。",
+            "negative_assumption": "如果我不制定目标，就无法取得进步。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "成为劳模的经历是我宝贵的财富，让我有信心面对未来。",
+                "others": "曾经一起奋斗的同事会为我的经历感到骄傲。",
+                "world": "过去的经历会塑造更好的自己。"
+            },
+            "rules": "我要珍惜成为劳模的经历，从中汲取力量。",
+            "positive_assumption": "如果我珍惜经历，能让我在未来更有信心。",
+            "negative_assumption": "如果我不珍惜，可能会在未来失去信心。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "登上解放日报的照片是我努力的见证，激励我继续前进。",
+                "others": "别人看到照片会对我表示赞赏和敬佩。",
+                "world": "过去的荣誉会成为未来发展的动力。"
+            },
+            "rules": "我要时常回顾照片，提醒自己曾经的努力。",
+            "positive_assumption": "如果我回顾照片，能让我更有动力前进。",
+            "negative_assumption": "如果我忘记照片，可能会失去前进的动力。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我在劳模同伴中也有一定的影响力，大家认可我。",
+                "others": "劳模同伴会和我一起分享经验和荣誉。",
+                "world": "劳模之间的关系是相互支持和鼓励的。"
+            },
+            "rules": "我要积极参与劳模活动，增进和同伴的关系。",
+            "positive_assumption": "如果我积极参与，能和劳模同伴关系更好。",
+            "negative_assumption": "如果我不参与，会和劳模同伴产生隔阂。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我和同事们相处融洽，大家都喜欢和我交往。",
+                "others": "同事们会在工作和生活中帮助我。",
+                "world": "友好的人际关系能让工作和生活更美好。"
+            },
+            "rules": "我要主动和同事交流，维护好人际关系。",
+            "positive_assumption": "如果我主动交流，能让人际关系更紧密。",
+            "negative_assumption": "如果我不主动，人际关系会变得疏远。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我获得劳模表彰，说明我是有价值的人。",
+                "others": "社会会因为我的劳模身份而尊重我。",
+                "world": "劳模是值得被尊敬和肯定的。"
+            },
+            "rules": "我要维护好劳模的形象，继续发挥价值。",
+            "positive_assumption": "如果我维护好形象，我的价值会得到进一步体现。",
+            "negative_assumption": "如果我破坏形象，我的价值就会受损。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我努力工作，在纺织岗位上做出的成绩是有价值的。",
+                "others": "同事和领导会看到我的努力和价值。",
+                "world": "在工作中付出努力的人会得到应有的认可。"
+            },
+            "rules": "我要继续努力工作，展现自己的价值。",
+            "positive_assumption": "如果我继续努力，我的价值会得到更多认可。",
+            "negative_assumption": "如果我不努力，我的价值就会被忽视。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力应对工作中的各种挑战，掌控局面。",
+                "others": "领导会认可我处理问题的能力。",
+                "world": "工作中的困难是可以被我克服和掌控的。"
+            },
+            "rules": "面对工作挑战时，我要冷静思考并采取行动。",
+            "positive_assumption": "如果我冷静应对，就能掌控工作中的挑战。",
+            "negative_assumption": "如果我慌乱，就会失去对工作的掌控。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以合理安排工作和生活，掌控自己的节奏。",
+                "others": "同事们会尊重我的工作安排和想法。",
+                "world": "只要我努力，就能在工作和生活中掌握主动权。"
+            },
+            "rules": "我应该积极主动地安排自己的工作和生活。",
+            "positive_assumption": "如果我积极主动安排，我就能更好地掌控生活和工作。",
+            "negative_assumption": "如果我不主动，就会失去对生活和工作的掌控。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力和邻居小孩一起把跳房子的游戏玩得很好。",
+                "others": "邻居小孩应该认可我的游戏能力。",
+                "world": "只要我用心，就能在游戏中取得好表现。"
+            },
+            "rules": "我要积极参与和邻居小孩的游戏。",
+            "positive_assumption": "如果我积极参与，就能在游戏中表现出色。",
+            "negative_assumption": "如果我不参与，就无法展示自己的能力。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力学会用牛皮纸包书皮，也能做好店里的其他事情。",
+                "others": "父亲应该相信我能把店里的事情做好。",
+                "world": "只要我努力，就能完成在店里帮忙的目标。"
+            },
+            "rules": "我要不断学习，提高自己在店里的工作能力。",
+            "positive_assumption": "如果我提高了能力，就能更好地完成在店里帮忙的目标。",
+            "negative_assumption": "如果我不学习，就无法完成目标。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "和邻居小孩一起跳房子的回忆是我童年的美好经历。",
+                "others": "和邻居小孩的友谊是我珍贵的财富。",
+                "world": "童年的回忆是连接过去和现在的桥梁。"
+            },
+            "rules": "我要珍惜和邻居小孩一起的回忆。",
+            "positive_assumption": "如果我珍惜这些回忆，能让我更怀念童年。",
+            "negative_assumption": "如果我不珍惜，这些回忆会渐渐模糊。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "在文具店帮忙和父亲一起包书皮的回忆让我感到很温暖。",
+                "others": "父亲教我包书皮的场景是我珍贵的回忆。",
+                "world": "过去和家人一起的经历是很美好的，能给我力量。"
+            },
+            "rules": "我要常常回忆和父亲在店里的时光。",
+            "positive_assumption": "如果我回忆这些时光，能让我更开心。",
+            "negative_assumption": "如果我忘记了这些回忆，我会失去很多快乐。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "如果邻居小孩不和我一起跳房子了，我会觉得和他们的关系变得陌生了。",
+                "others": "邻居小孩的疏远让我有些失落。",
+                "world": "朋友之间的关系也可能会突然发生变化。"
+            },
+            "rules": "我要主动和邻居小孩交流，维护好关系。",
+            "positive_assumption": "如果我主动交流，和邻居小孩的关系会变好。",
+            "negative_assumption": "如果我不主动，和他们的关系会越来越陌生。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "如果父亲因为我包书皮包得不好而批评我，我会觉得和他有了距离。",
+                "others": "父亲的批评让我觉得他好像不那么理解我了。",
+                "world": "即使是家人之间，也可能因为一些小事而产生隔阂。"
+            },
+            "rules": "我要尽量做好事情，避免和父亲产生矛盾。",
+            "positive_assumption": "如果我做好事情，和父亲的关系会更亲近。",
+            "negative_assumption": "如果我做不好，和父亲的关系会越来越差。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我学会了用牛皮纸包书皮，这是我的本事，能帮到店里，我是有价值的。",
+                "others": "顾客会因为我包的书皮好而更愿意来店里买东西。",
+                "world": "有一技之长并能为家庭和他人带来便利的人是有价值的。"
+            },
+            "rules": "我要把包书皮的技术练得更好。",
+            "positive_assumption": "如果我技术更好，就能为店里吸引更多顾客，体现我的价值。",
+            "negative_assumption": "如果我技术退步了，就不能为店里做贡献，我就没价值了。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我在文具店帮忙看柜台，为家里分担了责任，我是有价值的。",
+                "others": "父亲会因为我的帮忙而轻松一些，他应该会认可我的价值。",
+                "world": "为家庭付出的孩子是有价值的。"
+            },
+            "rules": "我要继续在店里帮忙，为家庭多做贡献。",
+            "positive_assumption": "如果我继续帮忙，家人会更认可我的价值。",
+            "negative_assumption": "如果我不帮忙了，家人可能会觉得我没价值了。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我在文具店帮忙时，如果算错账，就说明我对店里的事务失去了掌控。",
+                "others": "顾客可能会因为我算错账而不满。",
+                "world": "在生活中，一点小失误都可能让我失去对事情的掌控。"
+            },
+            "rules": "我要认真仔细地做好每一件事。",
+            "positive_assumption": "如果我认真仔细，就能避免失误，掌控好事情。",
+            "negative_assumption": "如果我不认真，就会不断失误，失去对生活的掌控。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "在文具店帮忙时，如果我包书皮包得不好，就说明我对这件事掌控不好。",
+                "others": "父亲可能会因为我包不好书皮而批评我。",
+                "world": "生活中有很多事情需要我做好，如果做不好就会失去对它的掌控。"
+            },
+            "rules": "我要努力把包书皮这件事做好。",
+            "positive_assumption": "如果我把包书皮做好了，我就能掌控好这份工作。",
+            "negative_assumption": "如果我做不好，可能就不能继续在店里帮忙了。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

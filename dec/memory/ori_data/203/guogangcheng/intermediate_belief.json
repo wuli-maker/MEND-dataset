@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我和家人之间有距离感，他们不能真正懂我。",
+                "others": "家人的生活和我有很大差异，无法走进我的内心。",
+                "world": "人与人之间很难真正相互理解。"
+            },
+            "rules": "我只能把情感寄托在老物件和回忆上。",
+            "positive_assumption": "如果我沉浸在回忆和老物件中，就能找到心灵的慰藉。",
+            "negative_assumption": "如果我不依靠这些，就会更加空虚。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是一个人，没有人真正陪伴我。",
+                "others": "家人都有自己的事情，没时间陪我。",
+                "world": "老年孤独是很正常的现象，没人能真正理解我。"
+            },
+            "rules": "我只能自己寻找乐趣，打发时间。",
+            "positive_assumption": "如果我自己找乐子，就能缓解孤独。",
+            "negative_assumption": "如果我不自己找事做，就会更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我在古董鉴宝等方面有专业知识，是有价值的。",
+                "others": "别人会因为我的专业知识而尊重我。",
+                "world": "有专业知识的人在社会上有一定的地位。"
+            },
+            "rules": "我要利用自己的专业知识为家族和社会做贡献。",
+            "positive_assumption": "如果我做出贡献，就能得到别人的认可。",
+            "negative_assumption": "如果我不发挥作用，就会被人遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了很多事情，有足够的经验和智慧。",
+                "others": "家人和晚辈应该尊重我的意见。",
+                "world": "经验和智慧是宝贵的财富，能帮助解决很多问题。"
+            },
+            "rules": "我应该把自己的经验和智慧分享给家人。",
+            "positive_assumption": "如果我分享经验，能帮助家人少走弯路。",
+            "negative_assumption": "如果我不分享，家人可能会犯不必要的错误。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我曾经被至亲背叛，所以不能再相信任何人。",
+                "others": "即使是家人也可能会做出伤害我的事。",
+                "world": "人与人之间的关系是不可靠的。"
+            },
+            "rules": "我只相信自己和家族的血脉关系。",
+            "positive_assumption": "如果我只相信血脉，就不会再次被背叛。",
+            "negative_assumption": "如果我相信了外人，就可能会重蹈覆辙。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我不能轻易相信别人，否则会受到伤害。",
+                "others": "别人可能会为了利益欺骗我。",
+                "world": "这个世界充满了欺骗和背叛。"
+            },
+            "rules": "我要对别人保持警惕，不轻易透露自己的想法和财产。",
+            "positive_assumption": "如果我保持警惕，就能避免受到伤害。",
+            "negative_assumption": "如果我轻信别人，就会遭受损失。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我有义务记住孩子的生日，这是作为父亲的责任。",
+                "others": "孩子们会因为我记住他们的生日而开心。",
+                "world": "一个负责任的家长应该记住孩子的重要日子。"
+            },
+            "rules": "我要努力记住孩子的生日。",
+            "positive_assumption": "如果我记住了孩子的生日，就能体现我对他们的爱。",
+            "negative_assumption": "如果我忘记了，孩子会觉得我不在乎他们。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须把家族祠堂牌位顺序交代清楚，这是我的责任。",
+                "others": "家族成员都在等我把这件事做好。",
+                "world": "家族的延续和传承需要我来维系。"
+            },
+            "rules": "我要集中精力完成交代牌位顺序这件事。",
+            "positive_assumption": "如果我完成了这件事，就能确保家族的稳定。",
+            "negative_assumption": "如果我没完成，家族可能会陷入混乱。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我的认知能力下降，很多事情都记不住，我很失败。",
+                "others": "别人会因为我的健忘而嫌弃我。",
+                "world": "认知衰退的人在社会上没有立足之地。"
+            },
+            "rules": "我要努力记住重要的事情，不能让别人看出我的健忘。",
+            "positive_assumption": "如果我能记住重要的事，就不会被别人看不起。",
+            "negative_assumption": "如果我总是健忘，别人会更加轻视我。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我连生活基本活动都做不好，是个没用的人。",
+                "others": "家人和护工可能觉得我是个累赘。",
+                "world": "在这个世界上，失去自理能力就会被边缘化。"
+            },
+            "rules": "我应该尽量自己完成事情，不能过多依赖别人。",
+            "positive_assumption": "如果我能自己完成一些事，就还有价值。",
+            "negative_assumption": "如果我总是依赖别人，就会彻底失去价值。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我和周围的人在观念和行为上有很大差异，感觉很孤独。",
+                "others": "他们的行为和想法我无法认同，很难和他们建立真正的联系。",
+                "world": "人与人之间很难真正相互理解和陪伴。"
+            },
+            "rules": "我只能把情感寄托在文物和回忆上。",
+            "positive_assumption": "如果我沉浸在文物和回忆中，就能找到心灵的慰藉。",
+            "negative_assumption": "如果我不依靠这些，就会更加空虚和孤独。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "在文革的混乱中，我独自守护着文物，没人能真正理解我的坚持。",
+                "others": "家人和朋友可能不理解我为什么要冒着生命危险保护文物。",
+                "world": "在这个动荡的世界里，很难找到真正懂自己的人。"
+            },
+            "rules": "我只能自己坚守自己的信念，守护好文物。",
+            "positive_assumption": "如果我坚守信念，就能实现自己的价值。",
+            "negative_assumption": "如果我放弃了，就会更加孤独和迷茫。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我在古董鉴宝方面有专业知识，能辨别文物的价值和真伪。",
+                "others": "收藏家们会因为我的专业知识而尊重我。",
+                "world": "有专业知识的人在文物保护和传承方面有重要作用。"
+            },
+            "rules": "我要利用自己的专业知识保护好文物，为社会做贡献。",
+            "positive_assumption": "如果我做出贡献，就能得到大家的认可。",
+            "negative_assumption": "如果我不发挥作用，就会被人遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了战乱和商业的起起落落，有足够的经验应对文革的困境。",
+                "others": "家族成员和一些收藏家应该尊重我的意见和决策。",
+                "world": "经验和智慧在动荡时期是宝贵的财富，能帮助解决很多问题。"
+            },
+            "rules": "我要把自己的经验和智慧分享给家族成员和志同道合的人。",
+            "positive_assumption": "如果我分享经验，能帮助大家少走弯路。",
+            "negative_assumption": "如果我不分享，大家可能会犯不必要的错误。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "即使是熟人，在这样的环境下也可能会背叛我，不能掉以轻心。",
+                "others": "砸祠堂者有故人之子眉眼，连故人之子都可能做出伤害我的事，更不能信任别人。",
+                "world": "人与人之间的关系在利益面前不堪一击。"
+            },
+            "rules": "我只相信自己和家族的血脉关系，不依赖外人。",
+            "positive_assumption": "如果我只相信血脉，就能避免被外人背叛。",
+            "negative_assumption": "如果我相信了外人，可能会遭受更大的损失。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我不能轻易相信那些红卫兵，他们可能会为了达到目的不择手段。",
+                "others": "红卫兵中带头批斗我的人曾受我资助，却恩将仇报，不能信任任何人。",
+                "world": "这个动荡的世界充满了背叛和危险。"
+            },
+            "rules": "我要对红卫兵保持高度警惕，不透露文物的下落。",
+            "positive_assumption": "如果我保持警惕，就能保护好文物和自己。",
+            "negative_assumption": "如果我轻信了红卫兵，文物可能会被抢走，自己也会受到伤害。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我要在文革期间维护好家族的尊严和地位，不能让家族蒙羞。",
+                "others": "家族的声誉与每个成员息息相关，我要做好表率。",
+                "world": "在社会动荡时期，家族的稳定和尊严尤为重要。"
+            },
+            "rules": "我要在困境中坚守家族的原则和底线。",
+            "positive_assumption": "如果我做到了，就能让家族在困境中保持尊严。",
+            "negative_assumption": "如果我没做到，家族可能会被人看不起。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我必须保护好家族的文物，这是我作为家族支柱的责任。",
+                "others": "家族成员都指望我保护好这些文物，传承家族文化。",
+                "world": "家族的荣誉和传承需要我来维护。"
+            },
+            "rules": "我要不惜一切代价保护好明代青花瓷瓶。",
+            "positive_assumption": "如果我保护好了文物，就能确保家族的文化传承。",
+            "negative_assumption": "如果我没保护好，家族的文化传承可能会中断。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我受伤后身体大不如前，很多事情力不从心，觉得自己越来越没用。",
+                "others": "家人可能会因为我的受伤而觉得我是个负担。",
+                "world": "在艰难的环境中，身体不好的人很难有价值。"
+            },
+            "rules": "我要尽快恢复身体，重新承担起责任。",
+            "positive_assumption": "如果我身体恢复了，就能重新体现自己的价值。",
+            "negative_assumption": "如果我一直身体不好，就会成为家人的累赘，更没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "在文革这样的动荡时期，我保护文物受伤，感觉自己的能力在逐渐被削弱，价值在降低。",
+                "others": "周围的人可能觉得我保护文物是迂腐的行为，不认可我的价值。",
+                "world": "在这个混乱的世界里，个人的价值很容易被忽视和否定。"
+            },
+            "rules": "我要努力在动荡中证明自己还有价值。",
+            "positive_assumption": "如果我能继续守护好文物，就还有存在的价值。",
+            "negative_assumption": "如果我连文物都守护不了，就彻底失去价值了。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我和家人聚少离多，他们不能真正懂我。",
+                "others": "家人不了解我的商业压力和内心想法。",
+                "world": "人与人之间很难真正相互理解。"
+            },
+            "rules": "我只能把情感寄托在宋代字画修复上。",
+            "positive_assumption": "如果我沉浸在字画修复中，就能找到心灵的慰藉。",
+            "negative_assumption": "如果我不依靠这个，就会更加空虚。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我在商业打拼中常常感到孤独，没人真正理解我。",
+                "others": "商业伙伴只关心利益，不会真正关心我。",
+                "world": "商业世界很现实，很难找到真正的朋友。"
+            },
+            "rules": "我只能把精力放在事业上，用工作来排解孤独。",
+            "positive_assumption": "如果我专注工作，就能暂时忘记孤独。",
+            "negative_assumption": "如果我不工作，孤独感会更强烈。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力应对商业中的各种挑战。",
+                "others": "同行会认可我的能力。",
+                "world": "有能力的人在商业世界中会有更多机会。"
+            },
+            "rules": "我要主动迎接商业挑战，展示自己的能力。",
+            "positive_assumption": "如果我成功应对挑战，就能获得更多机会和尊重。",
+            "negative_assumption": "如果我逃避挑战，会被认为没有能力。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我在商业和古董鉴宝方面有一定经验，能做出正确决策。",
+                "others": "商业伙伴和家人应该听取我的意见。",
+                "world": "经验和智慧在商业和生活中很有用。"
+            },
+            "rules": "我要在商业决策和家族事务中发表自己的看法。",
+            "positive_assumption": "如果我分享经验，能帮助大家做出正确选择。",
+            "negative_assumption": "如果我不说话，大家可能会做出错误决定。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "战乱时期，只有血缘关系才是可靠的。",
+                "others": "外人可能会在困难时抛弃我。",
+                "world": "在动荡的世界里，血缘是最坚固的纽带。"
+            },
+            "rules": "我要依靠家族成员，共同应对困难。",
+            "positive_assumption": "如果我依靠家族，就能度过难关。",
+            "negative_assumption": "如果我依赖外人，可能会陷入困境。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我不能轻易相信商业伙伴，不然会遭受损失。",
+                "others": "商业伙伴可能会为了利益欺骗我。",
+                "world": "商业世界充满了竞争和欺骗。"
+            },
+            "rules": "我要对商业伙伴保持警惕，不轻易透露商业机密。",
+            "positive_assumption": "如果我保持警惕，就能避免商业损失。",
+            "negative_assumption": "如果我轻信别人，就会遭受商业失败。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我要维护家族的声誉，不能让家族蒙羞。",
+                "others": "社会上的人会根据家族商行的表现评价家族。",
+                "world": "家族的声誉在商业社会中很重要。"
+            },
+            "rules": "我在商业活动中要遵守道德和规矩。",
+            "positive_assumption": "如果我维护好了家族声誉，家族会更受尊重。",
+            "negative_assumption": "如果我没做到，家族会被人轻视。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任重建家族商行，让家族繁荣。",
+                "others": "家族成员都指望我把商行做好。",
+                "world": "家族的兴衰取决于我在商业上的作为。"
+            },
+            "rules": "我要全身心投入家族商行的重建。",
+            "positive_assumption": "如果我重建了家族商行，就能确保家族的繁荣。",
+            "negative_assumption": "如果我没做好，家族可能会继续衰落。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我要是不能掌握新的商业知识和技能，就会被淘汰。",
+                "others": "同行会因为我知识技能落后而超越我。",
+                "world": "商业环境变化快，不进步就会被淘汰。"
+            },
+            "rules": "我要不断学习新的商业知识和技能。",
+            "positive_assumption": "如果我掌握了新的知识和技能，我就还有竞争力。",
+            "negative_assumption": "如果我不学习，我就会失去竞争力和价值。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我在商业上没有取得成功，我就是个失败者。",
+                "others": "商业伙伴会因为我的失败而看不起我。",
+                "world": "在商业世界里，只有成功的人才能立足。"
+            },
+            "rules": "我必须努力经营家族商行，取得商业成功。",
+            "positive_assumption": "如果我在商业上取得成功，我就有价值。",
+            "negative_assumption": "如果我商业失败，我就会失去价值。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我和护卫们只是工作关系，没有真正的情感交流。",
+                "others": "他们不会和我建立深厚的感情。",
+                "world": "在战乱中，人与人之间很难建立长久的情感。"
+            },
+            "rules": "我不能对护卫们投入太多感情，以免受到伤害。",
+            "positive_assumption": "如果我保持距离，就能专注于任务。",
+            "negative_assumption": "如果我投入感情，可能会在离别时痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我独自承担着护送家族藏品的重任，没人能真正理解我的压力。",
+                "others": "护卫们只负责执行任务，不理解我的内心想法。",
+                "world": "在这个动荡的世界里，每个人都有自己的难处，很难相互理解。"
+            },
+            "rules": "我只能自己默默承受压力，坚持完成任务。",
+            "positive_assumption": "如果我坚持下来，就能完成使命。",
+            "negative_assumption": "如果我承受不住压力，就会失败。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我在面对危险时的冷静思考是我的优势。",
+                "others": "我的冷静能让护卫们安心。",
+                "world": "在混乱的局势中，冷静的头脑很重要。"
+            },
+            "rules": "遇到危险时我要保持冷静，想出应对办法。",
+            "positive_assumption": "如果我冷静应对，就能带领大家度过难关。",
+            "negative_assumption": "如果我慌乱，会让情况变得更糟。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我对家族藏品有一定的了解，我的知识能帮助完成护送。",
+                "others": "护卫们应该听取我对藏品保护的建议。",
+                "world": "知识和经验在困难面前是有用的。"
+            },
+            "rules": "我要把自己的知识运用到护送任务中。",
+            "positive_assumption": "如果我运用知识解决问题，就能证明我的价值。",
+            "negative_assumption": "如果我不发挥知识的作用，可能会让藏品受损。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我只能依靠自己的判断和能力，不能依赖别人。",
+                "others": "别人的建议可能会误导我。",
+                "world": "在危险的环境中，只有自己才最可靠。"
+            },
+            "rules": "我要自己思考和决策，不盲目听从他人。",
+            "positive_assumption": "如果我依靠自己，就能更好地保护藏品。",
+            "negative_assumption": "如果我依赖别人，可能会陷入困境。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我不能轻易相信护卫们，他们可能会为了自己的利益背叛我。",
+                "others": "即使是一起护送的人，也可能会在关键时刻出卖我。",
+                "world": "在战乱年代，人与人之间的信任很脆弱。"
+            },
+            "rules": "我要对护卫们保持一定的警惕，不透露所有计划。",
+            "positive_assumption": "如果我保持警惕，就能避免被背叛。",
+            "negative_assumption": "如果我轻信他人，可能会导致护送任务失败。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我要成为护卫们的榜样，带领他们完成任务。",
+                "others": "护卫们会听从我的指挥。",
+                "world": "在团队行动中，领导者要承担起责任。"
+            },
+            "rules": "我要展现出领导者的风范，做出正确的决策。",
+            "positive_assumption": "如果我带领大家完成任务，我就是家族的英雄。",
+            "negative_assumption": "如果我指挥失误，会让大家陷入危险。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "保护家族藏品南迁是我的使命，我必须做到。",
+                "others": "家族的未来依靠我完成这次护送。",
+                "world": "家族的传承需要我在关键时刻挺身而出。"
+            },
+            "rules": "我要全身心投入到护送任务中，确保藏品安全。",
+            "positive_assumption": "如果我成功护送藏品，就能维护家族的尊严和利益。",
+            "negative_assumption": "如果我失败了，家族可能会遭受巨大损失。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我若在面对危险时表现出害怕，就是懦弱无能的，没有价值。",
+                "others": "别人会嘲笑我的胆小。",
+                "world": "在乱世中，胆小的人无法生存。"
+            },
+            "rules": "我要勇敢地面对护送途中的一切危险。",
+            "positive_assumption": "如果我勇敢面对，就证明我有价值。",
+            "negative_assumption": "如果我害怕退缩，我就一文不值。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我在护送家族藏品南迁中犯错，我就是家族的罪人，毫无价值。",
+                "others": "护卫们可能会因为我的失误而看不起我。",
+                "world": "在战乱的世界里，不能完成重要任务的人没有存在的价值。"
+            },
+            "rules": "我必须在护送过程中保持高度警惕，不能出现任何差错。",
+            "positive_assumption": "如果我顺利完成护送任务，我就还有价值。",
+            "negative_assumption": "如果我在护送中出错，我就会失去所有价值。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我和家人之间也有距离感，他们不能真正懂我。",
+                "others": "家人都忙着家族生意，没时间关心我的内心想法。",
+                "world": "人与人之间很难真正相互理解。"
+            },
+            "rules": "我只能把情感寄托在旧物和京剧里。",
+            "positive_assumption": "如果我沉浸在旧物和京剧里，就能找到心灵的慰藉。",
+            "negative_assumption": "如果我不依靠这些，就会更加空虚。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是一个人玩，没有真正的好朋友。",
+                "others": "小伙伴们都有自己的事情，没时间陪我。",
+                "world": "小孩子之间也很难有真正的友谊。"
+            },
+            "rules": "我只能自己玩古董、听京剧打发时间。",
+            "positive_assumption": "如果我自己找乐子，就能不那么孤独。",
+            "negative_assumption": "如果我不自己找事做，就会更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我在修补古籍方面有一定的技巧，是有价值的。",
+                "others": "裱画匠和家人会因为我的技巧而认可我。",
+                "world": "有一技之长的人在社会上有立足之地。"
+            },
+            "rules": "我要利用自己修补古籍的技巧为家族做贡献。",
+            "positive_assumption": "如果我做出贡献，就能得到更多人的尊重。",
+            "negative_assumption": "如果我不发挥作用，就会被人忽视。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我从长辈那里学到了很多鉴宝知识，很有本事。",
+                "others": "家人和邻居应该尊重我的见解。",
+                "world": "有知识的人会得到别人的尊重。"
+            },
+            "rules": "我要把学到的鉴宝知识分享给家人。",
+            "positive_assumption": "如果我分享知识，能帮助家人更好地经营生意。",
+            "negative_assumption": "如果我不分享，家人可能会错过一些机会。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "即使是邻居，也不能完全信任，他们可能有自己的私心。",
+                "others": "邻居可能会在生意上和我们竞争，对我们不利。",
+                "world": "人与人之间的关系很复杂，不能轻易相信。"
+            },
+            "rules": "我和邻居交往要留个心眼，不能什么都说。",
+            "positive_assumption": "如果我留个心眼，就能保护好家族的利益。",
+            "negative_assumption": "如果我毫无防备，家族利益可能会受损。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我不能随便相信陌生人，他们可能会骗我。",
+                "others": "陌生人可能会为了利益伤害我。",
+                "world": "外面的世界充满了危险和欺骗。"
+            },
+            "rules": "我遇到陌生人要保持警惕，不随便和他们说话。",
+            "positive_assumption": "如果我保持警惕，就能避免受到伤害。",
+            "negative_assumption": "如果我轻信陌生人，就会陷入危险。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我有义务维护家族的荣誉，不能让家族丢脸。",
+                "others": "家族成员都希望我有好的表现。",
+                "world": "一个有荣誉的家族需要每个成员的努力。"
+            },
+            "rules": "我在外面要表现得有礼貌、有教养。",
+            "positive_assumption": "如果我表现好，就能为家族增光。",
+            "negative_assumption": "如果我表现不好，会让家族蒙羞。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我要传承家族的古董生意，这是我的责任。",
+                "others": "家族长辈都期望我能把生意做好。",
+                "world": "家族的繁荣需要我来延续。"
+            },
+            "rules": "我要好好学习家族生意的相关知识。",
+            "positive_assumption": "如果我学好了，就能让家族生意更兴旺。",
+            "negative_assumption": "如果我学不好，家族生意可能会衰败。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我要是不能帮家里分担事务，就是个累赘。",
+                "others": "家人会觉得我不够懂事。",
+                "world": "在家庭中，不能分担事务的孩子没有存在的意义。"
+            },
+            "rules": "我要主动帮家里做力所能及的事。",
+            "positive_assumption": "如果我能分担事务，就会得到家人的认可。",
+            "negative_assumption": "如果我不帮忙，家人会讨厌我。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "如果我学不好鉴宝知识，对家族生意没帮助，就是个没用的孩子。",
+                "others": "家人可能会因为我没学好本领而失望。",
+                "world": "在家族生意里，没能力的人就没有价值。"
+            },
+            "rules": "我要努力学好鉴宝知识，为家族生意出力。",
+            "positive_assumption": "如果我学好了鉴宝知识，就能体现我的价值。",
+            "negative_assumption": "如果我学不好，就会被家人看轻。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

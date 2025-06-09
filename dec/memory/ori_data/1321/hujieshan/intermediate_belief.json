@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭和社会中没有存在感。",
+                "others": "家人和朋友不会主动关心我的生活。",
+                "world": "在这个世界上，只有做出大成就的人才会被记住。"
+            },
+            "rules": "我应该多和家人朋友交流，让他们关注我。",
+            "positive_assumption": "如果我多交流，家人朋友会更关心我。",
+            "negative_assumption": "如果我不交流，会被家人朋友彻底遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我的存在对别人来说不重要，很容易被遗忘。",
+                "others": "别人不会记得我的事情和贡献。",
+                "world": "这个世界变化太快，很容易让人被遗忘。"
+            },
+            "rules": "我应该做一些特别的事情，让别人记住我。",
+            "positive_assumption": "如果我做特别的事情，会被别人记住。",
+            "negative_assumption": "如果我不做特别的事情，就会被彻底遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的勇气去面对生活的挑战。",
+                "others": "别人会因为我的坚强而尊重我。",
+                "world": "坚强的人能在世界上立足。"
+            },
+            "rules": "我应该主动迎接挑战，展现自己的坚强。",
+            "positive_assumption": "如果我迎接挑战，会变得更强大。",
+            "negative_assumption": "如果我逃避挑战，会显得自己很懦弱。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过那么多困难都挺过来了，我很坚强。",
+                "others": "别人遇到困难时可以向我学习。",
+                "world": "生活中的困难是可以克服的。"
+            },
+            "rules": "当遇到困难时，我应该坚强面对，不轻易放弃。",
+            "positive_assumption": "如果我坚强面对困难，就能克服它。",
+            "negative_assumption": "如果我放弃，就会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有朋友，很孤单。",
+                "others": "别人很难和我建立深厚的关系。",
+                "world": "社交是困难的，我无法找到真正的伙伴。"
+            },
+            "rules": "我应该减少社交活动，避免被拒绝。",
+            "positive_assumption": "如果我减少社交，就不会被拒绝。",
+            "negative_assumption": "如果我参与社交，会被别人排斥。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是一个人，没有人真正关心我。",
+                "others": "别人都有自己的生活，不会在意我的感受。",
+                "world": "这个世界很冷漠，我无法融入。"
+            },
+            "rules": "我应该习惯一个人生活，不要对别人抱有期望。",
+            "positive_assumption": "如果我习惯一个人，就不会感到失望。",
+            "negative_assumption": "如果我对别人抱有期望，只会让自己更受伤。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我有丰富的人生经验，能给晚辈提供帮助。",
+                "others": "晚辈应该愿意听取我的建议。",
+                "world": "经验是宝贵的财富，能让世界变得更好。"
+            },
+            "rules": "我应该多和晚辈交流，分享我的经验。",
+            "positive_assumption": "如果我和晚辈交流，能帮助他们成长。",
+            "negative_assumption": "如果我不交流，我的经验就会被浪费。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我曾经为国家和家庭做出过贡献，是有价值的。",
+                "others": "家人和社会应该尊重我的价值。",
+                "world": "每个人都有自己的价值，我也不例外。"
+            },
+            "rules": "我应该积极展示自己的价值，让别人看到。",
+            "positive_assumption": "如果我展示自己的价值，会得到别人的认可。",
+            "negative_assumption": "如果我不展示自己的价值，别人会忽视我的存在。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力解决生活中的问题。",
+                "others": "别人不会愿意帮助一个失败者。",
+                "world": "生活充满了困难，我无法应对。"
+            },
+            "rules": "我应该依赖别人来解决问题。",
+            "positive_assumption": "如果我依赖别人，就能解决问题。",
+            "negative_assumption": "如果我自己尝试解决问题，只会失败得更惨。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是把事情搞砸，什么都做不好。",
+                "others": "别人会看不起我，觉得我没用。",
+                "world": "这个世界对失败者没有容身之地。"
+            },
+            "rules": "我应该尽量避免做新的事情，以免再次失败。",
+            "positive_assumption": "如果我不尝试新事物，就不会再失败。",
+            "negative_assumption": "如果我尝试新事物，只会证明我是个失败者。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我在集体中没有存在感。",
+                "others": "同事们不会主动关心我的生活。",
+                "world": "在这个集体里，只有和领导关系好的人才会被记住。"
+            },
+            "rules": "我应该偶尔展示自己的能力，让同事们关注我。",
+            "positive_assumption": "如果我展示能力，同事们会更关注我。",
+            "negative_assumption": "如果我不展示，会被同事们彻底遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我被同事们遗忘，我的存在对他们来说不重要。",
+                "others": "别人不会记得我的事情和贡献。",
+                "world": "这个世界变化太快，很容易让人被遗忘。"
+            },
+            "rules": "我应该做一些有意义的事，让别人记住我。",
+            "positive_assumption": "如果我做有意义的事，会被别人记住。",
+            "negative_assumption": "如果我不做，就会被彻底遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的勇气去面对生活的挑战。",
+                "others": "别人会因为我的坚强而尊重我。",
+                "world": "坚强的人能在世界上立足。"
+            },
+            "rules": "我应该主动迎接挑战，展现自己的坚强。",
+            "positive_assumption": "如果我迎接挑战，会变得更强大。",
+            "negative_assumption": "如果我逃避挑战，会显得自己很懦弱。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过战争，也挺过了被批斗，我很坚强。",
+                "others": "别人遇到困难可以向我学习。",
+                "world": "生活中的困难是可以克服的。"
+            },
+            "rules": "当遇到困难时，我应该坚强面对，不轻易放弃。",
+            "positive_assumption": "如果我坚强面对困难，就能克服它。",
+            "negative_assumption": "如果我放弃，就会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有真正的朋友，很孤单。",
+                "others": "别人很难和我建立深厚的关系。",
+                "world": "社交是困难的，我无法找到真正的伙伴。"
+            },
+            "rules": "我应该减少社交活动，避免被拒绝。",
+            "positive_assumption": "如果我减少社交，就不会被拒绝。",
+            "negative_assumption": "如果我参与社交，会被别人排斥，让我更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "同事们都远离我，我总是一个人，很孤独。",
+                "others": "别人都有自己的圈子，不会在意我。",
+                "world": "这个世界很冷漠，我无法融入。"
+            },
+            "rules": "我应该习惯一个人生活，不依赖别人。",
+            "positive_assumption": "如果我习惯一个人，就不会感到孤独的痛苦。",
+            "negative_assumption": "如果我依赖别人，别人一旦离开，我会更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我有战争和生活的经验，能给年轻人一些建议，我是有价值的。",
+                "others": "年轻人应该愿意听我的经验分享。",
+                "world": "经验是宝贵的财富，能帮助年轻人成长。"
+            },
+            "rules": "我应该找机会和年轻人交流，分享我的经验。",
+            "positive_assumption": "如果我和年轻人交流，能帮助他们少走弯路。",
+            "negative_assumption": "如果我不交流，我的经验就浪费了，体现不出我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我曾经参军立功，为国家做过贡献，我是有价值的。",
+                "others": "国家应该记得我的功劳，认可我的价值。",
+                "world": "为国家做贡献的人是有价值的，应该被尊重。"
+            },
+            "rules": "我应该保留军功章，铭记自己的价值。",
+            "positive_assumption": "如果我保留军功章，就能时刻提醒自己的价值。",
+            "negative_assumption": "如果我丢弃军功章，就会忘记自己的价值。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力保护自己，连举报贪污这么正义的事都做不好。",
+                "others": "别人不会愿意和一个失败的人交往。",
+                "world": "社会很复杂，我无法应对。"
+            },
+            "rules": "我应该远离社交，避免被伤害。",
+            "positive_assumption": "如果我远离社交，就不会再被伤害。",
+            "negative_assumption": "如果我参与社交，会再次被排斥，证明我是失败者。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我举报贪污却被批斗致左耳失聪，我把事情搞砸了。",
+                "others": "同事们都与我划清界限，他们看不起我这个失败者。",
+                "world": "这个世界容不下我这样正直却失败的人。"
+            },
+            "rules": "我应该少说话，避免再惹麻烦。",
+            "positive_assumption": "如果我少说话，就不会再遭遇失败。",
+            "negative_assumption": "如果我再说话，只会让情况更糟，证明我是失败者。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我的贡献可能微不足道，不会被人重视。",
+                "others": "人们只会关注那些大英雄，不会在意我。",
+                "world": "只有做出巨大贡献的人才能被历史记住。"
+            },
+            "rules": "我要做一些特别的事情，引起别人的注意。",
+            "positive_assumption": "如果我做特别的事情，会被别人记住。",
+            "negative_assumption": "如果我不做，就会被永远遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "在战场上我只是众多士兵中的一员，很容易被遗忘。",
+                "others": "上级和战友不会特别记住我。",
+                "world": "战争中有太多牺牲和英雄，个人很容易被遗忘。"
+            },
+            "rules": "我要立下战功，让别人记住我。",
+            "positive_assumption": "如果我立下战功，就会被别人记住。",
+            "negative_assumption": "如果我没有战功，就会被彻底遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的勇气面对敌人的炮火，我很坚强。",
+                "others": "上级会因为我的勇敢而重用我。",
+                "world": "勇敢坚强的士兵是军队的脊梁。"
+            },
+            "rules": "我要主动冲锋在前，展现自己的坚强和勇敢。",
+            "positive_assumption": "如果我冲锋在前，能鼓舞士气，取得胜利。",
+            "negative_assumption": "如果我退缩，会被认为是胆小鬼。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我能承受战场上的伤痛和压力，我很坚强。",
+                "others": "战友们会因为我的坚强而敬佩我。",
+                "world": "战场上只有坚强的人才能生存下来。"
+            },
+            "rules": "当受伤或遇到困难时，我要坚强忍耐，不轻易倒下。",
+            "positive_assumption": "如果我坚强忍耐，就能继续战斗，保护战友。",
+            "negative_assumption": "如果我倒下，就会成为战友的负担。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我和战友们只是战斗伙伴，很难建立深厚的情感关系。",
+                "others": "战争结束后，大家各奔东西，不会记得彼此。",
+                "world": "战争让人与人之间的关系变得脆弱，难以长久。"
+            },
+            "rules": "我不要对战友关系抱有太高期望，以免受伤。",
+            "positive_assumption": "如果我不抱期望，就不会在分别时感到痛苦。",
+            "negative_assumption": "如果我投入太多感情，战争结束后会更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "在战场上我总是独自面对危险，没有人能真正理解我。",
+                "others": "战友们都有自己的战斗任务，不会在意我的感受。",
+                "world": "战场是残酷的，每个人都很孤独。"
+            },
+            "rules": "我要习惯独自战斗，不依赖别人。",
+            "positive_assumption": "如果我习惯独自战斗，就不会感到孤独无助。",
+            "negative_assumption": "如果我依赖别人，会在关键时刻失望。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力保护战友，为团队做出贡献，是有价值的。",
+                "others": "战友会依赖我，信任我的能力。",
+                "world": "团队中每个人的能力和价值都很重要。"
+            },
+            "rules": "我要在战斗中保护好战友，发挥自己的价值。",
+            "positive_assumption": "如果我保护好战友，能证明我的价值。",
+            "negative_assumption": "如果我没保护好战友，就体现不出我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我在战场上奋勇杀敌，为国家做出了贡献，是有价值的。",
+                "others": "战友会认可我的价值，尊重我的付出。",
+                "world": "战争中每一个英勇作战的士兵都有价值。"
+            },
+            "rules": "我要继续英勇作战，展现自己的价值。",
+            "positive_assumption": "如果我继续英勇作战，会得到更多认可。",
+            "negative_assumption": "如果我退缩，就会被认为没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我可能无法完成上级交代的任务，是个没用的人。",
+                "others": "上级会对我失望，觉得我不堪重用。",
+                "world": "军队里只有能完成任务的人才有价值。"
+            },
+            "rules": "我要拼命努力完成任务，证明自己不是失败者。",
+            "positive_assumption": "如果我完成任务，就不是失败者。",
+            "negative_assumption": "如果我完不成任务，就坐实了失败者的身份。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "在战场上如果我犯错，就是个彻头彻尾的失败者。",
+                "others": "战友会因为我的错误而看不起我。",
+                "world": "战场容不下失败者，失败就意味着死亡。"
+            },
+            "rules": "我必须时刻保持警惕，不能出现任何失误。",
+            "positive_assumption": "如果我不犯错，就不会被认为是失败者。",
+            "negative_assumption": "如果我犯错，就会成为失败者，拖累战友。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我在民兵队伍中没有存在感。",
+                "others": "战友们不会主动关心我的生活。",
+                "world": "在战争中，只有立下赫赫战功的人才会被记住。"
+            },
+            "rules": "我应该多和战友交流，让他们关注我。",
+            "positive_assumption": "如果我多交流，战友们会更关心我。",
+            "negative_assumption": "如果我不交流，会被战友们彻底遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我的存在对战争的大局来说不重要，很容易被遗忘。",
+                "others": "指挥官不会记得我这个普通士兵的贡献。",
+                "world": "战争中牺牲的人太多，很容易让人被遗忘。"
+            },
+            "rules": "我应该在战斗中做出突出的成绩，让别人记住我。",
+            "positive_assumption": "如果我做出成绩，会被别人记住。",
+            "negative_assumption": "如果我不努力，就会被彻底遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的毅力去完成战斗任务。",
+                "others": "战友们会因为我的坚强而尊重我。",
+                "world": "坚强的人能在战争中生存下来。"
+            },
+            "rules": "我应该主动承担困难的任务，展现自己的坚强。",
+            "positive_assumption": "如果我承担任务，会变得更强大。",
+            "negative_assumption": "如果我逃避任务，会显得自己很懦弱。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我在粪坑藏了三天三夜都挺过来了，我很坚强。",
+                "others": "战友们遇到困难时可以向我学习。",
+                "world": "战争中的困难是可以克服的。"
+            },
+            "rules": "当遇到危险时，我应该坚强面对，不轻易退缩。",
+            "positive_assumption": "如果我坚强面对危险，就能活下去。",
+            "negative_assumption": "如果我退缩，就会被敌人杀死。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我和战友们很难建立深厚的关系，很孤单。",
+                "others": "战争让大家都很警惕，很难敞开心扉。",
+                "world": "在战争环境下，社交是困难的，我无法找到真正的伙伴。"
+            },
+            "rules": "我应该减少和战友的情感交流，避免被拒绝。",
+            "positive_assumption": "如果我减少交流，就不会被拒绝。",
+            "negative_assumption": "如果我主动交流，会被别人排斥。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是独自面对危险，没有人真正关心我。",
+                "others": "战友们都有自己的任务，不会在意我的感受。",
+                "world": "战争的世界很冷漠，我无法融入。"
+            },
+            "rules": "我应该习惯独自战斗，不要对别人抱有期望。",
+            "positive_assumption": "如果我习惯独自战斗，就不会感到失望。",
+            "negative_assumption": "如果我对别人抱有期望，只会让自己更受伤。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我有勇气面对敌人，能给新兵们树立榜样。",
+                "others": "新兵们应该向我学习。",
+                "world": "勇气是战争中宝贵的财富，能让我们取得胜利。"
+            },
+            "rules": "我应该多和新兵交流，分享我的战斗经验。",
+            "positive_assumption": "如果我和新兵交流，能帮助他们成长。",
+            "negative_assumption": "如果我不交流，我的经验就会被浪费。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我学会了埋地雷等技能，对战斗是有价值的。",
+                "others": "战友们应该认可我的价值。",
+                "world": "在战争中，每个人都有自己的价值，我也不例外。"
+            },
+            "rules": "我应该积极展示自己的技能，为战斗做贡献。",
+            "positive_assumption": "如果我展示技能，会得到战友们的赞扬。",
+            "negative_assumption": "如果我不展示，别人会忽视我的能力。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有足够的能力在战争中取得胜利。",
+                "others": "别人不会愿意和一个无能的失败者并肩作战。",
+                "world": "战争太残酷，我无法应对。"
+            },
+            "rules": "我应该听从老班长的指挥，依赖他人的经验。",
+            "positive_assumption": "如果我听从指挥，就能减少失败。",
+            "negative_assumption": "如果我自己贸然行动，只会失败得更惨。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我在战争中没能保护好村庄，是个失败者。",
+                "others": "战友们会看不起我这个连村庄都守不住的人。",
+                "world": "在战争的世界里，失败的人没有立足之地。"
+            },
+            "rules": "我应该更加努力战斗，避免再次失败。",
+            "positive_assumption": "如果我更努力战斗，就不会再失败。",
+            "negative_assumption": "如果我不努力，只会证明我是个彻底的失败者。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我在伙伴们中没有存在感，很容易被忽视。",
+                "others": "伙伴们不会主动关心我的生活。",
+                "world": "在饥荒的世界里，只有能找到很多食物的人才会被记住。"
+            },
+            "rules": "我应该多和伙伴们交流，让他们关注我。",
+            "positive_assumption": "如果我多交流，伙伴们会更关心我。",
+            "negative_assumption": "如果我不交流，会被伙伴们彻底遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "在饥荒中，我的存在对别人来说可能不重要，容易被遗忘。",
+                "others": "别人都在为自己的生存奔波，不会记得我。",
+                "world": "这个世界变化太快，在饥荒中很容易被遗忘。"
+            },
+            "rules": "我应该做一些特别的事情，让伙伴们记住我。",
+            "positive_assumption": "如果我做特别的事情，会被伙伴们记住。",
+            "negative_assumption": "如果我不做特别的事情，就会被彻底遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的勇气去寻找食物，面对饥荒。",
+                "others": "伙伴们会因为我的勇敢而佩服我。",
+                "world": "勇敢的人能在饥荒中生存下来。"
+            },
+            "rules": "我应该主动去寻找食物，展现自己的坚强。",
+            "positive_assumption": "如果我主动寻找食物，就能解决饥饿问题，变得更强大。",
+            "negative_assumption": "如果我逃避寻找食物，会显得自己很懦弱，无法生存下去。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我在饥荒中坚持下来了，说明我很坚强。",
+                "others": "别人遇到困难时可以像我一样坚持。",
+                "world": "生活中的困难是可以克服的。"
+            },
+            "rules": "当遇到饥饿时，我应该坚强面对，不轻易放弃。",
+            "positive_assumption": "如果我坚强面对饥饿，就能生存下去。",
+            "negative_assumption": "如果我放弃，就会被饥荒打倒。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "饥荒让很多伙伴都不在了，我现在没有真正的朋友。",
+                "others": "剩下的人也很难建立深厚的友谊。",
+                "world": "在饥荒的世界里，很难找到真正的伙伴。"
+            },
+            "rules": "我应该减少和别人的交往，以免再次失去朋友而伤心。",
+            "positive_assumption": "如果我减少交往，就不会经历朋友离去的痛苦。",
+            "negative_assumption": "如果我和别人交往，可能会再次失去他们，让我更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "母亲去世后，我感觉很孤单，没有人真正陪伴我。",
+                "others": "伙伴们都有自己的生活，不会一直陪着我。",
+                "world": "这个世界很冷漠，我只能一个人面对饥荒。"
+            },
+            "rules": "我应该习惯一个人寻找食物，不要依赖别人。",
+            "positive_assumption": "如果我习惯一个人，就不会因为别人的离开而感到更孤单。",
+            "negative_assumption": "如果我依赖别人，当别人不在时，我会更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我能和伙伴一起偷挖土豆，为大家解决饥饿问题，说明我有能力。",
+                "others": "伙伴们会因为我的能力而喜欢和我一起。",
+                "world": "在困难时期，大家相互帮助就能生存下去。"
+            },
+            "rules": "我应该和伙伴们团结协作，一起应对饥荒。",
+            "positive_assumption": "如果我和伙伴们团结协作，就能找到更多食物，体现我的价值。",
+            "negative_assumption": "如果我不和伙伴们合作，就会被孤立，也无法体现自己的价值。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我能帮着放羊，为家里出一份力，是有价值的。",
+                "others": "家人会因为我能帮忙而认可我。",
+                "world": "每个人都能在家庭中找到自己的价值。"
+            },
+            "rules": "我应该认真放羊，把羊照顾好。",
+            "positive_assumption": "如果我把羊照顾好，家人会更重视我，我也更有价值。",
+            "negative_assumption": "如果我放羊没放好，家人会觉得我没用，我就失去了价值。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我没办法保护母亲，让她为我受苦，我很失败。",
+                "others": "别人会觉得我没有能力照顾家人。",
+                "world": "这个世界很残酷，我无力改变现状。"
+            },
+            "rules": "我应该努力寻找食物，让母亲不再挨饿。",
+            "positive_assumption": "如果我找到食物，就能让母亲过得好一点，证明我还有点用。",
+            "negative_assumption": "如果我找不到食物，母亲会更痛苦，我就是个彻头彻尾的失败者。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我连吃饱肚子都做不到，是个没用的孩子。",
+                "others": "别人会嘲笑我连饭都吃不上。",
+                "world": "在饥荒的世界里，我这样的孩子很难生存下去。"
+            },
+            "rules": "我应该尽量少消耗食物，以免给家人带来负担。",
+            "positive_assumption": "如果我少消耗食物，家人就能多吃一点，我也不会显得那么没用。",
+            "negative_assumption": "如果我多吃食物，会让家人更艰难，也会证明我是个失败者。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

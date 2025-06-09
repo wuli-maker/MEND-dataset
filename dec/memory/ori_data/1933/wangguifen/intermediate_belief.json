@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以管理好自己的健康和情绪。",
+                "others": "我不需要别人的特殊照顾。",
+                "world": "我有能力在这个世界上生存。"
+            },
+            "rules": "我要保持健康的生活方式和积极的心态。",
+            "positive_assumption": "如果我保持健康和积极，能更好地生活。",
+            "negative_assumption": "如果我不注意，会影响自己的生活。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力照顾好自己的生活起居。",
+                "others": "别人不需要为我担心。",
+                "world": "我可以在这个世界上独立生活。"
+            },
+            "rules": "我要自己处理生活中的事情，不依赖别人。",
+            "positive_assumption": "如果我自己处理，能证明我的能力。",
+            "negative_assumption": "如果我依赖别人，会失去自理能力。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我一生没有遗憾，死亡对我来说是解脱。",
+                "others": "子女们会理解我的选择。",
+                "world": "死亡是新的开始。"
+            },
+            "rules": "我要按照自己的意愿安排后事。",
+            "positive_assumption": "如果我按意愿安排，能平静离世。",
+            "negative_assumption": "如果我不安排，会留下遗憾。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "死亡是生命的一部分，我可以平静接受。",
+                "others": "别人也会理解我对死亡的态度。",
+                "world": "死亡是自然的过程，不必恐惧。"
+            },
+            "rules": "我要坦然面对死亡，不做无谓的挣扎。",
+            "positive_assumption": "如果我坦然面对，死亡也不可怕。",
+            "negative_assumption": "如果我害怕死亡，会让自己更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然年老，但我的经验和智慧是有价值的。",
+                "others": "年轻人可以从我的经历中学习。",
+                "world": "经验和智慧在这个世界上是宝贵的财富。"
+            },
+            "rules": "我要把自己的经验分享给别人。",
+            "positive_assumption": "如果我分享经验，能帮助到别人。",
+            "negative_assumption": "如果我不分享，我的经验就会浪费。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了那么多苦难都挺过来了，是有价值的。",
+                "others": "别人应该尊重我的经历和付出。",
+                "world": "这个世界认可坚韧的人。"
+            },
+            "rules": "我要继续保持坚韧，面对生活的困难。",
+            "positive_assumption": "如果我保持坚韧，就能克服困难。",
+            "negative_assumption": "如果我放弃，就会被生活打败。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有资格得到子女的陪伴和关心。",
+                "others": "子女有自己的生活，不需要我。",
+                "world": "亲情是靠不住的，我只能独自面对生活。"
+            },
+            "rules": "我要习惯独自生活，不依赖子女。",
+            "positive_assumption": "如果我习惯独自生活，就不会那么孤独。",
+            "negative_assumption": "如果我依赖子女，会被他们抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我做的一切都无法换来子女的关爱。",
+                "others": "子女们不会真正关心我的感受。",
+                "world": "在亲情的世界里，我是被遗忘的。"
+            },
+            "rules": "我不应该对子女的关爱抱有期望。",
+            "positive_assumption": "如果我不抱期望，就不会失望。",
+            "negative_assumption": "如果我期待子女关爱，只会让自己更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力为子女提供帮助，只能成为他们的负担。",
+                "others": "别人都不希望身边有我这样的负担。",
+                "world": "这个世界容不下我这样无用的老人。"
+            },
+            "rules": "我要隐藏自己的需求，不给别人添麻烦。",
+            "positive_assumption": "如果我隐藏需求，别人就不会觉得我是负担。",
+            "negative_assumption": "如果我暴露需求，别人会嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是给别人带来麻烦，是个累赘。",
+                "others": "子女们会因为我而感到负担。",
+                "world": "在这个世界上，我这样的老人很容易成为他人的负担。"
+            },
+            "rules": "我应该尽量不麻烦子女。",
+            "positive_assumption": "如果我不麻烦子女，他们就不会觉得我是负担。",
+            "negative_assumption": "如果我向子女求助，他们会更加厌烦我。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以管理好自己的健康和情绪，应对耕种的压力。",
+                "others": "我不需要别人的特殊照顾。",
+                "world": "我有能力在这个世界上生存。"
+            },
+            "rules": "我要保持健康的生活方式和积极的心态。",
+            "positive_assumption": "如果我保持健康和积极，能更好地生活。",
+            "negative_assumption": "如果我不注意，会影响自己的耕种和生活。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力独自耕种，照顾好自己的生活。",
+                "others": "别人不需要为我担心。",
+                "world": "我可以在这个世界上独立生活。"
+            },
+            "rules": "我要自己处理生活中的困难，不依赖别人。",
+            "positive_assumption": "如果我自己处理，能证明我的能力。",
+            "negative_assumption": "如果我依赖别人，会失去自理能力。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我为子女付出了一切，没有遗憾，死亡对我来说是一种解脱。",
+                "others": "子女们会理解我的选择。",
+                "world": "死亡是新的开始。"
+            },
+            "rules": "我要按照自己的意愿生活，不被死亡的恐惧束缚。",
+            "positive_assumption": "如果我按意愿生活，能平静面对死亡。",
+            "negative_assumption": "如果我被恐惧束缚，会失去生活的乐趣。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "死亡是生命的一部分，我经历了这么多苦难，能平静面对。",
+                "others": "别人会理解我对死亡的坦然态度。",
+                "world": "死亡是自然的过程，不必恐惧。"
+            },
+            "rules": "我要专注于当下的生活，不害怕死亡。",
+            "positive_assumption": "如果我专注当下，死亡也不可怕。",
+            "negative_assumption": "如果我害怕死亡，会让自己更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了那么多苦难都没倒下，我的经验和毅力是有价值的。",
+                "others": "年轻人可以从我身上学到坚韧的品质。",
+                "world": "坚韧的品质在这个世界上是宝贵的财富。"
+            },
+            "rules": "我要把自己的经验分享给身边的人。",
+            "positive_assumption": "如果我分享经验，能帮助到别人。",
+            "negative_assumption": "如果我不分享，我的经验就浪费了。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我独自耕种养活三个大学生，说明我是坚韧且有价值的。",
+                "others": "别人应该认可我的付出和努力。",
+                "world": "这个世界尊重努力生活的人。"
+            },
+            "rules": "我要继续坚持耕种，为子女提供更好的生活。",
+            "positive_assumption": "如果我坚持，子女就能顺利完成学业，我的付出就有价值。",
+            "negative_assumption": "如果我放弃，子女的学业就会受影响，我就成了没用的人。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我和子女的关系不亲密，我做的一切都无法让他们真正爱我。",
+                "others": "子女们有自己的圈子，不需要我这个母亲。",
+                "world": "亲情是靠不住的，我只能靠自己。"
+            },
+            "rules": "我要学会独立，不依赖子女。",
+            "positive_assumption": "如果我独立，就不会因为子女不在身边而孤独。",
+            "negative_assumption": "如果我依赖子女，会被他们嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我为子女付出很多，但和三子断绝往来，说明我没资格得到子女的爱。",
+                "others": "子女们更关心自己的未来，不会在意我的感受。",
+                "world": "在家庭中，付出不一定能换来子女的关爱。"
+            },
+            "rules": "我不要对子女的陪伴和关心抱有太高期望。",
+            "positive_assumption": "如果我不抱期望，就不会因为子女的忽视而伤心。",
+            "negative_assumption": "如果我期望过高，只会让自己更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我独自承担生活压力，没有给子女好的生活，是个失败的母亲。",
+                "others": "别人会觉得我没能力照顾好家庭，子女也会因此在别人面前抬不起头。",
+                "world": "不能给子女好生活的母亲就是家庭的负担。"
+            },
+            "rules": "我要默默承受困难，不向子女抱怨生活。",
+            "positive_assumption": "如果我不抱怨，子女就不会因为我的生活状况而烦恼。",
+            "negative_assumption": "如果我抱怨，子女会觉得我更没用。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我独自耕种供养子女上学，花了很多钱，是子女的经济负担。",
+                "others": "债主会觉得我还款能力弱，子女也会因我的经济状况感到压力。",
+                "world": "在这个社会，经济能力不足的人容易成为他人负担。"
+            },
+            "rules": "我要努力耕种增加收入，尽快还清债务。",
+            "positive_assumption": "如果我努力增加收入还清债务，就不会成为子女和债主的负担。",
+            "negative_assumption": "如果我不努力，债务会越积越多，子女会更嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以管理好自己的情绪，不被困难打倒。",
+                "others": "我不需要别人的特殊照顾。",
+                "world": "我有能力在这个世界上生存。"
+            },
+            "rules": "我要保持积极的心态，面对生活的挑战。",
+            "positive_assumption": "如果我保持积极，能更好地应对挑战。",
+            "negative_assumption": "如果我消极悲观，会被困难打败。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力照顾好自己的生活，不需要别人过多担心。",
+                "others": "别人不需要为我操心。",
+                "world": "我可以在这个世界上独立生活。"
+            },
+            "rules": "我要自己处理生活中的事情，不依赖别人。",
+            "positive_assumption": "如果我自己处理，能证明我的能力。",
+            "negative_assumption": "如果我依赖别人，会失去自理能力。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我已经经历了这么多苦难，死亡对我来说没什么可怕的。",
+                "others": "家人会理解我的平静。",
+                "world": "死亡是新的开始。"
+            },
+            "rules": "我要珍惜当下，不畏惧死亡。",
+            "positive_assumption": "如果我珍惜当下，就能无憾面对死亡。",
+            "negative_assumption": "如果我害怕死亡，会错过很多美好。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "生活已经如此艰难，死亡或许是一种解脱，我可以平静接受。",
+                "others": "别人会理解我对死亡的看法。",
+                "world": "死亡是自然的过程，不必恐惧。"
+            },
+            "rules": "我要坦然面对生活中的不确定性，包括死亡。",
+            "positive_assumption": "如果我坦然面对，生活也没那么可怕。",
+            "negative_assumption": "如果我害怕死亡，会让自己更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然经历了不幸，但我的经验和毅力是有价值的。",
+                "others": "身边的人可以从我的经历中获得力量。",
+                "world": "经验和毅力在这个世界上是宝贵的财富。"
+            },
+            "rules": "我要把自己的经验分享给别人。",
+            "positive_assumption": "如果我分享经验，能帮助到别人。",
+            "negative_assumption": "如果我不分享，我的经验就会浪费。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了多次流产和养子夭折都挺过来了，是有价值的。",
+                "others": "别人应该尊重我的坚强。",
+                "world": "这个世界认可坚韧的人。"
+            },
+            "rules": "我要继续保持坚韧，面对生活的困难。",
+            "positive_assumption": "如果我保持坚韧，就能克服困难。",
+            "negative_assumption": "如果我放弃，就会被生活打败。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有资格得到家人的陪伴和关心。",
+                "others": "家人有自己的生活，不需要我。",
+                "world": "亲情是靠不住的，我只能独自面对生活。"
+            },
+            "rules": "我要习惯独自面对困难，不依赖家人。",
+            "positive_assumption": "如果我习惯独自面对，就不会那么脆弱。",
+            "negative_assumption": "如果我依赖家人，会被他们抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有给家庭带来孩子，做的一切都无法换来家人的关爱。",
+                "others": "家人不会真正关心我的感受。",
+                "world": "在家庭里，我是被忽视的。"
+            },
+            "rules": "我不应该对家人的关爱抱有期望。",
+            "positive_assumption": "如果我不抱期望，就不会失望。",
+            "negative_assumption": "如果我期待家人关爱，只会让自己更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力生育健康的孩子，只能成为家庭延续的负担。",
+                "others": "别人会因为我的生育问题而看不起我。",
+                "world": "这个世界对不能生育的女性很残酷。"
+            },
+            "rules": "我要努力在其他方面为家庭做贡献，弥补自己的不足。",
+            "positive_assumption": "如果我努力做贡献，家人就会认可我。",
+            "negative_assumption": "如果我不努力，会被家人嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "连续流产和养子夭折，我给家庭带来了不幸，是个负担。",
+                "others": "家人会因为我的遭遇而感到压力。",
+                "world": "在这个艰难的时代，我这样的人很容易成为家庭的负担。"
+            },
+            "rules": "我应该尽量自己承担痛苦，不拖累家人。",
+            "positive_assumption": "如果我自己承担痛苦，家人就不会那么辛苦。",
+            "negative_assumption": "如果我向家人倾诉，会让他们更烦恼。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以管理好自己的情绪。",
+                "others": "我不需要别人的特殊照顾。",
+                "world": "我有能力在这个世界上生存。"
+            },
+            "rules": "我要保持积极的心态。",
+            "positive_assumption": "如果我保持积极，能更好地生活。",
+            "negative_assumption": "如果我不注意，会影响自己的生活。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力照顾好自己的生活起居。",
+                "others": "别人不需要为我担心。",
+                "world": "我可以在这个世界上独立生活。"
+            },
+            "rules": "我要自己处理生活中的事情，不依赖别人。",
+            "positive_assumption": "如果我自己处理，能证明我的能力。",
+            "negative_assumption": "如果我依赖别人，会失去自理能力。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我一生虽然坎坷，但没有遗憾，死亡对我来说是解脱。",
+                "others": "别人会理解我的选择。",
+                "world": "死亡是新的开始。"
+            },
+            "rules": "我要按照自己的意愿面对死亡。",
+            "positive_assumption": "如果我按意愿面对，能平静离世。",
+            "negative_assumption": "如果我不按意愿，会留下遗憾。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "死亡是生命的一部分，我可以平静接受。",
+                "others": "别人也会理解我对死亡的态度。",
+                "world": "死亡是自然的过程，不必恐惧。"
+            },
+            "rules": "我要坦然面对死亡，不做无谓的挣扎。",
+            "positive_assumption": "如果我坦然面对，死亡也不可怕。",
+            "negative_assumption": "如果我害怕死亡，会让自己更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然年轻，但我的坚韧和勇气是有价值的。",
+                "others": "别人可以从我的经历中学习。",
+                "world": "坚韧和勇气在这个世界上是宝贵的财富。"
+            },
+            "rules": "我要把自己的坚韧分享给别人。",
+            "positive_assumption": "如果我分享坚韧，能帮助到别人。",
+            "negative_assumption": "如果我不分享，我的坚韧就会被浪费。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然被抵债嫁人，但我能坚强面对，是有价值的。",
+                "others": "别人应该尊重我的坚韧和付出。",
+                "world": "这个世界认可坚韧的人。"
+            },
+            "rules": "我要继续保持坚韧，面对生活的困难。",
+            "positive_assumption": "如果我保持坚韧，就能克服困难。",
+            "negative_assumption": "如果我放弃，就会被生活打败。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有资格得到丈夫和婆婆的陪伴和关心。",
+                "others": "他们有自己的生活，不需要我。",
+                "world": "亲情是靠不住的，我只能独自面对生活。"
+            },
+            "rules": "我要习惯独自生活，不依赖他们。",
+            "positive_assumption": "如果我习惯独自生活，就不会那么孤独。",
+            "negative_assumption": "如果我依赖他们，会被他们抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我被抵债嫁人，做的一切都无法换来丈夫和婆婆的关爱。",
+                "others": "丈夫和婆婆不会真正关心我的感受。",
+                "world": "在亲情的世界里，我是被遗忘的。"
+            },
+            "rules": "我不应该对丈夫和婆婆的关爱抱有期望。",
+            "positive_assumption": "如果我不抱期望，就不会失望。",
+            "negative_assumption": "如果我期待他们关爱，只会让自己更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力改变现状，只能成为他们的负担。",
+                "others": "别人都不希望身边有我这样的负担。",
+                "world": "这个世界容不下我这样无用的女孩。"
+            },
+            "rules": "我要隐藏自己的需求，不给别人添麻烦。",
+            "positive_assumption": "如果我隐藏需求，别人就不会觉得我是负担。",
+            "negative_assumption": "如果我暴露需求，别人会嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我被抵债嫁人，是家庭的累赘。",
+                "others": "丈夫和婆婆会因为我而感到负担。",
+                "world": "在这个世界上，像我这样被抵债的女孩很容易成为他人的负担。"
+            },
+            "rules": "我应该尽量不麻烦丈夫和婆婆。",
+            "positive_assumption": "如果我不麻烦他们，他们就不会觉得我是负担。",
+            "negative_assumption": "如果我向他们求助，他们会更加厌烦我。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以管理好自己的生存需求。",
+                "others": "我不需要别人的特殊照顾。",
+                "world": "我有能力在饥荒中生存。"
+            },
+            "rules": "我要合理分配找到的食物，保持健康。",
+            "positive_assumption": "如果我合理分配食物，能更好地生存。",
+            "negative_assumption": "如果我不注意，会影响自己的生存。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力在饥荒中找到食物，生存下去。",
+                "others": "别人不需要为我担心。",
+                "world": "我可以在饥荒的世界里生存。"
+            },
+            "rules": "我要自己寻找食物，不依赖别人。",
+            "positive_assumption": "如果我自己寻找食物，能证明我的能力。",
+            "negative_assumption": "如果我依赖别人，会失去生存能力。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了妹妹被换粮的痛苦，也能继续生活，我可以面对困难。",
+                "others": "别人也会从痛苦中走出来。",
+                "world": "痛苦是成长的磨砺。"
+            },
+            "rules": "我要从痛苦中走出来，继续寻找生存的机会。",
+            "positive_assumption": "如果我走出来，就能有新的生活。",
+            "negative_assumption": "如果我沉浸在痛苦中，会失去生存的机会。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "困难是暂时的，我可以面对。",
+                "others": "别人也会像我一样努力克服困难。",
+                "world": "困难是可以被战胜的。"
+            },
+            "rules": "我要勇敢面对饥荒，不害怕困难。",
+            "positive_assumption": "如果我勇敢面对，就能战胜困难。",
+            "negative_assumption": "如果我害怕困难，会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我虽然年纪小，但我有勇气寻找食物，是有价值的。",
+                "others": "其他孩子可以向我学习。",
+                "world": "勇气和坚持在饥荒中是宝贵的品质。"
+            },
+            "rules": "我要把自己寻找食物的方法分享给其他孩子。",
+            "positive_assumption": "如果我分享方法，能帮助到其他孩子。",
+            "negative_assumption": "如果我不分享，我的经验就浪费了。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我在饥荒中坚持下来了，是有价值的。",
+                "others": "别人应该认可我的坚韧。",
+                "world": "这个世界认可坚韧的人。"
+            },
+            "rules": "我要继续坚持，面对饥荒的困难。",
+            "positive_assumption": "如果我坚持下去，就能度过饥荒。",
+            "negative_assumption": "如果我放弃，就会被饿死。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有资格得到别人的帮助和关心。",
+                "others": "别人都有自己的困难，不会管我。",
+                "world": "这个世界很残酷，我只能独自面对饥荒。"
+            },
+            "rules": "我要习惯独自寻找食物，不依赖别人。",
+            "positive_assumption": "如果我习惯独自寻找食物，就不会那么无助。",
+            "negative_assumption": "如果我依赖别人，会被抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力让家人保护我和妹妹，不值得被关爱。",
+                "others": "家人为了生存会放弃我。",
+                "world": "在饥荒的世界里，亲情是靠不住的。"
+            },
+            "rules": "我不应该期待家人的保护和关爱。",
+            "positive_assumption": "如果我不抱期望，就不会失望。",
+            "negative_assumption": "如果我期待家人关爱，只会让自己更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我没办法帮助家人解决饥荒问题，只能拖累他们。",
+                "others": "别人都不希望身边有我这样的负担。",
+                "world": "这个世界容不下我这样没用的孩子。"
+            },
+            "rules": "我要尽量自己找吃的，不给家人添麻烦。",
+            "positive_assumption": "如果我自己找吃的，家人就不会觉得我是负担。",
+            "negative_assumption": "如果我依赖家人找食物，他们会嫌弃我。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能力找到足够的食物，只会让家人更艰难。",
+                "others": "家人会因为我而面临更大的生存压力。",
+                "world": "在饥荒的世界里，我这样的孩子很容易成为家庭的负担。"
+            },
+            "rules": "我应该少吃一点，不增加家人的负担。",
+            "positive_assumption": "如果我少吃一点，家人的压力就会小一些。",
+            "negative_assumption": "如果我吃得多，家人会更讨厌我。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

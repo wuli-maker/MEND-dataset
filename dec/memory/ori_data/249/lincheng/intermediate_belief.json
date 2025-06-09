@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我找不到新的精神寄托。",
+                "others": "别人的精神寄托不适合我。",
+                "world": "很难再找到像过去那样的精神寄托。"
+            },
+            "rules": "我不要尝试寻找新的寄托。",
+            "positive_assumption": "如果我不尝试，就不会失望。",
+            "negative_assumption": "如果我尝试，会发现更找不到。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "失去了亡妻和旧时光的精神寄托，我很迷茫。",
+                "others": "别人无法理解我失去的痛苦。",
+                "world": "世界变得陌生，没有了熟悉的感觉。"
+            },
+            "rules": "我要沉浸在回忆里。",
+            "positive_assumption": "如果我沉浸回忆，能找到一些安慰。",
+            "negative_assumption": "如果我面对现实，会更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我要为家族的未来负责。",
+                "others": "家族成员的成长和发展和我有关。",
+                "world": "一个有责任感的家族长辈能让家族更好。"
+            },
+            "rules": "我要关心家族成员的生活。",
+            "positive_assumption": "如果我关心他们，能让家族更和谐。",
+            "negative_assumption": "如果我不关心，家族会变得冷漠。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任维护家族的传统和延续。",
+                "others": "家族成员依赖我来传承家族文化。",
+                "world": "家族的延续很重要。"
+            },
+            "rules": "我要完成续族谱的任务。",
+            "positive_assumption": "如果我完成族谱，能让家族更有凝聚力。",
+            "negative_assumption": "如果我不完成，会让家族文化断层。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我跟不上时代的变化，会被社会淘汰。",
+                "others": "社会更需要能跟上时代的人。",
+                "world": "这个世界不适合我这样的老人。"
+            },
+            "rules": "我尽量少接触新的社会环境。",
+            "positive_assumption": "如果我少接触，就不会感受到被淘汰的落差。",
+            "negative_assumption": "如果我多接触，会更觉得自己没用。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我学不会新的科技和事物，很落后。",
+                "others": "年轻人很容易掌握新事物，我比不上他们。",
+                "world": "时代发展太快，我被落下了。"
+            },
+            "rules": "我不要尝试学习新事物。",
+            "positive_assumption": "如果我不尝试，就不会因为学不会而难过。",
+            "negative_assumption": "如果我尝试学习，会让自己更挫败。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我完成的事情证明了我的价值。",
+                "others": "别人会认可我完成的事情。",
+                "world": "有价值的人会得到尊重。"
+            },
+            "rules": "我要继续完成有意义的事情。",
+            "positive_assumption": "如果我完成更多有意义的事，会更有价值。",
+            "negative_assumption": "如果我不做事，就会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我有自己的技能和经验，是有价值的。",
+                "others": "别人能从我的经验中获得帮助。",
+                "world": "我的存在对这个世界有意义。"
+            },
+            "rules": "我应该把自己的经验分享给别人。",
+            "positive_assumption": "如果我分享经验，能帮助到别人，也证明了自己的价值。",
+            "negative_assumption": "如果我不分享，别人就看不到我的价值。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我不擅长和别人交流，所以只能孤独。",
+                "others": "别人很难和我建立深入的关系。",
+                "world": "社交对我来说很困难。"
+            },
+            "rules": "我不要主动去社交。",
+            "positive_assumption": "如果我不主动社交，就不会被拒绝。",
+            "negative_assumption": "如果我主动社交，会被别人嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我总是一个人，没人真正懂我。",
+                "others": "别人都有自己的生活，不会在意我的感受。",
+                "world": "这个世界很热闹，但不属于我。"
+            },
+            "rules": "我应该习惯一个人生活。",
+            "positive_assumption": "如果我习惯一个人，就不会感到那么孤独。",
+            "negative_assumption": "如果我依赖别人，会更失望。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我找不到能替代妹妹的精神寄托。",
+                "others": "别人的精神寄托不适合我。",
+                "world": "很难再找到像妹妹那样纯粹的精神寄托。"
+            },
+            "rules": "我不要尝试寻找新的精神寄托。",
+            "positive_assumption": "如果我不尝试，就不会失望。",
+            "negative_assumption": "如果我尝试，会发现更找不到。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "童年失去妹妹，让我一直缺少重要的精神寄托，很迷茫。",
+                "others": "别人无法理解我失去妹妹的痛苦。",
+                "world": "世界变得有些冷漠，没有了妹妹的陪伴，一切都不一样了。"
+            },
+            "rules": "我把精力投入到建房中，忘却痛苦。",
+            "positive_assumption": "如果我投入建房，能暂时忘记失去妹妹的痛苦。",
+            "negative_assumption": "如果我停下来，会更痛苦地回忆起妹妹。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我要为家族的未来考虑，房子要能长久使用。",
+                "others": "家族后代的生活和这所房子有关。",
+                "world": "一个有责任感的家族长辈要为后代留下坚实的基础。"
+            },
+            "rules": "我要选用最好的建筑材料。",
+            "positive_assumption": "如果我选用好材料，房子能使用更久，对家族更有利。",
+            "negative_assumption": "如果我用差材料，房子容易损坏，会影响家族未来。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任为家族建一所好房子，提供更好的居住环境。",
+                "others": "家族成员期待我能建好房子，改善生活条件。",
+                "world": "家族的稳定和发展需要有一个坚实的住所。"
+            },
+            "rules": "我要保证房子的质量和进度。",
+            "positive_assumption": "如果我保证了房子的质量和进度，能让家族更安稳。",
+            "negative_assumption": "如果我建不好房子，会让家族失望。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我跟不上时代的建筑潮流，会被建筑行业淘汰。",
+                "others": "社会更需要能跟上时代的建筑工人。",
+                "world": "这个时代不适合我这样守旧的建筑人。"
+            },
+            "rules": "我少接触新的建筑理念和技术。",
+            "positive_assumption": "如果我少接触，就不会感受到被淘汰的落差。",
+            "negative_assumption": "如果我多接触，会更觉得自己没用。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我习惯了传统的建房方式，学不会新的建筑技术，很落后。",
+                "others": "年轻的建筑工人更容易接受新事物，我比不上他们。",
+                "world": "时代发展太快，新的建筑理念和技术不断涌现，我被落下了。"
+            },
+            "rules": "我按照自己的老方法建房就行。",
+            "positive_assumption": "如果我按老方法建房，就不会因为学不会新方法而烦恼。",
+            "negative_assumption": "如果我尝试新方法，可能会把房子建坏，让自己更挫败。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我完成盖房的事情证明了我的价值。",
+                "others": "家人和村民会因为我盖起房子而尊重我。",
+                "world": "有价值的人会得到大家的认可。"
+            },
+            "rules": "我要坚持完成盖房的任务。",
+            "positive_assumption": "如果我完成盖房，会更有价值，得到更多尊重。",
+            "negative_assumption": "如果我放弃盖房，就会变得没有价值，被人看不起。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我有砌墙等建房技能，能亲手盖起房子，是有价值的。",
+                "others": "建筑工人们认可我的砌墙手艺，说明我的价值得到了体现。",
+                "world": "在这个时代，有一技之长就能为社会创造价值。"
+            },
+            "rules": "我要不断提高建房技能。",
+            "positive_assumption": "如果我提高技能，能更快更好地完成房子，体现更大价值。",
+            "negative_assumption": "如果我不提高技能，房子建不好，就会失去价值。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我不善言辞，难以和别人建立深厚友谊，只能独自努力。",
+                "others": "别人很难理解我对建房的执着。",
+                "world": "社交对我来说很奢侈，我只能孤独前行。"
+            },
+            "rules": "我不要在社交上浪费时间。",
+            "positive_assumption": "如果我不浪费时间在社交上，就能有更多时间建房。",
+            "negative_assumption": "如果我去社交，会耽误建房，让我更孤独无助。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我专注于盖房，无暇顾及他人，注定孤独。",
+                "others": "别人都在忙自己的事，不会在意我建房的艰辛。",
+                "world": "这个世界很现实，没人会真正陪我度过建房的漫长时光。"
+            },
+            "rules": "我要专注建房，不必在意他人看法。",
+            "positive_assumption": "如果我专注建房，就能早日完成房子，实现目标。",
+            "negative_assumption": "如果我在意他人看法，会分散精力，影响建房进度。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我找不到新的精神寄托，只能依靠守护铁犁来支撑自己。",
+                "others": "别人的精神寄托不适合我。",
+                "world": "很难再找到像童年时和妹妹在一起那样的精神寄托。"
+            },
+            "rules": "我要紧紧守护铁犁，把它当作精神支柱。",
+            "positive_assumption": "如果我守护好铁犁，能让自己有精神寄托。",
+            "negative_assumption": "如果我失去铁犁，会更加迷茫。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "童年失妹让我失去了重要的精神寄托，在这个动荡的时代更加迷茫。",
+                "others": "别人无法理解我失去妹妹的痛苦。",
+                "world": "世界变得很陌生，没有了曾经的温暖。"
+            },
+            "rules": "我要在保存铁犁的过程中寻找安慰。",
+            "positive_assumption": "如果我专注于保存铁犁，能暂时忘记失去妹妹的痛苦。",
+            "negative_assumption": "如果我不专注，会陷入更深的痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我要为家族的未来考虑，不能因为时代的变化而放弃传统。",
+                "others": "家族成员的未来和我守护传统的行为有关。",
+                "world": "一个有责任感的家族成员能让家族更好地发展。"
+            },
+            "rules": "我要在时代的变革中坚守家族的传统。",
+            "positive_assumption": "如果我坚守传统，能让家族更有凝聚力。",
+            "negative_assumption": "如果我放弃，家族会失去根基。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任保护好祖传铁犁，延续家族的传统。",
+                "others": "家族的未来需要我守护好这些传统。",
+                "world": "家族的延续是非常重要的，我不能让传统在我这一代中断。"
+            },
+            "rules": "我要想尽办法保存好铁犁，不让它被破坏。",
+            "positive_assumption": "如果我保存好铁犁，能让家族的传统得以延续。",
+            "negative_assumption": "如果我没保存好，会让家族文化断层。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我学不会大家炼钢的热情，在这个时代显得很笨拙。",
+                "others": "别人都能快速适应时代变化，我却做不到。",
+                "world": "这个世界变化太快，我无法适应。"
+            },
+            "rules": "我尽量按照自己的节奏生活，不被时代的浪潮裹挟。",
+            "positive_assumption": "如果我按自己的节奏生活，能保持内心的平静。",
+            "negative_assumption": "如果我被时代裹挟，会迷失自己。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我不理解大炼钢铁的意义，跟不上时代的节奏，很落后。",
+                "others": "同事们都积极投入炼钢，我却跟不上他们的步伐。",
+                "world": "时代发展太快，我被远远地落下了。"
+            },
+            "rules": "我不要盲目跟随大家去炼钢。",
+            "positive_assumption": "如果我不盲目跟随，能坚持自己的判断，避免犯错。",
+            "negative_assumption": "如果我盲目跟随，可能会破坏家族的传统。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我在困难的环境中努力守护铁犁，这证明了我的能力和价值。",
+                "others": "妻子的支持让我相信自己的价值会被认可。",
+                "world": "有价值的人在任何时代都能找到自己的位置。"
+            },
+            "rules": "我要努力克服困难，保护好铁犁。",
+            "positive_assumption": "如果我克服困难保护好铁犁，会更证明自己的价值。",
+            "negative_assumption": "如果我被困难打倒，就会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我保存祖传铁犁，是对家族传统的守护，这体现了我的价值。",
+                "others": "虽然同事们不理解，但我的妻子认可我，说明我的做法是有价值的。",
+                "world": "在这个时代的变革中，守护传统也是有意义的。"
+            },
+            "rules": "我要坚定地保存铁犁，守护家族传统。",
+            "positive_assumption": "如果我坚持保存铁犁，能传承家族的精神，证明自己的价值。",
+            "negative_assumption": "如果我放弃，就会失去自己的价值。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我不擅长在这种狂热的环境中表达自己的想法，只能孤独地坚守。",
+                "others": "别人都在积极参与炼钢，不会在意我内心的想法。",
+                "world": "这个世界太喧嚣，没有我的容身之处。"
+            },
+            "rules": "我不要轻易向别人吐露自己的心声。",
+            "positive_assumption": "如果我不吐露心声，就不会被别人误解和嘲笑。",
+            "negative_assumption": "如果我吐露心声，会被别人排斥。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "在大炼钢铁的浪潮中，我坚持自己的想法保存铁犁，显得格格不入，很孤独。",
+                "others": "同事们都积极响应炼钢号召，不会理解我保存铁犁的做法。",
+                "world": "这个时代变化太快，大家都朝着一个方向，我却独自坚守，很孤独。"
+            },
+            "rules": "我要默默坚持自己保存铁犁的做法，不与他人争论。",
+            "positive_assumption": "如果我默默坚持，能保留自己认为重要的东西，也避免了和他人的冲突。",
+            "negative_assumption": "如果我和他人争论，会被孤立，更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我找不到能替代妹妹的精神寄托。",
+                "others": "别人的快乐不适合我。",
+                "world": "很难再找到像妹妹那样的精神寄托。"
+            },
+            "rules": "我不要尝试寻找新的精神寄托。",
+            "positive_assumption": "如果我不尝试，就不会失望。",
+            "negative_assumption": "如果我尝试，会发现更找不到。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "童年失去妹妹，我失去了重要的精神寄托，很痛苦。",
+                "others": "别人无法理解我失去妹妹的痛苦。",
+                "world": "这个世界变得有些陌生，没有了妹妹的陪伴。"
+            },
+            "rules": "我要把对妹妹的思念藏在心里。",
+            "positive_assumption": "如果我藏在心里，就不会那么伤心。",
+            "negative_assumption": "如果我表达出来，会更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我要为家族的未来考虑，不能只顾自己。",
+                "others": "家族成员的未来和我有关。",
+                "world": "一个有责任感的家族成员能让家族更好。"
+            },
+            "rules": "我要节省开支，把钱用在学习上。",
+            "positive_assumption": "如果我节省开支学习，以后能更好地帮助家族。",
+            "negative_assumption": "如果我乱花钱，会影响家族的未来。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我是家族里第一个初中生，有责任为家族争光。",
+                "others": "家族的人都期望我能有出息。",
+                "world": "家族的荣誉需要我去维护。"
+            },
+            "rules": "我要努力学习，取得好成绩。",
+            "positive_assumption": "如果我取得好成绩，能为家族增添光彩。",
+            "negative_assumption": "如果我学习不好，会让家族失望。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我在学校里，面对新的知识和环境，感觉自己很落后。",
+                "others": "老师和同学们都能很快适应，我却不行。",
+                "world": "这个学校的环境变化太快，我适应不了。"
+            },
+            "rules": "我按照自己的节奏学习，不跟别人比。",
+            "positive_assumption": "如果我按自己的节奏，就不会那么焦虑。",
+            "negative_assumption": "如果我和别人比，会更觉得自己没用。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我来自农村，很多新事物都不懂，跟不上时代。",
+                "others": "城里的同学懂得很多新东西，我比不上他们。",
+                "world": "时代发展很快，我这样的农村孩子会被落下。"
+            },
+            "rules": "我不要去接触那些新事物。",
+            "positive_assumption": "如果我不接触，就不会因为不懂而自卑。",
+            "negative_assumption": "如果我接触，会让自己更挫败。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我在艰苦的条件下坚持上学，这证明了我的价值。",
+                "others": "别人会尊重我这种坚持。",
+                "world": "坚持的人在这个世界上是有价值的。"
+            },
+            "rules": "我不能轻易放弃上学。",
+            "positive_assumption": "如果我坚持上学，能让自己更有价值。",
+            "negative_assumption": "如果我放弃，就会被人看不起。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我能步行二十里山路上学，还能帮食堂劈柴，我是有价值的。",
+                "others": "老师和同学们会认可我的努力。",
+                "world": "在这个艰苦的环境中，努力的人是有价值的。"
+            },
+            "rules": "我要继续努力学习和做事。",
+            "positive_assumption": "如果我继续努力，会得到更多人的认可。",
+            "negative_assumption": "如果我不努力，就会变得没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我课间只能去劈柴换午饭，和大家不同，注定孤独。",
+                "others": "别人课间都在休息玩耍，不会理解我的辛苦。",
+                "world": "这个学校的环境容不下我这样的人。"
+            },
+            "rules": "我课间就去劈柴，不和别人一起玩。",
+            "positive_assumption": "如果我专注劈柴，就不用面对别人异样的眼光。",
+            "negative_assumption": "如果我和别人一起玩，会让自己更尴尬。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我穿着草鞋，和同学们不一样，我是孤独的。",
+                "others": "同学们都有自己的圈子，不会接纳我。",
+                "world": "在学校这个世界里，我融不进去。"
+            },
+            "rules": "我不要主动和同学交流。",
+            "positive_assumption": "如果我不主动交流，就不会被同学排斥。",
+            "negative_assumption": "如果我主动交流，会被同学嘲笑。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我找不到像妹妹一样的精神寄托。",
+                "others": "别人的陪伴无法替代妹妹。",
+                "world": "很难再找到那样亲密的情感。"
+            },
+            "rules": "我不要轻易和别人建立深厚的感情。",
+            "positive_assumption": "如果我不建立感情，就不会再次经历失去的痛苦。",
+            "negative_assumption": "如果我建立感情，可能会再次失去，更伤心。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "失去了妹妹，我失去了重要的陪伴。",
+                "others": "别人无法理解我失去妹妹的痛苦。",
+                "world": "这个世界变得冷漠，没有了温暖。"
+            },
+            "rules": "我要回忆和妹妹在一起的美好时光。",
+            "positive_assumption": "如果我回忆美好时光，能得到一些安慰。",
+            "negative_assumption": "如果我面对现实，会更痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我要保护家族成员，不让他们受到伤害。",
+                "others": "家族成员依赖我来保障安全。",
+                "world": "在战乱中，家族的安全很重要。"
+            },
+            "rules": "我要时刻警惕周围的危险。",
+            "positive_assumption": "如果我保持警惕，能保护好家族。",
+            "negative_assumption": "如果我放松警惕，家族可能会遭遇危险。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我要传承家族的生存技能，对家族负责。",
+                "others": "家族未来需要我这样有能力的人。",
+                "world": "家族的延续离不开每个人的努力。"
+            },
+            "rules": "我要认真学习父亲教的生存算计。",
+            "positive_assumption": "如果我学好这些，能让家族更好地生存。",
+            "negative_assumption": "如果我学不好，会影响家族的未来。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我学不会新的东西，会被时代淘汰。",
+                "others": "那些能跟上时代的人会有更好的未来。",
+                "world": "这个世界只属于适应变化的人。"
+            },
+            "rules": "我不要尝试去接触新的变化。",
+            "positive_assumption": "如果我不接触，就不会感受到被淘汰的落差。",
+            "negative_assumption": "如果我尝试接触，会更觉得自己没用。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我不懂外面世界的变化，和时代脱节。",
+                "others": "外面的人经历着很多新鲜事，我跟不上他们。",
+                "world": "时代变化太快，我很难适应。"
+            },
+            "rules": "我要专注于自己熟悉的事情。",
+            "positive_assumption": "如果我专注熟悉的事，就不会因为不了解新事物而迷茫。",
+            "negative_assumption": "如果我去接触新事物，会让自己更困惑。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我能帮父亲修补房梁，对家庭有贡献。",
+                "others": "父亲因为我的帮助而轻松一些。",
+                "world": "为家庭付出能体现自己的价值。"
+            },
+            "rules": "我要多为家庭做力所能及的事。",
+            "positive_assumption": "如果我多做事，家人会更认可我。",
+            "negative_assumption": "如果我不做事，家人会觉得我没出息。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我学会了打算盘和榫卯技艺，是有价值的。",
+                "others": "父亲和邻居认可我的能力，觉得我能帮上忙。",
+                "world": "掌握技能可以在这个世界上立足。"
+            },
+            "rules": "我要不断学习新的技能。",
+            "positive_assumption": "如果我学习更多技能，就能更有价值。",
+            "negative_assumption": "如果我不学习，就会变得没用。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我和别人不一样，总是一个人面对困难。",
+                "others": "别人有家人陪伴，而我只有父亲。",
+                "world": "这个世界很残酷，我只能孤独前行。"
+            },
+            "rules": "我不要轻易向别人寻求帮助。",
+            "positive_assumption": "如果我不寻求帮助，就不会被拒绝。",
+            "negative_assumption": "如果我寻求帮助，可能会被别人嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我在战火中失去了妹妹，只能依靠自己。",
+                "others": "别人都在自顾自地躲避战火，不会关心我。",
+                "world": "这个战乱的世界很危险，我只能独自面对。"
+            },
+            "rules": "我要自己学会生存的本领。",
+            "positive_assumption": "如果我学会生存本领，就能在战乱中活下去。",
+            "negative_assumption": "如果我依赖别人，可能会失去生存的机会。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

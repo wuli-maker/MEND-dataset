@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过记录家族大事来传承家族文化。",
+                "others": "家族成员应该关注和支持我记录家族大事。",
+                "world": "记录家族历史有助于家族的团结和传承。"
+            },
+            "rules": "我应该坚持在樟树上系满记录家族大事的红绸带。",
+            "positive_assumption": "如果我完成这个目标，能让家族成员更了解家族历史。",
+            "negative_assumption": "如果我放弃，家族的历史可能会被淡忘。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力保护和传承家族的重要物品和记忆。",
+                "others": "家族的后代应该尊重我对家族传统的守护。",
+                "world": "守护家族传统是一件有意义的事情。"
+            },
+            "rules": "我应该妥善保管家族的重要物品，如抗战时期的嫁衣。",
+            "positive_assumption": "如果我保管好这些物品，能让家族的记忆得以延续。",
+            "negative_assumption": "如果我保管不好，家族的珍贵记忆可能会丢失。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭中的地位已经不重要了。",
+                "others": "家人有自己的生活重心，不再需要我。",
+                "world": "家庭结构在变化，我已经跟不上。"
+            },
+            "rules": "我应该尽量不麻烦家人，自己解决问题。",
+            "positive_assumption": "如果我不麻烦家人，他们会觉得我很懂事。",
+            "negative_assumption": "如果我麻烦家人，会让他们觉得我是个负担。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我曾经为家庭付出很多，现在却被家人忽视。",
+                "others": "家人只关注自己的生活，不再关心我。",
+                "world": "家庭的温暖和亲情在逐渐消失。"
+            },
+            "rules": "我不应该对家人的关心抱有太高期望。",
+            "positive_assumption": "如果我降低期望，就不会因为家人的忽视而伤心。",
+            "negative_assumption": "如果我期望过高，会让自己更失望。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我在新的社交圈子里总是找不到自己的位置。",
+                "others": "他们的话题和兴趣我都不感兴趣，很难融入。",
+                "world": "社交环境变得越来越复杂，我无法适应。"
+            },
+            "rules": "我应该减少社交活动，避免让自己尴尬。",
+            "positive_assumption": "如果我减少社交，就不会因为无法融入而感到失落。",
+            "negative_assumption": "如果我增加社交，会让自己更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我在现在的生活中总是感到不自在，无法真正放松。",
+                "others": "他们的生活方式和价值观与我相差太大，很难交流。",
+                "world": "现在的生活环境和我成长的环境完全不同，我无法适应。"
+            },
+            "rules": "我应该保持一定的距离，不深入参与现在的生活。",
+            "positive_assumption": "如果我保持距离，就不会因为不适应而感到痛苦。",
+            "negative_assumption": "如果我深入参与，会让自己更难受。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任传承家族的记忆和文化。",
+                "others": "家族的后代应该尊重和了解我们的过去。",
+                "world": "家族的记忆和文化是连接我们的纽带。"
+            },
+            "rules": "我应该通过各种方式保留和传承家族的记忆。",
+            "positive_assumption": "如果我努力传承家族记忆，家族会更加团结和有凝聚力。",
+            "negative_assumption": "如果我不传承，家族的记忆可能会消失。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我一生经历了很多，这些经历是宝贵的财富。",
+                "others": "我的故事可以给年轻人带来启发和教育。",
+                "world": "世界需要记住过去的历史和传统。"
+            },
+            "rules": "我应该把自己的经历和故事分享给他人。",
+            "positive_assumption": "如果我分享自己的故事，能让更多人了解过去，也能体现我的价值。",
+            "negative_assumption": "如果我不分享，我的经历和故事可能会被遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我在新环境中总是格格不入，像个异类。",
+                "others": "周围的人都在适应新的生活方式，而我是个落后者。",
+                "world": "这个世界变得越来越陌生，我无法适应。"
+            },
+            "rules": "我应该待在自己熟悉的小圈子里，避免与外界过多接触。",
+            "positive_assumption": "如果我待在熟悉的环境，就不会有被抛弃的感觉。",
+            "negative_assumption": "如果我走出熟悉的圈子，会更加孤独和无助。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我跟不上时代的变化，很多新事物我都不懂。",
+                "others": "年轻人只关注新的东西，不会理解我的过去。",
+                "world": "现在的世界变化太快，已经没有我的位置。"
+            },
+            "rules": "我应该尽量避免接触新事物，以免让自己显得更无知。",
+            "positive_assumption": "如果我不接触新事物，就不会因为不懂而感到尴尬。",
+            "negative_assumption": "如果我尝试接触新事物，会让自己更清楚地意识到被时代抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过记录家族大事来传承家族文化。",
+                "others": "家族成员应该关注和支持我记录家族大事。",
+                "world": "记录家族历史有助于家族的团结和传承。"
+            },
+            "rules": "我应该坚持记录家族的重要事件。",
+            "positive_assumption": "如果我记录家族大事，家族成员会更了解家族历史。",
+            "negative_assumption": "如果我放弃记录，家族的历史可能会被淡忘。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力保护好家族的重要物品。",
+                "others": "家族的其他人应该支持我守护家族传统。",
+                "world": "守护家族传统是我们每个人的责任。"
+            },
+            "rules": "我应该妥善保管家族的传家宝，如抗战时期的嫁衣。",
+            "positive_assumption": "如果我保管好传家宝，家族的传统就能得以延续。",
+            "negative_assumption": "如果我保管不好，家族的珍贵传统可能会丢失。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭中的话语权越来越小了。",
+                "others": "孩子们有自己的想法，不再听我的意见。",
+                "world": "家庭的决策模式在改变，我有点跟不上了。"
+            },
+            "rules": "我应该尊重孩子们的决定，少发表意见。",
+            "positive_assumption": "如果我尊重孩子们的决定，他们会觉得我很开明。",
+            "negative_assumption": "如果我强行发表意见，会引起家庭矛盾。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我为家庭付出了一辈子，现在却得不到应有的关注。",
+                "others": "孩子们都有自己的生活，不再像以前那样依赖我。",
+                "world": "家庭的重心似乎已经不在我身上了。"
+            },
+            "rules": "我不应该过多干涉孩子们的生活。",
+            "positive_assumption": "如果我不干涉孩子们的生活，他们会更自由。",
+            "negative_assumption": "如果我干涉，会让他们觉得我很啰嗦。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我在新的生活模式下总是觉得很别扭。",
+                "others": "别人都能很好地适应新生活，而我却很困难。",
+                "world": "现在的生活方式和我成长的环境完全不同。"
+            },
+            "rules": "我应该尽量保持自己原来的生活习惯。",
+            "positive_assumption": "如果我保持原来的生活习惯，就不会因为不适应而痛苦。",
+            "negative_assumption": "如果我改变生活习惯，会让自己更难受。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我在现在的社交场合中总是感到不自在。",
+                "others": "他们的社交方式和我不一样，我很难融入。",
+                "world": "现在的社交环境和我熟悉的环境差别太大。"
+            },
+            "rules": "我应该减少参加社交活动的次数。",
+            "positive_assumption": "如果我减少社交活动，就不会因为不适应而难受。",
+            "negative_assumption": "如果我增加社交活动，会让自己更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任把家族的故事传承下去。",
+                "others": "家族里的晚辈应该重视我们的家族历史。",
+                "world": "家族的记忆是家族延续的重要部分。"
+            },
+            "rules": "我应该把家族的故事记录下来，留给后人。",
+            "positive_assumption": "如果我记录家族故事，家族的记忆就能得到传承。",
+            "negative_assumption": "如果我不记录，家族的故事可能会被遗忘。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历过很多艰难困苦，这些经历是我独特的财富。",
+                "others": "我的孩子们应该听听我的故事，从中吸取经验教训。",
+                "world": "世界不能忘记过去的苦难和奋斗。"
+            },
+            "rules": "我应该多给孩子们讲讲我的过去。",
+            "positive_assumption": "如果我给孩子们讲我的故事，他们会更理解我，也能从中受益。",
+            "negative_assumption": "如果我不讲，我的经历可能就被埋没了。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我在新的社会环境中总是显得很笨拙。",
+                "others": "周围的人都在适应新的社会规则，而我总是犯错。",
+                "world": "社会变得越来越复杂，我很难适应。"
+            },
+            "rules": "我应该尽量按照老规矩办事，减少犯错的机会。",
+            "positive_assumption": "如果我遵循老规矩，就不会因为不适应新规则而犯错。",
+            "negative_assumption": "如果我尝试新规则，会让自己更难堪。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我跟不上时代发展的节奏，很多新观念我都接受不了。",
+                "others": "年轻人的想法和做法和我差距太大，很难沟通。",
+                "world": "时代变化太快，我有点跟不上世界的步伐了。"
+            },
+            "rules": "我应该少和年轻人讨论新事物，避免产生冲突。",
+            "positive_assumption": "如果我不参与新事物的讨论，就不会因为观念不同而和年轻人起争执。",
+            "negative_assumption": "如果我和年轻人讨论新事物，会让自己更觉得被时代抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过培养布庄伙计来传承家族的传统技艺。",
+                "others": "伙计们应该认真学习和传承家族的技艺。",
+                "world": "传承家族技艺有助于家族的繁荣和发展。"
+            },
+            "rules": "我应该定期给伙计们传授传统技艺。",
+            "positive_assumption": "如果我传授技艺，伙计们能更好地传承家族传统。",
+            "negative_assumption": "如果我不传授，家族的技艺可能会失传。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力保护和传承家族的布庄生意和传统技艺。",
+                "others": "布庄伙计们应该尊重我对家族传统的守护。",
+                "world": "守护家族传统是一件有意义的事情。"
+            },
+            "rules": "我应该妥善保管布庄的账本和传统布料。",
+            "positive_assumption": "如果我保管好这些物品，能让家族的生意和传统得以延续。",
+            "negative_assumption": "如果我保管不好，家族的珍贵记忆和生意可能会受损。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭中的地位因为子女的成长而逐渐被忽视。",
+                "others": "子女们有自己的想法和生活，不再需要我的指导。",
+                "world": "家庭结构在变化，我已经跟不上子女的步伐。"
+            },
+            "rules": "我应该尽量不干涉子女的选择，让他们自由发展。",
+            "positive_assumption": "如果我不干涉，子女会觉得我很开明。",
+            "negative_assumption": "如果我干涉，会让子女觉得我很唠叨。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我为家庭和布庄付出很多，却得不到子女足够的理解。",
+                "others": "子女们只关注自己的学业，不再关心布庄的辛苦。",
+                "world": "家庭的温暖和亲情在逐渐被学业和事业冲淡。"
+            },
+            "rules": "我不应该对子女的关心抱有太高期望。",
+            "positive_assumption": "如果我降低期望，就不会因为子女的忽视而伤心。",
+            "negative_assumption": "如果我期望过高，会让自己更失望。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我在新的社交圈子里总是找不到自己的位置。",
+                "others": "他们的话题和兴趣我都不感兴趣，很难融入。",
+                "world": "社交环境变得越来越复杂，我无法适应。"
+            },
+            "rules": "我应该减少与新社交圈子的接触，专注布庄生意。",
+            "positive_assumption": "如果我减少接触，就不会因为无法融入而感到失落。",
+            "negative_assumption": "如果我增加接触，会让自己更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我在新的商业环境中总是感到不自在，无法真正放开手脚。",
+                "others": "他们的商业手段和经营理念与我相差太大，很难交流。",
+                "world": "现在的商业环境和我成长的环境完全不同，我无法适应。"
+            },
+            "rules": "我应该保持自己的经营风格，不盲目跟随他人。",
+            "positive_assumption": "如果我保持风格，能保持布庄的特色。",
+            "negative_assumption": "如果我盲目跟随，布庄可能会失去自我。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我有责任传承布庄的经营理念和家族的奋斗精神。",
+                "others": "子女们应该了解和尊重我们家族的传统。",
+                "world": "家族的传统是连接我们的纽带，不能被遗忘。"
+            },
+            "rules": "我应该通过日常经营向子女们传递家族的价值观。",
+            "positive_assumption": "如果我传递价值观，家族会更团结。",
+            "negative_assumption": "如果我不传递，家族的传统可能会丢失。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "我经营布庄的经历是宝贵的财富，能让我在困境中坚持下去。",
+                "others": "我的故事可以激励布庄伙计们努力工作。",
+                "world": "世界需要记住像我这样在困境中奋斗的人的故事。"
+            },
+            "rules": "我应该把自己经营布庄的经验分享给伙计们。",
+            "positive_assumption": "如果我分享经验，伙计们会更努力，布庄会更好。",
+            "negative_assumption": "如果我不分享，伙计们可能会走弯路。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我在新的社会环境中总是显得格格不入，像个局外人。",
+                "others": "周围的人都在积极适应时代，而我却落后了。",
+                "world": "这个世界变得越来越陌生，我无法适应新的生活节奏。"
+            },
+            "rules": "我应该专注于布庄的传统业务，避免涉足新的领域。",
+            "positive_assumption": "如果我专注传统业务，布庄能保持稳定。",
+            "negative_assumption": "如果我涉足新领域，会让自己更迷茫。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我在动荡的时代中难以找到立足之地，很多新的商业规则我都不懂。",
+                "others": "同行们都在适应新的市场变化，而我显得很笨拙。",
+                "world": "这个时代变化太快，布庄生意越来越难做，我跟不上步伐。"
+            },
+            "rules": "我应该谨慎尝试新的商业策略，以免让布庄陷入危机。",
+            "positive_assumption": "如果我谨慎行事，布庄就能维持现状。",
+            "negative_assumption": "如果我贸然尝试新策略，布庄可能会倒闭。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以通过保护家族的一些小物件来传承家族记忆。",
+                "others": "弟弟妹妹要一起保护这些物件。",
+                "world": "这些物件是家族记忆的象征，很重要。"
+            },
+            "rules": "我要妥善保管家族的小物件，不让它们丢失。",
+            "positive_assumption": "如果我保管好这些物件，家族的记忆就能延续。",
+            "negative_assumption": "如果我保管不好，家族的珍贵记忆可能会丢失。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力保护家族的记忆，比如我们的家乡和传统。",
+                "others": "弟弟妹妹应该尊重我们的家族传统。",
+                "world": "守护家族传统能让我们在逃荒中更有归属感。"
+            },
+            "rules": "我要给弟弟妹妹讲述家族的故事和传统。",
+            "positive_assumption": "如果我讲述家族故事，能让弟弟妹妹记住我们的根。",
+            "negative_assumption": "如果我不讲，家族传统可能会丢失。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭中的付出好像被忽视了，很委屈。",
+                "others": "弟弟妹妹只关注自己的需求，不关注我的感受。",
+                "world": "家庭的温暖在逃荒中逐渐消失。"
+            },
+            "rules": "我要自己承担压力，不向弟弟妹妹抱怨。",
+            "positive_assumption": "如果我自己承担压力，能让弟弟妹妹更安心。",
+            "negative_assumption": "如果我抱怨，会让他们更害怕。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我为弟弟妹妹付出很多，但他们可能不理解我的辛苦。",
+                "others": "弟弟妹妹只知道依赖我，不懂得关心我。",
+                "world": "在这个艰难的时期，亲情也变得很淡。"
+            },
+            "rules": "我不能对弟弟妹妹的理解抱有太高期望。",
+            "positive_assumption": "如果我降低期望，就不会那么伤心。",
+            "negative_assumption": "如果我期望过高，会让自己更失望。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我不适应逃荒的艰苦生活，总是很疲惫。",
+                "others": "他们都能适应这种生活，而我很脆弱。",
+                "world": "这种生活不是我想要的，我无法适应。"
+            },
+            "rules": "我要尽量节省体力，保证自己能照顾好弟弟妹妹。",
+            "positive_assumption": "如果我节省体力，就能更好地照顾弟弟妹妹。",
+            "negative_assumption": "如果我不节省体力，可能无法保护好他们。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "我在逃荒的路上与周围环境格格不入，很孤单。",
+                "others": "其他逃荒的人只关心自己，不会和我交流。",
+                "world": "这个世界很冷漠，我无法融入。"
+            },
+            "rules": "我要专注照顾弟弟妹妹，不与其他人过多接触。",
+            "positive_assumption": "如果我专注照顾弟弟妹妹，他们会更安全。",
+            "negative_assumption": "如果我和其他人接触，可能会带来麻烦。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我在逃荒中的努力是有价值的，能保护家人。",
+                "others": "弟弟妹妹会因为我的付出而感激我。",
+                "world": "我的行为能让家族延续下去。"
+            },
+            "rules": "我要继续努力，不放弃带着弟弟妹妹活下去。",
+            "positive_assumption": "如果我继续努力，我们就能度过难关。",
+            "negative_assumption": "如果我放弃，我们的家族可能就完了。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我带着弟弟妹妹逃荒的经历是勇敢的，有意义的。",
+                "others": "我的坚持能给弟弟妹妹带来希望。",
+                "world": "这段经历以后会成为我们家族的宝贵回忆。"
+            },
+            "rules": "我要把这段经历记在心里，以后讲给弟弟妹妹听。",
+            "positive_assumption": "如果我记住这段经历，能让弟弟妹妹更坚强。",
+            "negative_assumption": "如果我忘记了，家族的这段回忆就会消失。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我跟不上时代的动荡，很多危险都难以预料。",
+                "others": "周围的人都在为生存奔波，不会在意我的感受。",
+                "world": "这个世界变化太快，我随时可能被淘汰。"
+            },
+            "rules": "我要时刻保持警惕，不能放松。",
+            "positive_assumption": "如果我保持警惕，就能避免危险。",
+            "negative_assumption": "如果我放松警惕，可能会让弟弟妹妹陷入危险。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我在战火纷飞的时代是无助的，无法改变现状。",
+                "others": "大人们都自顾不暇，没人能真正帮到我。",
+                "world": "这个世界充满了战争和灾难，没有我的容身之处。"
+            },
+            "rules": "我只能靠自己带着弟弟妹妹活下去。",
+            "positive_assumption": "如果我靠自己，就能保护好弟弟妹妹。",
+            "negative_assumption": "如果我依赖别人，我们可能都活不下去。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力保护家族的一些小物件，传承家族文化。",
+                "others": "家族的人应该支持我保护家族物件。",
+                "world": "保护家族物件能让家族的记忆更鲜活。"
+            },
+            "rules": "我应该好好保管家族的小物件，不让它们损坏。",
+            "positive_assumption": "如果我保管好物件，家族的文化就能延续。",
+            "negative_assumption": "如果我保管不好，家族的珍贵记忆可能会消失。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以记住家族的传统和故事，守护家族的记忆。",
+                "others": "家族的长辈应该认可我守护家族记忆的努力。",
+                "world": "守护家族传统是很重要的事情。"
+            },
+            "rules": "我应该认真听长辈讲家族的故事，把它们记在心里。",
+            "positive_assumption": "如果我记住故事，家族的记忆就能传承下去。",
+            "negative_assumption": "如果我记不住，家族的记忆可能会丢失。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我在家庭中的作用越来越小，不再被重视。",
+                "others": "家人有更重要的事情要做，顾不上我。",
+                "world": "家庭在战争中改变了，我跟不上。"
+            },
+            "rules": "我应该安静地待着，不引起家人的注意。",
+            "positive_assumption": "如果我安静，家人就不会觉得我是负担。",
+            "negative_assumption": "如果我吵闹，会让家人更心烦。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "母亲为了保护我牺牲了，我却不能为家庭做什么。",
+                "others": "家里人都在为生活发愁，不会在意我。",
+                "world": "家庭的温暖因为战争消失了。"
+            },
+            "rules": "我不应该给家人添麻烦，自己的事情自己解决。",
+            "positive_assumption": "如果我不添麻烦，家人会轻松一些。",
+            "negative_assumption": "如果我添麻烦，会让家人更难过。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我在这个动荡的时代找不到自己的位置。",
+                "others": "大家都在为生存努力，没人在乎我的感受。",
+                "world": "这个世界太混乱，我无法融入。"
+            },
+            "rules": "我应该独自待着，不去尝试融入别人。",
+            "positive_assumption": "如果我独自待着，就不会因为无法融入而失落。",
+            "negative_assumption": "如果我尝试融入，会让自己更难受。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我和周围那些只知道玩耍的孩子不一样，我心里有战争的阴影。",
+                "others": "他们不懂我经历的痛苦，很难和他们玩到一起。",
+                "world": "我和这个充满玩乐的世界格格不入。"
+            },
+            "rules": "我应该和其他孩子保持距离，不参与他们的游戏。",
+            "positive_assumption": "如果我保持距离，就不会因为他们不懂我而难过。",
+            "negative_assumption": "如果我参与他们的游戏，会让自己更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我在战争中活下来，我的生命是有价值的。",
+                "others": "我的存在可以给身边的人带来希望。",
+                "world": "每个经历过战争的人都有自己的价值。"
+            },
+            "rules": "我要好好活下去，让自己的经历更有意义。",
+            "positive_assumption": "如果我好好活下去，就能让更多人看到希望。",
+            "negative_assumption": "如果我不好好活，就浪费了自己的价值。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了日军扫荡，这些经历是我独特的财富。",
+                "others": "我的经历可以让别人知道战争的可怕。",
+                "world": "世界应该记住战争的历史。"
+            },
+            "rules": "我应该把自己的经历讲给别人听。",
+            "positive_assumption": "如果我讲出经历，能让更多人了解战争。",
+            "negative_assumption": "如果我不讲，我的经历可能就没人知道了。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我在战争中如此渺小，很多事情都做不了。",
+                "others": "周围的人都在努力求生，不会关注到我。",
+                "world": "战争的时代容不下我小小的梦想。"
+            },
+            "rules": "我应该尽量隐藏自己，不引起别人的注意。",
+            "positive_assumption": "如果我隐藏好自己，就不会被危险发现。",
+            "negative_assumption": "如果我暴露自己，可能会陷入危险。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我是个生活在战火中的孩子，无力改变现状，被时代裹挟着。",
+                "others": "大人们都在为生存奔波，没人在意我小小的感受。",
+                "world": "这个世界充满了战争和危险，没有我的安稳之地。"
+            },
+            "rules": "我要乖乖听话，不惹麻烦，才能在乱世中活下去。",
+            "positive_assumption": "如果我听话，就可能躲过危险，不被时代抛弃。",
+            "negative_assumption": "如果我不听话，可能会招来灾祸，更快被时代抛弃。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}

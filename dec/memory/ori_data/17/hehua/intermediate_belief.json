@@ -1,0 +1,902 @@
+{
+    "node_49": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力管理好自己的兴趣爱好和精神世界。",
+                "others": "家人不应该阻止我做自己喜欢的事情。",
+                "world": "每个人都有追求自己兴趣的权利。"
+            },
+            "rules": "我应该坚持自己的兴趣爱好。",
+            "positive_assumption": "如果我坚持兴趣爱好，我的生活会更充实。",
+            "negative_assumption": "如果我放弃兴趣爱好，我的生活会变得枯燥。"
+        },
+        "metadata": {
+            "node_id": "node_49",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_48": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以安排好自己的日常生活，不需要别人过多干涉。",
+                "others": "家人应该尊重我的生活安排。",
+                "world": "老年人也有权利掌控自己的生活。"
+            },
+            "rules": "我应该按照自己的节奏和方式生活。",
+            "positive_assumption": "如果我按自己的方式生活，我会感到更自在。",
+            "negative_assumption": "如果别人过多干涉我的生活，我会感到不舒服。"
+        },
+        "metadata": {
+            "node_id": "node_48",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_47": {
+        "page_content": {
+            "attitude": {
+                "self": "我为家庭付出很多，但家人可能不理解我的苦心。",
+                "others": "家人可能觉得我的做法过时了。",
+                "world": "老年人的付出有时很难得到家人的认可。"
+            },
+            "rules": "我应该减少和家人在观念上的冲突。",
+            "positive_assumption": "如果我减少冲突，家庭关系会更和谐。",
+            "negative_assumption": "如果我和家人冲突不断，家庭会不和睦。"
+        },
+        "metadata": {
+            "node_id": "node_47",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_46": {
+        "page_content": {
+            "attitude": {
+                "self": "我的想法和生活方式与家人不同，他们很难理解我。",
+                "others": "家人更关注自己的事情，不会花时间了解我的内心。",
+                "world": "代际差异导致家人之间很难相互理解。"
+            },
+            "rules": "我不应该期望家人完全理解我。",
+            "positive_assumption": "如果我不期望家人理解我，我就不会那么失望。",
+            "negative_assumption": "如果我期望家人理解我，我会经常感到伤心。"
+        },
+        "metadata": {
+            "node_id": "node_46",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_45": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的毅力完成自己设定的目标。",
+                "others": "他人应该相信我有能力完成任务。",
+                "world": "只要有毅力，就能实现自己的目标。"
+            },
+            "rules": "我应该坚持完成给每个孙辈的百家被和看着家族祠堂重修落成的目标。",
+            "positive_assumption": "如果我坚持完成目标，我会获得成就感。",
+            "negative_assumption": "如果我半途而废，我会觉得自己很失败。"
+        },
+        "metadata": {
+            "node_id": "node_45",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_44": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了饥荒、丧夫等困难，我有足够的能力面对生活中的挑战。",
+                "others": "他人在遇到困难时也应该坚强面对。",
+                "world": "生活中总会遇到困难，但只要坚强就能克服。"
+            },
+            "rules": "无论遇到什么困难，我都不能轻易放弃。",
+            "positive_assumption": "如果我坚强面对困难，我会变得更强大。",
+            "negative_assumption": "如果我放弃，我就会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_44",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_43": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有能真正谈心的朋友，只能自己面对孤独。",
+                "others": "身边的邻居和我有文化代沟，很难交流。",
+                "world": "在这个社会中，老年人很难找到志同道合的朋友。"
+            },
+            "rules": "我应该习惯自己一个人生活。",
+            "positive_assumption": "如果我习惯独处，就不会那么难过。",
+            "negative_assumption": "如果我不能习惯独处，我会更孤独痛苦。"
+        },
+        "metadata": {
+            "node_id": "node_43",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_42": {
+        "page_content": {
+            "attitude": {
+                "self": "我和家人之间有代际隔阂，很难融入他们的生活。",
+                "others": "家人忙于自己的生活，没有时间陪伴我。",
+                "world": "老年人很容易在家庭中被忽视，变得孤独。"
+            },
+            "rules": "我不应该过多打扰家人的生活。",
+            "positive_assumption": "如果我不打扰家人，他们会更轻松。",
+            "negative_assumption": "如果我打扰家人，他们会觉得我麻烦。"
+        },
+        "metadata": {
+            "node_id": "node_42",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_41": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力为家人提供帮助，这体现了我的价值。",
+                "others": "家人需要我的经验和指导。",
+                "world": "家庭中每个成员的相互支持能让家庭更和谐。"
+            },
+            "rules": "我应该主动关心家人，为他们提供帮助。",
+            "positive_assumption": "如果我关心家人并提供帮助，家庭会更和睦。",
+            "negative_assumption": "如果我不关心家人，家庭关系会变得疏远。"
+        },
+        "metadata": {
+            "node_id": "node_41",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_40": {
+        "page_content": {
+            "attitude": {
+                "self": "我一生勤劳，为家庭和社会做了很多贡献，我是有价值的。",
+                "others": "他人应该尊重我的经验和付出。",
+                "world": "在这个世界上，每个人的存在都有其意义和价值。"
+            },
+            "rules": "我应该继续做自己擅长的事，发挥自己的价值。",
+            "positive_assumption": "如果我继续发挥价值，我会得到他人的尊重和认可。",
+            "negative_assumption": "如果我不再做事，我就会变得没有价值，被人忽视。"
+        },
+        "metadata": {
+            "node_id": "node_40",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "recent_events"
+        }
+    },
+    "node_39": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力决定子女的教育方向，不需要别人指手画脚。",
+                "others": "老师和家人应该尊重我的决定。",
+                "world": "家长有权利为子女的教育做出选择。"
+            },
+            "rules": "我应该坚持自己对子女教育的规划。",
+            "positive_assumption": "如果我坚持规划，子女会有更好的发展。",
+            "negative_assumption": "如果我轻易改变规划，子女的未来会受影响。"
+        },
+        "metadata": {
+            "node_id": "node_39",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_38": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以安排好家庭的经济和生活，不需要别人过多干涉。",
+                "others": "家人应该尊重我的安排。",
+                "world": "在家庭中，有能力的人应该有掌控生活的权利。"
+            },
+            "rules": "我应该按照自己的计划管理家庭。",
+            "positive_assumption": "如果我按自己的计划管理，家庭会更有序。",
+            "negative_assumption": "如果别人过多干涉，家庭会变得混乱。"
+        },
+        "metadata": {
+            "node_id": "node_38",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_37": {
+        "page_content": {
+            "attitude": {
+                "self": "我为家庭付出很多心血，但家人可能不理解我的苦心。",
+                "others": "家人可能觉得我的做法太辛苦，没必要。",
+                "world": "在家庭中，付出有时很难得到家人的理解。"
+            },
+            "rules": "我应该减少和家人在教育和生活观念上的冲突。",
+            "positive_assumption": "如果我减少冲突，家庭关系会更和谐。",
+            "negative_assumption": "如果我和家人冲突不断，家庭会不和睦。"
+        },
+        "metadata": {
+            "node_id": "node_37",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_36": {
+        "page_content": {
+            "attitude": {
+                "self": "我为子女的教育有自己的想法和做法，但家人可能不理解。",
+                "others": "家人更关注眼前的利益，不理解我为子女长远考虑。",
+                "world": "在教育子女的问题上，家人之间很难达成共识。"
+            },
+            "rules": "我不应该期望家人完全支持我的教育方式。",
+            "positive_assumption": "如果我不期望家人支持，我就不会那么失望。",
+            "negative_assumption": "如果我期望家人支持，我会经常感到伤心。"
+        },
+        "metadata": {
+            "node_id": "node_36",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_35": {
+        "page_content": {
+            "attitude": {
+                "self": "我有足够的毅力完成培养子女上大学的目标。",
+                "others": "老师和家人应该相信我能做到。",
+                "world": "只要有毅力，就能实现教育子女的目标。"
+            },
+            "rules": "我应该坚持为子女的教育付出，不放弃任何机会。",
+            "positive_assumption": "如果我坚持下去，子女会考上好大学，我会很有成就感。",
+            "negative_assumption": "如果我半途而废，子女的前途就毁了，我会很失败。"
+        },
+        "metadata": {
+            "node_id": "node_35",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_34": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了丧夫等困难，我有足够的勇气面对子女教育和家庭生活的挑战。",
+                "others": "别人遇到困难也应该像我一样坚强。",
+                "world": "生活中困难重重，但坚强的人能够克服。"
+            },
+            "rules": "无论遇到多大的困难，我都不能在子女面前表现出脆弱。",
+            "positive_assumption": "如果我坚强面对，子女会以我为榜样，也会变得坚强。",
+            "negative_assumption": "如果我表现出脆弱，会影响子女的成长。"
+        },
+        "metadata": {
+            "node_id": "node_34",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_33": {
+        "page_content": {
+            "attitude": {
+                "self": "我没有可以倾诉内心痛苦的人，只能自己默默忍受。",
+                "others": "身边的人很难真正走进我的内心世界。",
+                "world": "人们很难找到真正能理解自己的人，孤独是常态。"
+            },
+            "rules": "我不应该轻易向别人倾诉自己的孤独。",
+            "positive_assumption": "如果我不倾诉，就不会被别人看轻。",
+            "negative_assumption": "如果我倾诉了，别人可能会嘲笑我。"
+        },
+        "metadata": {
+            "node_id": "node_33",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_32": {
+        "page_content": {
+            "attitude": {
+                "self": "我独自承担家庭的重任，没人能真正分担我的压力，我很孤独。",
+                "others": "家人都有自己的事情，不能完全理解我的辛苦。",
+                "world": "在为家庭奋斗的过程中，很多人都会感到孤独。"
+            },
+            "rules": "我应该学会自己承受孤独和压力。",
+            "positive_assumption": "如果我能承受孤独，我会变得更坚强。",
+            "negative_assumption": "如果我不能承受孤独，我会被压力打倒。"
+        },
+        "metadata": {
+            "node_id": "node_32",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_31": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力通过自己的劳动为家庭创造更好的条件，这体现了我的价值。",
+                "others": "家人依赖我的劳动和付出。",
+                "world": "勤劳的人在家庭中是不可或缺的，有重要价值。"
+            },
+            "rules": "我应该保持勤劳，为家庭多做贡献。",
+            "positive_assumption": "如果我保持勤劳，家庭会更富裕，我会更有价值。",
+            "negative_assumption": "如果我变懒了，家庭会变差，我也会失去价值。"
+        },
+        "metadata": {
+            "node_id": "node_31",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_30": {
+        "page_content": {
+            "attitude": {
+                "self": "我独自培养子女上大学，这证明我是有价值的。",
+                "others": "子女和老师应该认可我的付出和努力。",
+                "world": "在家庭和社会中，为子女教育付出的人是有价值的。"
+            },
+            "rules": "我应该继续努力为子女的教育提供支持。",
+            "positive_assumption": "如果我继续支持子女教育，子女会有更好的未来，我也会得到认可。",
+            "negative_assumption": "如果我不再支持子女教育，我就会变得没有价值，子女的前途也会受影响。"
+        },
+        "metadata": {
+            "node_id": "node_30",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "middle_aged"
+        }
+    },
+    "node_29": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力决定子女的教育方式，不需要别人指手画脚。",
+                "others": "家人不应该干涉我教育子女。",
+                "world": "母亲有权利决定子女的教育。"
+            },
+            "rules": "我应该坚持自己的教育方式。",
+            "positive_assumption": "如果我坚持自己的教育方式，子女会有好的发展。",
+            "negative_assumption": "如果别人干涉我的教育方式，子女可能会学坏。"
+        },
+        "metadata": {
+            "node_id": "node_29",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_28": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以安排好家庭的收支，不需要别人干涉。",
+                "others": "家人应该尊重我的财务安排。",
+                "world": "家庭主妇有权利管理家庭财务。"
+            },
+            "rules": "我应该按照自己的计划管理家庭收支。",
+            "positive_assumption": "如果我按计划管理收支，家庭经济会稳定。",
+            "negative_assumption": "如果别人干涉我的收支管理，家庭经济会混乱。"
+        },
+        "metadata": {
+            "node_id": "node_28",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "youth"
+        }
+    },
+    "node_27": {
+        "page_content": {
+            "attitude": {
+                "self": "我为家庭的未来打算，但家人可能觉得我想多了。",
+                "others": "家人觉得我的想法不切实际。",
+                "world": "老年人的想法有时很难得到家人认同。"
+            },
+            "rules": "我应该减少和家人在想法上的争论。",
+            "positive_assumption": "如果我减少争论，家庭会更和谐。",
+            "negative_assumption": "如果我和家人争论不断，家庭会不和睦。"
+        },
+        "metadata": {
+            "node_id": "node_27",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_26": {
+        "page_content": {
+            "attitude": {
+                "self": "我对生活的一些想法和家人不同，他们不理解我。",
+                "others": "家人更关注眼前的利益，不会考虑我的长远想法。",
+                "world": "家庭成员之间很难完全理解彼此。"
+            },
+            "rules": "我不应该强求家人理解我。",
+            "positive_assumption": "如果我不强求家人理解我，就不会那么生气。",
+            "negative_assumption": "如果我强求家人理解我，会和家人产生矛盾。"
+        },
+        "metadata": {
+            "node_id": "node_26",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "youth"
+        }
+    },
+    "node_25": {
+        "page_content": {
+            "attitude": {
+                "self": "我有毅力把子女抚养长大。",
+                "others": "别人应该相信我能照顾好子女。",
+                "world": "只要有毅力，就能完成重要的事。"
+            },
+            "rules": "我应该努力抚养子女成人。",
+            "positive_assumption": "如果我把子女抚养长大，我会很有成就感。",
+            "negative_assumption": "如果我没把子女养好，我会很失败。"
+        },
+        "metadata": {
+            "node_id": "node_25",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_24": {
+        "page_content": {
+            "attitude": {
+                "self": "我经历了饥荒和丧夫，我有足够的勇气面对未来。",
+                "others": "别人遇到困难也应该坚强。",
+                "world": "生活虽然艰难，但坚强就能挺过去。"
+            },
+            "rules": "无论遇到什么困难，我都要咬牙坚持。",
+            "positive_assumption": "如果我坚持下去，生活总会好起来。",
+            "negative_assumption": "如果我放弃，生活就没希望了。"
+        },
+        "metadata": {
+            "node_id": "node_24",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "youth"
+        }
+    },
+    "node_23": {
+        "page_content": {
+            "attitude": {
+                "self": "我要独自面对生活的困难，感觉很孤独。",
+                "others": "大家都有自己的生活，没空帮我。",
+                "world": "生活中很多时候都要自己一个人面对。"
+            },
+            "rules": "我应该学会独自解决问题。",
+            "positive_assumption": "如果我学会独自解决问题，就不会那么无助。",
+            "negative_assumption": "如果我依赖别人，别人会厌烦我。"
+        },
+        "metadata": {
+            "node_id": "node_23",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_22": {
+        "page_content": {
+            "attitude": {
+                "self": "丈夫离世后，我心里空落落的，无人倾诉。",
+                "others": "其他人很难理解我失去丈夫的痛苦。",
+                "world": "丧偶的人很容易陷入孤独。"
+            },
+            "rules": "我应该把痛苦藏在心里。",
+            "positive_assumption": "如果我把痛苦藏在心里，不会给别人添麻烦。",
+            "negative_assumption": "如果我倾诉痛苦，别人会觉得我矫情。"
+        },
+        "metadata": {
+            "node_id": "node_22",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "youth"
+        }
+    },
+    "node_21": {
+        "page_content": {
+            "attitude": {
+                "self": "我在公社劳动中也能贡献自己的力量，我是有价值的。",
+                "others": "公社的工作需要大家共同努力。",
+                "world": "每个人在集体中都有自己的价值。"
+            },
+            "rules": "我应该积极参与公社劳动。",
+            "positive_assumption": "如果我积极参与公社劳动，会得到大家的认可。",
+            "negative_assumption": "如果我不参与公社劳动，会被大家嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_21",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_20": {
+        "page_content": {
+            "attitude": {
+                "self": "我能和丈夫一起为家庭努力，操持家务、照顾子女，我是有价值的。",
+                "others": "丈夫和子女需要我的付出和照顾。",
+                "world": "在家庭中，每个人的付出都让家庭更美好。"
+            },
+            "rules": "我应该把家庭事务都安排好。",
+            "positive_assumption": "如果我把家庭事务安排好，家庭会更和睦。",
+            "negative_assumption": "如果我没做好家庭事务，家庭会变得混乱。"
+        },
+        "metadata": {
+            "node_id": "node_20",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "youth"
+        }
+    },
+    "node_19": {
+        "page_content": {
+            "attitude": {
+                "self": "我有能力决定自己未来的职业方向，不需要家人替我做决定。",
+                "others": "家人不应该阻止我追求自己的职业理想。",
+                "world": "每个人都有选择自己职业的权利。"
+            },
+            "rules": "我应该坚持自己的职业理想。",
+            "positive_assumption": "如果我坚持理想，未来会更有成就感。",
+            "negative_assumption": "如果我放弃理想，会后悔一辈子。"
+        },
+        "metadata": {
+            "node_id": "node_19",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_18": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以安排好自己的学习和工作时间，不需要别人干涉。",
+                "others": "家人应该尊重我的学习和工作安排。",
+                "world": "年轻人也有权利掌控自己的学习和生活。"
+            },
+            "rules": "我应该按照自己的节奏学习和工作。",
+            "positive_assumption": "如果我按自己的方式学习工作，会更有效率。",
+            "negative_assumption": "如果别人过多干涉我的学习工作，我会感到不舒服。"
+        },
+        "metadata": {
+            "node_id": "node_18",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_17": {
+        "page_content": {
+            "attitude": {
+                "self": "我为了学习和工作付出很多时间，但家人可能不理解我的苦心。",
+                "others": "家人可能觉得我不务正业。",
+                "world": "家人有时很难理解孩子的追求。"
+            },
+            "rules": "我应该减少和家人在学习工作观念上的冲突。",
+            "positive_assumption": "如果我减少冲突，家庭关系会更和谐。",
+            "negative_assumption": "如果我和家人冲突不断，家庭会不和睦。"
+        },
+        "metadata": {
+            "node_id": "node_17",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_16": {
+        "page_content": {
+            "attitude": {
+                "self": "我想学习和工作的想法与家人不同，他们很难理解我。",
+                "others": "家人更希望我像其他姑娘一样做家务。",
+                "world": "家人和我的观念不同，很难相互理解。"
+            },
+            "rules": "我不应该期望家人完全支持我的学习和工作。",
+            "positive_assumption": "如果我不期望家人支持，就不会那么失望。",
+            "negative_assumption": "如果我期望家人支持，会经常感到伤心。"
+        },
+        "metadata": {
+            "node_id": "node_16",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_15": {
+        "page_content": {
+            "attitude": {
+                "self": "我有毅力坚持学习打算盘和记账，直到熟练掌握。",
+                "others": "老师应该相信我能学好。",
+                "world": "只要有毅力，就能掌握一门技能。"
+            },
+            "rules": "我应该坚持每天练习打算盘和记账。",
+            "positive_assumption": "如果我坚持练习，就能成为优秀的记账员。",
+            "negative_assumption": "如果我半途而废，就会一事无成。"
+        },
+        "metadata": {
+            "node_id": "node_15",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_14": {
+        "page_content": {
+            "attitude": {
+                "self": "学习打算盘和记账遇到困难时，我有能力克服。",
+                "others": "遇到困难时，我不需要依赖别人的帮助。",
+                "world": "只要努力，就能克服学习和工作中的困难。"
+            },
+            "rules": "无论遇到什么困难，我都要自己想办法解决。",
+            "positive_assumption": "如果我自己解决困难，会变得更有能力。",
+            "negative_assumption": "如果我依赖别人，就会变得软弱。"
+        },
+        "metadata": {
+            "node_id": "node_14",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_13": {
+        "page_content": {
+            "attitude": {
+                "self": "我把时间都花在学习打算盘和记账上，没有时间交朋友。",
+                "others": "身边的人都有自己的生活，不会主动和我交流。",
+                "world": "在忙碌的生活中，很难找到知心朋友。"
+            },
+            "rules": "我应该习惯一个人学习和工作。",
+            "positive_assumption": "如果我习惯独处，就能更专注于提升自己。",
+            "negative_assumption": "如果我不能习惯独处，会影响我的学习和工作。"
+        },
+        "metadata": {
+            "node_id": "node_13",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_12": {
+        "page_content": {
+            "attitude": {
+                "self": "我和其他姑娘兴趣不同，很难融入她们的圈子。",
+                "others": "其他姑娘只关心玩乐，不会理解我的追求。",
+                "world": "在村里，像我这样专注学习和工作的人容易孤独。"
+            },
+            "rules": "我不应该勉强自己去融入她们的圈子。",
+            "positive_assumption": "如果我不勉强自己，就不会那么难受。",
+            "negative_assumption": "如果我勉强自己融入，会更孤独和不自在。"
+        },
+        "metadata": {
+            "node_id": "node_12",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_11": {
+        "page_content": {
+            "attitude": {
+                "self": "我能为合作社的财务工作贡献力量，体现了我的价值。",
+                "others": "会计主任应该重视我的意见和建议。",
+                "world": "在集体工作中，每个人的贡献都很重要。"
+            },
+            "rules": "我应该积极参与合作社的财务讨论。",
+            "positive_assumption": "如果我积极参与讨论，能为合作社带来更好的财务方案。",
+            "negative_assumption": "如果我不参与讨论，就无法体现自己的价值。"
+        },
+        "metadata": {
+            "node_id": "node_11",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_10": {
+        "page_content": {
+            "attitude": {
+                "self": "我会打算盘且能帮合作社记账，这让我很有价值。",
+                "others": "同事们应该认可我的能力和付出。",
+                "world": "在合作社里，有能力做事的人是有价值的。"
+            },
+            "rules": "我应该把记账工作做好，展现自己的价值。",
+            "positive_assumption": "如果我把记账工作做好，会得到同事们的赞扬。",
+            "negative_assumption": "如果我记账出错，就会变得没有价值，被同事嫌弃。"
+        },
+        "metadata": {
+            "node_id": "node_10",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "adolescence"
+        }
+    },
+    "node_9": {
+        "page_content": {
+            "attitude": {
+                "self": "我能合理分配挖到的野菜，我对生活有掌控感。",
+                "others": "弟弟应该配合我分配野菜。",
+                "world": "合理分配资源才能在饥荒中生存更久。"
+            },
+            "rules": "我应该根据情况合理分配野菜。",
+            "positive_assumption": "如果我合理分配，我和弟弟都能吃饱，生活能正常进行。",
+            "negative_assumption": "如果我分配不合理，弟弟会挨饿，生活就会混乱。"
+        },
+        "metadata": {
+            "node_id": "node_9",
+            "belief_id": "intermediate_belief_10",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_8": {
+        "page_content": {
+            "attitude": {
+                "self": "我可以决定去哪里挖野菜，我对生活有掌控感。",
+                "others": "弟弟应该听我的安排。",
+                "world": "在饥荒中，自己能做决定才能更好地生存。"
+            },
+            "rules": "我应该按照自己的判断选择野菜采集地。",
+            "positive_assumption": "如果我按自己的判断选择，能找到更多野菜，生活更有保障。",
+            "negative_assumption": "如果我不按自己的判断，可能找不到食物，生活就会失控。"
+        },
+        "metadata": {
+            "node_id": "node_8",
+            "belief_id": "intermediate_belief_9",
+            "core_belief_id": "core_belief_5",
+            "stage_key": "childhood"
+        }
+    },
+    "node_7": {
+        "page_content": {
+            "attitude": {
+                "self": "我有自己找野菜的方法，但家人可能不认可。",
+                "others": "家人有自己的想法，不会听我的。",
+                "world": "每个人对生存的方式有不同看法，很难相互理解。"
+            },
+            "rules": "我应该坚持自己找野菜的方法，不被家人影响。",
+            "positive_assumption": "如果我坚持自己的方法，能找到更多野菜，证明我是对的。",
+            "negative_assumption": "如果我被家人影响，可能找不到食物，我会觉得自己很失败。"
+        },
+        "metadata": {
+            "node_id": "node_7",
+            "belief_id": "intermediate_belief_8",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_6": {
+        "page_content": {
+            "attitude": {
+                "self": "我为了照顾弟弟付出很多，但家人可能不理解我的辛苦。",
+                "others": "家人更关注自己的生存，不会在意我的感受。",
+                "world": "在饥荒年代，家人之间也很难相互理解。"
+            },
+            "rules": "我不应该期望家人理解我照顾弟弟的辛苦。",
+            "positive_assumption": "如果我不期望家人理解，我就不会那么失望。",
+            "negative_assumption": "如果我期望家人理解，我会经常感到伤心。"
+        },
+        "metadata": {
+            "node_id": "node_6",
+            "belief_id": "intermediate_belief_7",
+            "core_belief_id": "core_belief_4",
+            "stage_key": "childhood"
+        }
+    },
+    "node_5": {
+        "page_content": {
+            "attitude": {
+                "self": "我能克服对饥饿和危险的恐惧，我是坚强的。",
+                "others": "别人也应该像我一样克服困难。",
+                "world": "坚强的人才能在艰难的世界中生存。"
+            },
+            "rules": "我应该勇敢面对找野菜时的危险。",
+            "positive_assumption": "如果我勇敢面对危险，就能找到更多野菜，我会更强大。",
+            "negative_assumption": "如果我害怕危险，就找不到食物，我会被困难打倒。"
+        },
+        "metadata": {
+            "node_id": "node_5",
+            "belief_id": "intermediate_belief_6",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_4": {
+        "page_content": {
+            "attitude": {
+                "self": "我能在饥荒中坚持带着弟弟找吃的，我是坚强的。",
+                "others": "遇到困难时，我应该像现在一样坚强。",
+                "world": "只有坚强才能在饥荒中生存下去。"
+            },
+            "rules": "无论遇到什么困难，我都不能放弃找食物。",
+            "positive_assumption": "如果我坚持找食物，我和弟弟就能活下去，我会更坚强。",
+            "negative_assumption": "如果我放弃，我和弟弟都会饿死，我就是软弱的。"
+        },
+        "metadata": {
+            "node_id": "node_4",
+            "belief_id": "intermediate_belief_5",
+            "core_belief_id": "core_belief_3",
+            "stage_key": "childhood"
+        }
+    },
+    "node_3": {
+        "page_content": {
+            "attitude": {
+                "self": "我和弟弟虽然相互陪伴，但内心的恐惧和压力没人能懂，我是孤独的。",
+                "others": "其他人无法体会我照顾弟弟的艰辛。",
+                "world": "在这样的环境下，内心的孤独无法消除。"
+            },
+            "rules": "我应该把孤独藏在心里，不表现出来。",
+            "positive_assumption": "如果我不表现出孤独，弟弟就不会害怕，我也能更坚强。",
+            "negative_assumption": "如果我表现出孤独，弟弟会更害怕，我也会更脆弱。"
+        },
+        "metadata": {
+            "node_id": "node_3",
+            "belief_id": "intermediate_belief_4",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_2": {
+        "page_content": {
+            "attitude": {
+                "self": "我要独自承担照顾弟弟的责任，没人能真正帮我，我是孤独的。",
+                "others": "别人都有自己的困难，没时间关心我。",
+                "world": "在饥荒年代，每个人都很艰难，只能自己面对生活。"
+            },
+            "rules": "我应该自己解决遇到的困难，不依赖别人。",
+            "positive_assumption": "如果我自己解决困难，就不用麻烦别人，也不会被拒绝。",
+            "negative_assumption": "如果我依赖别人，可能会被拒绝，我会更孤独。"
+        },
+        "metadata": {
+            "node_id": "node_2",
+            "belief_id": "intermediate_belief_3",
+            "core_belief_id": "core_belief_2",
+            "stage_key": "childhood"
+        }
+    },
+    "node_1": {
+        "page_content": {
+            "attitude": {
+                "self": "我和邻居互助，能为大家提供野菜信息，我是有价值的。",
+                "others": "邻居们需要我的野菜信息。",
+                "world": "在困难时期，相互帮助能体现每个人的价值。"
+            },
+            "rules": "我应该和邻居分享野菜采集地。",
+            "positive_assumption": "如果我和邻居分享，大家都能找到更多野菜，我会被认可。",
+            "negative_assumption": "如果我不分享，会被邻居孤立，我就没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_1",
+            "belief_id": "intermediate_belief_2",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    },
+    "node_0": {
+        "page_content": {
+            "attitude": {
+                "self": "我能带着弟弟挖野菜充饥，我是有价值的。",
+                "others": "弟弟需要我的照顾和带领。",
+                "world": "在饥荒年代，能找到食物就是有价值的。"
+            },
+            "rules": "我应该努力找到更多的野菜，照顾好弟弟。",
+            "positive_assumption": "如果我找到更多野菜，弟弟就能吃饱，我就是有价值的。",
+            "negative_assumption": "如果我找不到野菜，弟弟会挨饿，我就没有价值。"
+        },
+        "metadata": {
+            "node_id": "node_0",
+            "belief_id": "intermediate_belief_1",
+            "core_belief_id": "core_belief_1",
+            "stage_key": "childhood"
+        }
+    }
+}
