@@ -1,4 +1,4 @@
-# ModDEC-dataset
+# MEND-dataset
 [![Paper PDF](https://img.shields.io/badge/Paper-PDF-red.svg)]() [![huggingface](https://img.shields.io/badge/%F0%9F%A4%97-Data-yellow)]() [![Python 3.8+](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3109/)
 
 <!-- <div style="width: 100%;">
